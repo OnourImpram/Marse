@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.1097/NMD.0000000000000273",
+  "name": "Religious vs. Conventional Cognitive Behavioral Therapy for Major Depression in Persons With Chronic Medical Illness",
+  "datePublished": "2015-04",
+  "identifier": [
+    "https://doi.org/10.1097/NMD.0000000000000273"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Harold G. Koenig"
+    },
+    {
+      "@type": "Person",
+      "name": "Michelle J. Pearce"
+    },
+    {
+      "@type": "Person",
+      "name": "Bruce Nelson"
+    },
+    {
+      "@type": "Person",
+      "name": "Sally F. Shaw"
+    },
+    {
+      "@type": "Person",
+      "name": "Clive J. Robins"
+    },
+    {
+      "@type": "Person",
+      "name": "Noha S. Daher"
+    },
+    {
+      "@type": "Person",
+      "name": "Harvey Jay Cohen"
+    },
+    {
+      "@type": "Person",
+      "name": "Lee S. Berk"
+    },
+    {
+      "@type": "Person",
+      "name": "Denise L. Bellinger"
+    },
+    {
+      "@type": "Person",
+      "name": "Kenneth I. Pargament"
+    },
+    {
+      "@type": "Person",
+      "name": "David H. Rosmarin"
+    },
+    {
+      "@type": "Person",
+      "name": "Sasan Vasegh"
+    },
+    {
+      "@type": "Person",
+      "name": "Jean Kristeller"
+    },
+    {
+      "@type": "Person",
+      "name": "Nalini Juthani"
+    },
+    {
+      "@type": "Person",
+      "name": "Douglas Nies"
+    },
+    {
+      "@type": "Person",
+      "name": "Michael B. King"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Nervous & Mental Disease"
+  },
+  "url": "https://doi.org/10.1097/NMD.0000000000000273"
+}

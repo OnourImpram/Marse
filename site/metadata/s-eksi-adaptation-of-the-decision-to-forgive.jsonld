@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.52380/ijpes.2024.11.4.1371",
+  "name": "Adaptation of the Decision to Forgive Scale to Turkish Culture: Validity and Reliability Study",
+  "datePublished": "2024-08-16",
+  "identifier": [
+    "https://doi.org/10.52380/ijpes.2024.11.4.1371"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Ece Yağcı Akgündüz"
+    },
+    {
+      "@type": "Person",
+      "name": "Gülbin Demir Celayir"
+    },
+    {
+      "@type": "Person",
+      "name": "Simel Parlak"
+    },
+    {
+      "@type": "Person",
+      "name": "Halil Ekşi"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Psychology and Educational Studies"
+  },
+  "url": "https://doi.org/10.52380/ijpes.2024.11.4.1371"
+}

@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.1007/s10943-021-01386-4",
+  "name": "The Effect of Spiritual Care on Anxiety and Depression Level in Patients Receiving Hemodialysis Treatment: a Randomized Controlled Trial",
+  "datePublished": "2022",
+  "identifier": [
+    "https://doi.org/10.1007/s10943-021-01386-4"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Mustafa Durmuş"
+    },
+    {
+      "@type": "Person",
+      "name": "Mine Ekinci"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Religion and Health"
+  },
+  "url": "https://doi.org/10.1007/s10943-021-01386-4"
+}

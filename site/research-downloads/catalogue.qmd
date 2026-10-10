@@ -1,0 +1,14 @@
+---
+title: "MARSAM catalogue inventory"
+format: html
+jupyter: python3
+---
+
+Catalogue inventory exercise. Selected public bibliographic metadata only, not participant data or a systematic evidence map. Keep catalogue.csv and lab-manifest.json in the working directory. Run all cells to recompute, rather than relying on stored output. Python 3.10 or later. No third-party Python package is needed by the analysis code.
+
+```{python}
+from catalogue_lab import analyze
+from pathlib import Path
+import json
+print(json.dumps(analyze(Path.cwd()), ensure_ascii=False, indent=2))
+```

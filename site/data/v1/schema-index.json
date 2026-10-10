@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "release": "marsam-finished-centre-0.12.0",
+  "version": "0.12.0",
+  "generatedAt": "2026-10-10T12:56:53.446Z",
+  "publicationState": "institutional-review",
+  "reviewStatus": "AI_ASSISTED_DRAFT",
+  "humanReviewed": false,
+  "scientificApproval": false,
+  "humanLanguageApproval": false,
+  "formalInstitutionalApproval": false,
+  "schemas": [
+    "source-record-v3",
+    "instrument",
+    "claim",
+    "review-event"
+  ]
+}

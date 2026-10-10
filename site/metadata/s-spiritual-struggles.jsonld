@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://dergipark.org.tr/tr/pub/ilted/article/1564927",
+  "name": "Dini ve Manevi Mücadele Ölçeği’nin Türkçe Uyarlaması: Geçerlik ve Güvenirlik Çalışması",
+  "datePublished": "2025-04-30",
+  "identifier": [
+    "https://doi.org/10.29288/ilted.1564927"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Dilanur Rehber"
+    },
+    {
+      "@type": "Person",
+      "name": "Muhammet Enes Vural"
+    },
+    {
+      "@type": "Person",
+      "name": "Halil Ekşi"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "İlahiyat Tetkikleri Dergisi"
+  },
+  "url": "https://dergipark.org.tr/tr/pub/ilted/article/1564927"
+}

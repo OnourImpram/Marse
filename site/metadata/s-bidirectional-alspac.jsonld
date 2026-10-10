@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.1371/journal.pone.0319796",
+  "name": "Exploring bidirectional causality between religion and mental health: A longitudinal study using data from the parent generation of a UK birth cohort",
+  "datePublished": "2025-03-18",
+  "identifier": [
+    "https://doi.org/10.1371/journal.pone.0319796"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Daniel Major-Smith"
+    },
+    {
+      "@type": "Person",
+      "name": "Jimmy Morgan"
+    },
+    {
+      "@type": "Person",
+      "name": "Isaac Halstead"
+    },
+    {
+      "@type": "Person",
+      "name": "Jean Golding"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "PLOS ONE"
+  },
+  "url": "https://doi.org/10.1371/journal.pone.0319796"
+}

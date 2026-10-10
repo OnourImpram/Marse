@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://www.nobelyayin.com/bilissel-davranisci-terapi-manevi-perspektifli-teori-ve-uygulamalar-18795.html",
+  "name": "Bilişsel Davranışçı Terapi: Manevi Perspektifli Teori ve Uygulamalar",
+  "datePublished": "2022-09",
+  "identifier": [
+    "ISBN 978-625-427-158-8"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Tuğba Turgut"
+    },
+    {
+      "@type": "Person",
+      "name": "Halil Ekşi"
+    }
+  ],
+  "url": "https://www.nobelyayin.com/bilissel-davranisci-terapi-manevi-perspektifli-teori-ve-uygulamalar-18795.html"
+}

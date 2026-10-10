@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "objectType": "template",
+  "version": "1.0.0",
+  "completed": false,
+  "identity": {
+    "sourceId": null,
+    "originalTitle": null,
+    "doi": null,
+    "url": null,
+    "edition": null,
+    "language": null
+  },
+  "provenance": {
+    "inspectionDepth": "not-extracted",
+    "sourceLocator": null,
+    "checkedAt": null,
+    "extractedBy": null,
+    "independentlyCheckedBy": null
+  },
+  "study": {
+    "question": null,
+    "design": null,
+    "population": null,
+    "sampleSize": null,
+    "country": null,
+    "setting": null,
+    "followUp": null,
+    "construct": null,
+    "measure": null,
+    "comparator": null,
+    "outcome": null,
+    "mainFinding": null,
+    "effectSize": null,
+    "confidenceInterval": null,
+    "limitations": null,
+    "funding": null,
+    "conflicts": null
+  },
+  "review": {
+    "approved": false,
+    "scientific": "draft",
+    "method": "draft",
+    "reviewer": null
+  },
+  "rights": {
+    "license": null,
+    "redistributionAllowed": null,
+    "permissionEvidence": null
+  },
+  "fieldState": {
+    "default": "not-extracted",
+    "allowed": [
+      "not-extracted",
+      "reported",
+      "not-reported-in-inspected-material",
+      "unclear",
+      "not-applicable"
+    ],
+    "instruction": "Null means not extracted. Set a field-specific state and source locator after inspection. Do not replace missing evidence with zero."
+  },
+  "fieldEvidence": {},
+  "relations": {
+    "relatedProtocol": null,
+    "relatedDataset": null
+  },
+  "notice": "Blank working aid. Not a validated instrument, published study, complete review, ethics approval or reuse permission. No data are submitted to MARSAM.",
+  "templateType": "research-summary"
+}

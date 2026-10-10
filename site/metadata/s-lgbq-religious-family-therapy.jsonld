@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.1111/jmft.12442",
+  "name": "Freedom and struggling openly in psychotherapy: A qualitative inquiry with LGBQ young adults from religious families",
+  "datePublished": "2021",
+  "identifier": [
+    "https://doi.org/10.1111/jmft.12442"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Katie Heiden-Rootes"
+    },
+    {
+      "@type": "Person",
+      "name": "Kristin Ross"
+    },
+    {
+      "@type": "Person",
+      "name": "Rachel Moore"
+    },
+    {
+      "@type": "Person",
+      "name": "Shah Hasan"
+    },
+    {
+      "@type": "Person",
+      "name": "Samantha Gulotta"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Marital and Family Therapy"
+  },
+  "url": "https://doi.org/10.1111/jmft.12442"
+}

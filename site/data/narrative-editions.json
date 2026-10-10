@@ -1,0 +1,1194 @@
+{
+  "schemaVersion": 1,
+  "sourceLanguage": null,
+  "humanReviewed": false,
+  "scientificApproval": false,
+  "errors": [],
+  "method": "Persisted shared briefs and source/edition fingerprints. Existing narrative prose is bound, not relabelled as newly human-reviewed or semantically certified.",
+  "records": [
+    {
+      "id": "theme-constructs",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-meaning-questionnaire",
+        "s-durel",
+        "s-brief-rcope"
+      ],
+      "briefHash": "d3bb39ee7fd58f24352b509a668b7a5f6a4c6fb0ec8811a4bc28addfe6ae1e45",
+      "editionHash": "54035b2d44389a9b0d06e25e58a43b833574de36b7439216c9827a6df497eca5",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-constructs",
+      "locale": "en",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-meaning-questionnaire",
+        "s-durel",
+        "s-brief-rcope"
+      ],
+      "briefHash": "d3bb39ee7fd58f24352b509a668b7a5f6a4c6fb0ec8811a4bc28addfe6ae1e45",
+      "editionHash": "0ef99ebf878d008f73a1611773d130441853e3456ea36c21e203856a8cf1a76d",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-constructs",
+      "locale": "de",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-meaning-questionnaire",
+        "s-durel",
+        "s-brief-rcope"
+      ],
+      "briefHash": "d3bb39ee7fd58f24352b509a668b7a5f6a4c6fb0ec8811a4bc28addfe6ae1e45",
+      "editionHash": "b620ab47b34ffe02c8c46ed21aa5df6804fdff49d16964badc63d8f7c087d414",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-constructs",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-meaning-questionnaire",
+        "s-durel",
+        "s-brief-rcope"
+      ],
+      "briefHash": "d3bb39ee7fd58f24352b509a668b7a5f6a4c6fb0ec8811a4bc28addfe6ae1e45",
+      "editionHash": "617b6083ce9aa13acdcece10ebaf4c23312a086a073711444ddd88842397e4fc",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-constructs",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-meaning-questionnaire",
+        "s-durel",
+        "s-brief-rcope"
+      ],
+      "briefHash": "d3bb39ee7fd58f24352b509a668b7a5f6a4c6fb0ec8811a4bc28addfe6ae1e45",
+      "editionHash": "f6063a7416e954c96c5a191aaff50689857d30a670fdec2cba9a565804bdf2dc",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-constructs",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-meaning-questionnaire",
+        "s-durel",
+        "s-brief-rcope"
+      ],
+      "briefHash": "d3bb39ee7fd58f24352b509a668b7a5f6a4c6fb0ec8811a4bc28addfe6ae1e45",
+      "editionHash": "7228e3891d9b94e4267979ffb1908025e63e5e86b6be13b4df3501655f6c56ef",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-constructs",
+      "locale": "id",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-meaning-questionnaire",
+        "s-durel",
+        "s-brief-rcope"
+      ],
+      "briefHash": "d3bb39ee7fd58f24352b509a668b7a5f6a4c6fb0ec8811a4bc28addfe6ae1e45",
+      "editionHash": "f340427a8244eec87243a457c9741435d5fff7ad26d4d3bb27b45bc34f7c92df",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-constructs",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-meaning-questionnaire",
+        "s-durel",
+        "s-brief-rcope"
+      ],
+      "briefHash": "d3bb39ee7fd58f24352b509a668b7a5f6a4c6fb0ec8811a4bc28addfe6ae1e45",
+      "editionHash": "21844fc4c557310bc91595c82ac0e16138a1530df5b92edeb6143dcf8e54d61c",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-causality",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-attendance-cohorts",
+        "s-religious-cbt",
+        "s-captari"
+      ],
+      "briefHash": "fc7e121f75b441c0338a3a51bfac41815060a3d5e267ad926773d357d2156f78",
+      "editionHash": "dbd78a3fdf8fdce019b16e44ff978996f0129295fe0a97c07806f1817520ed03",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-causality",
+      "locale": "en",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-attendance-cohorts",
+        "s-religious-cbt",
+        "s-captari"
+      ],
+      "briefHash": "fc7e121f75b441c0338a3a51bfac41815060a3d5e267ad926773d357d2156f78",
+      "editionHash": "a5edb5e5f54159d0055aaecb0a830cc41ba58ef778419caf88a4785ce8065e2b",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-causality",
+      "locale": "de",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-attendance-cohorts",
+        "s-religious-cbt",
+        "s-captari"
+      ],
+      "briefHash": "fc7e121f75b441c0338a3a51bfac41815060a3d5e267ad926773d357d2156f78",
+      "editionHash": "1de9c4f708386f1d7711482ff296b658891410498e5e2be23f2b2b75be084784",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-causality",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-attendance-cohorts",
+        "s-religious-cbt",
+        "s-captari"
+      ],
+      "briefHash": "fc7e121f75b441c0338a3a51bfac41815060a3d5e267ad926773d357d2156f78",
+      "editionHash": "eba2851649e6ea3e205318e7630f168d9d13b944fcb9d609bb5555dde9f4b773",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-causality",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-attendance-cohorts",
+        "s-religious-cbt",
+        "s-captari"
+      ],
+      "briefHash": "fc7e121f75b441c0338a3a51bfac41815060a3d5e267ad926773d357d2156f78",
+      "editionHash": "e97035bf290121b615f805c03b96dfbc364ecb20c3c3eec9ee6f8fa028069453",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-causality",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-attendance-cohorts",
+        "s-religious-cbt",
+        "s-captari"
+      ],
+      "briefHash": "fc7e121f75b441c0338a3a51bfac41815060a3d5e267ad926773d357d2156f78",
+      "editionHash": "84f3944a7f6290b4c2619586bc5e76b7460b1fcc1ea03161400647c29cecf391",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-causality",
+      "locale": "id",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-attendance-cohorts",
+        "s-religious-cbt",
+        "s-captari"
+      ],
+      "briefHash": "fc7e121f75b441c0338a3a51bfac41815060a3d5e267ad926773d357d2156f78",
+      "editionHash": "8bd191c1a772c0009887c755600588e6c8eb32bc4b9216002c14b9bc0d8dbdf5",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-causality",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-attendance-cohorts",
+        "s-religious-cbt",
+        "s-captari"
+      ],
+      "briefHash": "fc7e121f75b441c0338a3a51bfac41815060a3d5e267ad926773d357d2156f78",
+      "editionHash": "1a6fea523898a8ac7d64ba686b2f5c2a9e7b9592686576e14fc122e9d0ede64b",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-struggles",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-youth-evidence",
+        "s-atheist-struggles",
+        "s-spiritual-struggles"
+      ],
+      "briefHash": "3d0d1d1c82136db13e5fe0a97daffad93f446907fb7dfd34431d011733eef2f1",
+      "editionHash": "8cab2e87e6d41cce19e6311924a0dbb6f28ca076a2b4cb82a1302d6bc318fbf9",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-struggles",
+      "locale": "en",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-youth-evidence",
+        "s-atheist-struggles",
+        "s-spiritual-struggles"
+      ],
+      "briefHash": "3d0d1d1c82136db13e5fe0a97daffad93f446907fb7dfd34431d011733eef2f1",
+      "editionHash": "5cd03bf5511e27bb9b09b86cec23776077d481f4a2b9d987c0a7b1227779c001",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-struggles",
+      "locale": "de",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-youth-evidence",
+        "s-atheist-struggles",
+        "s-spiritual-struggles"
+      ],
+      "briefHash": "3d0d1d1c82136db13e5fe0a97daffad93f446907fb7dfd34431d011733eef2f1",
+      "editionHash": "e82363367dce9911b88fbbb9684dd0c0ef18920a4532b361a6be3e173967f856",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-struggles",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-youth-evidence",
+        "s-atheist-struggles",
+        "s-spiritual-struggles"
+      ],
+      "briefHash": "3d0d1d1c82136db13e5fe0a97daffad93f446907fb7dfd34431d011733eef2f1",
+      "editionHash": "1dd2279186000916aa84fd6faff6c219cba48342512ade28b71b556738a6db8c",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-struggles",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-youth-evidence",
+        "s-atheist-struggles",
+        "s-spiritual-struggles"
+      ],
+      "briefHash": "3d0d1d1c82136db13e5fe0a97daffad93f446907fb7dfd34431d011733eef2f1",
+      "editionHash": "a49fa6c5c757f4e220c12c58fe5479789cf7e0d2dd753d2fd2784f9b5426be96",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-struggles",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-youth-evidence",
+        "s-atheist-struggles",
+        "s-spiritual-struggles"
+      ],
+      "briefHash": "3d0d1d1c82136db13e5fe0a97daffad93f446907fb7dfd34431d011733eef2f1",
+      "editionHash": "6616003889a46dd3ce56f778cd211561da4eb3f0b2f4fd9ba26014e3ef51fa49",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-struggles",
+      "locale": "id",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-youth-evidence",
+        "s-atheist-struggles",
+        "s-spiritual-struggles"
+      ],
+      "briefHash": "3d0d1d1c82136db13e5fe0a97daffad93f446907fb7dfd34431d011733eef2f1",
+      "editionHash": "284ceb5bc235ab035e9b1029402fb7ee77fe54a237720ded43ef9f4053373c58",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-struggles",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-youth-evidence",
+        "s-atheist-struggles",
+        "s-spiritual-struggles"
+      ],
+      "briefHash": "3d0d1d1c82136db13e5fe0a97daffad93f446907fb7dfd34431d011733eef2f1",
+      "editionHash": "bfd717300545d7366dde32bf096f283fcb2aa2171845c561cd71f800a5966e10",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-context",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-german-meta",
+        "s-adolescent-contexts",
+        "s-older-adults"
+      ],
+      "briefHash": "3879e3b79535eb12644a4541c5a89d5843dab97d09d78f834b9bbbde062f8d26",
+      "editionHash": "418a21f5d818942dc9a5ffc67fd99d3548bdfce23e7bdf7a35e630fb58ed2d97",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-context",
+      "locale": "en",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-german-meta",
+        "s-adolescent-contexts",
+        "s-older-adults"
+      ],
+      "briefHash": "3879e3b79535eb12644a4541c5a89d5843dab97d09d78f834b9bbbde062f8d26",
+      "editionHash": "c042257ca6ee9fc1e9515abfdb553be157954e795b3b4e53782e9b7d40a2ecc5",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-context",
+      "locale": "de",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-german-meta",
+        "s-adolescent-contexts",
+        "s-older-adults"
+      ],
+      "briefHash": "3879e3b79535eb12644a4541c5a89d5843dab97d09d78f834b9bbbde062f8d26",
+      "editionHash": "4aa3c759f94b33f79c3e8ce18a50e4dcdc106aed16157063b43390d38c8c4e9f",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-context",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-german-meta",
+        "s-adolescent-contexts",
+        "s-older-adults"
+      ],
+      "briefHash": "3879e3b79535eb12644a4541c5a89d5843dab97d09d78f834b9bbbde062f8d26",
+      "editionHash": "45f6e38d4d42c4ed9cdd9cfe62f7e30582f73b573b52424886bf12fb3bed82fc",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-context",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-german-meta",
+        "s-adolescent-contexts",
+        "s-older-adults"
+      ],
+      "briefHash": "3879e3b79535eb12644a4541c5a89d5843dab97d09d78f834b9bbbde062f8d26",
+      "editionHash": "0ae13c6c852944b37bbb818cb2b1cc29c5de5ded5dce36bf053db4956cc18a84",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-context",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-german-meta",
+        "s-adolescent-contexts",
+        "s-older-adults"
+      ],
+      "briefHash": "3879e3b79535eb12644a4541c5a89d5843dab97d09d78f834b9bbbde062f8d26",
+      "editionHash": "7aea574e926f76fcb09ac2f3a904315adf2834ab95bbfaaa3b7f472caa82de03",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-context",
+      "locale": "id",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-german-meta",
+        "s-adolescent-contexts",
+        "s-older-adults"
+      ],
+      "briefHash": "3879e3b79535eb12644a4541c5a89d5843dab97d09d78f834b9bbbde062f8d26",
+      "editionHash": "8f0ee74dfe6d29d765461e6fb0690a0511c8df22ba931abd096c97850450ff72",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-context",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-german-meta",
+        "s-adolescent-contexts",
+        "s-older-adults"
+      ],
+      "briefHash": "3879e3b79535eb12644a4541c5a89d5843dab97d09d78f834b9bbbde062f8d26",
+      "editionHash": "9bb3d7a103abd74b7c97dd497db4a641004e185cbcec1ec1d8c6696d24258d6e",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-disaster",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-disaster-needs",
+        "s-trauma-spirituality"
+      ],
+      "briefHash": "ccbb0c55746d8169eb0e62faba7830852fa6435f4d7c115a2971a5f3481d6f28",
+      "editionHash": "e2dedbc3511cc3a7e59d3254913e2231a6b8391af9c5484959d49d97b6dfed29",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-disaster",
+      "locale": "en",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-disaster-needs",
+        "s-trauma-spirituality"
+      ],
+      "briefHash": "ccbb0c55746d8169eb0e62faba7830852fa6435f4d7c115a2971a5f3481d6f28",
+      "editionHash": "95c0344a59baef14d51df04e31b4cd9861ecb540eb4d4bf2d0290c999069a94b",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-disaster",
+      "locale": "de",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-disaster-needs",
+        "s-trauma-spirituality"
+      ],
+      "briefHash": "ccbb0c55746d8169eb0e62faba7830852fa6435f4d7c115a2971a5f3481d6f28",
+      "editionHash": "e9861567b69e1f2f06e8acf730652d03adce2246bc9d59ecf2dcc148a4914d71",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-disaster",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-disaster-needs",
+        "s-trauma-spirituality"
+      ],
+      "briefHash": "ccbb0c55746d8169eb0e62faba7830852fa6435f4d7c115a2971a5f3481d6f28",
+      "editionHash": "0a50b4519e26c4bd41100f1e8258134b6eb35becb225f443cac0248dcf0751e3",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-disaster",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-disaster-needs",
+        "s-trauma-spirituality"
+      ],
+      "briefHash": "ccbb0c55746d8169eb0e62faba7830852fa6435f4d7c115a2971a5f3481d6f28",
+      "editionHash": "0eb2b8176c399f6cf76a062b7c8d0d373046f6fa5833f52bfca7a4e46abfc0d6",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-disaster",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-disaster-needs",
+        "s-trauma-spirituality"
+      ],
+      "briefHash": "ccbb0c55746d8169eb0e62faba7830852fa6435f4d7c115a2971a5f3481d6f28",
+      "editionHash": "df179d66215f80ae841fe3d08bb3846fde1213c1ba66f6f774f49b5605d6c357",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-disaster",
+      "locale": "id",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-disaster-needs",
+        "s-trauma-spirituality"
+      ],
+      "briefHash": "ccbb0c55746d8169eb0e62faba7830852fa6435f4d7c115a2971a5f3481d6f28",
+      "editionHash": "064a9297379a234d25084b668605e785f4ed649706ed347d7ba8749b839eae3d",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-disaster",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-disaster-needs",
+        "s-trauma-spirituality"
+      ],
+      "briefHash": "ccbb0c55746d8169eb0e62faba7830852fa6435f4d7c115a2971a5f3481d6f28",
+      "editionHash": "1a088f050be64e2a3e635fb542449be947986833c3a5c68d71597651c92355c5",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-practice",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-aservic",
+        "s-vieten",
+        "s-swift"
+      ],
+      "briefHash": "a4279fdc8f42a06ccb3d6072c1d5a79cc9d127fbf01bacccb408af61839833bc",
+      "editionHash": "841f5034677db190b964e62b0ff4aa61d8679b98f2d39a823106cb2563ee3311",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-practice",
+      "locale": "en",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-aservic",
+        "s-vieten",
+        "s-swift"
+      ],
+      "briefHash": "a4279fdc8f42a06ccb3d6072c1d5a79cc9d127fbf01bacccb408af61839833bc",
+      "editionHash": "ac02509987db1976be2378d9ff19ff7a49342ba48072bed5171bb3491db8d154",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-practice",
+      "locale": "de",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-aservic",
+        "s-vieten",
+        "s-swift"
+      ],
+      "briefHash": "a4279fdc8f42a06ccb3d6072c1d5a79cc9d127fbf01bacccb408af61839833bc",
+      "editionHash": "acccda14cdcd03729f90e5f708853036e541cc5dcc066e495f4e6f311f55af28",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-practice",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-aservic",
+        "s-vieten",
+        "s-swift"
+      ],
+      "briefHash": "a4279fdc8f42a06ccb3d6072c1d5a79cc9d127fbf01bacccb408af61839833bc",
+      "editionHash": "a5dabb4d00ca773c7440449d1a94fa347af4d04064c6b592ef39b03938adace0",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-practice",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-aservic",
+        "s-vieten",
+        "s-swift"
+      ],
+      "briefHash": "a4279fdc8f42a06ccb3d6072c1d5a79cc9d127fbf01bacccb408af61839833bc",
+      "editionHash": "385ba902ec5b8e2875a48e8ad27bc971b3545955d7ca781f8c1b206377301208",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-practice",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-aservic",
+        "s-vieten",
+        "s-swift"
+      ],
+      "briefHash": "a4279fdc8f42a06ccb3d6072c1d5a79cc9d127fbf01bacccb408af61839833bc",
+      "editionHash": "8b9846d4fdb86b68d0c76921957a168cf344cf3c358159785cc583c981a4dfef",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-practice",
+      "locale": "id",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-aservic",
+        "s-vieten",
+        "s-swift"
+      ],
+      "briefHash": "a4279fdc8f42a06ccb3d6072c1d5a79cc9d127fbf01bacccb408af61839833bc",
+      "editionHash": "91696bc61be7ea948fc46c99d5fe7b270c38921a831f17ba8141f32f372dca4b",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-practice",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-aservic",
+        "s-vieten",
+        "s-swift"
+      ],
+      "briefHash": "a4279fdc8f42a06ccb3d6072c1d5a79cc9d127fbf01bacccb408af61839833bc",
+      "editionHash": "22e5ed2c9e308357604212f420cff4175937cf37d15ee27475b103cb502adf61",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "founder",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-eksi",
+        "s-spiritual-counselling-book",
+        "s-spiritual-struggles"
+      ],
+      "briefHash": "86484a0816113aaf2cac3c44e613b5d3d098ddbbe0a6a6c9d209eba5942132da",
+      "editionHash": "4318654fde0f7a02d742bea5c8a279d71867c30ae62105deb52bee3074548a0a",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "founder",
+      "locale": "en",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-eksi",
+        "s-spiritual-counselling-book",
+        "s-spiritual-struggles"
+      ],
+      "briefHash": "86484a0816113aaf2cac3c44e613b5d3d098ddbbe0a6a6c9d209eba5942132da",
+      "editionHash": "51006617bfb656e5d037aa8b8ba44fb3e791c080c41a920f96ecd4633254621f",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "founder",
+      "locale": "de",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-eksi",
+        "s-spiritual-counselling-book",
+        "s-spiritual-struggles"
+      ],
+      "briefHash": "86484a0816113aaf2cac3c44e613b5d3d098ddbbe0a6a6c9d209eba5942132da",
+      "editionHash": "1f04d8b5e194552626840d685e57ebf6c893ec57d1d414e5d5a0f1c8a0b339e9",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "founder",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-eksi",
+        "s-spiritual-counselling-book",
+        "s-spiritual-struggles"
+      ],
+      "briefHash": "86484a0816113aaf2cac3c44e613b5d3d098ddbbe0a6a6c9d209eba5942132da",
+      "editionHash": "8831aa03c4deed53529136299ce930d949b3f340822e4427f40649dfc77e6529",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "founder",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-eksi",
+        "s-spiritual-counselling-book",
+        "s-spiritual-struggles"
+      ],
+      "briefHash": "86484a0816113aaf2cac3c44e613b5d3d098ddbbe0a6a6c9d209eba5942132da",
+      "editionHash": "f37bd5255a02a33048babd1a802e75e00be9f65e883565d3b7de00a676690d39",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "founder",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-eksi",
+        "s-spiritual-counselling-book",
+        "s-spiritual-struggles"
+      ],
+      "briefHash": "86484a0816113aaf2cac3c44e613b5d3d098ddbbe0a6a6c9d209eba5942132da",
+      "editionHash": "70e89a9fc2c9fce21d444a38853d42e97dda5d2ddf74ea7fc50373386b92aa87",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "founder",
+      "locale": "id",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-eksi",
+        "s-spiritual-counselling-book",
+        "s-spiritual-struggles"
+      ],
+      "briefHash": "86484a0816113aaf2cac3c44e613b5d3d098ddbbe0a6a6c9d209eba5942132da",
+      "editionHash": "f06635e0eb34723489f8d8ff1dfb5f2d105627690be4012ffa081063cdadeaff",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "founder",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-eksi",
+        "s-spiritual-counselling-book",
+        "s-spiritual-struggles"
+      ],
+      "briefHash": "86484a0816113aaf2cac3c44e613b5d3d098ddbbe0a6a6c9d209eba5942132da",
+      "editionHash": "cf8863c6217def42c505a169cc08d16b197985ca57cc852cffb2216a96c071b7",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "rss-profile",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-spiritual-struggles"
+      ],
+      "briefHash": "8663574110c9ffd14418bb0b532ea39fa794fff44cb365980495652accfc97ec",
+      "editionHash": "37e7f00cdbbc3c565686392803cdeba8d264110165468ed00fcf98bca9361d1b",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "rss-profile",
+      "locale": "en",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-spiritual-struggles"
+      ],
+      "briefHash": "8663574110c9ffd14418bb0b532ea39fa794fff44cb365980495652accfc97ec",
+      "editionHash": "175d67cc0a5c7d47738853465274bb33adad4c7832dcc054df74881be76ace79",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "rss-profile",
+      "locale": "de",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-spiritual-struggles"
+      ],
+      "briefHash": "8663574110c9ffd14418bb0b532ea39fa794fff44cb365980495652accfc97ec",
+      "editionHash": "c9685520db1997b2fdc15103bc31b7dfdfe6a24aae79f28bf9e704c75aa2bfbc",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "rss-profile",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-spiritual-struggles"
+      ],
+      "briefHash": "8663574110c9ffd14418bb0b532ea39fa794fff44cb365980495652accfc97ec",
+      "editionHash": "9622137b2762197bb2fee118f58d56cd2d1d669261820b0c059f19d497087c19",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "rss-profile",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-spiritual-struggles"
+      ],
+      "briefHash": "8663574110c9ffd14418bb0b532ea39fa794fff44cb365980495652accfc97ec",
+      "editionHash": "f0ac82b1550bde91d3e3d0aaefe76e2ac04eaa99d0a49cf4978f6e1c930fd9cc",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "rss-profile",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-spiritual-struggles"
+      ],
+      "briefHash": "8663574110c9ffd14418bb0b532ea39fa794fff44cb365980495652accfc97ec",
+      "editionHash": "18906f1067a420283aa29e7b206969e9cb8741543976d8faea092cbfb81ce9a4",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "rss-profile",
+      "locale": "id",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-spiritual-struggles"
+      ],
+      "briefHash": "8663574110c9ffd14418bb0b532ea39fa794fff44cb365980495652accfc97ec",
+      "editionHash": "12349f44f38d22a88207cd723feb06d1c523ff887d9c9c3a43cf2d25be985b38",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "rss-profile",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-spiritual-struggles"
+      ],
+      "briefHash": "8663574110c9ffd14418bb0b532ea39fa794fff44cb365980495652accfc97ec",
+      "editionHash": "20ff50b8828aa1cd86f1f73948bdf0bf4c7cc26311ea08786dd38249d60431fa",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-longitudinal-questions",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-attendance-cohorts",
+        "s-within-person-attendance",
+        "s-bidirectional-alspac",
+        "s-brazil-medical-students"
+      ],
+      "briefHash": "1f8ce586f735226507a3a18300f74aebbfc511ced0ee90b9d0fe3b903c48f154",
+      "editionHash": "67fe12c1dd18c336d8b44baca62fbffd5a7c0933daa23410b328259ff19f3ea3",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-longitudinal-questions",
+      "locale": "en",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-attendance-cohorts",
+        "s-within-person-attendance",
+        "s-bidirectional-alspac",
+        "s-brazil-medical-students"
+      ],
+      "briefHash": "1f8ce586f735226507a3a18300f74aebbfc511ced0ee90b9d0fe3b903c48f154",
+      "editionHash": "7b5804d7b4629e90722a9af33a976e437bfc63c6f94fa491c6b2a982bb003ac7",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-longitudinal-questions",
+      "locale": "de",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-attendance-cohorts",
+        "s-within-person-attendance",
+        "s-bidirectional-alspac",
+        "s-brazil-medical-students"
+      ],
+      "briefHash": "1f8ce586f735226507a3a18300f74aebbfc511ced0ee90b9d0fe3b903c48f154",
+      "editionHash": "057698086721ae89354f1a45c420211d6926b828d29fd6af6dfdb79ed2b2a748",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-longitudinal-questions",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-attendance-cohorts",
+        "s-within-person-attendance",
+        "s-bidirectional-alspac",
+        "s-brazil-medical-students"
+      ],
+      "briefHash": "1f8ce586f735226507a3a18300f74aebbfc511ced0ee90b9d0fe3b903c48f154",
+      "editionHash": "e3542dd19c935a92ed08de2194ec52d7a98592af41ae5fb871d9ea2827539f4c",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-longitudinal-questions",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-attendance-cohorts",
+        "s-within-person-attendance",
+        "s-bidirectional-alspac",
+        "s-brazil-medical-students"
+      ],
+      "briefHash": "1f8ce586f735226507a3a18300f74aebbfc511ced0ee90b9d0fe3b903c48f154",
+      "editionHash": "28e96563ea6b5ec0cf7cba6e78032a3b4319d9d466546f63b34bc99de902ba3a",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-longitudinal-questions",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-attendance-cohorts",
+        "s-within-person-attendance",
+        "s-bidirectional-alspac",
+        "s-brazil-medical-students"
+      ],
+      "briefHash": "1f8ce586f735226507a3a18300f74aebbfc511ced0ee90b9d0fe3b903c48f154",
+      "editionHash": "5fd57184280b11fb7ed1301700a824a6ad005df3ecee23a012334e1cb95cbd3c",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-longitudinal-questions",
+      "locale": "id",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-attendance-cohorts",
+        "s-within-person-attendance",
+        "s-bidirectional-alspac",
+        "s-brazil-medical-students"
+      ],
+      "briefHash": "1f8ce586f735226507a3a18300f74aebbfc511ced0ee90b9d0fe3b903c48f154",
+      "editionHash": "4d074268c748df9a9b9baf2e8cb646aeac38d001be31590ffaf1dc35c73a8416",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-longitudinal-questions",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-attendance-cohorts",
+        "s-within-person-attendance",
+        "s-bidirectional-alspac",
+        "s-brazil-medical-students"
+      ],
+      "briefHash": "1f8ce586f735226507a3a18300f74aebbfc511ced0ee90b9d0fe3b903c48f154",
+      "editionHash": "fac3d5ac6117b38eb43a1a8be7edff5f08fcf7affb41b73f3dd1fa49d27e179c",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-harm-and-clinical-context",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-clergy-abuse-harm",
+        "s-psychosis-spirituality",
+        "s-aservic"
+      ],
+      "briefHash": "3568be02e650a0bf9353c688def15b160b6c53568d83045e271e7dea4bac4892",
+      "editionHash": "ca9eda918e8046d41af564d9f6438c1803bf14b6431cb5bcafec68890e179575",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-harm-and-clinical-context",
+      "locale": "en",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-clergy-abuse-harm",
+        "s-psychosis-spirituality",
+        "s-aservic"
+      ],
+      "briefHash": "3568be02e650a0bf9353c688def15b160b6c53568d83045e271e7dea4bac4892",
+      "editionHash": "f690ca2a304d16bc82e1e03a4db2dcdbb1231353eb87931a0c737595f5ac0fbd",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-harm-and-clinical-context",
+      "locale": "de",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-clergy-abuse-harm",
+        "s-psychosis-spirituality",
+        "s-aservic"
+      ],
+      "briefHash": "3568be02e650a0bf9353c688def15b160b6c53568d83045e271e7dea4bac4892",
+      "editionHash": "4de705846efc04c17fdaae8e96c76e001eec4266dc9fbdc048eeb273c4ae7eed",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-harm-and-clinical-context",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-clergy-abuse-harm",
+        "s-psychosis-spirituality",
+        "s-aservic"
+      ],
+      "briefHash": "3568be02e650a0bf9353c688def15b160b6c53568d83045e271e7dea4bac4892",
+      "editionHash": "f3b779b5a6d6c48d4e69eba7c54f6d7925b6651340b7d31b9a84747b383dde86",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-harm-and-clinical-context",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-clergy-abuse-harm",
+        "s-psychosis-spirituality",
+        "s-aservic"
+      ],
+      "briefHash": "3568be02e650a0bf9353c688def15b160b6c53568d83045e271e7dea4bac4892",
+      "editionHash": "6810caaa0f39e7087d73512ae017d5b592799c1f6490fd20723375aec6128ee3",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-harm-and-clinical-context",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-clergy-abuse-harm",
+        "s-psychosis-spirituality",
+        "s-aservic"
+      ],
+      "briefHash": "3568be02e650a0bf9353c688def15b160b6c53568d83045e271e7dea4bac4892",
+      "editionHash": "97474b5047307c94490cb36ca9a10e2d5738ba58f517b01af11894d92ae81d8e",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-harm-and-clinical-context",
+      "locale": "id",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-clergy-abuse-harm",
+        "s-psychosis-spirituality",
+        "s-aservic"
+      ],
+      "briefHash": "3568be02e650a0bf9353c688def15b160b6c53568d83045e271e7dea4bac4892",
+      "editionHash": "0db47f93e751b0df382857ef5c88edf09493fa80d44960609aa45bea65e875ef",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "theme-harm-and-clinical-context",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "sourceIds": [
+        "s-clergy-abuse-harm",
+        "s-psychosis-spirituality",
+        "s-aservic"
+      ],
+      "briefHash": "3568be02e650a0bf9353c688def15b160b6c53568d83045e271e7dea4bac4892",
+      "editionHash": "23e9dedced89909a4e38ff162302b5cd431f723c623e47616cd34e2ba71aa38b",
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    }
+  ]
+}

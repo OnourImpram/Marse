@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.1080/07481187.2019.1627031",
+  "name": "Inventory of Complicated Spiritual Grief 2.0 (ICSG 2.0): Validation of a revised measure of spiritual distress in bereavement",
+  "datePublished": "2021",
+  "identifier": [
+    "https://doi.org/10.1080/07481187.2019.1627031"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Laurie A. Burke"
+    },
+    {
+      "@type": "Person",
+      "name": "A. Elizabeth Crunk"
+    },
+    {
+      "@type": "Person",
+      "name": "Robert A. Neimeyer"
+    },
+    {
+      "@type": "Person",
+      "name": "Haiyan Bai"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Death Studies"
+  },
+  "url": "https://doi.org/10.1080/07481187.2019.1627031"
+}

@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.12738/spc.2016.1.0005",
+  "name": "Spirituality in Psychotherapy Settings: A Phenomenological Inquiry into the Experiences of Turkish Health Professionals",
+  "datePublished": "2016-02-15",
+  "identifier": [
+    "https://doi.org/10.12738/spc.2016.1.0005"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Halil Eksi"
+    },
+    {
+      "@type": "Person",
+      "name": "Zeynep Takmaz"
+    },
+    {
+      "@type": "Person",
+      "name": "Selami Kardas"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Spiritual Psychology and Counseling"
+  },
+  "url": "https://doi.org/10.12738/spc.2016.1.0005"
+}

@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://pubmed.ncbi.nlm.nih.gov/42766252/",
+  "name": "The Spiritual Burnout Scale: Development and Psychometric Validation of a Measure of Spiritual Resource Depletion in Türkiye",
+  "datePublished": "2026-09-21",
+  "identifier": [
+    "https://doi.org/10.1007/s10943-026-02801-4"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Nesrullah Okan"
+    },
+    {
+      "@type": "Person",
+      "name": "Osman Hatun"
+    },
+    {
+      "@type": "Person",
+      "name": "Füsun Ekşi"
+    },
+    {
+      "@type": "Person",
+      "name": "Halil Ekşi"
+    },
+    {
+      "@type": "Person",
+      "name": "Nihat Köse"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Religion and Health"
+  },
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42766252/"
+}

@@ -1,0 +1,511 @@
+{
+  "schemaVersion": 1,
+  "release": "marsam-finished-centre-0.12.0",
+  "version": "0.12.0",
+  "generatedAt": "2026-10-10T12:56:53.446Z",
+  "publicationState": "institutional-review",
+  "reviewStatus": "AI_ASSISTED_DRAFT",
+  "humanReviewed": false,
+  "scientificApproval": false,
+  "humanLanguageApproval": false,
+  "formalInstitutionalApproval": false,
+  "policy": "Recorded post-publication state is review metadata; detected updates never rewrite claims automatically.",
+  "records": [
+    {
+      "sourceId": "s-tunc",
+      "doi": "10.1007/s11089-025-01244-0",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-01",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-spiritual-burnout",
+      "doi": "10.1007/s10943-026-02801-4",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-01",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-sipas",
+      "doi": "10.37898/spiritualpc.1793082",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-01",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-loneliness-spirituality",
+      "doi": "10.37898/spiritualpc.1603809",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-01",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-professional-training",
+      "doi": "10.1007/s10943-025-02551-9",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-01",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-spiritual-integrity",
+      "doi": "10.1007/s10943-025-02329-z",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-01",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-spirituality-dimensions",
+      "doi": "10.1007/s10943-025-02313-7",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-01",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-spiritual-struggles",
+      "doi": "10.29288/ilted.1564927",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-01",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-eksi-adaptation-of-the-decision-to-forgive",
+      "doi": "10.52380/ijpes.2024.11.4.1371",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-01",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-eksi-the-intersection-of-faith-and-pornography",
+      "doi": "10.37898/spiritualpc.1461103",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-01",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-eksi-a-spiritual-touch-on-family-resilience",
+      "doi": "10.37898/spc.2023.8.1.185",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-01",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-eksi-through-the-inner-world-development-of",
+      "doi": "10.37898/spc.2023.8.1.186",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-01",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-eksi-well-being-and-spiritual-intelligence-predict",
+      "doi": "10.37898/spc.2022.7.3.181",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-01",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-eksi-the-mediator-role-of-forgiveness-between",
+      "doi": "10.54535/rep.1025099",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-01",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-eksi-genclerde-maneviyat-ve-siddet-egilimi-arasindaki",
+      "doi": "10.28949/bilimname.845575",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-01",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-eksi-spiritually-oriented-couple-marriage-and-family",
+      "doi": "10.37898/spc.2020.5.1.096",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-01",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-eksi-manevi-sukran-olcegi-nin-turkce-uyarlamasi",
+      "doi": "10.37217/tebd.583207",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-01",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-eksi-manevi-askinlik-olcegi-nin-turkceye-uyarlanmasi",
+      "doi": "10.17679/inuefd.562410",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-01",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-eksi-a-psychological-counseling-study-on-fear",
+      "doi": "10.37898/spc.2019.4.3.85",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-01",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-eksi-multi-cultural-counseling-and-spiritual-interventions",
+      "doi": "10.37898/spc.2019.4.2.0066",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-01",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-eksi-islamic-spiritual-counseling-techniques",
+      "doi": "10.37898/spc.2019.4.3.069",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-01",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-eksi-adapting-the-scale-for-spiritual-intelligence",
+      "doi": "10.37898/spc.2019.4.2.0062",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-01",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-eksi-ogretmen-adaylarinin-spirituel-i-yi-olus",
+      "doi": "10.24106/kefdergi.3256",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-01",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-eksi-maternal-spiritual-coping-scale-development-and",
+      "doi": "10.12738/spc.2018.1.0042",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-01",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-eksi-spirituality-in-logotherapy",
+      "doi": "10.12738/spc.2017.2.0028",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-01",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-eksi-spirituality-in-psychotherapy-settings-a-phenomenological",
+      "doi": "10.12738/spc.2016.1.0005",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-01",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-german-meta",
+      "doi": "10.1007/s10943-025-02406-3",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-03",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-adolescent-contexts",
+      "doi": "10.1007/s10943-026-02736-w",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-03",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-youth-evidence",
+      "doi": "10.1186/s12888-023-05091-2",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-03",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-older-adults",
+      "doi": "10.3389/fmed.2022.877213",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-03",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-attendance-cohorts",
+      "doi": "10.1093/ije/dyaa120",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-03",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-atheist-struggles",
+      "doi": "10.3390/rel9080242",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-03",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-religious-cbt",
+      "doi": "10.1097/NMD.0000000000000273",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-03",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-disaster-needs",
+      "doi": "10.56432/tmdrd.1645518",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-03",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-brief-rcope",
+      "doi": "10.3390/rel2010051",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-03",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-meaning-questionnaire",
+      "doi": "10.1037/0022-0167.53.1.80",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-03",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-durel",
+      "doi": "10.3390/rel1010078",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-03",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-swbs-eksi-kardas",
+      "doi": "10.12738/spc.2017.1.0022",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-04",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-swbs-paloutzian-ellison",
+      "doi": "10.1177/009164718301100406",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-04",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-within-person-attendance",
+      "doi": "10.1177/09567976251325449",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-04",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-bidirectional-alspac",
+      "doi": "10.1371/journal.pone.0319796",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-04",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-brazil-medical-students",
+      "doi": "10.1007/s10943-025-02461-w",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-04",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-turkish-bereavement",
+      "doi": "10.1080/13607863.2025.2606354",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-04",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-psychosis-spirituality",
+      "doi": "10.1111/eip.70061",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-04",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-clergy-abuse-harm",
+      "doi": "10.1371/journal.pone.0317821",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-04",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-spirituality-ptsd-review",
+      "doi": "10.1007/s10943-026-02671-w",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-05",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-rss-ff-tr",
+      "doi": "10.1007/s10943-026-02728-w",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-05",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-sprs",
+      "doi": "10.1007/s10943-024-02175-5",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-05",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-sefc",
+      "doi": "10.1007/s10943-025-02523-z",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-05",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-hemodialysis-spiritual-care",
+      "doi": "10.1007/s10943-021-01386-4",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-05",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-muslim-coping-multinational",
+      "doi": "10.1002/ijop.12521",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-05",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-refugee-faith-coping",
+      "doi": "10.3389/fpsyt.2021.595979",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-05",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-nonreligious-turkiye",
+      "doi": "10.1111/jpm.70148",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-05",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-religious-sexual-stigma",
+      "doi": "10.1080/00918369.2019.1601439",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-05",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-atheist-minority-stress",
+      "doi": "10.1037/cou0000392",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-05",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-sexual-minority-rs-meta",
+      "doi": "10.1037/bul0000321",
+      "state": "correction",
+      "correctionDoi": "10.1037/bul0000339",
+      "checked": "2026-10-05",
+      "requiresHumanReview": true
+    },
+    {
+      "sourceId": "s-lgbq-religious-family-therapy",
+      "doi": "10.1111/jmft.12442",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-05",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-lebanon-sexual-stigma",
+      "doi": "10.1080/00918369.2022.2030617",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-05",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-icsg-2",
+      "doi": "10.1080/07481187.2019.1627031",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-05",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-icsg-2-fa",
+      "doi": "10.1080/07481187.2025.2580244",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-05",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-p-sds",
+      "doi": "10.1007/s10943-025-02335-1",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-05",
+      "requiresHumanReview": false
+    },
+    {
+      "sourceId": "s-religious-minority-context",
+      "doi": "10.1007/s10943-020-00999-5",
+      "state": "not-checked",
+      "correctionDoi": null,
+      "checked": "2026-10-05",
+      "requiresHumanReview": false
+    }
+  ]
+}

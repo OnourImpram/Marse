@@ -1,0 +1,578 @@
+{
+  "schemaVersion": 1,
+  "records": [
+    {
+      "id": "german-meta",
+      "sourceId": "s-german-meta",
+      "brief": {
+        "design": "meta-analysis",
+        "population": "39 studies from German-speaking settings",
+        "findingDirection": "small-positive",
+        "doi": "10.1007/s10943-025-02406-3",
+        "inspection": "abstract-and-metadata",
+        "checked": "2026-10-03",
+        "effect": {
+          "r": 0.083,
+          "CI95": [
+            0.055,
+            0.111
+          ]
+        },
+        "onlineDate": "2025-08-12",
+        "issueYear": 2026,
+        "limitationCodes": [
+          "association-not-causation",
+          "cultural-transfer-uncertain",
+          "construct-overlap"
+        ]
+      }
+    },
+    {
+      "id": "adolescent-contexts",
+      "sourceId": "s-adolescent-contexts",
+      "brief": {
+        "design": "systematic-review",
+        "population": "10 studies, adolescents, multiple countries",
+        "findingDirection": "mixed",
+        "doi": "10.1007/s10943-026-02736-w",
+        "inspection": "abstract-and-metadata",
+        "checked": "2026-10-03",
+        "limitationCodes": [
+          "heterogeneous-contexts",
+          "no-universal-protection"
+        ]
+      }
+    },
+    {
+      "id": "youth-evidence",
+      "sourceId": "s-youth-evidence",
+      "brief": {
+        "design": "meta-analysis",
+        "population": "45 longitudinal and 29 intervention studies, ages 10–24",
+        "findingDirection": "mixed",
+        "doi": "10.1186/s12888-023-05091-2",
+        "inspection": "abstract-and-metadata",
+        "checked": "2026-10-03",
+        "effects": {
+          "wellbeingDepression": {
+            "r": -0.153,
+            "CI95": [
+              -0.187,
+              -0.118
+            ]
+          },
+          "importanceDepression": {
+            "r": -0.024,
+            "CI95": [
+              -0.053,
+              0.004
+            ]
+          },
+          "negativeCopingDepression": {
+            "r": 0.09,
+            "CI95": [
+              -0.009,
+              0.188
+            ]
+          }
+        },
+        "limitationCodes": [
+          "mostly-low-moderate-quality",
+          "intervention-heterogeneity",
+          "high-income-predominance"
+        ]
+      }
+    },
+    {
+      "id": "older-adults",
+      "sourceId": "s-older-adults",
+      "brief": {
+        "design": "meta-analysis",
+        "population": "Observational studies of adults aged 60+. Total study count is unresolved between abstract and body.",
+        "findingDirection": "generally-positive",
+        "doi": "10.3389/fmed.2022.877213",
+        "inspection": "abstract-and-metadata",
+        "checked": "2026-10-03",
+        "limitationCodes": [
+          "observational-not-treatment-effect",
+          "heterogeneous-measures",
+          "study-count-discrepancy"
+        ],
+        "countStatus": "abstract-fulltext-counts-unreconciled"
+      }
+    },
+    {
+      "id": "attendance-cohorts",
+      "sourceId": "s-attendance-cohorts",
+      "brief": {
+        "design": "prospective-cohort",
+        "population": "Three US cohorts across adulthood",
+        "findingDirection": "mixed",
+        "doi": "10.1093/ije/dyaa120",
+        "inspection": "abstract-and-metadata",
+        "checked": "2026-10-03",
+        "limitationCodes": [
+          "residual-confounding",
+          "us-context",
+          "attendance-not-total-spirituality"
+        ]
+      }
+    },
+    {
+      "id": "atheist-struggles",
+      "sourceId": "s-atheist-struggles",
+      "brief": {
+        "design": "cross-sectional",
+        "population": "3978 undergraduates and 1048 internet workers, atheist/theist comparisons",
+        "findingDirection": "adverse-associations",
+        "doi": "10.3390/rel9080242",
+        "inspection": "abstract-and-metadata",
+        "checked": "2026-10-03",
+        "limitationCodes": [
+          "cross-sectional",
+          "sampling-not-all-nonreligious"
+        ]
+      }
+    },
+    {
+      "id": "religious-cbt",
+      "sourceId": "s-religious-cbt",
+      "brief": {
+        "design": "pilot-rct",
+        "population": "132 people with major depression and chronic medical illness, 12 weeks",
+        "findingDirection": "no-overall-difference",
+        "doi": "10.1097/NMD.0000000000000273",
+        "inspection": "abstract-and-metadata",
+        "checked": "2026-10-03",
+        "outcome": {
+          "p": 0.86
+        },
+        "inspectionURL": "https://europepmc.org/article/MED/25816046",
+        "limitationCodes": [
+          "pilot-sample",
+          "nonsignificance-not-equivalence",
+          "subgroup-exploratory"
+        ]
+      }
+    },
+    {
+      "id": "disaster-needs",
+      "sourceId": "s-disaster-needs",
+      "brief": {
+        "design": "qualitative",
+        "population": "Interviews with psychosocial support professionals after the 2023 Türkiye earthquakes",
+        "findingDirection": "needs-and-experiences",
+        "doi": "10.56432/tmdrd.1645518",
+        "inspection": "abstract-and-metadata",
+        "checked": "2026-10-03",
+        "inspectionURL": "https://dergipark.org.tr/tr/pub/tmdrd/article/1645518",
+        "limitationCodes": [
+          "professional-perspectives",
+          "no-efficacy-test"
+        ]
+      }
+    },
+    {
+      "id": "brief-rcope",
+      "sourceId": "s-brief-rcope",
+      "brief": {
+        "design": "psychometric-review",
+        "population": "14 items, positive and negative religious coping subscales",
+        "findingDirection": "measurement",
+        "doi": "10.3390/rel2010051",
+        "inspection": "abstract-and-metadata",
+        "checked": "2026-10-03",
+        "limitationCodes": [
+          "context-specific-validity",
+          "not-universal-translation-validation"
+        ]
+      }
+    },
+    {
+      "id": "meaning-questionnaire",
+      "sourceId": "s-meaning-questionnaire",
+      "brief": {
+        "design": "scale-development",
+        "population": "10 items, presence of meaning and search for meaning",
+        "findingDirection": "measurement",
+        "doi": "10.1037/0022-0167.53.1.80",
+        "inspection": "official-measure-description-and-metadata",
+        "checked": "2026-10-03",
+        "inspectionURL": "https://ppc.sas.upenn.edu/node/213",
+        "limitationCodes": [
+          "institutional-description-not-full-validation-appraisal",
+          "meaning-not-diagnosis"
+        ]
+      }
+    },
+    {
+      "id": "durel",
+      "sourceId": "s-durel",
+      "brief": {
+        "design": "measurement-overview",
+        "population": "5 items, organizational, non-organizational and intrinsic religiosity",
+        "findingDirection": "measurement",
+        "doi": "10.3390/rel1010078",
+        "inspection": "official-measure-description-and-metadata",
+        "checked": "2026-10-03",
+        "inspectionURL": "https://scholars.duke.edu/publication/960636",
+        "limitationCodes": [
+          "religiosity-not-all-spirituality",
+          "not-clinical-need-assessment"
+        ]
+      }
+    },
+    {
+      "id": "swbs-eksi-kardas",
+      "sourceId": "s-swbs-eksi-kardas",
+      "brief": {
+        "design": "scale-development",
+        "population": "865 participants in Türkiye, age range 16–54 in Methods although described as adults",
+        "inspection": "targeted-fulltext",
+        "inspectionURL": "https://dergipark.org.tr/tr/download/article-file/317808",
+        "inspectionDetail": "Targeted full-text inspection of abstract, Methods and Tables 4 and 6, especially printed pages 76–84. Table 6 visually inspected. This is not a comprehensive psychometric appraisal or correction/retraction search.",
+        "limitationCodes": [
+          "same-sample-efa-cfa",
+          "abstract-table-srmr-discrepancy-unresolved",
+          "adult-label-includes-age16",
+          "measurement-invariance-not-verified",
+          "no-diagnostic-cutoffs"
+        ],
+        "instrument": {
+          "name": "Spiritual Well-Being Scale",
+          "authors": [
+            "Halil Ekşi",
+            "Selami Kardaş"
+          ],
+          "items": 29,
+          "responseCategories": 5,
+          "dimensions": [
+            "transcendence",
+            "harmony with nature",
+            "anomie"
+          ],
+          "validationSample": {
+            "n": 865,
+            "ageRange": "16–54",
+            "sameDataEFAandCFA": true
+          },
+          "totalAlphaReported": ".886",
+          "scoreEquivalenceEstablished": false,
+          "itemReusePermissionVerified": false
+        },
+        "reportedDiscrepancies": {
+          "srmr": {
+            "abstract": ".50",
+            "table6": ".050",
+            "tablePage": 84,
+            "resolved": false
+          }
+        },
+        "primaryDocuments": [
+          {
+            "url": "https://dergipark.org.tr/en/pub/spiritualpc/article/323508",
+            "role": "metadata-and-abstract",
+            "labelKey": "docArticle"
+          },
+          {
+            "url": "https://dergipark.org.tr/tr/download/article-file/317808",
+            "role": "targeted-fulltext",
+            "pages": "76–84, Table 6 p84",
+            "labelKey": "docFullText"
+          }
+        ],
+        "doi": "10.12738/spc.2017.1.0022",
+        "checked": "2026-10-04",
+        "findingDirection": "measurement"
+      }
+    },
+    {
+      "id": "swbs-paloutzian-ellison",
+      "sourceId": "s-swbs-paloutzian-ellison",
+      "brief": {
+        "design": "measurement-overview",
+        "population": "Original English measure, 1982. Article abstract plus author-hosted manual and Turkish form, not one validation sample.",
+        "inspection": "official-author-manual-form-and-article-abstract",
+        "inspectionURL": "https://www.westmont.edu/psychology/raymond-paloutzian-spiritual-wellbeing-scale",
+        "inspectionDetail": "Sage article identity and abstract, author-hosted SWBS Manual version 2.02, 2022 Turkish form and its copyright/use statement. Full 1983 article methods and all adaptation evidence not appraised.",
+        "limitationCodes": [
+          "turkish-form-not-validation-study",
+          "measurement-invariance-not-verified",
+          "different-instrument-same-name",
+          "no-score-equating",
+          "reuse-conditions-not-open-license"
+        ],
+        "instrument": {
+          "name": "Spiritual Well-Being Scale",
+          "authors": [
+            "Raymond F. Paloutzian",
+            "Craig W. Ellison"
+          ],
+          "originalYear": 1982,
+          "originalLanguage": "en",
+          "items": 20,
+          "responseCategories": 6,
+          "dimensions": [
+            "religious wellbeing",
+            "existential wellbeing"
+          ],
+          "itemsPerDimension": 10,
+          "turkishFormYear": 2022,
+          "turkishPsychometricValidationVerified": false,
+          "scoreEquivalenceEstablished": false,
+          "rights": {
+            "noCostUseAuthorStated": true,
+            "retainCopyrightByline": true,
+            "properCitationRequired": true,
+            "openLicenseClaimed": false,
+            "itemsHostedByMARSAM": false
+          }
+        },
+        "primaryDocuments": [
+          {
+            "url": "https://journals.sagepub.com/doi/10.1177/009164718301100406",
+            "role": "article-metadata-and-abstract",
+            "labelKey": "docArticle"
+          },
+          {
+            "url": "https://www.westmont.edu/psychology/raymond-paloutzian-spiritual-wellbeing-scale",
+            "role": "author-information-and-language-availability",
+            "labelKey": "docAuthor"
+          },
+          {
+            "url": "https://www.westmont.edu/sites/default/files/users/user401/SWBS%20Manual%202.0_0.pdf",
+            "role": "author-manual-v2.02",
+            "labelKey": "docManual"
+          },
+          {
+            "url": "https://www.westmont.edu/sites/default/files/users/user401/Turkish%20SWBS%202022.pdf",
+            "role": "turkish-form-and-use-conditions",
+            "labelKey": "docTurkishForm"
+          }
+        ],
+        "doi": "10.1177/009164718301100406",
+        "checked": "2026-10-04",
+        "findingDirection": "measurement"
+      }
+    },
+    {
+      "id": "within-person-attendance",
+      "sourceId": "s-within-person-attendance",
+      "brief": {
+        "design": "longitudinal-panel-analysis",
+        "population": "29,298 British Household Panel Survey participants, 10 waves from 1991 to 2009.",
+        "findingDirection": "mostly-null-within-person",
+        "inspection": "abstract-and-metadata",
+        "inspectionURL": "https://journals.sagepub.com/doi/10.1177/09567976251325449",
+        "inspectionDetail": "Publisher abstract, open-practices statement and PubMed bibliographic record inspected. Full model specification and all sensitivity analyses were not independently appraised or reproduced.",
+        "question": "Does a change in attendance within a person precede a change in mental health?",
+        "estimand": "Within-person lagged associations, distinct from between-person differences.",
+        "preregistered": false,
+        "relatedRecords": [
+          "attendance-cohorts",
+          "bidirectional-alspac"
+        ],
+        "limitationCodes": [
+          "observational-not-intervention",
+          "within-between-person-distinction",
+          "null-not-equivalence",
+          "historical-uk-context"
+        ],
+        "doi": "10.1177/09567976251325449",
+        "checked": "2026-10-04"
+      }
+    },
+    {
+      "id": "bidirectional-alspac",
+      "sourceId": "s-bidirectional-alspac",
+      "brief": {
+        "design": "prospective-cohort",
+        "population": "Parents in the UK Avon Longitudinal Study of Parents and Children. Analytic sample sizes vary by model.",
+        "findingDirection": "small-or-null-bidirectional",
+        "inspection": "targeted-fulltext",
+        "inspectionURL": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319796",
+        "inspectionDetail": "Publisher HTML abstract, design description, main results, limitations and bibliographic metadata inspected. Supplementary models, preregistration deviations and all numerical estimates were not independently audited.",
+        "preregistered": true,
+        "relatedRecords": [
+          "within-person-attendance",
+          "attendance-cohorts"
+        ],
+        "limitationCodes": [
+          "residual-confounding",
+          "wide-uncertainty",
+          "historical-parent-cohort",
+          "gender-findings-inconclusive",
+          "null-not-equivalence"
+        ],
+        "doi": "10.1371/journal.pone.0319796",
+        "checked": "2026-10-04"
+      }
+    },
+    {
+      "id": "brazil-medical-students",
+      "sourceId": "s-brazil-medical-students",
+      "brief": {
+        "design": "prospective-cohort",
+        "population": "277 medical students in Brazil followed for two years.",
+        "findingDirection": "favourable-organizational-association",
+        "inspection": "abstract-and-metadata",
+        "inspectionURL": "https://pubmed.ncbi.nlm.nih.gov/41046488/",
+        "inspectionDetail": "PubMed metadata and publisher-supplied abstract inspected. Full methods, attrition, model specification and correction history were not comprehensively appraised.",
+        "usesMeasure": "durel",
+        "relatedRecords": [
+          "within-person-attendance"
+        ],
+        "measures": [
+          "DUREL",
+          "DASS-21",
+          "WHOQOL-BREF"
+        ],
+        "limitationCodes": [
+          "association-not-causation",
+          "residual-confounding",
+          "medical-student-context",
+          "measure-use-not-validation"
+        ],
+        "doi": "10.1007/s10943-025-02461-w",
+        "checked": "2026-10-04"
+      }
+    },
+    {
+      "id": "turkish-bereavement",
+      "sourceId": "s-turkish-bereavement",
+      "brief": {
+        "design": "reported-mediation",
+        "population": "403 bereaved older adults in Türkiye, aged 65 to 84, all having experienced spousal loss.",
+        "findingDirection": "favourable-associations",
+        "inspection": "abstract-and-metadata",
+        "inspectionURL": "https://www.tandfonline.com/doi/full/10.1080/13607863.2025.2606354",
+        "inspectionDetail": "Publisher abstract, PubMed metadata and Bursa Uludag institutional publication record inspected. The inspected abstract does not specify temporal ordering, so the catalogue does not assert a cross-sectional or longitudinal design.",
+        "country": "Türkiye",
+        "temporalDesignVerified": false,
+        "relatedRecords": [
+          "older-adults",
+          "meaning-questionnaire"
+        ],
+        "limitationCodes": [
+          "temporal-order-not-specified-in-inspected-abstract",
+          "mediation-not-causal-mechanism",
+          "intervention-efficacy-not-tested-in-inspected-material",
+          "bereaved-older-adult-context"
+        ],
+        "doi": "10.1080/13607863.2025.2606354",
+        "checked": "2026-10-04"
+      }
+    },
+    {
+      "id": "psychosis-spirituality",
+      "sourceId": "s-psychosis-spirituality",
+      "brief": {
+        "design": "systematic-review",
+        "population": "35 studies concerning spirituality, religiosity and psychosis.",
+        "findingDirection": "mixed-by-coping-and-context",
+        "inspection": "abstract-and-metadata",
+        "inspectionURL": "https://pubmed.ncbi.nlm.nih.gov/40605616/",
+        "inspectionDetail": "Publisher-supplied abstract, bibliographic record and indexed methods excerpts inspected. The full study-level quality table and proposed clinical models were not independently evaluated. Association language is retained rather than adopting causal wording from the abstract.",
+        "relatedRecords": [
+          "brief-rcope"
+        ],
+        "limitationCodes": [
+          "heterogeneous-studies",
+          "associations-not-intervention-effect",
+          "religious-belief-not-diagnostic-criterion",
+          "clinical-model-not-validated-treatment"
+        ],
+        "doi": "10.1111/eip.70061",
+        "checked": "2026-10-04"
+      }
+    },
+    {
+      "id": "clergy-abuse-harm",
+      "sourceId": "s-clergy-abuse-harm",
+      "brief": {
+        "design": "scoping-review",
+        "population": "12 publications on spiritual harm after sexual abuse involving Roman Catholic clergy. Includes empirical and discursive work, not 12 treatment trials.",
+        "findingDirection": "adverse-experiences-and-conceptual-gaps",
+        "inspection": "targeted-fulltext",
+        "inspectionURL": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317821",
+        "inspectionDetail": "Publisher HTML abstract, scope, methods, results and limitations inspected. Quality appraisal was not undertaken by the review. No figures, tables or survivor narratives are republished.",
+        "qualityAppraisalPerformed": false,
+        "limitationCodes": [
+          "scoping-not-efficacy-review",
+          "no-quality-appraisal",
+          "catholic-clergy-context",
+          "heterogeneous-harm-definitions",
+          "not-a-diagnostic-validation"
+        ],
+        "doi": "10.1371/journal.pone.0317821",
+        "checked": "2026-10-04"
+      }
+    }
+  ],
+  "themes": [
+    {
+      "id": "constructs",
+      "sourceIds": [
+        "s-meaning-questionnaire",
+        "s-durel",
+        "s-brief-rcope"
+      ]
+    },
+    {
+      "id": "causality",
+      "sourceIds": [
+        "s-attendance-cohorts",
+        "s-religious-cbt",
+        "s-captari"
+      ]
+    },
+    {
+      "id": "struggles",
+      "sourceIds": [
+        "s-youth-evidence",
+        "s-atheist-struggles",
+        "s-spiritual-struggles"
+      ]
+    },
+    {
+      "id": "context",
+      "sourceIds": [
+        "s-german-meta",
+        "s-adolescent-contexts",
+        "s-older-adults"
+      ]
+    },
+    {
+      "id": "disaster",
+      "sourceIds": [
+        "s-disaster-needs",
+        "s-trauma-spirituality"
+      ]
+    },
+    {
+      "id": "practice",
+      "sourceIds": [
+        "s-aservic",
+        "s-vieten",
+        "s-swift"
+      ]
+    },
+    {
+      "id": "longitudinal-questions",
+      "sourceIds": [
+        "s-attendance-cohorts",
+        "s-within-person-attendance",
+        "s-bidirectional-alspac",
+        "s-brazil-medical-students"
+      ]
+    },
+    {
+      "id": "harm-and-clinical-context",
+      "sourceIds": [
+        "s-clergy-abuse-harm",
+        "s-psychosis-spirituality",
+        "s-aservic"
+      ]
+    }
+  ]
+}

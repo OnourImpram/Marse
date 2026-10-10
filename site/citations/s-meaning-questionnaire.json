@@ -1,0 +1,25 @@
+{
+  "id": "s-meaning-questionnaire",
+  "type": "article-journal",
+  "title": "The meaning in life questionnaire: Assessing the presence of and search for meaning in life.",
+  "author": [
+    {
+      "literal": "Michael F. Steger"
+    },
+    {
+      "literal": "Patricia Frazier"
+    },
+    {
+      "literal": "Shigehiro Oishi"
+    },
+    {
+      "literal": "Matthew Kaler"
+    }
+  ],
+  "issued": {
+    "raw": "2006-01"
+  },
+  "DOI": "10.1037/0022-0167.53.1.80",
+  "container-title": "Journal of Counseling Psychology",
+  "URL": "https://doi.org/10.1037/0022-0167.53.1.80"
+}

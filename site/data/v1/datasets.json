@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "release": "marsam-finished-centre-0.12.0",
+  "version": "0.12.0",
+  "generatedAt": "2026-10-10T12:56:53.446Z",
+  "publicationState": "institutional-review",
+  "reviewStatus": "AI_ASSISTED_DRAFT",
+  "humanReviewed": false,
+  "scientificApproval": false,
+  "humanLanguageApproval": false,
+  "formalInstitutionalApproval": false,
+  "records": [
+    {
+      "id": "ess",
+      "title": "European Social Survey",
+      "url": "https://www.europeansocialsurvey.org/data-portal",
+      "scope": "Cross-national repeated surveys. Inspect round-specific religion, wellbeing and health variables before analysis.",
+      "access": "Official ESS data portal. Round-specific terms and documentation govern use."
+    },
+    {
+      "id": "evs",
+      "title": "European Values Study",
+      "url": "https://www.gesis.org/en/european-values-study/data-and-documentation",
+      "scope": "Values, religion, family, work, politics and society. Not every wave contains a mental-health outcome suitable for a MARSAM question.",
+      "access": "EVS/GESIS documentation and data access. Registration and usage terms may apply."
+    },
+    {
+      "id": "wvs",
+      "title": "World Values Survey",
+      "url": "https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp",
+      "scope": "Cross-national values and beliefs. Repeated cross-sections are not respondent-level longitudinal panels.",
+      "access": "Official WVS documentation. Registration and non-redistribution terms may apply."
+    },
+    {
+      "id": "midus",
+      "title": "MIDUS · Midlife in the United States",
+      "url": "https://midus.wisc.edu/religion-and-spirituality/",
+      "scope": "Longitudinal US study with religion/spirituality, psychological wellbeing, purpose, mental illness and health domains. US context limits transfer.",
+      "access": "Official MIDUS documentation and public data resources; study-specific terms remain authoritative."
+    }
+  ]
+}

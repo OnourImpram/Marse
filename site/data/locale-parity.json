@@ -1,0 +1,2746 @@
+{
+  "schemaVersion": 1,
+  "scope": "Shared-brief evidence records only. Legacy editions retain their separately labelled legacy-seed model.",
+  "method": "Persisted source and locale draft fingerprints. Presence and unchanged bytes are not semantic or scientific review.",
+  "humanReviewed": false,
+  "scientificApproval": false,
+  "semanticParityCertified": false,
+  "records": [
+    {
+      "id": "german-meta",
+      "sourceId": "s-german-meta",
+      "locale": "tr",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "c5700d030e041e37ec03dd793d072537fd7a7bc0922c3feaa45c7f0f76b407fb",
+      "editionHash": "414f37844f0cf9b3ba1f5563a27120eeac66e00b6748fb22e43afd1805671407",
+      "claimIds": [
+        "german-meta:population",
+        "german-meta:finding",
+        "german-meta:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "german-meta",
+      "sourceId": "s-german-meta",
+      "locale": "en",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "c5700d030e041e37ec03dd793d072537fd7a7bc0922c3feaa45c7f0f76b407fb",
+      "editionHash": "2326fa522a54b193a966418fb211643402fbd902c977225ff87fb4619cd5d619",
+      "claimIds": [
+        "german-meta:population",
+        "german-meta:finding",
+        "german-meta:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "german-meta",
+      "sourceId": "s-german-meta",
+      "locale": "de",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "c5700d030e041e37ec03dd793d072537fd7a7bc0922c3feaa45c7f0f76b407fb",
+      "editionHash": "ead661d0312b9915b873bf1f7b4210315216638dad669a5ed0fc4643760835a9",
+      "claimIds": [
+        "german-meta:population",
+        "german-meta:finding",
+        "german-meta:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "german-meta",
+      "sourceId": "s-german-meta",
+      "locale": "zh",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "c5700d030e041e37ec03dd793d072537fd7a7bc0922c3feaa45c7f0f76b407fb",
+      "editionHash": "b61b0312d098b9cb821a6ed4cab845494f5f9398034713650a816458c84f074a",
+      "claimIds": [
+        "german-meta:population",
+        "german-meta:finding",
+        "german-meta:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "german-meta",
+      "sourceId": "s-german-meta",
+      "locale": "ru",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "c5700d030e041e37ec03dd793d072537fd7a7bc0922c3feaa45c7f0f76b407fb",
+      "editionHash": "b50ba65264407d8f0a2f636715f28574c535646b7f70487d3ef7c67bf7d0af93",
+      "claimIds": [
+        "german-meta:population",
+        "german-meta:finding",
+        "german-meta:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "german-meta",
+      "sourceId": "s-german-meta",
+      "locale": "ar",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "c5700d030e041e37ec03dd793d072537fd7a7bc0922c3feaa45c7f0f76b407fb",
+      "editionHash": "10c4e2e0af9c8ee0ed5c64bc02fd42136155a5ddc07ac32f99d1b7e102de041c",
+      "claimIds": [
+        "german-meta:population",
+        "german-meta:finding",
+        "german-meta:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "german-meta",
+      "sourceId": "s-german-meta",
+      "locale": "id",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "c5700d030e041e37ec03dd793d072537fd7a7bc0922c3feaa45c7f0f76b407fb",
+      "editionHash": "1998531e8af5ff84b2fb629ef09570ee1d935fcc8c3fe6b04f1770d916b00df0",
+      "claimIds": [
+        "german-meta:population",
+        "german-meta:finding",
+        "german-meta:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "german-meta",
+      "sourceId": "s-german-meta",
+      "locale": "ms",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "c5700d030e041e37ec03dd793d072537fd7a7bc0922c3feaa45c7f0f76b407fb",
+      "editionHash": "cf9452a59608d87632b819c2df77e2f8751dcb04bd70f8ddb241ceef78df92f0",
+      "claimIds": [
+        "german-meta:population",
+        "german-meta:finding",
+        "german-meta:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "adolescent-contexts",
+      "sourceId": "s-adolescent-contexts",
+      "locale": "tr",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "c442245321ffdcd16291d08f15eeeb508208fceb2717e5bad426c498de946fdf",
+      "editionHash": "3910177c98df34fc362aab62c7f194a962b186570a326e456475437ff3a62026",
+      "claimIds": [
+        "adolescent-contexts:population",
+        "adolescent-contexts:finding",
+        "adolescent-contexts:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "adolescent-contexts",
+      "sourceId": "s-adolescent-contexts",
+      "locale": "en",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "c442245321ffdcd16291d08f15eeeb508208fceb2717e5bad426c498de946fdf",
+      "editionHash": "400ca5146f6a0858d7524dd2c31ae2b9cda00f33fa1383e9f8306ac0942b842f",
+      "claimIds": [
+        "adolescent-contexts:population",
+        "adolescent-contexts:finding",
+        "adolescent-contexts:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "adolescent-contexts",
+      "sourceId": "s-adolescent-contexts",
+      "locale": "de",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "c442245321ffdcd16291d08f15eeeb508208fceb2717e5bad426c498de946fdf",
+      "editionHash": "a450479fa86592150a4db14f2a7d626fe05872921b135376a28b682e3513a116",
+      "claimIds": [
+        "adolescent-contexts:population",
+        "adolescent-contexts:finding",
+        "adolescent-contexts:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "adolescent-contexts",
+      "sourceId": "s-adolescent-contexts",
+      "locale": "zh",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "c442245321ffdcd16291d08f15eeeb508208fceb2717e5bad426c498de946fdf",
+      "editionHash": "24785c2012d1455a93fab80cabe99381e9d1d46f6371aee0a2c20c1194eb5de4",
+      "claimIds": [
+        "adolescent-contexts:population",
+        "adolescent-contexts:finding",
+        "adolescent-contexts:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "adolescent-contexts",
+      "sourceId": "s-adolescent-contexts",
+      "locale": "ru",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "c442245321ffdcd16291d08f15eeeb508208fceb2717e5bad426c498de946fdf",
+      "editionHash": "f088652401b9dc6ba63da1507920d794d1792059ad37bfb18526c58047136d87",
+      "claimIds": [
+        "adolescent-contexts:population",
+        "adolescent-contexts:finding",
+        "adolescent-contexts:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "adolescent-contexts",
+      "sourceId": "s-adolescent-contexts",
+      "locale": "ar",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "c442245321ffdcd16291d08f15eeeb508208fceb2717e5bad426c498de946fdf",
+      "editionHash": "4681e4f76655ee10309eabbedd33aa75dacd49d1af2e77bc8c052c1322c769f1",
+      "claimIds": [
+        "adolescent-contexts:population",
+        "adolescent-contexts:finding",
+        "adolescent-contexts:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "adolescent-contexts",
+      "sourceId": "s-adolescent-contexts",
+      "locale": "id",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "c442245321ffdcd16291d08f15eeeb508208fceb2717e5bad426c498de946fdf",
+      "editionHash": "9cd62dd7e161660fc3cd4f24dc418e016119da41883946fe01067e2d167f0445",
+      "claimIds": [
+        "adolescent-contexts:population",
+        "adolescent-contexts:finding",
+        "adolescent-contexts:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "adolescent-contexts",
+      "sourceId": "s-adolescent-contexts",
+      "locale": "ms",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "c442245321ffdcd16291d08f15eeeb508208fceb2717e5bad426c498de946fdf",
+      "editionHash": "a51fa991ff0ea2501555b611479b07fb61a20b90d470b7df0d98ee833a9c7565",
+      "claimIds": [
+        "adolescent-contexts:population",
+        "adolescent-contexts:finding",
+        "adolescent-contexts:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "youth-evidence",
+      "sourceId": "s-youth-evidence",
+      "locale": "tr",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "964381c755e1732016da4dd8a04353b84f4a50fdfe9954f4e48848b46765d128",
+      "editionHash": "02702192136178f5279b7b2f0a15746237a5a39d2bd8924631312bd2dc9e8265",
+      "claimIds": [
+        "youth-evidence:population",
+        "youth-evidence:finding",
+        "youth-evidence:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "youth-evidence",
+      "sourceId": "s-youth-evidence",
+      "locale": "en",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "964381c755e1732016da4dd8a04353b84f4a50fdfe9954f4e48848b46765d128",
+      "editionHash": "f1b7320176183842f87b7b5304473497c7482dd669b0152ffd44b00cbae72fc1",
+      "claimIds": [
+        "youth-evidence:population",
+        "youth-evidence:finding",
+        "youth-evidence:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "youth-evidence",
+      "sourceId": "s-youth-evidence",
+      "locale": "de",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "964381c755e1732016da4dd8a04353b84f4a50fdfe9954f4e48848b46765d128",
+      "editionHash": "377a97aeb522670517e2a9563403d8e2efd30a0cad1b807cc505d177444ae0fd",
+      "claimIds": [
+        "youth-evidence:population",
+        "youth-evidence:finding",
+        "youth-evidence:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "youth-evidence",
+      "sourceId": "s-youth-evidence",
+      "locale": "zh",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "964381c755e1732016da4dd8a04353b84f4a50fdfe9954f4e48848b46765d128",
+      "editionHash": "11665e4d950af8e0af7e8c2ccd6165505cdfdefd7593dc443047908e7d5fe636",
+      "claimIds": [
+        "youth-evidence:population",
+        "youth-evidence:finding",
+        "youth-evidence:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "youth-evidence",
+      "sourceId": "s-youth-evidence",
+      "locale": "ru",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "964381c755e1732016da4dd8a04353b84f4a50fdfe9954f4e48848b46765d128",
+      "editionHash": "4015ea8a9a88abf6cd8666b62236e131a64d4df05d2bd272684ded8fc1cae91a",
+      "claimIds": [
+        "youth-evidence:population",
+        "youth-evidence:finding",
+        "youth-evidence:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "youth-evidence",
+      "sourceId": "s-youth-evidence",
+      "locale": "ar",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "964381c755e1732016da4dd8a04353b84f4a50fdfe9954f4e48848b46765d128",
+      "editionHash": "c6f43b21aae0ac4825392aec5e37f7b046fa1f053083c2b801dce0cee6ff73bd",
+      "claimIds": [
+        "youth-evidence:population",
+        "youth-evidence:finding",
+        "youth-evidence:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "youth-evidence",
+      "sourceId": "s-youth-evidence",
+      "locale": "id",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "964381c755e1732016da4dd8a04353b84f4a50fdfe9954f4e48848b46765d128",
+      "editionHash": "83d053514184e9687d1a6629bdf49642b6ba276616a663a42afb44c578bf05f9",
+      "claimIds": [
+        "youth-evidence:population",
+        "youth-evidence:finding",
+        "youth-evidence:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "youth-evidence",
+      "sourceId": "s-youth-evidence",
+      "locale": "ms",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "964381c755e1732016da4dd8a04353b84f4a50fdfe9954f4e48848b46765d128",
+      "editionHash": "c1dca930cc0f7d0b836179958cf9ff938076fd256f7d8b32d05af2e439fe121f",
+      "claimIds": [
+        "youth-evidence:population",
+        "youth-evidence:finding",
+        "youth-evidence:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "older-adults",
+      "sourceId": "s-older-adults",
+      "locale": "tr",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "b4fa0905179c9ea45dc22efc6384846b3e825587cfc41bf880d71a9f4debaefe",
+      "editionHash": "b1531294cb619d89afc8d2ac63c3162d9f2ad55426c9f32adad77215b0f62f96",
+      "claimIds": [
+        "older-adults:population",
+        "older-adults:finding",
+        "older-adults:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "older-adults",
+      "sourceId": "s-older-adults",
+      "locale": "en",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "b4fa0905179c9ea45dc22efc6384846b3e825587cfc41bf880d71a9f4debaefe",
+      "editionHash": "16ba67cb5e74a33a73dfd66540b12032beb98bc6a2b21156e6927a6459b2ef65",
+      "claimIds": [
+        "older-adults:population",
+        "older-adults:finding",
+        "older-adults:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "older-adults",
+      "sourceId": "s-older-adults",
+      "locale": "de",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "b4fa0905179c9ea45dc22efc6384846b3e825587cfc41bf880d71a9f4debaefe",
+      "editionHash": "c0669a0a66b3816df1181693e6065c3020c89ed2a9346937749c6e14a149603c",
+      "claimIds": [
+        "older-adults:population",
+        "older-adults:finding",
+        "older-adults:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "older-adults",
+      "sourceId": "s-older-adults",
+      "locale": "zh",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "b4fa0905179c9ea45dc22efc6384846b3e825587cfc41bf880d71a9f4debaefe",
+      "editionHash": "736427e3a5cceec868b4dae868da10fc68fda81474b0e6bce5ed1bb59eca8ea2",
+      "claimIds": [
+        "older-adults:population",
+        "older-adults:finding",
+        "older-adults:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "older-adults",
+      "sourceId": "s-older-adults",
+      "locale": "ru",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "b4fa0905179c9ea45dc22efc6384846b3e825587cfc41bf880d71a9f4debaefe",
+      "editionHash": "fc2e3d440e12f884545b7fd7d91950c64d57ac9d3bf45093e6e675af13679374",
+      "claimIds": [
+        "older-adults:population",
+        "older-adults:finding",
+        "older-adults:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "older-adults",
+      "sourceId": "s-older-adults",
+      "locale": "ar",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "b4fa0905179c9ea45dc22efc6384846b3e825587cfc41bf880d71a9f4debaefe",
+      "editionHash": "12b5f4673aeda765aabdb94cb6a762f55689ef4c4b91ede8e7195d82994e95c7",
+      "claimIds": [
+        "older-adults:population",
+        "older-adults:finding",
+        "older-adults:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "older-adults",
+      "sourceId": "s-older-adults",
+      "locale": "id",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "b4fa0905179c9ea45dc22efc6384846b3e825587cfc41bf880d71a9f4debaefe",
+      "editionHash": "610c1427c4cce1c236e84e101e224252025684b637a2ac52f0b8aac9f4b2128a",
+      "claimIds": [
+        "older-adults:population",
+        "older-adults:finding",
+        "older-adults:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "older-adults",
+      "sourceId": "s-older-adults",
+      "locale": "ms",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "b4fa0905179c9ea45dc22efc6384846b3e825587cfc41bf880d71a9f4debaefe",
+      "editionHash": "eb7f36c53c6ab9a87a7d5eaa869c9f9aa33ed7b899cc134c2341ecd6e7bb716f",
+      "claimIds": [
+        "older-adults:population",
+        "older-adults:finding",
+        "older-adults:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "attendance-cohorts",
+      "sourceId": "s-attendance-cohorts",
+      "locale": "tr",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "b988165e465c1e68fe37399e08e8745dd7a9cab467f75b439c0d07c1c8267eb5",
+      "editionHash": "5d58a9f600a62e18e32f8b5862664e0d2fd9abb927d87dc851f07f11dfeba515",
+      "claimIds": [
+        "attendance-cohorts:population",
+        "attendance-cohorts:finding",
+        "attendance-cohorts:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "attendance-cohorts",
+      "sourceId": "s-attendance-cohorts",
+      "locale": "en",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "b988165e465c1e68fe37399e08e8745dd7a9cab467f75b439c0d07c1c8267eb5",
+      "editionHash": "719f3220602384024517b84beee665d6aad54c66dd4415c0fac060608a72b940",
+      "claimIds": [
+        "attendance-cohorts:population",
+        "attendance-cohorts:finding",
+        "attendance-cohorts:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "attendance-cohorts",
+      "sourceId": "s-attendance-cohorts",
+      "locale": "de",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "b988165e465c1e68fe37399e08e8745dd7a9cab467f75b439c0d07c1c8267eb5",
+      "editionHash": "84234dc750cfcd8f4c40610be10541bff0f27745ae1d2253258af3d691c36f14",
+      "claimIds": [
+        "attendance-cohorts:population",
+        "attendance-cohorts:finding",
+        "attendance-cohorts:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "attendance-cohorts",
+      "sourceId": "s-attendance-cohorts",
+      "locale": "zh",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "b988165e465c1e68fe37399e08e8745dd7a9cab467f75b439c0d07c1c8267eb5",
+      "editionHash": "f187e52ea5ea51a2409103d004f06993fcef777a028edcf947bbf3fbaed869c1",
+      "claimIds": [
+        "attendance-cohorts:population",
+        "attendance-cohorts:finding",
+        "attendance-cohorts:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "attendance-cohorts",
+      "sourceId": "s-attendance-cohorts",
+      "locale": "ru",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "b988165e465c1e68fe37399e08e8745dd7a9cab467f75b439c0d07c1c8267eb5",
+      "editionHash": "52428c2e4b8e14aaad7333a4ac4f67c41972382c2454f12f3c1f3702b6322713",
+      "claimIds": [
+        "attendance-cohorts:population",
+        "attendance-cohorts:finding",
+        "attendance-cohorts:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "attendance-cohorts",
+      "sourceId": "s-attendance-cohorts",
+      "locale": "ar",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "b988165e465c1e68fe37399e08e8745dd7a9cab467f75b439c0d07c1c8267eb5",
+      "editionHash": "8d19219893bb293ce7036c95198b3252704a03543ff179b33f6f90c2819752fe",
+      "claimIds": [
+        "attendance-cohorts:population",
+        "attendance-cohorts:finding",
+        "attendance-cohorts:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "attendance-cohorts",
+      "sourceId": "s-attendance-cohorts",
+      "locale": "id",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "b988165e465c1e68fe37399e08e8745dd7a9cab467f75b439c0d07c1c8267eb5",
+      "editionHash": "42ef7f2badcc2f2bb6b0d77c14b4a01eeac266565fb9f3a6cd61c0f7c7796e3b",
+      "claimIds": [
+        "attendance-cohorts:population",
+        "attendance-cohorts:finding",
+        "attendance-cohorts:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "attendance-cohorts",
+      "sourceId": "s-attendance-cohorts",
+      "locale": "ms",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "b988165e465c1e68fe37399e08e8745dd7a9cab467f75b439c0d07c1c8267eb5",
+      "editionHash": "ac8f20cb83b10ca0555e79ecd9468f5975ce66a03be495fc8b252188db98b4da",
+      "claimIds": [
+        "attendance-cohorts:population",
+        "attendance-cohorts:finding",
+        "attendance-cohorts:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "atheist-struggles",
+      "sourceId": "s-atheist-struggles",
+      "locale": "tr",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "537296ca446ccf77c4585a0c1777e93df8bbe25bab0e774ac113f2ae83c8b850",
+      "editionHash": "859922a44ee1b1e6886577aef9c2af673f51f79968b850d550283122f6339955",
+      "claimIds": [
+        "atheist-struggles:population",
+        "atheist-struggles:finding",
+        "atheist-struggles:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "atheist-struggles",
+      "sourceId": "s-atheist-struggles",
+      "locale": "en",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "537296ca446ccf77c4585a0c1777e93df8bbe25bab0e774ac113f2ae83c8b850",
+      "editionHash": "ed8ca31b561473c1c5f3abe71264dba64970c60c07aab655e4330d4d5289a5b2",
+      "claimIds": [
+        "atheist-struggles:population",
+        "atheist-struggles:finding",
+        "atheist-struggles:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "atheist-struggles",
+      "sourceId": "s-atheist-struggles",
+      "locale": "de",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "537296ca446ccf77c4585a0c1777e93df8bbe25bab0e774ac113f2ae83c8b850",
+      "editionHash": "df5dcd96608529bdefde76f8361aef6e96a62a3145993487a7dec686cd008a0b",
+      "claimIds": [
+        "atheist-struggles:population",
+        "atheist-struggles:finding",
+        "atheist-struggles:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "atheist-struggles",
+      "sourceId": "s-atheist-struggles",
+      "locale": "zh",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "537296ca446ccf77c4585a0c1777e93df8bbe25bab0e774ac113f2ae83c8b850",
+      "editionHash": "f402ba976eac3b4302cf70a33f700aecfdd32950367e751e90ef484af1039554",
+      "claimIds": [
+        "atheist-struggles:population",
+        "atheist-struggles:finding",
+        "atheist-struggles:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "atheist-struggles",
+      "sourceId": "s-atheist-struggles",
+      "locale": "ru",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "537296ca446ccf77c4585a0c1777e93df8bbe25bab0e774ac113f2ae83c8b850",
+      "editionHash": "cd332ad1795f19d70a66afac9da7d3316108d5747ee05a68d288d31ab929ca52",
+      "claimIds": [
+        "atheist-struggles:population",
+        "atheist-struggles:finding",
+        "atheist-struggles:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "atheist-struggles",
+      "sourceId": "s-atheist-struggles",
+      "locale": "ar",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "537296ca446ccf77c4585a0c1777e93df8bbe25bab0e774ac113f2ae83c8b850",
+      "editionHash": "03ede173af61fc84a683aa4dc568d4121fecc1ae77509c6cd868fb4c045b3095",
+      "claimIds": [
+        "atheist-struggles:population",
+        "atheist-struggles:finding",
+        "atheist-struggles:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "atheist-struggles",
+      "sourceId": "s-atheist-struggles",
+      "locale": "id",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "537296ca446ccf77c4585a0c1777e93df8bbe25bab0e774ac113f2ae83c8b850",
+      "editionHash": "19a8ea84225ff63ee007bf2ec8439fa6672a9e4f7cba9030866861d5e06803df",
+      "claimIds": [
+        "atheist-struggles:population",
+        "atheist-struggles:finding",
+        "atheist-struggles:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "atheist-struggles",
+      "sourceId": "s-atheist-struggles",
+      "locale": "ms",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "537296ca446ccf77c4585a0c1777e93df8bbe25bab0e774ac113f2ae83c8b850",
+      "editionHash": "6c776f3624b025cadc137cd64db113c98b520d2b5cd71710e01a3c2a235fdad8",
+      "claimIds": [
+        "atheist-struggles:population",
+        "atheist-struggles:finding",
+        "atheist-struggles:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "religious-cbt",
+      "sourceId": "s-religious-cbt",
+      "locale": "tr",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "c7a2c6d6690d631d9d358105450002c7d54ac93bc93b5e2967a44157f92a6e43",
+      "editionHash": "c6daca90d8ff10ede8931fe2cc9293462ccce544077c586c3be710143036e6e5",
+      "claimIds": [
+        "religious-cbt:population",
+        "religious-cbt:finding",
+        "religious-cbt:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "religious-cbt",
+      "sourceId": "s-religious-cbt",
+      "locale": "en",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "c7a2c6d6690d631d9d358105450002c7d54ac93bc93b5e2967a44157f92a6e43",
+      "editionHash": "a9b93835d500ff0a911fd2258c09c1ea720c2aa3b11f68c1d6b4c4218b8ed376",
+      "claimIds": [
+        "religious-cbt:population",
+        "religious-cbt:finding",
+        "religious-cbt:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "religious-cbt",
+      "sourceId": "s-religious-cbt",
+      "locale": "de",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "c7a2c6d6690d631d9d358105450002c7d54ac93bc93b5e2967a44157f92a6e43",
+      "editionHash": "049d43b921cd11ce57d9f2356c5154aa43b1d8c75d8b6c2ded4aae8b41d4b6f9",
+      "claimIds": [
+        "religious-cbt:population",
+        "religious-cbt:finding",
+        "religious-cbt:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "religious-cbt",
+      "sourceId": "s-religious-cbt",
+      "locale": "zh",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "c7a2c6d6690d631d9d358105450002c7d54ac93bc93b5e2967a44157f92a6e43",
+      "editionHash": "bc7e4ed9a12e28336d5e01dcbfb642fab69f6ece57e988264b76b2490fed32e8",
+      "claimIds": [
+        "religious-cbt:population",
+        "religious-cbt:finding",
+        "religious-cbt:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "religious-cbt",
+      "sourceId": "s-religious-cbt",
+      "locale": "ru",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "c7a2c6d6690d631d9d358105450002c7d54ac93bc93b5e2967a44157f92a6e43",
+      "editionHash": "3b8363de49104d26d595c15fe03475e2615f5b82078688c854025c97115f4e37",
+      "claimIds": [
+        "religious-cbt:population",
+        "religious-cbt:finding",
+        "religious-cbt:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "religious-cbt",
+      "sourceId": "s-religious-cbt",
+      "locale": "ar",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "c7a2c6d6690d631d9d358105450002c7d54ac93bc93b5e2967a44157f92a6e43",
+      "editionHash": "df9438b867564b8c2f5590e6bc01e32b955aa8fcd0a9eb90f4f4b7a64f651e00",
+      "claimIds": [
+        "religious-cbt:population",
+        "religious-cbt:finding",
+        "religious-cbt:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "religious-cbt",
+      "sourceId": "s-religious-cbt",
+      "locale": "id",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "c7a2c6d6690d631d9d358105450002c7d54ac93bc93b5e2967a44157f92a6e43",
+      "editionHash": "5fdac11adc16c87f2c5760d76fdf635d560f151191a41df29dbae1ed05843638",
+      "claimIds": [
+        "religious-cbt:population",
+        "religious-cbt:finding",
+        "religious-cbt:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "religious-cbt",
+      "sourceId": "s-religious-cbt",
+      "locale": "ms",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "c7a2c6d6690d631d9d358105450002c7d54ac93bc93b5e2967a44157f92a6e43",
+      "editionHash": "057cb2d5e96e564b669f1eabf71fa298dc33016e52baa9f1951d8dc86d869c38",
+      "claimIds": [
+        "religious-cbt:population",
+        "religious-cbt:finding",
+        "religious-cbt:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "disaster-needs",
+      "sourceId": "s-disaster-needs",
+      "locale": "tr",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "8b873f6b06e341f03be5ca284c68f02ef63b2a6aa2f46cd99db4cf4d89b2251d",
+      "editionHash": "144b9f72f26a06de44ba55c5847cf35a2ac8be42052de90daefa0134614c0152",
+      "claimIds": [
+        "disaster-needs:population",
+        "disaster-needs:finding",
+        "disaster-needs:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "disaster-needs",
+      "sourceId": "s-disaster-needs",
+      "locale": "en",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "8b873f6b06e341f03be5ca284c68f02ef63b2a6aa2f46cd99db4cf4d89b2251d",
+      "editionHash": "5cf79e850bab589b886700b19bc61bda789483d0978a0a8c96d9705ffa2216e2",
+      "claimIds": [
+        "disaster-needs:population",
+        "disaster-needs:finding",
+        "disaster-needs:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "disaster-needs",
+      "sourceId": "s-disaster-needs",
+      "locale": "de",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "8b873f6b06e341f03be5ca284c68f02ef63b2a6aa2f46cd99db4cf4d89b2251d",
+      "editionHash": "68773d8f01d852fd836e4bec928a4a61188608c92407c24e66be888119304d45",
+      "claimIds": [
+        "disaster-needs:population",
+        "disaster-needs:finding",
+        "disaster-needs:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "disaster-needs",
+      "sourceId": "s-disaster-needs",
+      "locale": "zh",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "8b873f6b06e341f03be5ca284c68f02ef63b2a6aa2f46cd99db4cf4d89b2251d",
+      "editionHash": "f6ebcab2a1f69deeb5e82b6e12423bdbb2068def7855663f3f313148a392cbd5",
+      "claimIds": [
+        "disaster-needs:population",
+        "disaster-needs:finding",
+        "disaster-needs:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "disaster-needs",
+      "sourceId": "s-disaster-needs",
+      "locale": "ru",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "8b873f6b06e341f03be5ca284c68f02ef63b2a6aa2f46cd99db4cf4d89b2251d",
+      "editionHash": "4fe349bfc3a21bafdc5a7a63e171ef42721850096aa24acc66cfc371827f482d",
+      "claimIds": [
+        "disaster-needs:population",
+        "disaster-needs:finding",
+        "disaster-needs:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "disaster-needs",
+      "sourceId": "s-disaster-needs",
+      "locale": "ar",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "8b873f6b06e341f03be5ca284c68f02ef63b2a6aa2f46cd99db4cf4d89b2251d",
+      "editionHash": "f39f5eb6f5a8deb257cc81d29394a32e7f523fc2d7a4a483b6a362a883f8ef42",
+      "claimIds": [
+        "disaster-needs:population",
+        "disaster-needs:finding",
+        "disaster-needs:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "disaster-needs",
+      "sourceId": "s-disaster-needs",
+      "locale": "id",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "8b873f6b06e341f03be5ca284c68f02ef63b2a6aa2f46cd99db4cf4d89b2251d",
+      "editionHash": "da7f8c0b65ad5947540a079819870271305eee9c9fea1bb2e3a6265a60e1e272",
+      "claimIds": [
+        "disaster-needs:population",
+        "disaster-needs:finding",
+        "disaster-needs:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "disaster-needs",
+      "sourceId": "s-disaster-needs",
+      "locale": "ms",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "8b873f6b06e341f03be5ca284c68f02ef63b2a6aa2f46cd99db4cf4d89b2251d",
+      "editionHash": "a8d0b45db7b708ed2e1d9a093891c7fff456c34fed6501a786ea17c6cdb88afd",
+      "claimIds": [
+        "disaster-needs:population",
+        "disaster-needs:finding",
+        "disaster-needs:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brief-rcope",
+      "sourceId": "s-brief-rcope",
+      "locale": "tr",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "e4452260185ce042300103d5694f438deb3eec6673c283acc4d62f5078ad83af",
+      "editionHash": "1b6fc5ab0208d8ae08ffe516912719286525b4052ac3f6d7d535f67805148f10",
+      "claimIds": [
+        "brief-rcope:population",
+        "brief-rcope:finding",
+        "brief-rcope:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brief-rcope",
+      "sourceId": "s-brief-rcope",
+      "locale": "en",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "e4452260185ce042300103d5694f438deb3eec6673c283acc4d62f5078ad83af",
+      "editionHash": "a54581e165940c35a609b450881fe1c0da06dfe54af95374996f6fff409c245c",
+      "claimIds": [
+        "brief-rcope:population",
+        "brief-rcope:finding",
+        "brief-rcope:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brief-rcope",
+      "sourceId": "s-brief-rcope",
+      "locale": "de",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "e4452260185ce042300103d5694f438deb3eec6673c283acc4d62f5078ad83af",
+      "editionHash": "7632972008d6bb208f4be4e14d760d171c8e81c39a9e5d12f65d6f8ff194000a",
+      "claimIds": [
+        "brief-rcope:population",
+        "brief-rcope:finding",
+        "brief-rcope:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brief-rcope",
+      "sourceId": "s-brief-rcope",
+      "locale": "zh",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "e4452260185ce042300103d5694f438deb3eec6673c283acc4d62f5078ad83af",
+      "editionHash": "7873e22bdf3e2c5be77ef8080c7066018ba6ce4a4cc3c70c3cc13588c58e6c08",
+      "claimIds": [
+        "brief-rcope:population",
+        "brief-rcope:finding",
+        "brief-rcope:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brief-rcope",
+      "sourceId": "s-brief-rcope",
+      "locale": "ru",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "e4452260185ce042300103d5694f438deb3eec6673c283acc4d62f5078ad83af",
+      "editionHash": "61e0cd53d35982b1bc360470b0a5c186e65493e9de0c07d2eb0865634ad08f5f",
+      "claimIds": [
+        "brief-rcope:population",
+        "brief-rcope:finding",
+        "brief-rcope:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brief-rcope",
+      "sourceId": "s-brief-rcope",
+      "locale": "ar",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "e4452260185ce042300103d5694f438deb3eec6673c283acc4d62f5078ad83af",
+      "editionHash": "d94e5fd152f69d27a9c99e2674c084e2bed46d0ce2d4e08a7ddfcba401600bf9",
+      "claimIds": [
+        "brief-rcope:population",
+        "brief-rcope:finding",
+        "brief-rcope:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brief-rcope",
+      "sourceId": "s-brief-rcope",
+      "locale": "id",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "e4452260185ce042300103d5694f438deb3eec6673c283acc4d62f5078ad83af",
+      "editionHash": "f61ae3264c5d326b661b129cf7a8c88918b99dd6d5b94bc66a648d49118fd80e",
+      "claimIds": [
+        "brief-rcope:population",
+        "brief-rcope:finding",
+        "brief-rcope:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brief-rcope",
+      "sourceId": "s-brief-rcope",
+      "locale": "ms",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "e4452260185ce042300103d5694f438deb3eec6673c283acc4d62f5078ad83af",
+      "editionHash": "02460c285b69ac2cb06c11fa36359ce1474d10014d192c327815eccebb529100",
+      "claimIds": [
+        "brief-rcope:population",
+        "brief-rcope:finding",
+        "brief-rcope:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "meaning-questionnaire",
+      "sourceId": "s-meaning-questionnaire",
+      "locale": "tr",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "8d5c071a180302a1d547bd04fe02a775145efe9d1ddc8a07721c93d3fc8aa252",
+      "editionHash": "d5add3303cb881bc317056e09b23c876211be4b99ec890a32db827a8fd4b88d2",
+      "claimIds": [
+        "meaning-questionnaire:population",
+        "meaning-questionnaire:finding",
+        "meaning-questionnaire:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "meaning-questionnaire",
+      "sourceId": "s-meaning-questionnaire",
+      "locale": "en",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "8d5c071a180302a1d547bd04fe02a775145efe9d1ddc8a07721c93d3fc8aa252",
+      "editionHash": "d2dce5fb8b38275a4a9b3a6e14e607be1fa42cc003e99263b1d6cf5a320c3b75",
+      "claimIds": [
+        "meaning-questionnaire:population",
+        "meaning-questionnaire:finding",
+        "meaning-questionnaire:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "meaning-questionnaire",
+      "sourceId": "s-meaning-questionnaire",
+      "locale": "de",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "8d5c071a180302a1d547bd04fe02a775145efe9d1ddc8a07721c93d3fc8aa252",
+      "editionHash": "a11081190b5c27ce5c7c0612089739c85d196b4688485e6d194fecf66f08ab45",
+      "claimIds": [
+        "meaning-questionnaire:population",
+        "meaning-questionnaire:finding",
+        "meaning-questionnaire:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "meaning-questionnaire",
+      "sourceId": "s-meaning-questionnaire",
+      "locale": "zh",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "8d5c071a180302a1d547bd04fe02a775145efe9d1ddc8a07721c93d3fc8aa252",
+      "editionHash": "de8f553e49f37466c67d1cec52ce8c02dda676887d179e883490e16c98f4e5dd",
+      "claimIds": [
+        "meaning-questionnaire:population",
+        "meaning-questionnaire:finding",
+        "meaning-questionnaire:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "meaning-questionnaire",
+      "sourceId": "s-meaning-questionnaire",
+      "locale": "ru",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "8d5c071a180302a1d547bd04fe02a775145efe9d1ddc8a07721c93d3fc8aa252",
+      "editionHash": "4aa26869f5f555d703307a55b5b177e65f9ae500f4e990dd4ac9cb68c1e7b1e9",
+      "claimIds": [
+        "meaning-questionnaire:population",
+        "meaning-questionnaire:finding",
+        "meaning-questionnaire:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "meaning-questionnaire",
+      "sourceId": "s-meaning-questionnaire",
+      "locale": "ar",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "8d5c071a180302a1d547bd04fe02a775145efe9d1ddc8a07721c93d3fc8aa252",
+      "editionHash": "11ddfb27407cf850613d38a29acf69398688fc38a91e4fe25762ae7ea4823a2e",
+      "claimIds": [
+        "meaning-questionnaire:population",
+        "meaning-questionnaire:finding",
+        "meaning-questionnaire:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "meaning-questionnaire",
+      "sourceId": "s-meaning-questionnaire",
+      "locale": "id",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "8d5c071a180302a1d547bd04fe02a775145efe9d1ddc8a07721c93d3fc8aa252",
+      "editionHash": "5af26a7203e073db340d54ca013c8d82c0db28a835971f503032aedf58c2a92f",
+      "claimIds": [
+        "meaning-questionnaire:population",
+        "meaning-questionnaire:finding",
+        "meaning-questionnaire:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "meaning-questionnaire",
+      "sourceId": "s-meaning-questionnaire",
+      "locale": "ms",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "8d5c071a180302a1d547bd04fe02a775145efe9d1ddc8a07721c93d3fc8aa252",
+      "editionHash": "7cdd97b145f9b2d45c69de0c48a67e22f018387945672b6bed51c36e8cd4584f",
+      "claimIds": [
+        "meaning-questionnaire:population",
+        "meaning-questionnaire:finding",
+        "meaning-questionnaire:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "durel",
+      "sourceId": "s-durel",
+      "locale": "tr",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "7426c2ad35cf92de50220817720506a0074849e86f205e308d9fd6ac3e998b2d",
+      "editionHash": "56403a73c64e277b01de5b76435bbc97b842a175924e4ad2a44711a0cea5c387",
+      "claimIds": [
+        "durel:population",
+        "durel:finding",
+        "durel:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "durel",
+      "sourceId": "s-durel",
+      "locale": "en",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "7426c2ad35cf92de50220817720506a0074849e86f205e308d9fd6ac3e998b2d",
+      "editionHash": "1b0fd5037d52077ef64a6745640d45dc21a4d6346a0131b6cb7f1289f02e7b47",
+      "claimIds": [
+        "durel:population",
+        "durel:finding",
+        "durel:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "durel",
+      "sourceId": "s-durel",
+      "locale": "de",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "7426c2ad35cf92de50220817720506a0074849e86f205e308d9fd6ac3e998b2d",
+      "editionHash": "2d5223f3e642d2f5525b65c6c7f40ab050220f4c7f2d7bcdef8a13d49940a752",
+      "claimIds": [
+        "durel:population",
+        "durel:finding",
+        "durel:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "durel",
+      "sourceId": "s-durel",
+      "locale": "zh",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "7426c2ad35cf92de50220817720506a0074849e86f205e308d9fd6ac3e998b2d",
+      "editionHash": "96aeb60e524c90f51222f0c01062d73145cbb0fa260ca197e76fba7afac1c20c",
+      "claimIds": [
+        "durel:population",
+        "durel:finding",
+        "durel:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "durel",
+      "sourceId": "s-durel",
+      "locale": "ru",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "7426c2ad35cf92de50220817720506a0074849e86f205e308d9fd6ac3e998b2d",
+      "editionHash": "6b07e372ff0175f23f47bffb9df4cdfffd97337b4acbf200b8962bbce7b47648",
+      "claimIds": [
+        "durel:population",
+        "durel:finding",
+        "durel:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "durel",
+      "sourceId": "s-durel",
+      "locale": "ar",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "7426c2ad35cf92de50220817720506a0074849e86f205e308d9fd6ac3e998b2d",
+      "editionHash": "36ddc17e79c045983551c900b321283b0a21750ad37717b02b350c93d8d42325",
+      "claimIds": [
+        "durel:population",
+        "durel:finding",
+        "durel:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "durel",
+      "sourceId": "s-durel",
+      "locale": "id",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "7426c2ad35cf92de50220817720506a0074849e86f205e308d9fd6ac3e998b2d",
+      "editionHash": "fd13df91c4fa5f2aaeef53ef671f0af830df7b019a046b5b1f6235c6dfaf931e",
+      "claimIds": [
+        "durel:population",
+        "durel:finding",
+        "durel:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "durel",
+      "sourceId": "s-durel",
+      "locale": "ms",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "7426c2ad35cf92de50220817720506a0074849e86f205e308d9fd6ac3e998b2d",
+      "editionHash": "d65be2001ac7dd5e314d410c14efdcd52953d9f1ea3feddccf7964fc232bb041",
+      "claimIds": [
+        "durel:population",
+        "durel:finding",
+        "durel:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-eksi-kardas",
+      "sourceId": "s-swbs-eksi-kardas",
+      "locale": "tr",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "d3554717474cb81636856aa18710f7cdf06aad707b9443da7558a7b3b9124ef8",
+      "editionHash": "5b3080c7e3732a697fddf74984099daa27fb4ccb56767e2c2f7006309b1ae979",
+      "claimIds": [
+        "swbs-eksi-kardas:population",
+        "swbs-eksi-kardas:finding",
+        "swbs-eksi-kardas:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-eksi-kardas",
+      "sourceId": "s-swbs-eksi-kardas",
+      "locale": "en",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "d3554717474cb81636856aa18710f7cdf06aad707b9443da7558a7b3b9124ef8",
+      "editionHash": "57dff0ad8b5ca81df4cca0e22c0ad8ce8e9dce543f58b2cfcdb3963021e46b49",
+      "claimIds": [
+        "swbs-eksi-kardas:population",
+        "swbs-eksi-kardas:finding",
+        "swbs-eksi-kardas:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-eksi-kardas",
+      "sourceId": "s-swbs-eksi-kardas",
+      "locale": "de",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "d3554717474cb81636856aa18710f7cdf06aad707b9443da7558a7b3b9124ef8",
+      "editionHash": "7953c6e58a6f463bd49959752a7f459c45237f6fe7c7a40c3687ce399fbdb465",
+      "claimIds": [
+        "swbs-eksi-kardas:population",
+        "swbs-eksi-kardas:finding",
+        "swbs-eksi-kardas:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-eksi-kardas",
+      "sourceId": "s-swbs-eksi-kardas",
+      "locale": "zh",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "d3554717474cb81636856aa18710f7cdf06aad707b9443da7558a7b3b9124ef8",
+      "editionHash": "9525e8dccecceb6ac74ce1702352d494c7fa53bfdd80848903133b86a8c5e6c1",
+      "claimIds": [
+        "swbs-eksi-kardas:population",
+        "swbs-eksi-kardas:finding",
+        "swbs-eksi-kardas:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-eksi-kardas",
+      "sourceId": "s-swbs-eksi-kardas",
+      "locale": "ru",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "d3554717474cb81636856aa18710f7cdf06aad707b9443da7558a7b3b9124ef8",
+      "editionHash": "501861962d6930f8de9558e6104bde5bd3e1e9cbdc723711b41a4869fd7856fb",
+      "claimIds": [
+        "swbs-eksi-kardas:population",
+        "swbs-eksi-kardas:finding",
+        "swbs-eksi-kardas:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-eksi-kardas",
+      "sourceId": "s-swbs-eksi-kardas",
+      "locale": "ar",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "d3554717474cb81636856aa18710f7cdf06aad707b9443da7558a7b3b9124ef8",
+      "editionHash": "572ea0b603174bfaef2086ca4ec37d0a4f7c3de83f5002ceabe4151afc92fc43",
+      "claimIds": [
+        "swbs-eksi-kardas:population",
+        "swbs-eksi-kardas:finding",
+        "swbs-eksi-kardas:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-eksi-kardas",
+      "sourceId": "s-swbs-eksi-kardas",
+      "locale": "id",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "d3554717474cb81636856aa18710f7cdf06aad707b9443da7558a7b3b9124ef8",
+      "editionHash": "99652ba4e8242ca598e9bb0774ff3ff7318da38a1ecdd2a4fac95ae0ccd8db8d",
+      "claimIds": [
+        "swbs-eksi-kardas:population",
+        "swbs-eksi-kardas:finding",
+        "swbs-eksi-kardas:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-eksi-kardas",
+      "sourceId": "s-swbs-eksi-kardas",
+      "locale": "ms",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "d3554717474cb81636856aa18710f7cdf06aad707b9443da7558a7b3b9124ef8",
+      "editionHash": "2b2e23e1703f960c00c112315ea97d8f904eff4e178e201a3b43f8ffe5d1bbc8",
+      "claimIds": [
+        "swbs-eksi-kardas:population",
+        "swbs-eksi-kardas:finding",
+        "swbs-eksi-kardas:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-paloutzian-ellison",
+      "sourceId": "s-swbs-paloutzian-ellison",
+      "locale": "tr",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "aa9db1879205191b0131cb71c0f28ddefb477cd28c198b498917157a1453a7fe",
+      "editionHash": "7a12181a344af4f6f0a188301b74cee3a5142c2a175565ffd20af936aae5b39e",
+      "claimIds": [
+        "swbs-paloutzian-ellison:population",
+        "swbs-paloutzian-ellison:finding",
+        "swbs-paloutzian-ellison:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-paloutzian-ellison",
+      "sourceId": "s-swbs-paloutzian-ellison",
+      "locale": "en",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "aa9db1879205191b0131cb71c0f28ddefb477cd28c198b498917157a1453a7fe",
+      "editionHash": "c0d1123b617a35f2712fd78b774e5b84d59f19f0b70817e65e0c42c3b00122d2",
+      "claimIds": [
+        "swbs-paloutzian-ellison:population",
+        "swbs-paloutzian-ellison:finding",
+        "swbs-paloutzian-ellison:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-paloutzian-ellison",
+      "sourceId": "s-swbs-paloutzian-ellison",
+      "locale": "de",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "aa9db1879205191b0131cb71c0f28ddefb477cd28c198b498917157a1453a7fe",
+      "editionHash": "655065c9fc4650d79d9d014cf91ab16da873ee9118a738700e21b29bae8e593f",
+      "claimIds": [
+        "swbs-paloutzian-ellison:population",
+        "swbs-paloutzian-ellison:finding",
+        "swbs-paloutzian-ellison:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-paloutzian-ellison",
+      "sourceId": "s-swbs-paloutzian-ellison",
+      "locale": "zh",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "aa9db1879205191b0131cb71c0f28ddefb477cd28c198b498917157a1453a7fe",
+      "editionHash": "4fec8bd8333a971ef759060692531e8fca3242ff3fd62ac9842dc1ae7b30f8e9",
+      "claimIds": [
+        "swbs-paloutzian-ellison:population",
+        "swbs-paloutzian-ellison:finding",
+        "swbs-paloutzian-ellison:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-paloutzian-ellison",
+      "sourceId": "s-swbs-paloutzian-ellison",
+      "locale": "ru",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "aa9db1879205191b0131cb71c0f28ddefb477cd28c198b498917157a1453a7fe",
+      "editionHash": "4985e06f861a8b4729a038d9ce9797b422ddda6cb3a145e4bf006cf03bf1314e",
+      "claimIds": [
+        "swbs-paloutzian-ellison:population",
+        "swbs-paloutzian-ellison:finding",
+        "swbs-paloutzian-ellison:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-paloutzian-ellison",
+      "sourceId": "s-swbs-paloutzian-ellison",
+      "locale": "ar",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "aa9db1879205191b0131cb71c0f28ddefb477cd28c198b498917157a1453a7fe",
+      "editionHash": "839dc690de9855b9057e54398ed59902df8a7379d20c234b7795192aca1313be",
+      "claimIds": [
+        "swbs-paloutzian-ellison:population",
+        "swbs-paloutzian-ellison:finding",
+        "swbs-paloutzian-ellison:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-paloutzian-ellison",
+      "sourceId": "s-swbs-paloutzian-ellison",
+      "locale": "id",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "aa9db1879205191b0131cb71c0f28ddefb477cd28c198b498917157a1453a7fe",
+      "editionHash": "82271386f0f79ad677bb9590b6ca2ee725fb78b676aefa9b3e7f8a048ffcc5cd",
+      "claimIds": [
+        "swbs-paloutzian-ellison:population",
+        "swbs-paloutzian-ellison:finding",
+        "swbs-paloutzian-ellison:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-paloutzian-ellison",
+      "sourceId": "s-swbs-paloutzian-ellison",
+      "locale": "ms",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "aa9db1879205191b0131cb71c0f28ddefb477cd28c198b498917157a1453a7fe",
+      "editionHash": "1dc3bff642c56196d7fff644cd6afafb4fd2cda764b4bf792de1bab4b6363fed",
+      "claimIds": [
+        "swbs-paloutzian-ellison:population",
+        "swbs-paloutzian-ellison:finding",
+        "swbs-paloutzian-ellison:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "within-person-attendance",
+      "sourceId": "s-within-person-attendance",
+      "locale": "tr",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "9486764c223abec7e1616f98dc3789d35c3e921d8b93819b76c008a3276b3e85",
+      "editionHash": "06da84bdc260c7be46310a6e3663c39f9c8a57807ea4549dff78a51bb49d38b6",
+      "claimIds": [
+        "within-person-attendance:population",
+        "within-person-attendance:finding",
+        "within-person-attendance:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "within-person-attendance",
+      "sourceId": "s-within-person-attendance",
+      "locale": "en",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "9486764c223abec7e1616f98dc3789d35c3e921d8b93819b76c008a3276b3e85",
+      "editionHash": "bce335f08754e2fcde0d403c0f1c3810c4230f50dabd990a72c13150efe189a3",
+      "claimIds": [
+        "within-person-attendance:population",
+        "within-person-attendance:finding",
+        "within-person-attendance:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "within-person-attendance",
+      "sourceId": "s-within-person-attendance",
+      "locale": "de",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "9486764c223abec7e1616f98dc3789d35c3e921d8b93819b76c008a3276b3e85",
+      "editionHash": "9d9ff26274be15e33ecc0aed630a4058722951351d3906e842468913145f59e5",
+      "claimIds": [
+        "within-person-attendance:population",
+        "within-person-attendance:finding",
+        "within-person-attendance:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "within-person-attendance",
+      "sourceId": "s-within-person-attendance",
+      "locale": "zh",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "9486764c223abec7e1616f98dc3789d35c3e921d8b93819b76c008a3276b3e85",
+      "editionHash": "e6120cf36a6a06995d69cab6fa7509515a2990b55d99e831efbc9f89ab3a7aed",
+      "claimIds": [
+        "within-person-attendance:population",
+        "within-person-attendance:finding",
+        "within-person-attendance:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "within-person-attendance",
+      "sourceId": "s-within-person-attendance",
+      "locale": "ru",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "9486764c223abec7e1616f98dc3789d35c3e921d8b93819b76c008a3276b3e85",
+      "editionHash": "6edaed8d8a0a920bd4171ee0c3e2231c4b8207d023077438220c8a6db11df113",
+      "claimIds": [
+        "within-person-attendance:population",
+        "within-person-attendance:finding",
+        "within-person-attendance:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "within-person-attendance",
+      "sourceId": "s-within-person-attendance",
+      "locale": "ar",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "9486764c223abec7e1616f98dc3789d35c3e921d8b93819b76c008a3276b3e85",
+      "editionHash": "f92b929955f41b573ea6c9b8f331162b6e8482e3f757913cc7fa095e9ec56e0b",
+      "claimIds": [
+        "within-person-attendance:population",
+        "within-person-attendance:finding",
+        "within-person-attendance:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "within-person-attendance",
+      "sourceId": "s-within-person-attendance",
+      "locale": "id",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "9486764c223abec7e1616f98dc3789d35c3e921d8b93819b76c008a3276b3e85",
+      "editionHash": "c0cb8f543cb2738e8027f89b656d7542b251eac5e82de5e38a4e868c42cf6166",
+      "claimIds": [
+        "within-person-attendance:population",
+        "within-person-attendance:finding",
+        "within-person-attendance:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "within-person-attendance",
+      "sourceId": "s-within-person-attendance",
+      "locale": "ms",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "9486764c223abec7e1616f98dc3789d35c3e921d8b93819b76c008a3276b3e85",
+      "editionHash": "f65f8d1c14615be3f74e1c2d2d852ea9c39f70fdc5e6da9fa0fd949f625e9aa5",
+      "claimIds": [
+        "within-person-attendance:population",
+        "within-person-attendance:finding",
+        "within-person-attendance:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "bidirectional-alspac",
+      "sourceId": "s-bidirectional-alspac",
+      "locale": "tr",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "7503d55fce228455ec22db22f810d12f33f5baf5971c19b7d83813d6e5bc56ea",
+      "editionHash": "ad8cf9e86668455bd014f733620ab4330a634c171f1550db6db22f81d375fa96",
+      "claimIds": [
+        "bidirectional-alspac:population",
+        "bidirectional-alspac:finding",
+        "bidirectional-alspac:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "bidirectional-alspac",
+      "sourceId": "s-bidirectional-alspac",
+      "locale": "en",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "7503d55fce228455ec22db22f810d12f33f5baf5971c19b7d83813d6e5bc56ea",
+      "editionHash": "660af8e427f49320f43c708a0a7f4ad295030ec3bbdc2c4305e509a5763f38d0",
+      "claimIds": [
+        "bidirectional-alspac:population",
+        "bidirectional-alspac:finding",
+        "bidirectional-alspac:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "bidirectional-alspac",
+      "sourceId": "s-bidirectional-alspac",
+      "locale": "de",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "7503d55fce228455ec22db22f810d12f33f5baf5971c19b7d83813d6e5bc56ea",
+      "editionHash": "161b0760464b20f34b3617be5b379545cc9a67e31a5e716d48d4ca8bbe05cfc8",
+      "claimIds": [
+        "bidirectional-alspac:population",
+        "bidirectional-alspac:finding",
+        "bidirectional-alspac:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "bidirectional-alspac",
+      "sourceId": "s-bidirectional-alspac",
+      "locale": "zh",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "7503d55fce228455ec22db22f810d12f33f5baf5971c19b7d83813d6e5bc56ea",
+      "editionHash": "8c0dc86d797ad3efd3c2581490a0a25ce1dd1a2457e684b4c92db718ac709a1a",
+      "claimIds": [
+        "bidirectional-alspac:population",
+        "bidirectional-alspac:finding",
+        "bidirectional-alspac:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "bidirectional-alspac",
+      "sourceId": "s-bidirectional-alspac",
+      "locale": "ru",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "7503d55fce228455ec22db22f810d12f33f5baf5971c19b7d83813d6e5bc56ea",
+      "editionHash": "961848be5a7c2dc4ed37d6e16186eef09e081a8e38f737b6f67fc54fe9eb37df",
+      "claimIds": [
+        "bidirectional-alspac:population",
+        "bidirectional-alspac:finding",
+        "bidirectional-alspac:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "bidirectional-alspac",
+      "sourceId": "s-bidirectional-alspac",
+      "locale": "ar",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "7503d55fce228455ec22db22f810d12f33f5baf5971c19b7d83813d6e5bc56ea",
+      "editionHash": "9a5174dab6fc77672241dff4d0f1d1f75ba06aca94a12ffb8b986254cc6c0af8",
+      "claimIds": [
+        "bidirectional-alspac:population",
+        "bidirectional-alspac:finding",
+        "bidirectional-alspac:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "bidirectional-alspac",
+      "sourceId": "s-bidirectional-alspac",
+      "locale": "id",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "7503d55fce228455ec22db22f810d12f33f5baf5971c19b7d83813d6e5bc56ea",
+      "editionHash": "7f16571c3a187b368cbbc0cb900f5e73114707b787891e4d4c5e7d7ac6495c82",
+      "claimIds": [
+        "bidirectional-alspac:population",
+        "bidirectional-alspac:finding",
+        "bidirectional-alspac:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "bidirectional-alspac",
+      "sourceId": "s-bidirectional-alspac",
+      "locale": "ms",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "7503d55fce228455ec22db22f810d12f33f5baf5971c19b7d83813d6e5bc56ea",
+      "editionHash": "14234eb9c2405e0297935209de6f4cf0448cff86b0d8eee14ef95e006d6e24c0",
+      "claimIds": [
+        "bidirectional-alspac:population",
+        "bidirectional-alspac:finding",
+        "bidirectional-alspac:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brazil-medical-students",
+      "sourceId": "s-brazil-medical-students",
+      "locale": "tr",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "5817e2d79086a744342a8f26c130c9796687c694870528816a6ff84b2a8ee9db",
+      "editionHash": "f4c061d7b8664cb363b11bea4216de89db546c2174643c5989e359924a6dbb11",
+      "claimIds": [
+        "brazil-medical-students:population",
+        "brazil-medical-students:finding",
+        "brazil-medical-students:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brazil-medical-students",
+      "sourceId": "s-brazil-medical-students",
+      "locale": "en",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "5817e2d79086a744342a8f26c130c9796687c694870528816a6ff84b2a8ee9db",
+      "editionHash": "840418626d567d65d2db2898a80120d968e68ac56e1b043070c2bbfcd29deb1b",
+      "claimIds": [
+        "brazil-medical-students:population",
+        "brazil-medical-students:finding",
+        "brazil-medical-students:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brazil-medical-students",
+      "sourceId": "s-brazil-medical-students",
+      "locale": "de",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "5817e2d79086a744342a8f26c130c9796687c694870528816a6ff84b2a8ee9db",
+      "editionHash": "04bc11ef1f5ccb39e6fdc08bd5a35ae3308f071d37f801ef4c29812c09240a36",
+      "claimIds": [
+        "brazil-medical-students:population",
+        "brazil-medical-students:finding",
+        "brazil-medical-students:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brazil-medical-students",
+      "sourceId": "s-brazil-medical-students",
+      "locale": "zh",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "5817e2d79086a744342a8f26c130c9796687c694870528816a6ff84b2a8ee9db",
+      "editionHash": "2b330b7b08f15ac6b2c592e1c25bd15fde9030864eca1b392942d0de9b6a57ce",
+      "claimIds": [
+        "brazil-medical-students:population",
+        "brazil-medical-students:finding",
+        "brazil-medical-students:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brazil-medical-students",
+      "sourceId": "s-brazil-medical-students",
+      "locale": "ru",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "5817e2d79086a744342a8f26c130c9796687c694870528816a6ff84b2a8ee9db",
+      "editionHash": "3d5ca8342f9197d2cf40c9607e53ed251290768fbf4408b5bd6de129491465d3",
+      "claimIds": [
+        "brazil-medical-students:population",
+        "brazil-medical-students:finding",
+        "brazil-medical-students:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brazil-medical-students",
+      "sourceId": "s-brazil-medical-students",
+      "locale": "ar",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "5817e2d79086a744342a8f26c130c9796687c694870528816a6ff84b2a8ee9db",
+      "editionHash": "1254bc73ec0092c09893221f32ebc14ce0941c1274a6708e2fbbf33c44cdd4d7",
+      "claimIds": [
+        "brazil-medical-students:population",
+        "brazil-medical-students:finding",
+        "brazil-medical-students:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brazil-medical-students",
+      "sourceId": "s-brazil-medical-students",
+      "locale": "id",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "5817e2d79086a744342a8f26c130c9796687c694870528816a6ff84b2a8ee9db",
+      "editionHash": "7aceb50b1463b90db91916f9f8573279bda107a741f8b7d2b6da816c427e79b1",
+      "claimIds": [
+        "brazil-medical-students:population",
+        "brazil-medical-students:finding",
+        "brazil-medical-students:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brazil-medical-students",
+      "sourceId": "s-brazil-medical-students",
+      "locale": "ms",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "5817e2d79086a744342a8f26c130c9796687c694870528816a6ff84b2a8ee9db",
+      "editionHash": "c64ba93a788885acfa62dc68e63983ddde2a2c3553fa29fd2322457af9b78c4a",
+      "claimIds": [
+        "brazil-medical-students:population",
+        "brazil-medical-students:finding",
+        "brazil-medical-students:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "turkish-bereavement",
+      "sourceId": "s-turkish-bereavement",
+      "locale": "tr",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "4b893722a40a8cad8ca80b654a5eb5fe942244518aeec3fc8f6a8ef2543ab448",
+      "editionHash": "d69eca1eda4adc834c8204aed3a69c72599c25f988d7845eaa53e3aa89c389aa",
+      "claimIds": [
+        "turkish-bereavement:population",
+        "turkish-bereavement:finding",
+        "turkish-bereavement:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "turkish-bereavement",
+      "sourceId": "s-turkish-bereavement",
+      "locale": "en",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "4b893722a40a8cad8ca80b654a5eb5fe942244518aeec3fc8f6a8ef2543ab448",
+      "editionHash": "406e91b4ea1e3160c8f8886e778ca8870744b4a3bd51e7a10be9a06b115b858d",
+      "claimIds": [
+        "turkish-bereavement:population",
+        "turkish-bereavement:finding",
+        "turkish-bereavement:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "turkish-bereavement",
+      "sourceId": "s-turkish-bereavement",
+      "locale": "de",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "4b893722a40a8cad8ca80b654a5eb5fe942244518aeec3fc8f6a8ef2543ab448",
+      "editionHash": "0d3db15c8ed44ad533c099ffdc1809c354855c4501cadb1461ee316583a09f76",
+      "claimIds": [
+        "turkish-bereavement:population",
+        "turkish-bereavement:finding",
+        "turkish-bereavement:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "turkish-bereavement",
+      "sourceId": "s-turkish-bereavement",
+      "locale": "zh",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "4b893722a40a8cad8ca80b654a5eb5fe942244518aeec3fc8f6a8ef2543ab448",
+      "editionHash": "134f4dfc52aa2e86f0e6d4ddd5031e190258617f98fbba9b82b8be1ea200d93c",
+      "claimIds": [
+        "turkish-bereavement:population",
+        "turkish-bereavement:finding",
+        "turkish-bereavement:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "turkish-bereavement",
+      "sourceId": "s-turkish-bereavement",
+      "locale": "ru",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "4b893722a40a8cad8ca80b654a5eb5fe942244518aeec3fc8f6a8ef2543ab448",
+      "editionHash": "fedf7ae8ab67b7a45714defae12d4c21cabb898b363ef74c89f786a4fa29c199",
+      "claimIds": [
+        "turkish-bereavement:population",
+        "turkish-bereavement:finding",
+        "turkish-bereavement:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "turkish-bereavement",
+      "sourceId": "s-turkish-bereavement",
+      "locale": "ar",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "4b893722a40a8cad8ca80b654a5eb5fe942244518aeec3fc8f6a8ef2543ab448",
+      "editionHash": "2c5519e973561172c239b1cdf0eb6ca07d840fcabf66c7c7c84358923daf91a6",
+      "claimIds": [
+        "turkish-bereavement:population",
+        "turkish-bereavement:finding",
+        "turkish-bereavement:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "turkish-bereavement",
+      "sourceId": "s-turkish-bereavement",
+      "locale": "id",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "4b893722a40a8cad8ca80b654a5eb5fe942244518aeec3fc8f6a8ef2543ab448",
+      "editionHash": "8fc9ac871a6efc9e23e85b6aae4dc8a7e165413c8560701a5e0fcfd7d2b96461",
+      "claimIds": [
+        "turkish-bereavement:population",
+        "turkish-bereavement:finding",
+        "turkish-bereavement:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "turkish-bereavement",
+      "sourceId": "s-turkish-bereavement",
+      "locale": "ms",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "4b893722a40a8cad8ca80b654a5eb5fe942244518aeec3fc8f6a8ef2543ab448",
+      "editionHash": "1b2c3912fc84af03d8106138a95540ca6de540884b47d8a33ec6a39ea99e216d",
+      "claimIds": [
+        "turkish-bereavement:population",
+        "turkish-bereavement:finding",
+        "turkish-bereavement:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "psychosis-spirituality",
+      "sourceId": "s-psychosis-spirituality",
+      "locale": "tr",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "a67cc16a78128593687975c9bfda500f0a5d48600adc0933820da047793e1554",
+      "editionHash": "28f498eed6bc05f81febee666ee9ce9337b4ba85a7e045ac239207169f5bff32",
+      "claimIds": [
+        "psychosis-spirituality:population",
+        "psychosis-spirituality:finding",
+        "psychosis-spirituality:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "psychosis-spirituality",
+      "sourceId": "s-psychosis-spirituality",
+      "locale": "en",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "a67cc16a78128593687975c9bfda500f0a5d48600adc0933820da047793e1554",
+      "editionHash": "0fada9dcdbcfbfd8ac14164635d41276284e65975d52c31f58a3d362b031c85b",
+      "claimIds": [
+        "psychosis-spirituality:population",
+        "psychosis-spirituality:finding",
+        "psychosis-spirituality:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "psychosis-spirituality",
+      "sourceId": "s-psychosis-spirituality",
+      "locale": "de",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "a67cc16a78128593687975c9bfda500f0a5d48600adc0933820da047793e1554",
+      "editionHash": "016487b2219c409748b064be2af65afbc113c93cac9a85ad9e99900097628425",
+      "claimIds": [
+        "psychosis-spirituality:population",
+        "psychosis-spirituality:finding",
+        "psychosis-spirituality:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "psychosis-spirituality",
+      "sourceId": "s-psychosis-spirituality",
+      "locale": "zh",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "a67cc16a78128593687975c9bfda500f0a5d48600adc0933820da047793e1554",
+      "editionHash": "76a8105b9f66e78e7643b75c6fb55adf1a938f9329ef03f7f5454effeb1dd964",
+      "claimIds": [
+        "psychosis-spirituality:population",
+        "psychosis-spirituality:finding",
+        "psychosis-spirituality:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "psychosis-spirituality",
+      "sourceId": "s-psychosis-spirituality",
+      "locale": "ru",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "a67cc16a78128593687975c9bfda500f0a5d48600adc0933820da047793e1554",
+      "editionHash": "013d794c367f3003dcf446e1c944e9662904e2eb2ea9994c97379e16f55abef8",
+      "claimIds": [
+        "psychosis-spirituality:population",
+        "psychosis-spirituality:finding",
+        "psychosis-spirituality:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "psychosis-spirituality",
+      "sourceId": "s-psychosis-spirituality",
+      "locale": "ar",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "a67cc16a78128593687975c9bfda500f0a5d48600adc0933820da047793e1554",
+      "editionHash": "7c1b40b6b0b2ce76087ed0fe7d1bc14bce730cc599eb216613a6da8a3c7e4a2f",
+      "claimIds": [
+        "psychosis-spirituality:population",
+        "psychosis-spirituality:finding",
+        "psychosis-spirituality:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "psychosis-spirituality",
+      "sourceId": "s-psychosis-spirituality",
+      "locale": "id",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "a67cc16a78128593687975c9bfda500f0a5d48600adc0933820da047793e1554",
+      "editionHash": "06043548d7550e44d7c5c91e13e77ad10ef4cce7900be7f5e6592cafd0bbe74c",
+      "claimIds": [
+        "psychosis-spirituality:population",
+        "psychosis-spirituality:finding",
+        "psychosis-spirituality:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "psychosis-spirituality",
+      "sourceId": "s-psychosis-spirituality",
+      "locale": "ms",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "a67cc16a78128593687975c9bfda500f0a5d48600adc0933820da047793e1554",
+      "editionHash": "ed9cd9a7ddeee5d8b155c44341f573f376101ed98c24ec1713786339fb3aa5c7",
+      "claimIds": [
+        "psychosis-spirituality:population",
+        "psychosis-spirituality:finding",
+        "psychosis-spirituality:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "clergy-abuse-harm",
+      "sourceId": "s-clergy-abuse-harm",
+      "locale": "tr",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "058f0e969a57b14e06f08128461f7deaff99ea6309cd66f5c02ab0523d6d49ec",
+      "editionHash": "ba8e6994b74a6e494a6bbb3ac26c12798bc8885437ee77c5552cb6729decc2bc",
+      "claimIds": [
+        "clergy-abuse-harm:population",
+        "clergy-abuse-harm:finding",
+        "clergy-abuse-harm:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "clergy-abuse-harm",
+      "sourceId": "s-clergy-abuse-harm",
+      "locale": "en",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "058f0e969a57b14e06f08128461f7deaff99ea6309cd66f5c02ab0523d6d49ec",
+      "editionHash": "0b8520cceecfb6456ebb29a76a3d9c4c6aa9d43b84186de2a713139e73c74cb1",
+      "claimIds": [
+        "clergy-abuse-harm:population",
+        "clergy-abuse-harm:finding",
+        "clergy-abuse-harm:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "clergy-abuse-harm",
+      "sourceId": "s-clergy-abuse-harm",
+      "locale": "de",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "058f0e969a57b14e06f08128461f7deaff99ea6309cd66f5c02ab0523d6d49ec",
+      "editionHash": "2e8081a4d4a0f37ff1cadd66aa37af5ce98033d462cebea692e0e5e37022a3ad",
+      "claimIds": [
+        "clergy-abuse-harm:population",
+        "clergy-abuse-harm:finding",
+        "clergy-abuse-harm:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "clergy-abuse-harm",
+      "sourceId": "s-clergy-abuse-harm",
+      "locale": "zh",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "058f0e969a57b14e06f08128461f7deaff99ea6309cd66f5c02ab0523d6d49ec",
+      "editionHash": "c0c68a4664564a8278094179295f11ab6a556054f8fe3fa3913586e99f46eab2",
+      "claimIds": [
+        "clergy-abuse-harm:population",
+        "clergy-abuse-harm:finding",
+        "clergy-abuse-harm:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "clergy-abuse-harm",
+      "sourceId": "s-clergy-abuse-harm",
+      "locale": "ru",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "058f0e969a57b14e06f08128461f7deaff99ea6309cd66f5c02ab0523d6d49ec",
+      "editionHash": "e6dec0faeb369059e1460c55bba04343219872750f533139fb66ca4f33a06d1d",
+      "claimIds": [
+        "clergy-abuse-harm:population",
+        "clergy-abuse-harm:finding",
+        "clergy-abuse-harm:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "clergy-abuse-harm",
+      "sourceId": "s-clergy-abuse-harm",
+      "locale": "ar",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "058f0e969a57b14e06f08128461f7deaff99ea6309cd66f5c02ab0523d6d49ec",
+      "editionHash": "5f5f44bea897b6d892ecb1fcc0361bf0b40e20f0b1f375350083ad9a52ac4b43",
+      "claimIds": [
+        "clergy-abuse-harm:population",
+        "clergy-abuse-harm:finding",
+        "clergy-abuse-harm:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "clergy-abuse-harm",
+      "sourceId": "s-clergy-abuse-harm",
+      "locale": "id",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "058f0e969a57b14e06f08128461f7deaff99ea6309cd66f5c02ab0523d6d49ec",
+      "editionHash": "1c84d3e26068247ba4e8179ec5a9486bd8c2d5cf20f2c142aaa078fff7c1fa10",
+      "claimIds": [
+        "clergy-abuse-harm:population",
+        "clergy-abuse-harm:finding",
+        "clergy-abuse-harm:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "clergy-abuse-harm",
+      "sourceId": "s-clergy-abuse-harm",
+      "locale": "ms",
+      "sourceMatches": true,
+      "editionMatches": true,
+      "fieldsPresent": true,
+      "briefMatches": true,
+      "sourceHash": "058f0e969a57b14e06f08128461f7deaff99ea6309cd66f5c02ab0523d6d49ec",
+      "editionHash": "026210cdb28bec933a534488382867687a16bba8333a897dda8ba2ecc205a7b5",
+      "claimIds": [
+        "clergy-abuse-harm:population",
+        "clergy-abuse-harm:finding",
+        "clergy-abuse-harm:limit"
+      ],
+      "humanReviewed": false,
+      "scientificApproval": false
+    }
+  ]
+}

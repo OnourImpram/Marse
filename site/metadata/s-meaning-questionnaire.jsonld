@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.1037/0022-0167.53.1.80",
+  "name": "The meaning in life questionnaire: Assessing the presence of and search for meaning in life.",
+  "datePublished": "2006-01",
+  "identifier": [
+    "https://doi.org/10.1037/0022-0167.53.1.80"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Michael F. Steger"
+    },
+    {
+      "@type": "Person",
+      "name": "Patricia Frazier"
+    },
+    {
+      "@type": "Person",
+      "name": "Shigehiro Oishi"
+    },
+    {
+      "@type": "Person",
+      "name": "Matthew Kaler"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Counseling Psychology"
+  },
+  "url": "https://doi.org/10.1037/0022-0167.53.1.80"
+}

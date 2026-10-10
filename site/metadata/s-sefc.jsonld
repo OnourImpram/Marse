@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.1007/s10943-025-02523-z",
+  "name": "Development and Validation of the Spiritual Empathy Fatigue Scale (SEFC): A Psychometric Study Among Faith-Based Care Providers in Turkey",
+  "datePublished": "2026",
+  "identifier": [
+    "https://doi.org/10.1007/s10943-025-02523-z"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Nesrullah Okan"
+    },
+    {
+      "@type": "Person",
+      "name": "Muhammed Kızılgeçit"
+    },
+    {
+      "@type": "Person",
+      "name": "Hanifi Şahin"
+    },
+    {
+      "@type": "Person",
+      "name": "Fatih Kurt"
+    },
+    {
+      "@type": "Person",
+      "name": "Reyhan Keleş"
+    },
+    {
+      "@type": "Person",
+      "name": "Aytaç Ören"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Religion and Health"
+  },
+  "url": "https://doi.org/10.1007/s10943-025-02523-z"
+}

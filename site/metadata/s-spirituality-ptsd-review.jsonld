@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.1007/s10943-026-02671-w",
+  "name": "The Effects of Spirituality on Depression, Anxiety, and Post-Traumatic Stress Disorder: A Systematic Review",
+  "datePublished": "2026",
+  "identifier": [
+    "https://doi.org/10.1007/s10943-026-02671-w"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Nesrullah Okan"
+    },
+    {
+      "@type": "Person",
+      "name": "Yahya Şahin"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Religion and Health"
+  },
+  "url": "https://doi.org/10.1007/s10943-026-02671-w"
+}

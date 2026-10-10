@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.17679/inuefd.562410",
+  "name": "Manevi Aşkınlık Ölçeği’nin Türkçeye Uyarlanması: Geçerlik ve Güvenirlik Çalışması",
+  "datePublished": "2019-12-31",
+  "identifier": [
+    "https://doi.org/10.17679/inuefd.562410"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Yakup İme"
+    },
+    {
+      "@type": "Person",
+      "name": "Halil Ekşi"
+    },
+    {
+      "@type": "Person",
+      "name": "Füsun Ekşi"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "İnönü Üniversitesi Eğitim Fakültesi Dergisi"
+  },
+  "url": "https://doi.org/10.17679/inuefd.562410"
+}

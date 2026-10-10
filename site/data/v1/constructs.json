@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "release": "marsam-finished-centre-0.12.0",
+  "version": "0.12.0",
+  "generatedAt": "2026-10-10T12:56:53.446Z",
+  "publicationState": "institutional-review",
+  "reviewStatus": "AI_ASSISTED_DRAFT",
+  "humanReviewed": false,
+  "scientificApproval": false,
+  "humanLanguageApproval": false,
+  "formalInstitutionalApproval": false,
+  "records": [
+    {
+      "id": "spiritual-distress",
+      "tr": "Manevi sıkıntı",
+      "en": "Spiritual distress",
+      "boundary": "Distress involving spiritual meaning, connection or conflict. It is not interchangeable with low spiritual well-being and is not a diagnosis."
+    },
+    {
+      "id": "rs-struggle",
+      "tr": "Dini ve manevi mücadele",
+      "en": "Religious and spiritual struggless",
+      "boundary": "Conflict or tension involving divine, interpersonal, moral, doubt or ultimate-meaning domains. Positive and negative consequences are both possible."
+    },
+    {
+      "id": "religious-trauma",
+      "tr": "Dinle ilişkili travma",
+      "en": "Religious trauma",
+      "boundary": "A contested umbrella term. Distinguish traumatic events, adverse religious experiences, coercion, stigma and post-traumatic outcomes rather than assume a single syndrome."
+    },
+    {
+      "id": "worldview-nonreligion",
+      "tr": "Dünya görüşü ve dinsizlik",
+      "en": "Worldview and nonreligion",
+      "boundary": "Religious, spiritual, secular, atheist, agnostic and other meaning systems are possible worldviews. None is treated as the default."
+    },
+    {
+      "id": "spiritual-bypassing",
+      "tr": "Manevi bypass",
+      "en": "Spiritual bypassing",
+      "boundary": "Use of spiritual frameworks in ways that may avoid unresolved psychological distress. It is culturally contingent and not a diagnostic label."
+    },
+    {
+      "id": "cultural-humility",
+      "tr": "Kültürel alçakgönüllülük",
+      "en": "Cultural humility",
+      "boundary": "An ongoing reflective stance toward power, assumptions and the person’s own meaning system, not a claim of mastering a culture."
+    },
+    {
+      "id": "measurement-invariance",
+      "tr": "Ölçme değişmezliği",
+      "en": "Measurement invariance",
+      "boundary": "Evidence that scores can be compared across groups or time under specified assumptions. Translation or good internal consistency alone does not establish invariance."
+    },
+    {
+      "id": "adverse-religious-experiences",
+      "tr": "Olumsuz dini deneyimler",
+      "en": "Adverse religious experiences",
+      "boundary": "A descriptive category for coercion, stigma, abuse, exclusion or spiritually harmful experiences. Mechanism and outcome should be recorded separately."
+    }
+  ]
+}

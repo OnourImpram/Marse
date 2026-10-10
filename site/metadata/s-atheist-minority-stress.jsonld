@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.1037/cou0000392",
+  "name": "It's like herding cats: Atheist minority stress, group involvement, and psychological outcomes",
+  "datePublished": "2020",
+  "identifier": [
+    "https://doi.org/10.1037/cou0000392"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Melanie E. Brewster"
+    },
+    {
+      "@type": "Person",
+      "name": "Brandon L. Velez"
+    },
+    {
+      "@type": "Person",
+      "name": "Elizabeth F. Geiger"
+    },
+    {
+      "@type": "Person",
+      "name": "Jacob S. Sawyer"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Counseling Psychology"
+  },
+  "url": "https://doi.org/10.1037/cou0000392"
+}

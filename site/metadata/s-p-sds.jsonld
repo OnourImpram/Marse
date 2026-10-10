@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.1007/s10943-025-02335-1",
+  "name": "Cross-Cultural Adaptation and Psychometric Properties of the Persian Version of the Spiritual Distress Scale (P-SDS) Among Older Adults with Cancer in Iran",
+  "datePublished": "2025",
+  "identifier": [
+    "https://doi.org/10.1007/s10943-025-02335-1"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Hadi Najafi"
+    },
+    {
+      "@type": "Person",
+      "name": "Shahab Papi"
+    },
+    {
+      "@type": "Person",
+      "name": "Abolfazl Hosseinnataj"
+    },
+    {
+      "@type": "Person",
+      "name": "Alireza Namazi Shabestari"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Religion and Health"
+  },
+  "url": "https://doi.org/10.1007/s10943-025-02335-1"
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.3389/fmed.2022.877213",
+  "name": "Religiosity/Spirituality and Mental Health in Older Adults: A Systematic Review and Meta-Analysis of Observational Studies",
+  "datePublished": "2022-05-12",
+  "identifier": [
+    "https://doi.org/10.3389/fmed.2022.877213"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Hélio José Coelho-Júnior"
+    },
+    {
+      "@type": "Person",
+      "name": "Riccardo Calvani"
+    },
+    {
+      "@type": "Person",
+      "name": "Francesco Panza"
+    },
+    {
+      "@type": "Person",
+      "name": "Riccardo F. Allegri"
+    },
+    {
+      "@type": "Person",
+      "name": "Anna Picca"
+    },
+    {
+      "@type": "Person",
+      "name": "Emanuele Marzetti"
+    },
+    {
+      "@type": "Person",
+      "name": "Vicente Paulo Alves"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Frontiers in Medicine"
+  },
+  "url": "https://doi.org/10.3389/fmed.2022.877213"
+}

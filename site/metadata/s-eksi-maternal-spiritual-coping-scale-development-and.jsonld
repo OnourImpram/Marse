@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.12738/spc.2018.1.0042",
+  "name": "Maternal Spiritual Coping Scale: Development and Validation",
+  "datePublished": "2018-02-28",
+  "identifier": [
+    "https://doi.org/10.12738/spc.2018.1.0042"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "A. Nilgün Canel"
+    },
+    {
+      "@type": "Person",
+      "name": "Halil Eksi"
+    },
+    {
+      "@type": "Person",
+      "name": "Hatice Sanver Gürsoy"
+    },
+    {
+      "@type": "Person",
+      "name": "K. Gamze Yaman"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Spiritual Psychology and Counseling"
+  },
+  "url": "https://doi.org/10.12738/spc.2018.1.0042"
+}

@@ -1,0 +1,3031 @@
+{
+  "schemaVersion": 1,
+  "release": "marsam-finished-centre-0.12.0",
+  "version": "0.12.0",
+  "generatedAt": "2026-10-10T12:56:53.446Z",
+  "publicationState": "institutional-review",
+  "reviewStatus": "AI_ASSISTED_DRAFT",
+  "humanReviewed": false,
+  "scientificApproval": false,
+  "humanLanguageApproval": false,
+  "formalInstitutionalApproval": false,
+  "records": [
+    {
+      "id": "s-aservic",
+      "title": "Spiritual and religious best practices",
+      "year": 2025,
+      "url": "https://aservic.org/wp-content/uploads/2026/02/ASERVIC.-2025.-Spiritual-and-Religious-Best-Practices-1.pdf",
+      "kind": "guide",
+      "inspection": "official",
+      "checked": "2026-10-01",
+      "doi": null,
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": null
+    },
+    {
+      "id": "s-vieten",
+      "title": "Spiritual and religious competencies in psychology",
+      "year": 2022,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34264695/",
+      "kind": "theory",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": null,
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": null
+    },
+    {
+      "id": "s-captari",
+      "title": "Integrating clients’ religion and spirituality within psychotherapy: A comprehensive meta-analysis",
+      "year": 2018,
+      "url": "https://doi.org/10.1002/jclp.22681",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": null,
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": null
+    },
+    {
+      "id": "s-swift",
+      "title": "Client preference accommodation for religious/spiritual integration and psychotherapy outcomes in naturalistic practice settings",
+      "year": 2022,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34553982/",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": null,
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": null
+    },
+    {
+      "id": "s-tunc",
+      "title": "Sacred Tensions: How Mental Health Professionals Navigate Spirituality, Ethics, and Professional Identity",
+      "year": 2025,
+      "url": "https://link.springer.com/article/10.1007/s11089-025-01244-0",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": "10.1007/s11089-025-01244-0",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "collection": "recent-research",
+        "date": "2025-08-21",
+        "authors": [
+          "M. Furkan Tunç",
+          "Halil Ekşi"
+        ],
+        "editors": [],
+        "journal": "Pastoral Psychology",
+        "volume": "74",
+        "issue": "6",
+        "pages": "937–958",
+        "doi": "10.1007/s11089-025-01244-0",
+        "identityVerified": true,
+        "identitySources": [
+          "https://link.springer.com/article/10.1007/s11089-025-01244-0"
+        ],
+        "note": {
+          "tr": "Nitel araştırma. Katılımcı görüşleri bağlam içinde okunmalıdır. Bulgular bir eğitim veya müdahalenin etkililiğini sınamaz.",
+          "en": "Qualitative research. Read participants’ accounts in context. Findings do not test training or intervention efficacy.",
+          "de": "Qualitative Forschung. Aussagen sind kontextgebunden. Die Wirksamkeit einer Ausbildung oder Intervention wird nicht geprüft.",
+          "zh": "质性研究。应结合情境理解参与者陈述。研究未检验培训或干预效果。",
+          "ru": "Качественное исследование. Высказывания участников контекстуальны. Эффективность обучения или вмешательства не проверяется.",
+          "ar": "بحث نوعي. تُقرأ روايات المشاركين ضمن سياقها. النتائج لا تختبر فعالية التدريب أو التدخل.",
+          "id": "Penelitian kualitatif. Pengalaman peserta dibaca dalam konteks. Temuan tidak menguji efektivitas pelatihan atau intervensi.",
+          "ms": "Penyelidikan kualitatif. Pengalaman peserta dibaca dalam konteks. Dapatan tidak menguji keberkesanan latihan atau intervensi."
+        }
+      }
+    },
+    {
+      "id": "s-hodge",
+      "title": "Metaphysical diversity in mental health discourse: The key to scientific progress in the helping professions",
+      "year": 2021,
+      "url": "https://doi.org/10.37898/spc.2021.6.3.154",
+      "kind": "theory",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": null,
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": null
+    },
+    {
+      "id": "s-pargament",
+      "title": "From research to practice: Three waves in the evolution of the psychology of religion and spirituality",
+      "year": 2023,
+      "url": "https://doi.org/10.37898/spc.2023.8.3.191",
+      "kind": "theory",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": null,
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": null
+    },
+    {
+      "id": "s-eksi",
+      "title": "Psikoterapi ve Psikolojik Danışma Kuramları: Manevi Boyutlarıyla",
+      "year": 2024,
+      "url": "https://www.kaknus.com.tr/urun/psikoterapi-ve-psikolojik-danisma-kuramlari/",
+      "kind": "book",
+      "inspection": "metadata",
+      "checked": "2026-10-01",
+      "doi": null,
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "book",
+        "collection": "books",
+        "date": "2024",
+        "isbn": "978-975-256-715-3",
+        "pages": "784",
+        "edition": "1",
+        "authors": [],
+        "editors": [
+          "Halil Ekşi"
+        ],
+        "contributors": [
+          "Ayfer Summermatter",
+          "Betül Gülcan Çakmak",
+          "Bülent Dilmaç",
+          "Büşra Ünverdi Demir",
+          "Cem Boyalı",
+          "Erdem Sevim",
+          "Gökhan Özcan",
+          "Gülşen Topal Özgen",
+          "Hale Nur Kılıç Memur",
+          "Halil Ekşi",
+          "Hatice Hilal Saçar",
+          "Hatun Sevgi Yalın",
+          "Merve Baysal",
+          "Merve Nur Çınar",
+          "Nesrullah Okan",
+          "Oğuzhan Yavuz",
+          "Pınar Özdemir",
+          "Selami Kardaş",
+          "Tuğba Turgut",
+          "Tuğba Türk Kurtça",
+          "Vedat Bakır",
+          "Yakup Özkapu",
+          "Zeynep Şimşir Gökalp"
+        ],
+        "publisher": "Kaknüs Yayınları",
+        "identityVerified": true,
+        "identitySources": [
+          "https://www.kaknus.com.tr/urun/psikoterapi-ve-psikolojik-danisma-kuramlari/"
+        ],
+        "note": {
+          "tr": "Baskı bilgisi yayınevi kaydına dayanır. Tanıtım özeti, etkililik değerlendirmesi veya tam metin incelemesi değildir.",
+          "en": "Edition details follow the publisher. This catalogue summary is not an efficacy assessment or full-text review.",
+          "de": "Die Auflage folgt dem Verlag. Die Katalogbeschreibung ist keine Wirksamkeitsbewertung oder Volltextprüfung.",
+          "zh": "版次信息依据出版社记录。此目录简介并非疗效评价或全文审读。",
+          "ru": "Сведения об издании взяты у издателя. Описание не является оценкой эффективности или анализом полного текста.",
+          "ar": "تفاصيل الطبعة وفق سجل الناشر. الملخص الفهرسي ليس تقييماً للفعالية أو مراجعة للنص الكامل.",
+          "id": "Rincian edisi mengikuti penerbit. Ringkasan katalog bukan penilaian efektivitas atau telaah teks lengkap.",
+          "ms": "Butiran edisi mengikut penerbit. Ringkasan katalog bukan penilaian keberkesanan atau ulasan teks penuh."
+        },
+        "cover": "assets/heritage/theories-book.webp"
+      }
+    },
+    {
+      "id": "s-toad",
+      "title": "Türkiye Ölçme Araçları Dizini",
+      "year": null,
+      "url": "https://toad.halileksi.net/",
+      "kind": "measure",
+      "inspection": "official",
+      "checked": "2026-10-01",
+      "doi": null,
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": null
+    },
+    {
+      "id": "s-prisma",
+      "title": "PRISMA statement",
+      "year": null,
+      "url": "https://www.prisma-statement.org/",
+      "kind": "method",
+      "inspection": "official",
+      "checked": "2026-10-01",
+      "doi": null,
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": null
+    },
+    {
+      "id": "s-who-ai",
+      "title": "Ethics and governance of artificial intelligence for health",
+      "year": 2021,
+      "url": "https://www.who.int/publications/i/item/9789240029200",
+      "kind": "guide",
+      "inspection": "official",
+      "checked": "2026-10-01",
+      "doi": null,
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": null
+    },
+    {
+      "id": "s-ukm-counselling",
+      "title": "The Islamic counselling approach in addressing anxiety among adolescents in higher education institutions (HEIs)",
+      "year": 2024,
+      "url": "https://spaj.ukm.my/jalhikmah/index.php/jalhikmah/article/view/514",
+      "kind": "theory",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": null,
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": null
+    },
+    {
+      "id": "s-trauma-spirituality",
+      "title": "Travmanın İzinde Maneviyat: Bütüncül Bir Psikoterapi Rehberi",
+      "year": 2026,
+      "url": "https://www.nobelyayin.com/travmanin-izinde-maneviyat-butuncul-bir-psikoterapi-rehberi-23386.html",
+      "kind": "book",
+      "inspection": "metadata",
+      "checked": "2026-10-01",
+      "doi": null,
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "book",
+        "collection": "books",
+        "date": "2026-09",
+        "isbn": "978-625-8804-58-4",
+        "pages": "384",
+        "edition": "1",
+        "authors": [],
+        "editors": [
+          "Halil Ekşi"
+        ],
+        "contributors": [
+          "Cemile Edibe Okur",
+          "Fatma Sevim",
+          "Halil Ekşi",
+          "Hatice Selman",
+          "Okan Tiring"
+        ],
+        "publisher": "Nobel Akademik Yayıncılık",
+        "identityVerified": true,
+        "identitySources": [
+          "https://www.nobelyayin.com/travmanin-izinde-maneviyat-butuncul-bir-psikoterapi-rehberi-23386.html"
+        ],
+        "note": {
+          "tr": "Baskı bilgisi yayınevi kaydına dayanır. Tanıtım özeti, etkililik değerlendirmesi veya tam metin incelemesi değildir.",
+          "en": "Edition details follow the publisher. This catalogue summary is not an efficacy assessment or full-text review.",
+          "de": "Die Auflage folgt dem Verlag. Die Katalogbeschreibung ist keine Wirksamkeitsbewertung oder Volltextprüfung.",
+          "zh": "版次信息依据出版社记录。此目录简介并非疗效评价或全文审读。",
+          "ru": "Сведения об издании взяты у издателя. Описание не является оценкой эффективности или анализом полного текста.",
+          "ar": "تفاصيل الطبعة وفق سجل الناشر. الملخص الفهرسي ليس تقييماً للفعالية أو مراجعة للنص الكامل.",
+          "id": "Rincian edisi mengikuti penerbit. Ringkasan katalog bukan penilaian efektivitas atau telaah teks lengkap.",
+          "ms": "Butiran edisi mengikut penerbit. Ringkasan katalog bukan penilaian keberkesanan atau ulasan teks penuh."
+        },
+        "cover": "assets/heritage/trauma-spirituality.webp"
+      }
+    },
+    {
+      "id": "s-spiritual-counselling-book",
+      "title": "Manevi Yönelimli Psikolojik Danışma",
+      "year": 2024,
+      "url": "https://www.nobelyayin.com/manevi-yonelimli-psikolojik-danisma-15894.html",
+      "kind": "book",
+      "inspection": "metadata",
+      "checked": "2026-10-01",
+      "doi": null,
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "book",
+        "collection": "books",
+        "date": "2024-10",
+        "isbn": "978-605-033-256-8",
+        "pages": "384",
+        "edition": "3",
+        "authors": [],
+        "editors": [
+          "Halil Ekşi"
+        ],
+        "contributors": [
+          "Ayşenur Yabanigül",
+          "Berra Keçeci",
+          "Beyza Kırca",
+          "Bilge Nuran Aydoğdu",
+          "Çınar Kaya",
+          "Çiğdem Demir Çelebi",
+          "Dilek Akça Koca",
+          "Figen Kasapoğlu",
+          "Gökhan Özcan",
+          "Gülşen Özgen",
+          "Halil Ekşi",
+          "Hatun Sevgi Yalin",
+          "Kübra Kaplaner",
+          "M. Şerif Keskinoğlu",
+          "Neslihan Yaman",
+          "Nesrullah Okan",
+          "Özge Erduran Tekin",
+          "Tuğba Türk",
+          "Vildan Saruhan",
+          "Yahya Şahin",
+          "Yakup İme",
+          "Zehra Eminoğlu"
+        ],
+        "publisher": "Nobel Akademik Yayıncılık",
+        "identityVerified": true,
+        "identitySources": [
+          "https://www.nobelyayin.com/manevi-yonelimli-psikolojik-danisma-15894.html"
+        ],
+        "note": {
+          "tr": "Baskı bilgisi yayınevi kaydına dayanır. Tanıtım özeti, etkililik değerlendirmesi veya tam metin incelemesi değildir.",
+          "en": "Edition details follow the publisher. This catalogue summary is not an efficacy assessment or full-text review.",
+          "de": "Die Auflage folgt dem Verlag. Die Katalogbeschreibung ist keine Wirksamkeitsbewertung oder Volltextprüfung.",
+          "zh": "版次信息依据出版社记录。此目录简介并非疗效评价或全文审读。",
+          "ru": "Сведения об издании взяты у издателя. Описание не является оценкой эффективности или анализом полного текста.",
+          "ar": "تفاصيل الطبعة وفق سجل الناشر. الملخص الفهرسي ليس تقييماً للفعالية أو مراجعة للنص الكامل.",
+          "id": "Rincian edisi mengikuti penerbit. Ringkasan katalog bukan penilaian efektivitas atau telaah teks lengkap.",
+          "ms": "Butiran edisi mengikut penerbit. Ringkasan katalog bukan penilaian keberkesanan atau ulasan teks penuh."
+        },
+        "cover": "assets/heritage/spiritual-counselling-book.webp",
+        "editionUpdated": true
+      }
+    },
+    {
+      "id": "s-techniques-101",
+      "title": "Psikoterapi ve Psikolojik Danışmada Manevi Yönelimli 101 Teknik",
+      "year": 2024,
+      "url": "https://www.nobelyayin.com/psikoterapi-ve-psikolojik-danismada-manevi-yonelimli-101-teknik-18476.html",
+      "kind": "book",
+      "inspection": "metadata",
+      "checked": "2026-10-01",
+      "doi": null,
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "book",
+        "collection": "books",
+        "date": "2024-01",
+        "isbn": "978-625-417-915-0",
+        "pages": "610",
+        "edition": "2",
+        "authors": [],
+        "editors": [
+          "Halil Ekşi"
+        ],
+        "contributors": [
+          "Betül Gülcan Çakmak",
+          "Büşra Ünverdi",
+          "Cem Boyalı",
+          "Halil Ekşi",
+          "Hatice Hilal Saçar",
+          "M. Şerif Keskinoğlu",
+          "Merve Emre",
+          "Merve Nur Çınar",
+          "Oğuzhan Yavuz",
+          "Yakup Özkapu"
+        ],
+        "publisher": "Nobel Akademik Yayıncılık",
+        "identityVerified": true,
+        "identitySources": [
+          "https://www.nobelyayin.com/psikoterapi-ve-psikolojik-danismada-manevi-yonelimli-101-teknik-18476.html"
+        ],
+        "note": {
+          "tr": "Baskı bilgisi yayınevi kaydına dayanır. Tanıtım özeti, etkililik değerlendirmesi veya tam metin incelemesi değildir.",
+          "en": "Edition details follow the publisher. This catalogue summary is not an efficacy assessment or full-text review.",
+          "de": "Die Auflage folgt dem Verlag. Die Katalogbeschreibung ist keine Wirksamkeitsbewertung oder Volltextprüfung.",
+          "zh": "版次信息依据出版社记录。此目录简介并非疗效评价或全文审读。",
+          "ru": "Сведения об издании взяты у издателя. Описание не является оценкой эффективности или анализом полного текста.",
+          "ar": "تفاصيل الطبعة وفق سجل الناشر. الملخص الفهرسي ليس تقييماً للفعالية أو مراجعة للنص الكامل.",
+          "id": "Rincian edisi mengikuti penerbit. Ringkasan katalog bukan penilaian efektivitas atau telaah teks lengkap.",
+          "ms": "Butiran edisi mengikut penerbit. Ringkasan katalog bukan penilaian keberkesanan atau ulasan teks penuh."
+        },
+        "cover": "assets/heritage/techniques-101.webp"
+      }
+    },
+    {
+      "id": "s-family-spiritual",
+      "title": "Aile Terapisi: Manevi Yönelimli Bir Perspektif",
+      "year": 2023,
+      "url": "https://www.nobelyayin.com/aile-terapisi-manevi-yonelimli-bir-perspektif-16429.html",
+      "kind": "book",
+      "inspection": "metadata",
+      "checked": "2026-10-01",
+      "doi": null,
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "book",
+        "collection": "books",
+        "date": "2023-05",
+        "isbn": "978-625-406-392-3",
+        "pages": "338",
+        "edition": "2",
+        "authors": [],
+        "editors": [
+          "Halil Ekşi"
+        ],
+        "contributors": [],
+        "publisher": "Nobel Akademik Yayıncılık",
+        "identityVerified": true,
+        "identitySources": [
+          "https://www.nobelyayin.com/aile-terapisi-manevi-yonelimli-bir-perspektif-16429.html"
+        ],
+        "note": {
+          "tr": "Baskı bilgisi yayınevi kaydına dayanır. Tanıtım özeti, etkililik değerlendirmesi veya tam metin incelemesi değildir.",
+          "en": "Edition details follow the publisher. This catalogue summary is not an efficacy assessment or full-text review.",
+          "de": "Die Auflage folgt dem Verlag. Die Katalogbeschreibung ist keine Wirksamkeitsbewertung oder Volltextprüfung.",
+          "zh": "版次信息依据出版社记录。此目录简介并非疗效评价或全文审读。",
+          "ru": "Сведения об издании взяты у издателя. Описание не является оценкой эффективности или анализом полного текста.",
+          "ar": "تفاصيل الطبعة وفق سجل الناشر. الملخص الفهرسي ليس تقييماً للفعالية أو مراجعة للنص الكامل.",
+          "id": "Rincian edisi mengikuti penerbit. Ringkasan katalog bukan penilaian efektivitas atau telaah teks lengkap.",
+          "ms": "Butiran edisi mengikut penerbit. Ringkasan katalog bukan penilaian keberkesanan atau ulasan teks penuh."
+        },
+        "cover": "assets/heritage/family-spiritual.webp"
+      }
+    },
+    {
+      "id": "s-group-counselling",
+      "title": "Grupla Psikolojik Danışma Uygulamaları: Psikospiritüel Gelişim Kılavuzu",
+      "year": 2023,
+      "url": "https://www.nobelyayin.com/grupla-psikolojik-danisma-uygulamalari-psikospirituel-gelisim-kilavuzu-17677.html",
+      "kind": "book",
+      "inspection": "metadata",
+      "checked": "2026-10-01",
+      "doi": null,
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "book",
+        "collection": "books",
+        "date": "2023-03",
+        "isbn": "978-625-417-005-8",
+        "pages": "450",
+        "edition": "2",
+        "authors": [],
+        "editors": [
+          "Halil Ekşi",
+          "Osman Hatun"
+        ],
+        "contributors": [
+          "Beyza Kırca",
+          "Halil Ekşi",
+          "Kübra Kaplaner",
+          "Osman Hatun",
+          "Serra Dinç"
+        ],
+        "publisher": "Nobel Akademik Yayıncılık",
+        "identityVerified": true,
+        "identitySources": [
+          "https://www.nobelyayin.com/grupla-psikolojik-danisma-uygulamalari-psikospirituel-gelisim-kilavuzu-17677.html"
+        ],
+        "note": {
+          "tr": "Baskı bilgisi yayınevi kaydına dayanır. Tanıtım özeti, etkililik değerlendirmesi veya tam metin incelemesi değildir.",
+          "en": "Edition details follow the publisher. This catalogue summary is not an efficacy assessment or full-text review.",
+          "de": "Die Auflage folgt dem Verlag. Die Katalogbeschreibung ist keine Wirksamkeitsbewertung oder Volltextprüfung.",
+          "zh": "版次信息依据出版社记录。此目录简介并非疗效评价或全文审读。",
+          "ru": "Сведения об издании взяты у издателя. Описание не является оценкой эффективности или анализом полного текста.",
+          "ar": "تفاصيل الطبعة وفق سجل الناشر. الملخص الفهرسي ليس تقييماً للفعالية أو مراجعة للنص الكامل.",
+          "id": "Rincian edisi mengikuti penerbit. Ringkasan katalog bukan penilaian efektivitas atau telaah teks lengkap.",
+          "ms": "Butiran edisi mengikut penerbit. Ringkasan katalog bukan penilaian keberkesanan atau ulasan teks penuh."
+        },
+        "cover": "assets/heritage/group-counselling.webp"
+      }
+    },
+    {
+      "id": "s-cbt-spiritual",
+      "title": "Bilişsel Davranışçı Terapi: Manevi Perspektifli Teori ve Uygulamalar",
+      "year": 2022,
+      "url": "https://www.nobelyayin.com/bilissel-davranisci-terapi-manevi-perspektifli-teori-ve-uygulamalar-18795.html",
+      "kind": "book",
+      "inspection": "metadata",
+      "checked": "2026-10-01",
+      "doi": null,
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "book",
+        "collection": "books",
+        "date": "2022-09",
+        "isbn": "978-625-427-158-8",
+        "pages": "224",
+        "edition": "1",
+        "authors": [
+          "Tuğba Turgut",
+          "Halil Ekşi"
+        ],
+        "editors": [],
+        "contributors": [],
+        "publisher": "Nobel Akademik Yayıncılık",
+        "identityVerified": true,
+        "identitySources": [
+          "https://www.nobelyayin.com/bilissel-davranisci-terapi-manevi-perspektifli-teori-ve-uygulamalar-18795.html"
+        ],
+        "note": {
+          "tr": "Baskı bilgisi yayınevi kaydına dayanır. Tanıtım özeti, etkililik değerlendirmesi veya tam metin incelemesi değildir.",
+          "en": "Edition details follow the publisher. This catalogue summary is not an efficacy assessment or full-text review.",
+          "de": "Die Auflage folgt dem Verlag. Die Katalogbeschreibung ist keine Wirksamkeitsbewertung oder Volltextprüfung.",
+          "zh": "版次信息依据出版社记录。此目录简介并非疗效评价或全文审读。",
+          "ru": "Сведения об издании взяты у издателя. Описание не является оценкой эффективности или анализом полного текста.",
+          "ar": "تفاصيل الطبعة وفق سجل الناشر. الملخص الفهرسي ليس تقييماً للفعالية أو مراجعة للنص الكامل.",
+          "id": "Rincian edisi mengikuti penerbit. Ringkasan katalog bukan penilaian efektivitas atau telaah teks lengkap.",
+          "ms": "Butiran edisi mengikut penerbit. Ringkasan katalog bukan penilaian keberkesanan atau ulasan teks penuh."
+        },
+        "cover": "assets/heritage/cbt-spiritual.webp"
+      }
+    },
+    {
+      "id": "s-spiritual-burnout",
+      "title": "The Spiritual Burnout Scale: Development and Psychometric Validation of a Measure of Spiritual Resource Depletion in Türkiye",
+      "year": 2026,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42766252/",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": "10.1007/s10943-026-02801-4",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "collection": "recent-research",
+        "date": "2026-09-21",
+        "authors": [
+          "Nesrullah Okan",
+          "Osman Hatun",
+          "Füsun Ekşi",
+          "Halil Ekşi",
+          "Nihat Köse"
+        ],
+        "editors": [],
+        "journal": "Journal of Religion and Health",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1007/s10943-026-02801-4",
+        "identityVerified": true,
+        "identitySources": [
+          "https://pubmed.ncbi.nlm.nih.gov/42766252/"
+        ],
+        "note": {
+          "tr": "Psikometrik çalışma. Araştırma örneklemindeki ölçme kanıtı, klinik tanı yetkisi veya kullanım izni anlamına gelmez.",
+          "en": "Psychometric study. Measurement evidence in the research sample does not establish diagnostic authority or reuse permission.",
+          "de": "Psychometrische Studie. Messbefunde in der Stichprobe begründen weder diagnostische Befugnis noch Nutzungsrechte.",
+          "zh": "心理测量研究。研究样本中的测量证据不等于临床诊断资格或使用许可。",
+          "ru": "Психометрическое исследование. Данные выборки не означают права на диагностику или разрешения использовать шкалу.",
+          "ar": "دراسة سيكومترية. أدلة القياس في العينة لا تمنح صلاحية التشخيص أو إذن استخدام المقياس.",
+          "id": "Studi psikometrik. Bukti pengukuran pada sampel bukan kewenangan diagnosis atau izin penggunaan instrumen.",
+          "ms": "Kajian psikometrik. Bukti pengukuran dalam sampel bukan kuasa diagnosis atau kebenaran menggunakan instrumen."
+        },
+        "publicationState": "online-first"
+      }
+    },
+    {
+      "id": "s-sipas",
+      "title": "Spiritually Integrated Process Assessment Scale (SIPAS): Validity and Reliability Study",
+      "year": 2026,
+      "url": "https://dergipark.org.tr/en/pub/spiritualpc/article/1793082",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": "10.37898/spiritualpc.1793082",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "collection": "recent-research",
+        "date": "2026-06-30",
+        "authors": [
+          "Halil Eksi",
+          "Havvanur Akyol",
+          "Neslihan Aydın",
+          "Fatma Betül Karalı",
+          "Mehmet Özalp",
+          "M. Furkan Tunç",
+          "Ebru Talibe Turgut"
+        ],
+        "editors": [],
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "11",
+        "issue": "2",
+        "pages": "211–232",
+        "doi": "10.37898/spiritualpc.1793082",
+        "identityVerified": true,
+        "identitySources": [
+          "https://dergipark.org.tr/en/pub/spiritualpc/article/1793082"
+        ],
+        "note": {
+          "tr": "Psikometrik çalışma. Araştırma örneklemindeki ölçme kanıtı, klinik tanı yetkisi veya kullanım izni anlamına gelmez.",
+          "en": "Psychometric study. Measurement evidence in the research sample does not establish diagnostic authority or reuse permission.",
+          "de": "Psychometrische Studie. Messbefunde in der Stichprobe begründen weder diagnostische Befugnis noch Nutzungsrechte.",
+          "zh": "心理测量研究。研究样本中的测量证据不等于临床诊断资格或使用许可。",
+          "ru": "Психометрическое исследование. Данные выборки не означают права на диагностику или разрешения использовать шкалу.",
+          "ar": "دراسة سيكومترية. أدلة القياس في العينة لا تمنح صلاحية التشخيص أو إذن استخدام المقياس.",
+          "id": "Studi psikometrik. Bukti pengukuran pada sampel bukan kewenangan diagnosis atau izin penggunaan instrumen.",
+          "ms": "Kajian psikometrik. Bukti pengukuran dalam sampel bukan kuasa diagnosis atau kebenaran menggunakan instrumen."
+        }
+      }
+    },
+    {
+      "id": "s-loneliness-spirituality",
+      "title": "The Mediating Role of Loneliness in the Relationship Between Spirituality and Anxiety Levels Among University Students in Turkiye",
+      "year": 2026,
+      "url": "https://dergipark.org.tr/en/pub/spiritualpc/article/1603809",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": "10.37898/spiritualpc.1603809",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "collection": "recent-research",
+        "date": "2026-06-30",
+        "authors": [
+          "Yasemin Ekici",
+          "Figen Kasapoğlu"
+        ],
+        "editors": [],
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "11",
+        "issue": "2",
+        "pages": "195–210",
+        "doi": "10.37898/spiritualpc.1603809",
+        "identityVerified": true,
+        "identitySources": [
+          "https://dergipark.org.tr/en/pub/spiritualpc/article/1603809"
+        ],
+        "note": {
+          "tr": "İlişkisel araştırma. Aracılık analizi, bu gözlemsel tasarımda nedensel mekanizma veya müdahale etkisi göstermez.",
+          "en": "Correlational research. Mediation in this observational design does not establish a causal mechanism or intervention effect.",
+          "de": "Korrelative Forschung. Die Mediation im Beobachtungsdesign belegt weder einen kausalen Mechanismus noch einen Interventionseffekt.",
+          "zh": "相关研究。此观察性设计中的中介分析不能证明因果机制或干预效果。",
+          "ru": "Корреляционное исследование. Анализ медиации не устанавливает причинный механизм или эффект вмешательства.",
+          "ar": "بحث ارتباطي. تحليل الوساطة في هذا التصميم الرصدي لا يثبت آلية سببية أو أثر تدخل.",
+          "id": "Penelitian korelasional. Mediasi pada desain observasional tidak membuktikan mekanisme sebab akibat atau efek intervensi.",
+          "ms": "Penyelidikan korelasi. Mediasi dalam reka bentuk pemerhatian tidak membuktikan mekanisme sebab akibat atau kesan intervensi."
+        }
+      }
+    },
+    {
+      "id": "s-professional-training",
+      "title": "Addressing Spirituality in Counseling: Turkish Mental Health Professionals’ Views on a Training Program for Professional Competencies",
+      "year": 2026,
+      "url": "https://link.springer.com/article/10.1007/s10943-025-02551-9",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": "10.1007/s10943-025-02551-9",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "collection": "recent-research",
+        "date": "2026-01-19",
+        "authors": [
+          "Halil Ekşi",
+          "Ebru Talibe Turgut",
+          "Fatma Betül Karalı",
+          "Hale Şen",
+          "Havvanur Akyol",
+          "Neslihan Aydın",
+          "Yusuf Ziya Koç"
+        ],
+        "editors": [],
+        "journal": "Journal of Religion and Health",
+        "volume": "65",
+        "issue": "3",
+        "pages": "2796–2824",
+        "doi": "10.1007/s10943-025-02551-9",
+        "identityVerified": true,
+        "identitySources": [
+          "https://link.springer.com/article/10.1007/s10943-025-02551-9"
+        ],
+        "note": {
+          "tr": "Nitel araştırma. Katılımcı görüşleri bağlam içinde okunmalıdır. Bulgular bir eğitim veya müdahalenin etkililiğini sınamaz.",
+          "en": "Qualitative research. Read participants’ accounts in context. Findings do not test training or intervention efficacy.",
+          "de": "Qualitative Forschung. Aussagen sind kontextgebunden. Die Wirksamkeit einer Ausbildung oder Intervention wird nicht geprüft.",
+          "zh": "质性研究。应结合情境理解参与者陈述。研究未检验培训或干预效果。",
+          "ru": "Качественное исследование. Высказывания участников контекстуальны. Эффективность обучения или вмешательства не проверяется.",
+          "ar": "بحث نوعي. تُقرأ روايات المشاركين ضمن سياقها. النتائج لا تختبر فعالية التدريب أو التدخل.",
+          "id": "Penelitian kualitatif. Pengalaman peserta dibaca dalam konteks. Temuan tidak menguji efektivitas pelatihan atau intervensi.",
+          "ms": "Penyelidikan kualitatif. Pengalaman peserta dibaca dalam konteks. Dapatan tidak menguji keberkesanan latihan atau intervensi."
+        },
+        "issueDate": "2026-06"
+      }
+    },
+    {
+      "id": "s-spiritual-integrity",
+      "title": "Measuring Spiritual Integrity in Turkish Culture: A Psychometric Approach to Understanding the Relationship Between Spirituality and Well-Being",
+      "year": 2025,
+      "url": "https://link.springer.com/article/10.1007/s10943-025-02329-z",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": "10.1007/s10943-025-02329-z",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "collection": "recent-research",
+        "date": "2025-05-23",
+        "authors": [
+          "Nesrullah Okan",
+          "Füsun Ekşi",
+          "Erdal Zengin",
+          "Halil Ekşi"
+        ],
+        "editors": [],
+        "journal": "Journal of Religion and Health",
+        "volume": "64",
+        "issue": "4",
+        "pages": "3209–3235",
+        "doi": "10.1007/s10943-025-02329-z",
+        "identityVerified": true,
+        "identitySources": [
+          "https://link.springer.com/article/10.1007/s10943-025-02329-z"
+        ],
+        "note": {
+          "tr": "Psikometrik çalışma. Araştırma örneklemindeki ölçme kanıtı, klinik tanı yetkisi veya kullanım izni anlamına gelmez.",
+          "en": "Psychometric study. Measurement evidence in the research sample does not establish diagnostic authority or reuse permission.",
+          "de": "Psychometrische Studie. Messbefunde in der Stichprobe begründen weder diagnostische Befugnis noch Nutzungsrechte.",
+          "zh": "心理测量研究。研究样本中的测量证据不等于临床诊断资格或使用许可。",
+          "ru": "Психометрическое исследование. Данные выборки не означают права на диагностику или разрешения использовать шкалу.",
+          "ar": "دراسة سيكومترية. أدلة القياس في العينة لا تمنح صلاحية التشخيص أو إذن استخدام المقياس.",
+          "id": "Studi psikometrik. Bukti pengukuran pada sampel bukan kewenangan diagnosis atau izin penggunaan instrumen.",
+          "ms": "Kajian psikometrik. Bukti pengukuran dalam sampel bukan kuasa diagnosis atau kebenaran menggunakan instrumen."
+        }
+      }
+    },
+    {
+      "id": "s-spirituality-dimensions",
+      "title": "Unveiling the Multifaceted Nature of Spirituality: Assessing the Dimensions of the Spirituality Inventory in the Turkish Context—A Preliminary Adaptation and Validity Reliability Study",
+      "year": 2025,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40274690/",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": "10.1007/s10943-025-02313-7",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "collection": "recent-research",
+        "date": "2025-04-24",
+        "authors": [
+          "Halil Ekşi",
+          "Dilek Günel",
+          "Ece Yağcı Akgündüz",
+          "Emre Gürkan",
+          "Fadile Zeynep Çavuş",
+          "Yasemin Altıntaş"
+        ],
+        "editors": [],
+        "journal": "Journal of Religion and Health",
+        "volume": "64",
+        "issue": "4",
+        "pages": "3105–3127",
+        "doi": "10.1007/s10943-025-02313-7",
+        "identityVerified": true,
+        "identitySources": [
+          "https://pubmed.ncbi.nlm.nih.gov/40274690/"
+        ],
+        "note": {
+          "tr": "Psikometrik çalışma. Araştırma örneklemindeki ölçme kanıtı, klinik tanı yetkisi veya kullanım izni anlamına gelmez.",
+          "en": "Psychometric study. Measurement evidence in the research sample does not establish diagnostic authority or reuse permission.",
+          "de": "Psychometrische Studie. Messbefunde in der Stichprobe begründen weder diagnostische Befugnis noch Nutzungsrechte.",
+          "zh": "心理测量研究。研究样本中的测量证据不等于临床诊断资格或使用许可。",
+          "ru": "Психометрическое исследование. Данные выборки не означают права на диагностику или разрешения использовать шкалу.",
+          "ar": "دراسة سيكومترية. أدلة القياس في العينة لا تمنح صلاحية التشخيص أو إذن استخدام المقياس.",
+          "id": "Studi psikometrik. Bukti pengukuran pada sampel bukan kewenangan diagnosis atau izin penggunaan instrumen.",
+          "ms": "Kajian psikometrik. Bukti pengukuran dalam sampel bukan kuasa diagnosis atau kebenaran menggunakan instrumen."
+        }
+      }
+    },
+    {
+      "id": "s-spiritual-struggles",
+      "title": "Dini ve Manevi Mücadele Ölçeği’nin Türkçe Uyarlaması: Geçerlik ve Güvenirlik Çalışması",
+      "year": 2025,
+      "url": "https://dergipark.org.tr/tr/pub/ilted/article/1564927",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": "10.29288/ilted.1564927",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "collection": "recent-research",
+        "date": "2025-04-30",
+        "authors": [
+          "Dilanur Rehber",
+          "Muhammet Enes Vural",
+          "Halil Ekşi"
+        ],
+        "editors": [],
+        "journal": "İlahiyat Tetkikleri Dergisi",
+        "volume": "",
+        "issue": "63",
+        "pages": "45–54",
+        "doi": "10.29288/ilted.1564927",
+        "identityVerified": true,
+        "identitySources": [
+          "https://dergipark.org.tr/tr/pub/ilted/article/1564927"
+        ],
+        "note": {
+          "tr": "Psikometrik çalışma. Araştırma örneklemindeki ölçme kanıtı, klinik tanı yetkisi veya kullanım izni anlamına gelmez.",
+          "en": "Psychometric study. Measurement evidence in the research sample does not establish diagnostic authority or reuse permission.",
+          "de": "Psychometrische Studie. Messbefunde in der Stichprobe begründen weder diagnostische Befugnis noch Nutzungsrechte.",
+          "zh": "心理测量研究。研究样本中的测量证据不等于临床诊断资格或使用许可。",
+          "ru": "Психометрическое исследование. Данные выборки не означают права на диагностику или разрешения использовать шкалу.",
+          "ar": "دراسة سيكومترية. أدلة القياس في العينة لا تمنح صلاحية التشخيص أو إذن استخدام المقياس.",
+          "id": "Studi psikometrik. Bukti pengukuran pada sampel bukan kewenangan diagnosis atau izin penggunaan instrumen.",
+          "ms": "Kajian psikometrik. Bukti pengukuran dalam sampel bukan kuasa diagnosis atau kebenaran menggunakan instrumen."
+        },
+        "onlineDate": "2025-03-06"
+      }
+    },
+    {
+      "id": "s-eksi-adaptation-of-the-decision-to-forgive",
+      "title": "Adaptation of the Decision to Forgive Scale to Turkish Culture: Validity and Reliability Study",
+      "year": 2024,
+      "url": "https://doi.org/10.52380/ijpes.2024.11.4.1371",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": "10.52380/ijpes.2024.11.4.1371",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2024-08-16",
+        "authors": [
+          "Ece Yağcı Akgündüz",
+          "Gülbin Demir Celayir",
+          "Simel Parlak",
+          "Halil Ekşi"
+        ],
+        "editors": [],
+        "journal": "International Journal of Psychology and Educational Studies",
+        "volume": "11",
+        "issue": "4",
+        "pages": "331-340",
+        "doi": "10.52380/ijpes.2024.11.4.1371",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.52380/ijpes.2024.11.4.1371",
+          "https://ijpes.com/index.php/ijpes/article/view/1371"
+        ],
+        "note": {
+          "tr": "Psikometrik çalışma. Araştırma örneklemindeki ölçme kanıtı, klinik tanı yetkisi veya kullanım izni anlamına gelmez.",
+          "en": "Psychometric study. Measurement evidence in the research sample does not establish diagnostic authority or reuse permission.",
+          "de": "Psychometrische Studie. Messbefunde in der Stichprobe begründen weder diagnostische Befugnis noch Nutzungsrechte.",
+          "zh": "心理测量研究。研究样本中的测量证据不等于临床诊断资格或使用许可。",
+          "ru": "Психометрическое исследование. Данные выборки не означают права на диагностику или разрешения использовать шкалу.",
+          "ar": "دراسة سيكومترية. أدلة القياس في العينة لا تمنح صلاحية التشخيص أو إذن استخدام المقياس.",
+          "id": "Studi psikometrik. Bukti pengukuran pada sampel bukan kewenangan diagnosis atau izin penggunaan instrumen.",
+          "ms": "Kajian psikometrik. Bukti pengukuran dalam sampel bukan kuasa diagnosis atau kebenaran menggunakan instrumen."
+        },
+        "publicationState": "published"
+      }
+    },
+    {
+      "id": "s-eksi-the-intersection-of-faith-and-pornography",
+      "title": "The Intersection of Faith and Pornography: A Turkish Moral Disapproval of Pornography Scale",
+      "year": 2024,
+      "url": "https://doi.org/10.37898/spiritualpc.1461103",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": "10.37898/spiritualpc.1461103",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2024-06-01",
+        "authors": [
+          "Eren Murat Dinçer",
+          "Halil Eksi"
+        ],
+        "editors": [],
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "9",
+        "issue": "2",
+        "pages": "203-214",
+        "doi": "10.37898/spiritualpc.1461103",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.37898/spiritualpc.1461103",
+          "https://dergipark.org.tr/en/pub/spiritualpc/article/1461103"
+        ],
+        "note": {
+          "tr": "Psikometrik çalışma. Araştırma örneklemindeki ölçme kanıtı, klinik tanı yetkisi veya kullanım izni anlamına gelmez.",
+          "en": "Psychometric study. Measurement evidence in the research sample does not establish diagnostic authority or reuse permission.",
+          "de": "Psychometrische Studie. Messbefunde in der Stichprobe begründen weder diagnostische Befugnis noch Nutzungsrechte.",
+          "zh": "心理测量研究。研究样本中的测量证据不等于临床诊断资格或使用许可。",
+          "ru": "Психометрическое исследование. Данные выборки не означают права на диагностику или разрешения использовать шкалу.",
+          "ar": "دراسة سيكومترية. أدلة القياس في العينة لا تمنح صلاحية التشخيص أو إذن استخدام المقياس.",
+          "id": "Studi psikometrik. Bukti pengukuran pada sampel bukan kewenangan diagnosis atau izin penggunaan instrumen.",
+          "ms": "Kajian psikometrik. Bukti pengukuran dalam sampel bukan kuasa diagnosis atau kebenaran menggunakan instrumen."
+        },
+        "publicationState": "published"
+      }
+    },
+    {
+      "id": "s-eksi-a-spiritual-touch-on-family-resilience",
+      "title": "A Spiritual Touch on Family Resilience: A Positive Psychology Based Group Study From Burnout To Hope",
+      "year": 2023,
+      "url": "https://doi.org/10.37898/spc.2023.8.1.185",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": "10.37898/spc.2023.8.1.185",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2023-02-15",
+        "authors": [
+          "Halil Ekşi",
+          "Deniz Erök Özkapu"
+        ],
+        "editors": [],
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "8",
+        "issue": "1",
+        "pages": "47-66",
+        "doi": "10.37898/spc.2023.8.1.185",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.37898/spc.2023.8.1.185",
+          "https://dergipark.org.tr/en/pub/spiritualpc/article/1264619"
+        ],
+        "note": {
+          "tr": "Müdahale çalışması. Sınırlı bir örneklemde elde edilen sonuçlar genellenebilir etkililik kanıtı sayılmaz.",
+          "en": "Intervention study. Results obtained in a limited sample do not constitute generalizable evidence of effectiveness.",
+          "de": "Interventionsstudie. Ergebnisse aus einer begrenzten Stichprobe gelten nicht als verallgemeinerbarer Wirksamkeitsnachweis.",
+          "zh": "干预研究。基于有限样本的结果不能视为可推广的有效性证据。",
+          "ru": "Интервенционное исследование. Результаты, полученные на ограниченной выборке, не являются обобщаемым доказательством эффективности.",
+          "ar": "دراسة تدخلية. لا تُعدّ النتائج المستخلصة من عينة محدودة دليلًا قابلًا للتعميم على الفعالية.",
+          "id": "Studi intervensi. Hasil yang diperoleh dari sampel terbatas tidak dapat dianggap sebagai bukti efektivitas yang dapat digeneralisasi.",
+          "ms": "Kajian intervensi. Dapatan daripada sampel yang terhad tidak boleh dianggap sebagai bukti keberkesanan yang boleh digeneralisasikan."
+        },
+        "publicationState": "published"
+      }
+    },
+    {
+      "id": "s-eksi-through-the-inner-world-development-of",
+      "title": "Through the Inner World: Development of Reclusion Tendency Scale",
+      "year": 2023,
+      "url": "https://doi.org/10.37898/spc.2023.8.1.186",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": "10.37898/spc.2023.8.1.186",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2023-02-15",
+        "authors": [
+          "Betül Kürüm Yıldırım",
+          "Halil Ekşi",
+          "Selami Kardaş",
+          "Füsun Ekşi"
+        ],
+        "editors": [],
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "8",
+        "issue": "1",
+        "pages": "67-81",
+        "doi": "10.37898/spc.2023.8.1.186",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.37898/spc.2023.8.1.186",
+          "https://dergipark.org.tr/en/pub/spiritualpc/article/1264632"
+        ],
+        "note": {
+          "tr": "Psikometrik çalışma. Araştırma örneklemindeki ölçme kanıtı, klinik tanı yetkisi veya kullanım izni anlamına gelmez.",
+          "en": "Psychometric study. Measurement evidence in the research sample does not establish diagnostic authority or reuse permission.",
+          "de": "Psychometrische Studie. Messbefunde in der Stichprobe begründen weder diagnostische Befugnis noch Nutzungsrechte.",
+          "zh": "心理测量研究。研究样本中的测量证据不等于临床诊断资格或使用许可。",
+          "ru": "Психометрическое исследование. Данные выборки не означают права на диагностику или разрешения использовать шкалу.",
+          "ar": "دراسة سيكومترية. أدلة القياس في العينة لا تمنح صلاحية التشخيص أو إذن استخدام المقياس.",
+          "id": "Studi psikometrik. Bukti pengukuran pada sampel bukan kewenangan diagnosis atau izin penggunaan instrumen.",
+          "ms": "Kajian psikometrik. Bukti pengukuran dalam sampel bukan kuasa diagnosis atau kebenaran menggunakan instrumen."
+        },
+        "publicationState": "published"
+      }
+    },
+    {
+      "id": "s-eksi-well-being-and-spiritual-intelligence-predict",
+      "title": "Well-Being and Spiritual Intelligence Predict Attitudes of Adolescents’ Towards Violence",
+      "year": 2022,
+      "url": "https://doi.org/10.37898/spc.2022.7.3.181",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": "10.37898/spc.2022.7.3.181",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2022-10-15",
+        "authors": [
+          "Özge ERDURAN TEKİN",
+          "Halil EKŞİ"
+        ],
+        "editors": [],
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "7",
+        "issue": "3",
+        "pages": "301-314",
+        "doi": "10.37898/spc.2022.7.3.181",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.37898/spc.2022.7.3.181",
+          "https://dergipark.org.tr/en/pub/spiritualpc/article/1208702"
+        ],
+        "note": {
+          "tr": "İlişkisel araştırma. Aracılık analizi, bu gözlemsel tasarımda nedensel mekanizma veya müdahale etkisi göstermez.",
+          "en": "Correlational research. Mediation in this observational design does not establish a causal mechanism or intervention effect.",
+          "de": "Korrelative Forschung. Die Mediation im Beobachtungsdesign belegt weder einen kausalen Mechanismus noch einen Interventionseffekt.",
+          "zh": "相关研究。此观察性设计中的中介分析不能证明因果机制或干预效果。",
+          "ru": "Корреляционное исследование. Анализ медиации не устанавливает причинный механизм или эффект вмешательства.",
+          "ar": "بحث ارتباطي. تحليل الوساطة في هذا التصميم الرصدي لا يثبت آلية سببية أو أثر تدخل.",
+          "id": "Penelitian korelasional. Mediasi pada desain observasional tidak membuktikan mekanisme sebab akibat atau efek intervensi.",
+          "ms": "Penyelidikan korelasi. Mediasi dalam reka bentuk pemerhatian tidak membuktikan mekanisme sebab akibat atau kesan intervensi."
+        },
+        "publicationState": "published"
+      }
+    },
+    {
+      "id": "s-eksi-the-mediator-role-of-forgiveness-between",
+      "title": "The Mediator Role of Forgiveness between The Interpersonal Relationships and The Level of Cognitive Distortions in Young Adults",
+      "year": 2021,
+      "url": "https://doi.org/10.54535/rep.1025099",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": "10.54535/rep.1025099",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2021-12-31",
+        "authors": [
+          "Hatice Vildan YILDIZ",
+          "Halil EKŞİ"
+        ],
+        "editors": [],
+        "journal": "Research on Education and Psychology",
+        "volume": "5",
+        "issue": "2",
+        "pages": "397-413",
+        "doi": "10.54535/rep.1025099",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.54535/rep.1025099",
+          "https://dergipark.org.tr/en/pub/rep/article/1025099"
+        ],
+        "note": {
+          "tr": "İlişkisel araştırma. Aracılık analizi, bu gözlemsel tasarımda nedensel mekanizma veya müdahale etkisi göstermez.",
+          "en": "Correlational research. Mediation in this observational design does not establish a causal mechanism or intervention effect.",
+          "de": "Korrelative Forschung. Die Mediation im Beobachtungsdesign belegt weder einen kausalen Mechanismus noch einen Interventionseffekt.",
+          "zh": "相关研究。此观察性设计中的中介分析不能证明因果机制或干预效果。",
+          "ru": "Корреляционное исследование. Анализ медиации не устанавливает причинный механизм или эффект вмешательства.",
+          "ar": "بحث ارتباطي. تحليل الوساطة في هذا التصميم الرصدي لا يثبت آلية سببية أو أثر تدخل.",
+          "id": "Penelitian korelasional. Mediasi pada desain observasional tidak membuktikan mekanisme sebab akibat atau efek intervensi.",
+          "ms": "Penyelidikan korelasi. Mediasi dalam reka bentuk pemerhatian tidak membuktikan mekanisme sebab akibat atau kesan intervensi."
+        },
+        "publicationState": "published"
+      }
+    },
+    {
+      "id": "s-eksi-genclerde-maneviyat-ve-siddet-egilimi-arasindaki",
+      "title": "Gençlerde maneviyat ve şiddet eğilimi arasındaki ilişkide erken dönem uyum bozucu şemaların moderatör etkisi",
+      "year": 2021,
+      "url": "https://doi.org/10.28949/bilimname.845575",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": "10.28949/bilimname.845575",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2021-04-30",
+        "authors": [
+          "Halil EKSİ",
+          "Nesrullah OKAN"
+        ],
+        "editors": [],
+        "journal": "Bilimname",
+        "volume": "2021",
+        "issue": "44",
+        "pages": "521-546",
+        "doi": "10.28949/bilimname.845575",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.28949/bilimname.845575",
+          "https://dergipark.org.tr/tr/pub/bilimname/article/845575"
+        ],
+        "note": {
+          "tr": "İlişkisel araştırma. Aracılık analizi, bu gözlemsel tasarımda nedensel mekanizma veya müdahale etkisi göstermez.",
+          "en": "Correlational research. Mediation in this observational design does not establish a causal mechanism or intervention effect.",
+          "de": "Korrelative Forschung. Die Mediation im Beobachtungsdesign belegt weder einen kausalen Mechanismus noch einen Interventionseffekt.",
+          "zh": "相关研究。此观察性设计中的中介分析不能证明因果机制或干预效果。",
+          "ru": "Корреляционное исследование. Анализ медиации не устанавливает причинный механизм или эффект вмешательства.",
+          "ar": "بحث ارتباطي. تحليل الوساطة في هذا التصميم الرصدي لا يثبت آلية سببية أو أثر تدخل.",
+          "id": "Penelitian korelasional. Mediasi pada desain observasional tidak membuktikan mekanisme sebab akibat atau efek intervensi.",
+          "ms": "Penyelidikan korelasi. Mediasi dalam reka bentuk pemerhatian tidak membuktikan mekanisme sebab akibat atau kesan intervensi."
+        },
+        "publicationState": "published"
+      }
+    },
+    {
+      "id": "s-eksi-spiritually-oriented-couple-marriage-and-family",
+      "title": "Spiritually Oriented Couple, Marriage and Family Therapies",
+      "year": 2020,
+      "url": "https://doi.org/10.37898/spc.2020.5.1.096",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": "10.37898/spc.2020.5.1.096",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2020-02-15",
+        "authors": [
+          "Şeyda Çetintaş",
+          "Halil Ekşi"
+        ],
+        "editors": [],
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "5",
+        "issue": "1",
+        "pages": "7-24",
+        "doi": "10.37898/spc.2020.5.1.096",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.37898/spc.2020.5.1.096",
+          "https://spiritualpc.net/article/spiritually-oriented-couple-marriage-and-family-therapies/"
+        ],
+        "note": {
+          "tr": "Kuramsal derleme. Uygulamaya yönelik öneriler ampirik etkililik kanıtı yerine geçmez.",
+          "en": "Theoretical review. Practice recommendations are not a substitute for empirical evidence of effectiveness.",
+          "de": "Theoretischer Übersichtsbeitrag. Praxisempfehlungen ersetzen keine empirischen Wirksamkeitsnachweise.",
+          "zh": "理论综述。文中的实践建议不能替代有效性的实证证据。",
+          "ru": "Теоретический обзор. Практические рекомендации не заменяют эмпирических доказательств эффективности.",
+          "ar": "مراجعة نظرية. لا تُغني التوصيات التطبيقية عن الأدلة التجريبية على الفعالية.",
+          "id": "Kajian teoretis. Rekomendasi praktik tidak dapat menggantikan bukti empiris tentang efektivitas.",
+          "ms": "Kajian teoretikal. Cadangan amalan tidak menggantikan bukti empirikal tentang keberkesanan."
+        },
+        "publicationState": "published"
+      }
+    },
+    {
+      "id": "s-eksi-manevi-sukran-olcegi-nin-turkce-uyarlamasi",
+      "title": "Manevi Şükran Ölçeği'nin Türkçe Uyarlaması Geçerlik Ve Güvenirlik Çalışması",
+      "year": 2020,
+      "url": "https://doi.org/10.37217/tebd.583207",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": "10.37217/tebd.583207",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2020-06-26",
+        "authors": [
+          "Kübra KAPLANER",
+          "Halil EKŞİ"
+        ],
+        "editors": [],
+        "journal": "Türk Eğitim Bilimleri Dergisi",
+        "volume": "18",
+        "issue": "1",
+        "pages": "1-16",
+        "doi": "10.37217/tebd.583207",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.37217/tebd.583207",
+          "https://dergipark.org.tr/tr/pub/tebd/article/583207"
+        ],
+        "note": {
+          "tr": "Psikometrik çalışma. Araştırma örneklemindeki ölçme kanıtı, klinik tanı yetkisi veya kullanım izni anlamına gelmez.",
+          "en": "Psychometric study. Measurement evidence in the research sample does not establish diagnostic authority or reuse permission.",
+          "de": "Psychometrische Studie. Messbefunde in der Stichprobe begründen weder diagnostische Befugnis noch Nutzungsrechte.",
+          "zh": "心理测量研究。研究样本中的测量证据不等于临床诊断资格或使用许可。",
+          "ru": "Психометрическое исследование. Данные выборки не означают права на диагностику или разрешения использовать шкалу.",
+          "ar": "دراسة سيكومترية. أدلة القياس في العينة لا تمنح صلاحية التشخيص أو إذن استخدام المقياس.",
+          "id": "Studi psikometrik. Bukti pengukuran pada sampel bukan kewenangan diagnosis atau izin penggunaan instrumen.",
+          "ms": "Kajian psikometrik. Bukti pengukuran dalam sampel bukan kuasa diagnosis atau kebenaran menggunakan instrumen."
+        },
+        "publicationState": "published"
+      }
+    },
+    {
+      "id": "s-eksi-manevi-askinlik-olcegi-nin-turkceye-uyarlanmasi",
+      "title": "Manevi Aşkınlık Ölçeği’nin Türkçeye Uyarlanması: Geçerlik ve Güvenirlik Çalışması",
+      "year": 2019,
+      "url": "https://doi.org/10.17679/inuefd.562410",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": "10.17679/inuefd.562410",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2019-12-31",
+        "authors": [
+          "Yakup İme",
+          "Halil Ekşi",
+          "Füsun Ekşi"
+        ],
+        "editors": [],
+        "journal": "İnönü Üniversitesi Eğitim Fakültesi Dergisi",
+        "volume": "20",
+        "issue": "3",
+        "pages": "1008-1020",
+        "doi": "10.17679/inuefd.562410",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.17679/inuefd.562410",
+          "https://dergipark.org.tr/en/pub/inuefd/article/562410"
+        ],
+        "note": {
+          "tr": "Psikometrik çalışma. Araştırma örneklemindeki ölçme kanıtı, klinik tanı yetkisi veya kullanım izni anlamına gelmez.",
+          "en": "Psychometric study. Measurement evidence in the research sample does not establish diagnostic authority or reuse permission.",
+          "de": "Psychometrische Studie. Messbefunde in der Stichprobe begründen weder diagnostische Befugnis noch Nutzungsrechte.",
+          "zh": "心理测量研究。研究样本中的测量证据不等于临床诊断资格或使用许可。",
+          "ru": "Психометрическое исследование. Данные выборки не означают права на диагностику или разрешения использовать шкалу.",
+          "ar": "دراسة سيكومترية. أدلة القياس في العينة لا تمنح صلاحية التشخيص أو إذن استخدام المقياس.",
+          "id": "Studi psikometrik. Bukti pengukuran pada sampel bukan kewenangan diagnosis atau izin penggunaan instrumen.",
+          "ms": "Kajian psikometrik. Bukti pengukuran dalam sampel bukan kuasa diagnosis atau kebenaran menggunakan instrumen."
+        },
+        "publicationState": "published"
+      }
+    },
+    {
+      "id": "s-eksi-a-psychological-counseling-study-on-fear",
+      "title": "A Psychological Counseling Study on Fear of Failure and Academic Procrastination with a Spiritually Oriented Cognitive Behavioral Group",
+      "year": 2019,
+      "url": "https://doi.org/10.37898/spc.2019.4.3.85",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": "10.37898/spc.2019.4.3.85",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2019-10-15",
+        "authors": [
+          "Serra Dinç",
+          "Halil Ekşi"
+        ],
+        "editors": [],
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "4",
+        "issue": "3",
+        "pages": "219-235",
+        "doi": "10.37898/spc.2019.4.3.85",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.37898/spc.2019.4.3.85",
+          "https://spiritualpc.net/article/a-psychological-counseling-study-on-fear-of-failure-and-academic-procrastination-with-a-spiritually-oriented-cognitive-behavioral-group/"
+        ],
+        "note": {
+          "tr": "Müdahale çalışması. Sınırlı bir örneklemde elde edilen sonuçlar genellenebilir etkililik kanıtı sayılmaz.",
+          "en": "Intervention study. Results obtained in a limited sample do not constitute generalizable evidence of effectiveness.",
+          "de": "Interventionsstudie. Ergebnisse aus einer begrenzten Stichprobe gelten nicht als verallgemeinerbarer Wirksamkeitsnachweis.",
+          "zh": "干预研究。基于有限样本的结果不能视为可推广的有效性证据。",
+          "ru": "Интервенционное исследование. Результаты, полученные на ограниченной выборке, не являются обобщаемым доказательством эффективности.",
+          "ar": "دراسة تدخلية. لا تُعدّ النتائج المستخلصة من عينة محدودة دليلًا قابلًا للتعميم على الفعالية.",
+          "id": "Studi intervensi. Hasil yang diperoleh dari sampel terbatas tidak dapat dianggap sebagai bukti efektivitas yang dapat digeneralisasi.",
+          "ms": "Kajian intervensi. Dapatan daripada sampel yang terhad tidak boleh dianggap sebagai bukti keberkesanan yang boleh digeneralisasikan."
+        },
+        "publicationState": "published"
+      }
+    },
+    {
+      "id": "s-eksi-multi-cultural-counseling-and-spiritual-interventions",
+      "title": "Multi-Cultural Counseling and Spiritual Interventions",
+      "year": 2019,
+      "url": "https://doi.org/10.37898/spc.2019.4.2.0066",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": "10.37898/spc.2019.4.2.0066",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2019-06-15",
+        "authors": [
+          "Berra Keçeci",
+          "Halil Ekşi"
+        ],
+        "editors": [],
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "4",
+        "issue": "2",
+        "pages": "163-180",
+        "doi": "10.37898/spc.2019.4.2.0066",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.37898/spc.2019.4.2.0066",
+          "https://spiritualpc.net/article/multi-cultural-counseling-and-spiritual-interventions/"
+        ],
+        "note": {
+          "tr": "Kuramsal derleme. Uygulamaya yönelik öneriler ampirik etkililik kanıtı yerine geçmez.",
+          "en": "Theoretical review. Practice recommendations are not a substitute for empirical evidence of effectiveness.",
+          "de": "Theoretischer Übersichtsbeitrag. Praxisempfehlungen ersetzen keine empirischen Wirksamkeitsnachweise.",
+          "zh": "理论综述。文中的实践建议不能替代有效性的实证证据。",
+          "ru": "Теоретический обзор. Практические рекомендации не заменяют эмпирических доказательств эффективности.",
+          "ar": "مراجعة نظرية. لا تُغني التوصيات التطبيقية عن الأدلة التجريبية على الفعالية.",
+          "id": "Kajian teoretis. Rekomendasi praktik tidak dapat menggantikan bukti empiris tentang efektivitas.",
+          "ms": "Kajian teoretikal. Cadangan amalan tidak menggantikan bukti empirikal tentang keberkesanan."
+        },
+        "publicationState": "published"
+      }
+    },
+    {
+      "id": "s-eksi-islamic-spiritual-counseling-techniques",
+      "title": "Islamic Spiritual Counseling Techniques",
+      "year": 2019,
+      "url": "https://doi.org/10.37898/spc.2019.4.3.069",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": "10.37898/spc.2019.4.3.069",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2019-10-15",
+        "authors": [
+          "Muhammet Şerif KESKİNOĞLU",
+          "Halil EKŞİ"
+        ],
+        "editors": [],
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "4",
+        "issue": "3",
+        "pages": "333-350",
+        "doi": "10.37898/spc.2019.4.3.069",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.37898/spc.2019.4.3.069",
+          "https://spiritualpc.net/article/islamic-spiritual-counseling-techniques/"
+        ],
+        "note": {
+          "tr": "Kuramsal derleme. Uygulamaya yönelik öneriler ampirik etkililik kanıtı yerine geçmez.",
+          "en": "Theoretical review. Practice recommendations are not a substitute for empirical evidence of effectiveness.",
+          "de": "Theoretischer Übersichtsbeitrag. Praxisempfehlungen ersetzen keine empirischen Wirksamkeitsnachweise.",
+          "zh": "理论综述。文中的实践建议不能替代有效性的实证证据。",
+          "ru": "Теоретический обзор. Практические рекомендации не заменяют эмпирических доказательств эффективности.",
+          "ar": "مراجعة نظرية. لا تُغني التوصيات التطبيقية عن الأدلة التجريبية على الفعالية.",
+          "id": "Kajian teoretis. Rekomendasi praktik tidak dapat menggantikan bukti empiris tentang efektivitas.",
+          "ms": "Kajian teoretikal. Cadangan amalan tidak menggantikan bukti empirikal tentang keberkesanan."
+        },
+        "publicationState": "published"
+      }
+    },
+    {
+      "id": "s-eksi-adapting-the-scale-for-spiritual-intelligence",
+      "title": "Adapting the Scale for Spiritual Intelligence to Turkish",
+      "year": 2019,
+      "url": "https://doi.org/10.37898/spc.2019.4.2.0062",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": "10.37898/spc.2019.4.2.0062",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2019-06-15",
+        "authors": [
+          "Özge Erduran-Tekin",
+          "Halil Ekşi"
+        ],
+        "editors": [],
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "4",
+        "issue": "2",
+        "pages": "123-141",
+        "doi": "10.37898/spc.2019.4.2.0062",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.37898/spc.2019.4.2.0062",
+          "https://spiritualpc.net/article/adapting-the-scale-for-spiritual-intelligence-to-turkish/"
+        ],
+        "note": {
+          "tr": "Psikometrik çalışma. Araştırma örneklemindeki ölçme kanıtı, klinik tanı yetkisi veya kullanım izni anlamına gelmez.",
+          "en": "Psychometric study. Measurement evidence in the research sample does not establish diagnostic authority or reuse permission.",
+          "de": "Psychometrische Studie. Messbefunde in der Stichprobe begründen weder diagnostische Befugnis noch Nutzungsrechte.",
+          "zh": "心理测量研究。研究样本中的测量证据不等于临床诊断资格或使用许可。",
+          "ru": "Психометрическое исследование. Данные выборки не означают права на диагностику или разрешения использовать шкалу.",
+          "ar": "دراسة سيكومترية. أدلة القياس في العينة لا تمنح صلاحية التشخيص أو إذن استخدام المقياس.",
+          "id": "Studi psikometrik. Bukti pengukuran pada sampel bukan kewenangan diagnosis atau izin penggunaan instrumen.",
+          "ms": "Kajian psikometrik. Bukti pengukuran dalam sampel bukan kuasa diagnosis atau kebenaran menggunakan instrumen."
+        },
+        "publicationState": "published"
+      }
+    },
+    {
+      "id": "s-eksi-ogretmen-adaylarinin-spirituel-i-yi-olus",
+      "title": "Öğretmen Adaylarının Spiritüel İyi Oluş İle Yaşamda Anlam Değişkenlerinin Psikolojik Dayanıklılığı Yordaması: Bir Yapısal Eşitlik Modeli (YEM) Denemesi",
+      "year": 2019,
+      "url": "https://doi.org/10.24106/kefdergi.3256",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": "10.24106/kefdergi.3256",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2019-07-15",
+        "authors": [
+          "Halil EKŞİ",
+          "Cem BOYALI",
+          "Durmuş ÜMMET"
+        ],
+        "editors": [],
+        "journal": "Kastamonu Eğitim Dergisi",
+        "volume": "27",
+        "issue": "4",
+        "pages": "1695-1704",
+        "doi": "10.24106/kefdergi.3256",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.24106/kefdergi.3256",
+          "https://dergipark.org.tr/tr/pub/kefdergi/article/585640"
+        ],
+        "note": {
+          "tr": "İlişkisel araştırma. Aracılık analizi, bu gözlemsel tasarımda nedensel mekanizma veya müdahale etkisi göstermez.",
+          "en": "Correlational research. Mediation in this observational design does not establish a causal mechanism or intervention effect.",
+          "de": "Korrelative Forschung. Die Mediation im Beobachtungsdesign belegt weder einen kausalen Mechanismus noch einen Interventionseffekt.",
+          "zh": "相关研究。此观察性设计中的中介分析不能证明因果机制或干预效果。",
+          "ru": "Корреляционное исследование. Анализ медиации не устанавливает причинный механизм или эффект вмешательства.",
+          "ar": "بحث ارتباطي. تحليل الوساطة في هذا التصميم الرصدي لا يثبت آلية سببية أو أثر تدخل.",
+          "id": "Penelitian korelasional. Mediasi pada desain observasional tidak membuktikan mekanisme sebab akibat atau efek intervensi.",
+          "ms": "Penyelidikan korelasi. Mediasi dalam reka bentuk pemerhatian tidak membuktikan mekanisme sebab akibat atau kesan intervensi."
+        },
+        "publicationState": "published"
+      }
+    },
+    {
+      "id": "s-eksi-maternal-spiritual-coping-scale-development-and",
+      "title": "Maternal Spiritual Coping Scale: Development and Validation",
+      "year": 2018,
+      "url": "https://doi.org/10.12738/spc.2018.1.0042",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": "10.12738/spc.2018.1.0042",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2018-02-28",
+        "authors": [
+          "A. Nilgün Canel",
+          "Halil Eksi",
+          "Hatice Sanver Gürsoy",
+          "K. Gamze Yaman"
+        ],
+        "editors": [],
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "3",
+        "issue": "1",
+        "pages": "",
+        "doi": "10.12738/spc.2018.1.0042",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.12738/spc.2018.1.0042",
+          "https://spiritualpc.net/article/maternal-spiritual-coping-scale-development-and-validation/"
+        ],
+        "note": {
+          "tr": "Psikometrik çalışma. Araştırma örneklemindeki ölçme kanıtı, klinik tanı yetkisi veya kullanım izni anlamına gelmez.",
+          "en": "Psychometric study. Measurement evidence in the research sample does not establish diagnostic authority or reuse permission.",
+          "de": "Psychometrische Studie. Messbefunde in der Stichprobe begründen weder diagnostische Befugnis noch Nutzungsrechte.",
+          "zh": "心理测量研究。研究样本中的测量证据不等于临床诊断资格或使用许可。",
+          "ru": "Психометрическое исследование. Данные выборки не означают права на диагностику или разрешения использовать шкалу.",
+          "ar": "دراسة سيكومترية. أدلة القياس في العينة لا تمنح صلاحية التشخيص أو إذن استخدام المقياس.",
+          "id": "Studi psikometrik. Bukti pengukuran pada sampel bukan kewenangan diagnosis atau izin penggunaan instrumen.",
+          "ms": "Kajian psikometrik. Bukti pengukuran dalam sampel bukan kuasa diagnosis atau kebenaran menggunakan instrumen."
+        },
+        "publicationState": "published"
+      }
+    },
+    {
+      "id": "s-eksi-spirituality-in-logotherapy",
+      "title": "Spirituality in Logotherapy",
+      "year": 2017,
+      "url": "https://doi.org/10.12738/spc.2017.2.0028",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": "10.12738/spc.2017.2.0028",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2017-08-15",
+        "authors": [
+          "Nesrullah Okan",
+          "Halil Eksi"
+        ],
+        "editors": [],
+        "journal": "SPIRITUAL PSYCHOLOGY AND COUNSELING",
+        "volume": "2",
+        "issue": "2",
+        "pages": "",
+        "doi": "10.12738/spc.2017.2.0028",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.12738/spc.2017.2.0028",
+          "https://spiritualpc.net/article/spirituality-in-logotherapy/"
+        ],
+        "note": {
+          "tr": "Kuramsal derleme. Uygulamaya yönelik öneriler ampirik etkililik kanıtı yerine geçmez.",
+          "en": "Theoretical review. Practice recommendations are not a substitute for empirical evidence of effectiveness.",
+          "de": "Theoretischer Übersichtsbeitrag. Praxisempfehlungen ersetzen keine empirischen Wirksamkeitsnachweise.",
+          "zh": "理论综述。文中的实践建议不能替代有效性的实证证据。",
+          "ru": "Теоретический обзор. Практические рекомендации не заменяют эмпирических доказательств эффективности.",
+          "ar": "مراجعة نظرية. لا تُغني التوصيات التطبيقية عن الأدلة التجريبية على الفعالية.",
+          "id": "Kajian teoretis. Rekomendasi praktik tidak dapat menggantikan bukti empiris tentang efektivitas.",
+          "ms": "Kajian teoretikal. Cadangan amalan tidak menggantikan bukti empirikal tentang keberkesanan."
+        },
+        "publicationState": "published"
+      }
+    },
+    {
+      "id": "s-eksi-spirituality-in-psychotherapy-settings-a-phenomenological",
+      "title": "Spirituality in Psychotherapy Settings: A Phenomenological Inquiry into the Experiences of Turkish Health Professionals",
+      "year": 2016,
+      "url": "https://doi.org/10.12738/spc.2016.1.0005",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-01",
+      "doi": "10.12738/spc.2016.1.0005",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2016-02-15",
+        "authors": [
+          "Halil Eksi",
+          "Zeynep Takmaz",
+          "Selami Kardas"
+        ],
+        "editors": [],
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "1",
+        "issue": "1",
+        "pages": "",
+        "doi": "10.12738/spc.2016.1.0005",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.12738/spc.2016.1.0005",
+          "https://spiritualpc.net/article/spirituality-in-psychotherapy-settings-a-phenomenological-inquiry-into-the-experiences-of-turkish-health-professionals/"
+        ],
+        "note": {
+          "tr": "Nitel araştırma. Katılımcı görüşleri bağlam içinde okunmalıdır. Bulgular bir eğitim veya müdahalenin etkililiğini sınamaz.",
+          "en": "Qualitative research. Read participants’ accounts in context. Findings do not test training or intervention efficacy.",
+          "de": "Qualitative Forschung. Aussagen sind kontextgebunden. Die Wirksamkeit einer Ausbildung oder Intervention wird nicht geprüft.",
+          "zh": "质性研究。应结合情境理解参与者陈述。研究未检验培训或干预效果。",
+          "ru": "Качественное исследование. Высказывания участников контекстуальны. Эффективность обучения или вмешательства не проверяется.",
+          "ar": "بحث نوعي. تُقرأ روايات المشاركين ضمن سياقها. النتائج لا تختبر فعالية التدريب أو التدخل.",
+          "id": "Penelitian kualitatif. Pengalaman peserta dibaca dalam konteks. Temuan tidak menguji efektivitas pelatihan atau intervensi.",
+          "ms": "Penyelidikan kualitatif. Pengalaman peserta dibaca dalam konteks. Dapatan tidak menguji keberkesanan latihan atau intervensi."
+        },
+        "publicationState": "published"
+      }
+    },
+    {
+      "id": "s-german-meta",
+      "title": "Religiosity, Spirituality and Mental Health: Meta-analysis of Studies from the German-Speaking Area",
+      "year": 2026,
+      "url": "https://doi.org/10.1007/s10943-025-02406-3",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-03",
+      "doi": "10.1007/s10943-025-02406-3",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Christian Zwingmann"
+        ],
+        "editors": [],
+        "date": "2026-02",
+        "journal": "Journal of Religion and Health",
+        "volume": "65",
+        "issue": "1",
+        "pages": "132-157",
+        "doi": "10.1007/s10943-025-02406-3",
+        "note": {
+          "tr": "Korelasyon nedensellik göstermez. Kültür ve ölçüm önemlidir.",
+          "en": "Correlation does not establish causation. Culture and measurement matter.",
+          "de": "Korrelation belegt keine Kausalität. Kultur und Messung sind relevant.",
+          "zh": "相关不等于因果，文化与测量方式会影响解释。",
+          "ru": "Корреляция не доказывает причинность. Важны культура и измерение.",
+          "ar": "الارتباط لا يثبت السببية. للسياق الثقافي والقياس أهمية.",
+          "id": "Korelasi bukan bukti sebab akibat. Budaya dan pengukuran penting.",
+          "ms": "Korelasi tidak membuktikan sebab akibat. Budaya dan pengukuran penting."
+        },
+        "onlineDate": "2025-08-12",
+        "identityVerified": true,
+        "collection": "recent-research"
+      }
+    },
+    {
+      "id": "s-adolescent-contexts",
+      "title": "Unpacking the Complex Relationship Between Religiosity and Adolescent Mental Health: A Cross-Cultural Systematic Literature Review",
+      "year": 2026,
+      "url": "https://doi.org/10.1007/s10943-026-02736-w",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-03",
+      "doi": "10.1007/s10943-026-02736-w",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Lydia Mannion",
+          "Maurice Harmon",
+          "Trevor O’Brien"
+        ],
+        "editors": [],
+        "date": "2026-07-11",
+        "journal": "Journal of Religion and Health",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1007/s10943-026-02736-w",
+        "note": {
+          "tr": "Bağlamlar farklıdır. Evrensel koruyuculuk çıkarılamaz.",
+          "en": "Contexts differ. Universal protection cannot be inferred.",
+          "de": "Unterschiedliche Kontexte erlauben keine universelle Schutzannahme.",
+          "zh": "情境不同，不能推断普遍的保护作用。",
+          "ru": "Контексты различаются. Универсальная защита не доказана.",
+          "ar": "تختلف السياقات، ولا يمكن استنتاج حماية شاملة.",
+          "id": "Konteks berbeda. Perlindungan universal tidak dapat disimpulkan.",
+          "ms": "Konteks berbeza. Perlindungan sejagat tidak dapat disimpulkan."
+        },
+        "identityVerified": true,
+        "collection": "recent-research"
+      }
+    },
+    {
+      "id": "s-youth-evidence",
+      "title": "Religiosity and spirituality in the prevention and management of depression and anxiety in young people: a systematic review and meta-analysis",
+      "year": 2023,
+      "url": "https://doi.org/10.1186/s12888-023-05091-2",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-03",
+      "doi": "10.1186/s12888-023-05091-2",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Shilpa Aggarwal",
+          "Judith Wright",
+          "Amy Morgan",
+          "George Patton",
+          "Nicola Reavley"
+        ],
+        "editors": [],
+        "date": "2023-10-10",
+        "journal": "BMC Psychiatry",
+        "volume": "23",
+        "issue": "1",
+        "pages": "729",
+        "doi": "10.1186/s12888-023-05091-2",
+        "note": {
+          "tr": "Çalışma kalitesi ve müdahale çeşitliliği çıkarımları sınırlar.",
+          "en": "Study quality and intervention heterogeneity constrain conclusions.",
+          "de": "Studienqualität und heterogene Interventionen begrenzen Schlussfolgerungen.",
+          "zh": "研究质量与干预差异限制结论。",
+          "ru": "Качество исследований и неоднородность вмешательств ограничивают выводы.",
+          "ar": "تحد جودة الدراسات وتباين التدخلات من الاستنتاجات.",
+          "id": "Kualitas studi dan keragaman intervensi membatasi kesimpulan.",
+          "ms": "Kualiti kajian dan kepelbagaian intervensi mengehadkan kesimpulan."
+        },
+        "identityVerified": true,
+        "collection": "foundational-research"
+      }
+    },
+    {
+      "id": "s-older-adults",
+      "title": "Religiosity/Spirituality and Mental Health in Older Adults: A Systematic Review and Meta-Analysis of Observational Studies",
+      "year": 2022,
+      "url": "https://doi.org/10.3389/fmed.2022.877213",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-03",
+      "doi": "10.3389/fmed.2022.877213",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Hélio José Coelho-Júnior",
+          "Riccardo Calvani",
+          "Francesco Panza",
+          "Riccardo F. Allegri",
+          "Anna Picca",
+          "Emanuele Marzetti",
+          "Vicente Paulo Alves"
+        ],
+        "editors": [],
+        "date": "2022-05-12",
+        "journal": "Frontiers in Medicine",
+        "volume": "9",
+        "issue": "",
+        "pages": "877213",
+        "doi": "10.3389/fmed.2022.877213",
+        "note": {
+          "tr": "Gözlemsel bulgular tedavi etkisini göstermez. Özet ve tam metin farklı çalışma sayıları verdiğinden burada toplam sayı aktarılmadı.",
+          "en": "Observational findings do not establish treatment effects. Abstract and body report different study counts, so no total is reproduced here.",
+          "de": "Beobachtungsbefunde belegen keine Behandlungseffekte. Abstract und Haupttext nennen unterschiedliche Studienzahlen, deshalb wird hier keine Gesamtzahl angegeben.",
+          "zh": "观察性发现不能确立治疗效果。摘要与正文报告的研究数不同，因此此处不列总数。",
+          "ru": "Наблюдения не доказывают эффект лечения. Число исследований в аннотации и основном тексте различается, поэтому общее число здесь не приводится.",
+          "ar": "لا تثبت النتائج الرصدية آثار العلاج. يختلف عدد الدراسات بين الملخص والمتن، لذا لا يُذكر مجموع هنا.",
+          "id": "Temuan observasional tidak membuktikan efek terapi. Jumlah studi dalam abstrak dan isi berbeda, sehingga total tidak dicantumkan di sini.",
+          "ms": "Dapatan pemerhatian tidak membuktikan kesan rawatan. Bilangan kajian dalam abstrak dan teks berbeza, maka jumlah tidak dinyatakan di sini."
+        },
+        "identityVerified": true,
+        "collection": "foundational-research"
+      }
+    },
+    {
+      "id": "s-attendance-cohorts",
+      "title": "Religious-service attendance and subsequent health and well-being throughout adulthood: evidence from three prospective cohorts",
+      "year": 2020,
+      "url": "https://doi.org/10.1093/ije/dyaa120",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-03",
+      "doi": "10.1093/ije/dyaa120",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Ying Chen",
+          "Eric S Kim",
+          "Tyler J VanderWeele"
+        ],
+        "editors": [],
+        "date": "2020-08-13",
+        "journal": "International Journal of Epidemiology",
+        "volume": "49",
+        "issue": "6",
+        "pages": "2030-2040",
+        "doi": "10.1093/ije/dyaa120",
+        "note": {
+          "tr": "ABD örneklemleri. Kalıntı karıştırıcı etkiler göz ardı edilemez. Katılım, maneviyatın bütünü değildir.",
+          "en": "US samples. Residual confounding remains possible. Attendance is not spirituality as a whole.",
+          "de": "US-Stichproben. Restkonfundierung bleibt möglich. Teilnahme erfasst nicht die gesamte Spiritualität.",
+          "zh": "样本来自美国，仍可能存在残余混杂。参与活动不等同于全部灵性。",
+          "ru": "Выборки из США. Возможно остаточное смешение. Участие не охватывает всю духовность.",
+          "ar": "عينات أمريكية. قد تبقى عوامل مربكة. المشاركة لا تشمل الروحانية كلها.",
+          "id": "Sampel AS. Perancu residual mungkin ada. Kehadiran bukan keseluruhan spiritualitas.",
+          "ms": "Sampel AS. Faktor pengeliru baki mungkin wujud. Kehadiran bukan keseluruhan kerohanian."
+        },
+        "identityVerified": true,
+        "collection": "foundational-research"
+      }
+    },
+    {
+      "id": "s-atheist-struggles",
+      "title": "Spiritual Struggles among Atheists: Links to Psychological Distress and Well-Being",
+      "year": 2018,
+      "url": "https://doi.org/10.3390/rel9080242",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-03",
+      "doi": "10.3390/rel9080242",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Aaron E. Sedlar",
+          "Nick Stauner",
+          "Kenneth I. Pargament",
+          "Julie J. Exline",
+          "Joshua B. Grubbs",
+          "David F. Bradley"
+        ],
+        "editors": [],
+        "date": "2018-08-09",
+        "journal": "Religions",
+        "volume": "9",
+        "issue": "8",
+        "pages": "242",
+        "doi": "10.3390/rel9080242",
+        "note": {
+          "tr": "Kesitsel örneklemler tüm inançsız insanları temsil etmez.",
+          "en": "Cross-sectional samples do not represent all nonreligious people.",
+          "de": "Querschnittsstichproben repräsentieren nicht alle nichtreligiösen Menschen.",
+          "zh": "横断面样本不能代表所有无宗教信仰者。",
+          "ru": "Поперечные выборки не представляют всех нерелигиозных людей.",
+          "ar": "العينات المقطعية لا تمثل جميع غير المتدينين.",
+          "id": "Sampel potong lintang tidak mewakili semua orang nonreligius.",
+          "ms": "Sampel keratan rentas tidak mewakili semua orang tanpa pegangan agama."
+        },
+        "identityVerified": true,
+        "collection": "foundational-research"
+      }
+    },
+    {
+      "id": "s-religious-cbt",
+      "title": "Religious vs. Conventional Cognitive Behavioral Therapy for Major Depression in Persons With Chronic Medical Illness",
+      "year": 2015,
+      "url": "https://doi.org/10.1097/NMD.0000000000000273",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-03",
+      "doi": "10.1097/NMD.0000000000000273",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Harold G. Koenig",
+          "Michelle J. Pearce",
+          "Bruce Nelson",
+          "Sally F. Shaw",
+          "Clive J. Robins",
+          "Noha S. Daher",
+          "Harvey Jay Cohen",
+          "Lee S. Berk",
+          "Denise L. Bellinger",
+          "Kenneth I. Pargament",
+          "David H. Rosmarin",
+          "Sasan Vasegh",
+          "Jean Kristeller",
+          "Nalini Juthani",
+          "Douglas Nies",
+          "Michael B. King"
+        ],
+        "editors": [],
+        "date": "2015-04",
+        "journal": "Journal of Nervous & Mental Disease",
+        "volume": "203",
+        "issue": "4",
+        "pages": "243-251",
+        "doi": "10.1097/NMD.0000000000000273",
+        "note": {
+          "tr": "Anlamsız fark, eşdeğerlik kanıtı değildir.",
+          "en": "A nonsignificant difference does not prove equivalence.",
+          "de": "Ein nichtsignifikanter Unterschied belegt keine Gleichwertigkeit.",
+          "zh": "差异不显著并不证明等效。",
+          "ru": "Незначимое различие не доказывает эквивалентность.",
+          "ar": "غياب فرق دال لا يثبت التكافؤ.",
+          "id": "Perbedaan tidak signifikan bukan bukti kesetaraan.",
+          "ms": "Perbezaan tidak signifikan bukan bukti kesetaraan."
+        },
+        "identityVerified": true,
+        "collection": "foundational-research"
+      }
+    },
+    {
+      "id": "s-disaster-needs",
+      "title": "Deprem Sonrası Manevi Danışmanlık ve Rehberlik İhtiyaçları: Psiko-Sosyal Destek Uzmanlarının Görüşlerine Dayalı Nitel Bir Araştırma",
+      "year": 2025,
+      "url": "https://doi.org/10.56432/tmdrd.1645518",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-03",
+      "doi": "10.56432/tmdrd.1645518",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "İclal Öztürk",
+          "Ümit Horozcu"
+        ],
+        "editors": [],
+        "date": "2025-06-30",
+        "journal": "Türk Manevi Danışmanlık ve Rehberlik Dergisi",
+        "volume": "",
+        "issue": "11",
+        "pages": "85-118",
+        "doi": "10.56432/tmdrd.1645518",
+        "note": {
+          "tr": "Görüşmeler müdahale etkililiğini kanıtlamaz.",
+          "en": "Interviews do not establish intervention efficacy.",
+          "de": "Interviews belegen keine Wirksamkeit von Interventionen.",
+          "zh": "访谈不能确立干预效果。",
+          "ru": "Интервью не доказывают эффективность вмешательства.",
+          "ar": "المقابلات لا تثبت فعالية التدخل.",
+          "id": "Wawancara tidak membuktikan efektivitas intervensi.",
+          "ms": "Temu bual tidak membuktikan keberkesanan intervensi."
+        },
+        "identityVerified": true,
+        "collection": "recent-research"
+      }
+    },
+    {
+      "id": "s-brief-rcope",
+      "title": "The Brief RCOPE: Current Psychometric Status of a Short Measure of Religious Coping",
+      "year": 2011,
+      "url": "https://doi.org/10.3390/rel2010051",
+      "kind": "measure",
+      "inspection": "abstract",
+      "checked": "2026-10-03",
+      "doi": "10.3390/rel2010051",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Kenneth Pargament",
+          "Margaret Feuille",
+          "Donna Burdzy"
+        ],
+        "editors": [],
+        "date": "2011-02-22",
+        "journal": "Religions",
+        "volume": "2",
+        "issue": "1",
+        "pages": "51-76",
+        "doi": "10.3390/rel2010051",
+        "note": {
+          "tr": "Dil ve kültür için geçerlik ayrıca değerlendirilmelidir.",
+          "en": "Validity needs separate assessment in each language and culture.",
+          "de": "Validität ist je Sprache und Kultur gesondert zu prüfen.",
+          "zh": "各语言与文化中的效度须分别检验。",
+          "ru": "Валидность требует отдельной оценки для каждого языка и культуры.",
+          "ar": "تحتاج الصلاحية إلى تقييم مستقل لكل لغة وثقافة.",
+          "id": "Validitas perlu dinilai untuk tiap bahasa dan budaya.",
+          "ms": "Kesahan perlu dinilai bagi setiap bahasa dan budaya."
+        },
+        "identityVerified": true,
+        "collection": "foundational-research"
+      }
+    },
+    {
+      "id": "s-meaning-questionnaire",
+      "title": "The meaning in life questionnaire: Assessing the presence of and search for meaning in life.",
+      "year": 2006,
+      "url": "https://doi.org/10.1037/0022-0167.53.1.80",
+      "kind": "measure",
+      "inspection": "official",
+      "checked": "2026-10-03",
+      "doi": "10.1037/0022-0167.53.1.80",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Michael F. Steger",
+          "Patricia Frazier",
+          "Shigehiro Oishi",
+          "Matthew Kaler"
+        ],
+        "editors": [],
+        "date": "2006-01",
+        "journal": "Journal of Counseling Psychology",
+        "volume": "53",
+        "issue": "1",
+        "pages": "80-93",
+        "doi": "10.1037/0022-0167.53.1.80",
+        "note": {
+          "tr": "Anlam, dindarlıkla veya ruhsal bozukluk tanısıyla özdeş değildir.",
+          "en": "Meaning is not identical to religiosity or psychiatric diagnosis.",
+          "de": "Sinn ist weder mit Religiosität noch mit psychiatrischer Diagnose gleichzusetzen.",
+          "zh": "意义不等同于宗教性或精神障碍诊断。",
+          "ru": "Смысл не тождествен религиозности или психиатрическому диагнозу.",
+          "ar": "المعنى ليس مرادفاً للتدين أو التشخيص النفسي.",
+          "id": "Makna tidak identik dengan religiositas atau diagnosis psikiatri.",
+          "ms": "Makna tidak sama dengan religiositi atau diagnosis psikiatri."
+        },
+        "identityVerified": true,
+        "collection": "foundational-research"
+      }
+    },
+    {
+      "id": "s-durel",
+      "title": "The Duke University Religion Index (DUREL): A Five-Item Measure for Use in Epidemological Studies",
+      "year": 2010,
+      "url": "https://doi.org/10.3390/rel1010078",
+      "kind": "measure",
+      "inspection": "official",
+      "checked": "2026-10-03",
+      "doi": "10.3390/rel1010078",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Harold G. Koenig",
+          "Arndt Büssing"
+        ],
+        "editors": [],
+        "date": "2010-12-01",
+        "journal": "Religions",
+        "volume": "1",
+        "issue": "1",
+        "pages": "78-85",
+        "doi": "10.3390/rel1010078",
+        "note": {
+          "tr": "Maneviyatın tümünü veya klinik gereksinimi ölçmez.",
+          "en": "It does not measure all spirituality or clinical need.",
+          "de": "Es misst weder die gesamte Spiritualität noch klinischen Bedarf.",
+          "zh": "不能测量全部灵性或临床需求。",
+          "ru": "Не измеряет духовность во всей полноте или клиническую потребность.",
+          "ar": "لا يقيس الروحانية بكاملها أو الحاجة السريرية.",
+          "id": "Tidak mengukur seluruh spiritualitas atau kebutuhan klinis.",
+          "ms": "Tidak mengukur keseluruhan kerohanian atau keperluan klinikal."
+        },
+        "identityVerified": true,
+        "collection": "foundational-research"
+      }
+    },
+    {
+      "id": "s-swbs-eksi-kardas",
+      "title": "Spiritual Well-Being: Scale Development and Validation",
+      "year": 2017,
+      "url": "https://doi.org/10.12738/spc.2017.1.0022",
+      "kind": "measure",
+      "inspection": "fulltext",
+      "checked": "2026-10-04",
+      "doi": "10.12738/spc.2017.1.0022",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Halil Ekşi",
+          "Selami Kardaş"
+        ],
+        "editors": [],
+        "date": "2017",
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "2",
+        "issue": "1",
+        "pages": "73-88",
+        "doi": "10.12738/spc.2017.1.0022",
+        "note": {
+          "tr": "Özette SRMR .50, Tablo 6’da .050 yazmaktadır, sayfa 84. MARSAM bu kaynak içi uyuşmazlığı çözülmüş kabul etmez. Açımlayıcı ve doğrulayıcı analizler aynı veri setindedir. Bu kayıt bağımsız doğrulamayı, gruplar arası ölçme değişmezliğini veya klinik kesme puanını doğrulamaz.",
+          "en": "The abstract reports SRMR .50, while Table 6 gives .050 on page 84. MARSAM records this unresolved source discrepancy rather than silently correcting it. Exploratory and confirmatory analyses use the same data. Independent validation, cross-group measurement invariance and clinical cut-offs are not established by this record.",
+          "de": "Im Abstract steht SRMR .50, in Tabelle 6 auf Seite 84 dagegen .050. Dieser Widerspruch bleibt ausdrücklich ungeklärt. Explorative und konfirmatorische Analysen beruhen auf demselben Datensatz. Unabhängige Validierung, Messinvarianz zwischen Gruppen und klinische Grenzwerte sind durch diesen Eintrag nicht belegt.",
+          "zh": "摘要将SRMR列为.50，第84页表6却列为.050。MARSAM保留这项尚未解决的原文差异，不擅自改正数值。探索性与验证性分析使用同一数据集。本记录未确立独立验证、跨群体测量不变性或临床界值。",
+          "ru": "В аннотации указано SRMR .50, а в таблице 6 на странице 84 стоит .050. Расхождение в источнике сохраняется как неразрешённое. Эксплораторный и конфирматорный анализы выполнены на одном наборе данных. Запись не подтверждает независимую валидацию, межгрупповую инвариантность или клинические пороги.",
+          "ar": "يرد SRMR بقيمة .50 في الملخص، مقابل .050 في الجدول 6 بالصفحة 84. يسجل MARSAM هذا التعارض بوصفه غير محسوم ولا يصحح المصدر بصمت. أُجري التحليل الاستكشافي والتوكيدي على البيانات نفسها. لا تثبت هذه البطاقة تحققاً مستقلاً أو ثبات القياس بين المجموعات أو حدوداً فاصلة سريرية.",
+          "id": "Abstrak mencantumkan SRMR .50, sedangkan Tabel 6 pada halaman 84 mencantumkan .050. Perbedaan dalam sumber ini belum terselesaikan dan tidak dikoreksi diam-diam. Analisis eksploratori dan konfirmatori memakai data yang sama. Rekaman ini tidak membuktikan validasi independen, invariansi antarkelompok atau ambang klinis.",
+          "ms": "Abstrak menyatakan SRMR .50, manakala Jadual 6 pada halaman 84 menyatakan .050. Percanggahan sumber ini belum diselesaikan dan tidak dibetulkan secara senyap. Analisis penerokaan dan pengesahan menggunakan data yang sama. Rekod ini tidak membuktikan pengesahan bebas, invarians antara kumpulan atau ambang klinikal."
+        },
+        "identityVerified": true,
+        "collection": "foundational-research"
+      }
+    },
+    {
+      "id": "s-swbs-paloutzian-ellison",
+      "title": "Spiritual Well-Being: Conceptualization and Measurement",
+      "year": 1983,
+      "url": "https://doi.org/10.1177/009164718301100406",
+      "kind": "measure",
+      "inspection": "official",
+      "checked": "2026-10-04",
+      "doi": "10.1177/009164718301100406",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Craig W. Ellison"
+        ],
+        "editors": [],
+        "date": "1983",
+        "journal": "Journal of Psychology and Theology",
+        "volume": "11",
+        "issue": "4",
+        "pages": "330-338",
+        "doi": "10.1177/009164718301100406",
+        "note": {
+          "tr": "Yazarın sayfasında 2022 tarihli Türkçe form vardır. Formun bulunması Türkçe psikometrik geçerlik veya ölçme değişmezliği kanıtı değildir, bu kayıtta böyle bir doğrulama yapılmamıştır. Ücretsiz kullanım, atıf ve telif satırını koruma koşuluna bağlıdır. MARSAM maddeleri veya puanlama formunu yeniden yayımlamaz. İki SWBS’nin puanları eşdeğer varsayılamaz.",
+          "en": "The author hosts a Turkish form dated 2022. Availability of a translation does not establish Turkish psychometric validity or measurement invariance, neither of which is verified here. No-cost use requires proper citation and retention of the copyright byline. MARSAM does not republish items or the scoring form. The two SWBS scores must not be assumed equivalent.",
+          "de": "Der Autor stellt eine türkische Fassung von 2022 bereit. Eine verfügbare Übersetzung belegt weder psychometrische Validität auf Türkisch noch Messinvarianz. Beides wurde hier nicht bestätigt. Kostenfreie Nutzung setzt korrekte Zitation und Erhalt des Urheberrechtsvermerks voraus. MARSAM veröffentlicht keine Items oder Auswertungsformulare. Die Werte beider SWBS sind nicht als gleichwertig anzusehen.",
+          "zh": "作者网站提供标注2022年的土耳其语表单。译本可获取不等于土耳其语心理测量效度或测量不变性已获得验证，本记录未确认此类证据。免费使用仍须正确引用并保留版权说明。MARSAM不转载条目或计分表，也不将两种SWBS的分数视为等值。",
+          "ru": "На сайте автора размещена турецкая форма 2022 года. Наличие перевода не доказывает психометрическую валидность на турецком языке или инвариантность измерения, эти свойства здесь не подтверждены. Бесплатное использование требует корректного цитирования и сохранения строки об авторских правах. MARSAM не перепечатывает пункты и бланк подсчёта. Эквивалентность баллов двух SWBS не предполагается.",
+          "ar": "يتيح موقع المؤلف صيغة تركية مؤرخة في 2022. إتاحة الترجمة لا تثبت صلاحيتها السيكومترية بالتركية أو ثبات القياس، ولم يُتحقق منهما هنا. يشترط الاستخدام المجاني التوثيق الصحيح والإبقاء على بيان حقوق النشر. لا يعيد MARSAM نشر الفقرات أو نموذج التصحيح. ولا تُفترض مكافأة درجات أداتي SWBS.",
+          "id": "Situs penulis menyediakan formulir bahasa Turki bertanggal 2022. Tersedianya terjemahan bukan bukti validitas psikometrik bahasa Turki atau invariansi pengukuran, keduanya belum diverifikasi di sini. Penggunaan tanpa biaya mensyaratkan sitasi yang benar dan pencantuman hak cipta. MARSAM tidak menerbitkan ulang butir atau formulir penskoran. Skor kedua SWBS tidak boleh dianggap setara.",
+          "ms": "Laman pengarang menyediakan borang bahasa Turki bertarikh 2022. Ketersediaan terjemahan bukan bukti kesahan psikometrik bahasa Turki atau invarians pengukuran, kedua-duanya belum disahkan di sini. Penggunaan tanpa bayaran mensyaratkan sitasi yang betul dan pengekalan pernyataan hak cipta. MARSAM tidak menerbitkan semula item atau borang pemarkahan. Skor kedua-dua SWBS tidak boleh dianggap setara."
+        },
+        "identityVerified": true,
+        "collection": "foundational-research"
+      }
+    },
+    {
+      "id": "s-within-person-attendance",
+      "title": "Does Religious-Service Attendance Increase Mental Health? A Random-Intercept Cross-Lagged Panel Analysis Across 18 Years",
+      "year": 2025,
+      "url": "https://doi.org/10.1177/09567976251325449",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-04",
+      "doi": "10.1177/09567976251325449",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Gabriele Prati"
+        ],
+        "editors": [],
+        "date": "2025-03",
+        "journal": "Psychological Science",
+        "volume": "36",
+        "issue": "3",
+        "pages": "157-167",
+        "doi": "10.1177/09567976251325449",
+        "identitySources": [
+          "https://pubmed.ncbi.nlm.nih.gov/40112215/",
+          "https://journals.sagepub.com/doi/10.1177/09567976251325449"
+        ],
+        "onlineDate": "2025-03-20",
+        "note": {
+          "tr": "Gözlemsel analiz bir müdahale deneyi değildir. Anlamlı olmayan sonuçlar etkinin yokluğunu kanıtlamaz. Kişi içi değişim ile kişiler arası farklar aynı soruyu yanıtlamaz.",
+          "en": "This is observational analysis, not an intervention trial. Nonsignificance does not prove absence of an effect. Within-person change and between-person differences answer different questions.",
+          "de": "Die Beobachtungsanalyse ist kein Interventionsversuch. Fehlende Signifikanz belegt keine Wirkungslosigkeit. Veränderungen innerhalb einer Person sind von Unterschieden zwischen Personen zu trennen.",
+          "zh": "这是观察性分析，而非干预试验。不显著并不证明没有效应，个体内变化与个体间差异回答的研究问题不同。",
+          "ru": "Наблюдательный анализ не является испытанием вмешательства. Незначимость не доказывает отсутствие эффекта. Изменения у одного человека и различия между людьми отвечают на разные вопросы.",
+          "ar": "التحليل رصدي وليس تجربة تدخل. عدم الدلالة لا يثبت غياب الأثر. والتغير لدى الفرد يختلف عن الفروق بين الأفراد من حيث السؤال البحثي.",
+          "id": "Analisis observasional ini bukan uji intervensi. Hasil tidak signifikan bukan bukti ketiadaan efek. Perubahan dalam diri individu berbeda dari perbedaan antarindividu.",
+          "ms": "Analisis pemerhatian ini bukan percubaan intervensi. Ketiadaan kesignifikanan tidak membuktikan ketiadaan kesan. Perubahan dalam individu dan perbezaan antara individu menjawab soalan yang berlainan."
+        },
+        "identityVerified": true,
+        "collection": "recent-research"
+      }
+    },
+    {
+      "id": "s-bidirectional-alspac",
+      "title": "Exploring bidirectional causality between religion and mental health: A longitudinal study using data from the parent generation of a UK birth cohort",
+      "year": 2025,
+      "url": "https://doi.org/10.1371/journal.pone.0319796",
+      "kind": "study",
+      "inspection": "fulltext",
+      "checked": "2026-10-04",
+      "doi": "10.1371/journal.pone.0319796",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Daniel Major-Smith",
+          "Jimmy Morgan",
+          "Isaac Halstead",
+          "Jean Golding"
+        ],
+        "editors": [],
+        "date": "2025-03-18",
+        "journal": "PLOS ONE",
+        "volume": "20",
+        "issue": "3",
+        "pages": "e0319796",
+        "doi": "10.1371/journal.pone.0319796",
+        "identitySources": [
+          "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319796",
+          "https://pubmed.ncbi.nlm.nih.gov/40100890/"
+        ],
+        "note": {
+          "tr": "Gözlemsel tasarım, kalan karıştırıcıları dışlamaz. Geniş belirsizlik aralıkları ve tarihsel ebeveyn örneklemi genellemeyi sınırlar. Sonuçlar nedenselliğin varlığını ya da yokluğunu kesinleştirmez.",
+          "en": "Residual confounding is possible in this observational design. Wide uncertainty and a historical parent cohort limit generalisation. Neither causal effects nor their absence are established.",
+          "de": "Restkonfundierung lässt sich nicht ausschließen. Große Unsicherheit und die historische Elternkohorte begrenzen die Übertragbarkeit. Weder kausale Wirkungen noch deren Abwesenheit sind belegt.",
+          "zh": "观察性设计不能排除残余混杂。估计的不确定性及历史父母队列限制了推广性，结果既未确立因果效应，也未证明因果效应不存在。",
+          "ru": "В наблюдательном дизайне возможно остаточное смешение. Большая неопределённость и историческая выборка родителей ограничивают обобщение. Наличие или отсутствие причинных эффектов не установлено.",
+          "ar": "قد تبقى عوامل مربكة في هذا التصميم الرصدي. يحد اتساع عدم اليقين والسياق التاريخي لعينة الآباء من التعميم. لا تثبت النتائج الأثر السببي ولا تنفيه.",
+          "id": "Perancu residual masih mungkin dalam desain observasional. Ketidakpastian dan konteks historis kohort orang tua membatasi generalisasi. Efek kausal maupun ketiadaannya belum terbukti.",
+          "ms": "Pengeliruan baki masih mungkin dalam reka bentuk pemerhatian. Ketidakpastian dan konteks sejarah kohort ibu bapa mengehadkan generalisasi. Kesan sebab akibat mahupun ketiadaannya belum dibuktikan."
+        },
+        "identityVerified": true,
+        "collection": "recent-research"
+      }
+    },
+    {
+      "id": "s-brazil-medical-students",
+      "title": "Religiosity, Mental Health and Quality of Life of Brazilian Medical Students: A 2-Year Follow-Up Study",
+      "year": 2026,
+      "url": "https://doi.org/10.1007/s10943-025-02461-w",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-04",
+      "doi": "10.1007/s10943-025-02461-w",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Rocío de Diego-Cordero",
+          "Alessandra Lamas Granero Lucchetti",
+          "Giancarlo Lucchetti"
+        ],
+        "editors": [],
+        "date": "2026-06",
+        "journal": "Journal of Religion and Health",
+        "volume": "65",
+        "issue": "3",
+        "pages": "2368-2380",
+        "doi": "10.1007/s10943-025-02461-w",
+        "identitySources": [
+          "https://pubmed.ncbi.nlm.nih.gov/41046488/",
+          "https://doi.org/10.1007/s10943-025-02461-w"
+        ],
+        "onlineDate": "2025-10-05",
+        "note": {
+          "tr": "Bu gözlemsel ilişki, katılımı artırmanın tedavi etkisi olduğunu göstermez. Öğrenci örneklemi genellemeyi sınırlar. Bir çalışmada DUREL kullanılması, ölçeğin bütün dil sürümlerini doğrulamaz.",
+          "en": "This observational association is not a treatment effect of increasing attendance. The student sample limits generalisation. Use of DUREL does not validate all its language versions.",
+          "de": "Der beobachtete Zusammenhang belegt keinen Behandlungseffekt verstärkter Teilnahme. Die Studierendenstichprobe begrenzt die Übertragbarkeit. Die Anwendung von DUREL validiert nicht sämtliche Sprachfassungen.",
+          "zh": "观察到的关联不等于增加参与具有治疗效果。医学生样本限制了推广范围，使用DUREL也不意味着验证了该量表的所有语言版本。",
+          "ru": "Эта наблюдаемая связь не доказывает лечебный эффект увеличения посещаемости. Студенческая выборка ограничивает обобщение. Применение DUREL не валидирует все языковые версии шкалы.",
+          "ar": "هذا الارتباط الرصدي لا يثبت أثراً علاجياً لزيادة المشاركة. تحد عينة الطلاب من التعميم. واستخدام DUREL لا يثبت صلاحية جميع نسخه اللغوية.",
+          "id": "Hubungan observasional ini bukan bukti efek pengobatan dari peningkatan kehadiran. Sampel mahasiswa membatasi generalisasi. Penggunaan DUREL tidak memvalidasi seluruh versi bahasanya.",
+          "ms": "Perkaitan pemerhatian ini bukan bukti kesan rawatan daripada peningkatan kehadiran. Sampel pelajar mengehadkan generalisasi. Penggunaan DUREL tidak mengesahkan semua versi bahasanya."
+        },
+        "identityVerified": true,
+        "collection": "recent-research"
+      }
+    },
+    {
+      "id": "s-turkish-bereavement",
+      "title": "The mediating role of spiritual well-being, meaning in life, and religiosity in the relationship between loneliness and mental well-being among Turkish older adults experiencing spousal loss",
+      "year": 2026,
+      "url": "https://doi.org/10.1080/13607863.2025.2606354",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-04",
+      "doi": "10.1080/13607863.2025.2606354",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Olcan Aslan",
+          "İrem Topuz"
+        ],
+        "editors": [],
+        "date": "2026-05",
+        "journal": "Aging & Mental Health",
+        "volume": "30",
+        "issue": "5",
+        "pages": "1059-1071",
+        "doi": "10.1080/13607863.2025.2606354",
+        "identitySources": [
+          "https://www.tandfonline.com/doi/full/10.1080/13607863.2025.2606354",
+          "https://pubmed.ncbi.nlm.nih.gov/41447499/"
+        ],
+        "onlineDate": "2025-12-25",
+        "note": {
+          "tr": "İncelenen özette ölçümlerin zaman sırası açıklanmıyor. Aracılık analizi nedensel mekanizma veya müdahale etkililiği göstermiyor. Bulgular eş kaybı yaşamış ileri yaştaki örneklemle sınırlı okunmalı.",
+          "en": "The inspected abstract does not specify temporal ordering. Mediation does not establish a causal pathway or intervention efficacy. Interpret findings within this older, bereaved sample.",
+          "de": "Der geprüfte Abstract erläutert die zeitliche Reihenfolge nicht. Mediation belegt weder einen kausalen Mechanismus noch Interventionswirksamkeit. Die Befunde beziehen sich auf diese ältere, verwitwete Stichprobe.",
+          "zh": "已查阅的摘要未说明测量时间顺序。中介分析不能确立因果机制或干预疗效，应在这一丧偶老年样本的范围内解释结果。",
+          "ru": "В изученном резюме не указана временная последовательность измерений. Медиаторный анализ не устанавливает причинный механизм или эффективность вмешательства. Выводы ограничены этой пожилой выборкой после утраты супруга.",
+          "ar": "لا يوضح الملخص الذي فُحص التسلسل الزمني للقياسات. تحليل الوساطة لا يثبت آلية سببية أو فعالية تدخل. تُفسر النتائج ضمن عينة كبار السن الذين فقدوا أزواجهم.",
+          "id": "Abstrak yang diperiksa tidak menjelaskan urutan waktu pengukuran. Mediasi tidak membuktikan mekanisme kausal atau efektivitas intervensi. Temuan perlu dibaca dalam konteks sampel lanjut usia yang berduka ini.",
+          "ms": "Abstrak yang diperiksa tidak menjelaskan turutan masa pengukuran. Pengantaraan tidak membuktikan mekanisme sebab akibat atau keberkesanan intervensi. Dapatan terbatas pada konteks sampel warga tua yang kehilangan pasangan ini."
+        },
+        "identityVerified": true,
+        "collection": "recent-research"
+      }
+    },
+    {
+      "id": "s-psychosis-spirituality",
+      "title": "The Role of Spirituality and Religiosity in the Maintenance and Recovery of Psychosis: A Systematic Review",
+      "year": 2025,
+      "url": "https://doi.org/10.1111/eip.70061",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-04",
+      "doi": "10.1111/eip.70061",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Megan Westhead",
+          "Anna Georgiades"
+        ],
+        "editors": [],
+        "date": "2025-07-03",
+        "journal": "Early Intervention in Psychiatry",
+        "volume": "19",
+        "issue": "7",
+        "pages": "e70061",
+        "doi": "10.1111/eip.70061",
+        "identitySources": [
+          "https://pubmed.ncbi.nlm.nih.gov/40605616/",
+          "https://onlinelibrary.wiley.com/doi/10.1111/eip.70061"
+        ],
+        "note": {
+          "tr": "İlişkiler, dini başa çıkmayı değiştirmenin tedavi etkisini kanıtlamaz. Dini inanç tek başına tanısal gösterge değildir. Derlemede önerilen klinik modeller doğrulanmış tedavi protokolleri sayılmamalıdır.",
+          "en": "Associations do not prove that changing religious coping is therapeutic. Religious belief alone is not a diagnostic indicator. Proposed clinical models are not validated treatment protocols.",
+          "de": "Zusammenhänge belegen keinen therapeutischen Effekt veränderter religiöser Bewältigung. Religiöser Glaube allein ist kein diagnostischer Hinweis. Vorgeschlagene klinische Modelle sind keine validierten Behandlungsprotokolle.",
+          "zh": "关联不能证明改变宗教应对具有治疗效果。宗教信仰本身不是诊断指标，综述提出的临床模型也不等于经过验证的治疗方案。",
+          "ru": "Связи не доказывают лечебный эффект изменения религиозного совладания. Религиозная вера сама по себе не является диагностическим признаком. Предложенные клинические модели не равнозначны валидированным протоколам лечения.",
+          "ar": "الارتباط لا يثبت أن تغيير التكيف الديني له أثر علاجي. الاعتقاد الديني وحده ليس مؤشراً تشخيصياً. والنماذج السريرية المقترحة ليست بروتوكولات علاجية مثبتة.",
+          "id": "Hubungan ini tidak membuktikan bahwa perubahan koping religius bersifat terapeutik. Keyakinan agama saja bukan indikator diagnosis. Model klinis yang diusulkan bukan protokol pengobatan tervalidasi.",
+          "ms": "Perkaitan ini tidak membuktikan bahawa perubahan daya tindak beragama mempunyai kesan rawatan. Kepercayaan agama sahaja bukan petunjuk diagnosis. Model klinikal yang dicadangkan bukan protokol rawatan yang disahkan."
+        },
+        "identityVerified": true,
+        "collection": "recent-research"
+      }
+    },
+    {
+      "id": "s-clergy-abuse-harm",
+      "title": "The impact of clergy sexual abuse on spirituality and health: A systematic scoping review of the literature",
+      "year": 2025,
+      "url": "https://doi.org/10.1371/journal.pone.0317821",
+      "kind": "study",
+      "inspection": "fulltext",
+      "checked": "2026-10-04",
+      "doi": "10.1371/journal.pone.0317821",
+      "pmid": null,
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Joanne Durkin",
+          "Rachel Zordan",
+          "Matthew Bullen",
+          "Nadia Pavich",
+          "Patricia Therese Benedict Thomas",
+          "Carolyn Lethborg",
+          "Wendy Holder",
+          "Melinda Jolly",
+          "Darlene Dreise",
+          "Daniel Fleming"
+        ],
+        "editors": [],
+        "date": "2025-04-16",
+        "journal": "PLOS ONE",
+        "volume": "20",
+        "issue": "4",
+        "pages": "e0317821",
+        "doi": "10.1371/journal.pone.0317821",
+        "identitySources": [
+          "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317821"
+        ],
+        "note": {
+          "tr": "Bu yayınlar 12 tedavi deneyi değildir. Derlemede kalite değerlendirmesi yapılmamıştır. Katolik bağlamındaki bulgular bütün dinlere genellenemez, yeni bir klinik tanı veya tedavi etkililiği de doğrulamaz.",
+          "en": "These are not 12 treatment trials. No quality appraisal was conducted. The Catholic context cannot represent all religions, and the review validates neither a new diagnosis nor treatment efficacy.",
+          "de": "Es handelt sich nicht um 12 Behandlungsstudien. Eine Qualitätsbewertung fehlt. Der katholische Kontext steht nicht für alle Religionen. Weder eine neue Diagnose noch Behandlungswirksamkeit wird validiert.",
+          "zh": "这些文献并非12项治疗试验，综述未进行质量评价。天主教情境不能代表所有宗教，也不能据此确立新诊断或治疗疗效。",
+          "ru": "Это не 12 испытаний лечения. Оценка качества не проводилась. Католический контекст не представляет все религии. Обзор не валидирует новый диагноз или эффективность лечения.",
+          "ar": "ليست هذه 12 تجربة علاجية. لم يُجر تقييم للجودة. لا يمثل السياق الكاثوليكي جميع الأديان، ولا تثبت المراجعة تشخيصاً جديداً أو فعالية علاج.",
+          "id": "Publikasi tersebut bukan 12 uji pengobatan. Penilaian kualitas tidak dilakukan. Konteks Katolik tidak mewakili semua agama, dan tinjauan ini tidak memvalidasi diagnosis baru atau efektivitas pengobatan.",
+          "ms": "Penerbitan ini bukan 12 percubaan rawatan. Penilaian kualiti tidak dilakukan. Konteks Katolik tidak mewakili semua agama, dan ulasan ini tidak mengesahkan diagnosis baharu atau keberkesanan rawatan."
+        },
+        "identityVerified": true,
+        "collection": "recent-research"
+      }
+    },
+    {
+      "id": "s-spirituality-ptsd-review",
+      "title": "The Effects of Spirituality on Depression, Anxiety, and Post-Traumatic Stress Disorder: A Systematic Review",
+      "year": 2026,
+      "url": "https://doi.org/10.1007/s10943-026-02671-w",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-05",
+      "doi": "10.1007/s10943-026-02671-w",
+      "pmid": "42032257",
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Nesrullah Okan",
+          "Yahya Şahin"
+        ],
+        "date": "2026",
+        "journal": "Journal of Religion and Health",
+        "doi": "10.1007/s10943-026-02671-w",
+        "pmid": "42032257",
+        "identityVerified": true,
+        "collection": "research-roadmap"
+      }
+    },
+    {
+      "id": "s-rss-ff-tr",
+      "title": "Adaptation of the Five-Factor Religious and Spiritual Struggles Scale and its Psychometric Properties in Türkiye",
+      "year": 2026,
+      "url": "https://doi.org/10.1007/s10943-026-02728-w",
+      "kind": "measure",
+      "inspection": "abstract",
+      "checked": "2026-10-05",
+      "doi": "10.1007/s10943-026-02728-w",
+      "pmid": "42423872",
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Betül Şahin",
+          "Yıldız Bilge"
+        ],
+        "date": "2026",
+        "journal": "Journal of Religion and Health",
+        "doi": "10.1007/s10943-026-02728-w",
+        "pmid": "42423872",
+        "identityVerified": true,
+        "collection": "research-roadmap"
+      }
+    },
+    {
+      "id": "s-sprs",
+      "title": "The Spiritual Psychological Robustness Scale (SPRS): A New Measure for Assessing Spiritual and Psychological Strength in the Context of Turkish Culture",
+      "year": 2025,
+      "url": "https://doi.org/10.1007/s10943-024-02175-5",
+      "kind": "measure",
+      "inspection": "abstract",
+      "checked": "2026-10-05",
+      "doi": "10.1007/s10943-024-02175-5",
+      "pmid": "39542979",
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Nesrullah Okan",
+          "Füsun Ekşi"
+        ],
+        "date": "2025",
+        "journal": "Journal of Religion and Health",
+        "doi": "10.1007/s10943-024-02175-5",
+        "pmid": "39542979",
+        "identityVerified": true,
+        "collection": "research-roadmap"
+      }
+    },
+    {
+      "id": "s-sefc",
+      "title": "Development and Validation of the Spiritual Empathy Fatigue Scale (SEFC): A Psychometric Study Among Faith-Based Care Providers in Turkey",
+      "year": 2026,
+      "url": "https://doi.org/10.1007/s10943-025-02523-z",
+      "kind": "measure",
+      "inspection": "abstract",
+      "checked": "2026-10-05",
+      "doi": "10.1007/s10943-025-02523-z",
+      "pmid": "41388180",
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Nesrullah Okan",
+          "Muhammed Kızılgeçit",
+          "Hanifi Şahin",
+          "Fatih Kurt",
+          "Reyhan Keleş",
+          "Aytaç Ören"
+        ],
+        "date": "2026",
+        "journal": "Journal of Religion and Health",
+        "doi": "10.1007/s10943-025-02523-z",
+        "pmid": "41388180",
+        "identityVerified": true,
+        "collection": "research-roadmap"
+      }
+    },
+    {
+      "id": "s-hemodialysis-spiritual-care",
+      "title": "The Effect of Spiritual Care on Anxiety and Depression Level in Patients Receiving Hemodialysis Treatment: a Randomized Controlled Trial",
+      "year": 2022,
+      "url": "https://doi.org/10.1007/s10943-021-01386-4",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-05",
+      "doi": "10.1007/s10943-021-01386-4",
+      "pmid": "34387797",
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Mustafa Durmuş",
+          "Mine Ekinci"
+        ],
+        "date": "2022",
+        "journal": "Journal of Religion and Health",
+        "doi": "10.1007/s10943-021-01386-4",
+        "pmid": "34387797",
+        "identityVerified": true,
+        "collection": "research-roadmap"
+      }
+    },
+    {
+      "id": "s-muslim-coping-multinational",
+      "title": "On the links between positive religious coping, satisfaction with life and depressive symptoms among a multinational sample of Muslims",
+      "year": 2019,
+      "url": "https://doi.org/10.1002/ijop.12521",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-05",
+      "doi": "10.1002/ijop.12521",
+      "pmid": "30338852",
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Hisham Abu-Raiya",
+          "Ali Ayten",
+          "Mustafa Tekke",
+          "Qutaiba Agbaria"
+        ],
+        "date": "2019",
+        "journal": "International Journal of Psychology",
+        "doi": "10.1002/ijop.12521",
+        "pmid": "30338852",
+        "identityVerified": true,
+        "collection": "research-roadmap"
+      }
+    },
+    {
+      "id": "s-refugee-faith-coping",
+      "title": "Faith-Based Coping Among Arabic-Speaking Refugees Seeking Mental Health Services in Berlin, Germany: An Exploratory Qualitative Study",
+      "year": 2021,
+      "url": "https://doi.org/10.3389/fpsyt.2021.595979",
+      "kind": "study",
+      "inspection": "fulltext",
+      "checked": "2026-10-05",
+      "doi": "10.3389/fpsyt.2021.595979",
+      "pmid": "33633605",
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Diana Rayes",
+          "Carine Karnouk",
+          "Dana Churbaji",
+          "Lena Walther",
+          "Malek Bajbouj"
+        ],
+        "date": "2021",
+        "journal": "Frontiers in Psychiatry",
+        "doi": "10.3389/fpsyt.2021.595979",
+        "pmid": "33633605",
+        "identityVerified": true,
+        "collection": "research-roadmap"
+      }
+    },
+    {
+      "id": "s-nonreligious-turkiye",
+      "title": "Healthcare Experiences and Expectations of Atheists, Deists and Agnostics in Türkiye: A Qualitative Study of Mental Well-Being",
+      "year": 2026,
+      "url": "https://doi.org/10.1111/jpm.70148",
+      "kind": "study",
+      "inspection": "fulltext",
+      "checked": "2026-10-05",
+      "doi": "10.1111/jpm.70148",
+      "pmid": "42171513",
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Güven Soner",
+          "Emel Güven",
+          "Ercan Tunç"
+        ],
+        "date": "2026",
+        "journal": "Journal of Psychiatric and Mental Health Nursing",
+        "doi": "10.1111/jpm.70148",
+        "pmid": "42171513",
+        "identityVerified": true,
+        "collection": "research-roadmap"
+      }
+    },
+    {
+      "id": "s-religious-sexual-stigma",
+      "title": "Religious-Based Sexual Stigma and Psychological Health: Roles of Internalization, Religious Struggle, and Religiosity",
+      "year": 2020,
+      "url": "https://doi.org/10.1080/00918369.2019.1601439",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-05",
+      "doi": "10.1080/00918369.2019.1601439",
+      "pmid": "31017532",
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Dawn M. Szymanski",
+          "Rachel F. Carretta"
+        ],
+        "date": "2020",
+        "journal": "Journal of Homosexuality",
+        "doi": "10.1080/00918369.2019.1601439",
+        "pmid": "31017532",
+        "identityVerified": true,
+        "collection": "research-roadmap"
+      }
+    },
+    {
+      "id": "s-atheist-minority-stress",
+      "title": "It's like herding cats: Atheist minority stress, group involvement, and psychological outcomes",
+      "year": 2020,
+      "url": "https://doi.org/10.1037/cou0000392",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-05",
+      "doi": "10.1037/cou0000392",
+      "pmid": "31697119",
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Melanie E. Brewster",
+          "Brandon L. Velez",
+          "Elizabeth F. Geiger",
+          "Jacob S. Sawyer"
+        ],
+        "date": "2020",
+        "journal": "Journal of Counseling Psychology",
+        "doi": "10.1037/cou0000392",
+        "pmid": "31697119",
+        "identityVerified": true,
+        "collection": "research-roadmap-wave2"
+      }
+    },
+    {
+      "id": "s-sexual-minority-rs-meta",
+      "title": "The relationship between religiousness and health among sexual minorities: A meta-analysis",
+      "year": 2021,
+      "url": "https://doi.org/10.1037/bul0000321",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-05",
+      "doi": "10.1037/bul0000321",
+      "pmid": "33793286",
+      "rights": "link-only",
+      "correctionState": "correction",
+      "correctionDoi": "10.1037/bul0000339",
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "G. Tyler Lefevor",
+          "Edward B. Davis",
+          "Jaqueline Y. Paiz",
+          "Abigail C. P. Smack"
+        ],
+        "date": "2021",
+        "journal": "Psychological Bulletin",
+        "doi": "10.1037/bul0000321",
+        "pmid": "33793286",
+        "identityVerified": true,
+        "collection": "research-roadmap-wave2"
+      }
+    },
+    {
+      "id": "s-lgbq-religious-family-therapy",
+      "title": "Freedom and struggling openly in psychotherapy: A qualitative inquiry with LGBQ young adults from religious families",
+      "year": 2021,
+      "url": "https://doi.org/10.1111/jmft.12442",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-05",
+      "doi": "10.1111/jmft.12442",
+      "pmid": "32652676",
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Katie Heiden-Rootes",
+          "Kristin Ross",
+          "Rachel Moore",
+          "Shah Hasan",
+          "Samantha Gulotta"
+        ],
+        "date": "2021",
+        "journal": "Journal of Marital and Family Therapy",
+        "doi": "10.1111/jmft.12442",
+        "pmid": "32652676",
+        "identityVerified": true,
+        "collection": "research-roadmap-wave2"
+      }
+    },
+    {
+      "id": "s-lebanon-sexual-stigma",
+      "title": "Internalized Sexual Orientation Stigma and Mental Health in a Religiously Diverse Sample of Gay and Bisexual Men in Lebanon",
+      "year": 2023,
+      "url": "https://doi.org/10.1080/00918369.2022.2030617",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-05",
+      "doi": "10.1080/00918369.2022.2030617",
+      "pmid": "35089845",
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Ismael Maatouk",
+          "Rusi Jaspal"
+        ],
+        "date": "2023",
+        "journal": "Journal of Homosexuality",
+        "doi": "10.1080/00918369.2022.2030617",
+        "pmid": "35089845",
+        "identityVerified": true,
+        "collection": "research-roadmap-wave2"
+      }
+    },
+    {
+      "id": "s-icsg-2",
+      "title": "Inventory of Complicated Spiritual Grief 2.0 (ICSG 2.0): Validation of a revised measure of spiritual distress in bereavement",
+      "year": 2021,
+      "url": "https://doi.org/10.1080/07481187.2019.1627031",
+      "kind": "measure",
+      "inspection": "abstract",
+      "checked": "2026-10-05",
+      "doi": "10.1080/07481187.2019.1627031",
+      "pmid": "31215843",
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Laurie A. Burke",
+          "A. Elizabeth Crunk",
+          "Robert A. Neimeyer",
+          "Haiyan Bai"
+        ],
+        "date": "2021",
+        "journal": "Death Studies",
+        "doi": "10.1080/07481187.2019.1627031",
+        "pmid": "31215843",
+        "identityVerified": true,
+        "collection": "research-roadmap-wave2"
+      }
+    },
+    {
+      "id": "s-icsg-2-fa",
+      "title": "Assessing complicated spiritual grief: A psychometric study of the Inventory of complicated spiritual grief 2.0 in an Iranian context",
+      "year": 2025,
+      "url": "https://doi.org/10.1080/07481187.2025.2580244",
+      "kind": "measure",
+      "inspection": "abstract",
+      "checked": "2026-10-05",
+      "doi": "10.1080/07481187.2025.2580244",
+      "pmid": "41166235",
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Ahmad Ashouri",
+          "Shahab Yousefi"
+        ],
+        "date": "2025",
+        "journal": "Death Studies",
+        "doi": "10.1080/07481187.2025.2580244",
+        "pmid": "41166235",
+        "identityVerified": true,
+        "collection": "research-roadmap-wave2"
+      }
+    },
+    {
+      "id": "s-p-sds",
+      "title": "Cross-Cultural Adaptation and Psychometric Properties of the Persian Version of the Spiritual Distress Scale (P-SDS) Among Older Adults with Cancer in Iran",
+      "year": 2025,
+      "url": "https://doi.org/10.1007/s10943-025-02335-1",
+      "kind": "measure",
+      "inspection": "abstract",
+      "checked": "2026-10-05",
+      "doi": "10.1007/s10943-025-02335-1",
+      "pmid": "40355781",
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Hadi Najafi",
+          "Shahab Papi",
+          "Abolfazl Hosseinnataj",
+          "Alireza Namazi Shabestari"
+        ],
+        "date": "2025",
+        "journal": "Journal of Religion and Health",
+        "doi": "10.1007/s10943-025-02335-1",
+        "pmid": "40355781",
+        "identityVerified": true,
+        "collection": "research-roadmap-wave2"
+      }
+    },
+    {
+      "id": "s-religious-minority-context",
+      "title": "Depressive Feelings in Religious Minorities: Does the Religious Context Matter?",
+      "year": 2020,
+      "url": "https://doi.org/10.1007/s10943-020-00999-5",
+      "kind": "study",
+      "inspection": "abstract",
+      "checked": "2026-10-05",
+      "doi": "10.1007/s10943-020-00999-5",
+      "pmid": "32100169",
+      "rights": "link-only",
+      "correctionState": "not-checked",
+      "correctionDoi": null,
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Sarah M. Van de Velde",
+          "Veerle Buffel",
+          "Lore Van Praag"
+        ],
+        "date": "2020",
+        "journal": "Journal of Religion and Health",
+        "doi": "10.1007/s10943-020-00999-5",
+        "pmid": "32100169",
+        "identityVerified": true,
+        "collection": "research-roadmap-wave2"
+      }
+    }
+  ]
+}

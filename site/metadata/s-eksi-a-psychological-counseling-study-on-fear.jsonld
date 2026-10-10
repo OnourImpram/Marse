@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.37898/spc.2019.4.3.85",
+  "name": "A Psychological Counseling Study on Fear of Failure and Academic Procrastination with a Spiritually Oriented Cognitive Behavioral Group",
+  "datePublished": "2019-10-15",
+  "identifier": [
+    "https://doi.org/10.37898/spc.2019.4.3.85"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Serra Dinç"
+    },
+    {
+      "@type": "Person",
+      "name": "Halil Ekşi"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Spiritual Psychology and Counseling"
+  },
+  "url": "https://doi.org/10.37898/spc.2019.4.3.85"
+}

@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.12738/spc.2017.1.0022",
+  "name": "Spiritual Well-Being: Scale Development and Validation",
+  "datePublished": "2017",
+  "identifier": [
+    "https://doi.org/10.12738/spc.2017.1.0022"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Halil Ekşi"
+    },
+    {
+      "@type": "Person",
+      "name": "Selami Kardaş"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Spiritual Psychology and Counseling"
+  },
+  "url": "https://doi.org/10.12738/spc.2017.1.0022"
+}

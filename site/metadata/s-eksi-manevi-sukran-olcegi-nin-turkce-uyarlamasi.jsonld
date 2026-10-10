@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.37217/tebd.583207",
+  "name": "Manevi Şükran Ölçeği'nin Türkçe Uyarlaması Geçerlik Ve Güvenirlik Çalışması",
+  "datePublished": "2020-06-26",
+  "identifier": [
+    "https://doi.org/10.37217/tebd.583207"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Kübra KAPLANER"
+    },
+    {
+      "@type": "Person",
+      "name": "Halil EKŞİ"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Türk Eğitim Bilimleri Dergisi"
+  },
+  "url": "https://doi.org/10.37217/tebd.583207"
+}

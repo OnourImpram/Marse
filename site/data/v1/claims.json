@@ -1,0 +1,712 @@
+{
+  "schemaVersion": 1,
+  "release": "marsam-finished-centre-0.12.0",
+  "version": "0.12.0",
+  "generatedAt": "2026-10-10T12:56:53.446Z",
+  "publicationState": "institutional-review",
+  "reviewStatus": "AI_ASSISTED_DRAFT",
+  "humanReviewed": false,
+  "scientificApproval": false,
+  "humanLanguageApproval": false,
+  "formalInstitutionalApproval": false,
+  "records": [
+    {
+      "id": "german-meta:population",
+      "sourceIds": [
+        "s-german-meta"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "population",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "german-meta:finding",
+      "sourceIds": [
+        "s-german-meta"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "finding",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "german-meta:limit",
+      "sourceIds": [
+        "s-german-meta"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "limit",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "adolescent-contexts:population",
+      "sourceIds": [
+        "s-adolescent-contexts"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "population",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "adolescent-contexts:finding",
+      "sourceIds": [
+        "s-adolescent-contexts"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "finding",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "adolescent-contexts:limit",
+      "sourceIds": [
+        "s-adolescent-contexts"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "limit",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "youth-evidence:population",
+      "sourceIds": [
+        "s-youth-evidence"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "population",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "youth-evidence:finding",
+      "sourceIds": [
+        "s-youth-evidence"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "finding",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "youth-evidence:limit",
+      "sourceIds": [
+        "s-youth-evidence"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "limit",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "older-adults:population",
+      "sourceIds": [
+        "s-older-adults"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "population",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "older-adults:finding",
+      "sourceIds": [
+        "s-older-adults"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "finding",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "older-adults:limit",
+      "sourceIds": [
+        "s-older-adults"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "limit",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "attendance-cohorts:population",
+      "sourceIds": [
+        "s-attendance-cohorts"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "population",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "attendance-cohorts:finding",
+      "sourceIds": [
+        "s-attendance-cohorts"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "finding",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "attendance-cohorts:limit",
+      "sourceIds": [
+        "s-attendance-cohorts"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "limit",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "atheist-struggles:population",
+      "sourceIds": [
+        "s-atheist-struggles"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "population",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "atheist-struggles:finding",
+      "sourceIds": [
+        "s-atheist-struggles"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "finding",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "atheist-struggles:limit",
+      "sourceIds": [
+        "s-atheist-struggles"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "limit",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "religious-cbt:population",
+      "sourceIds": [
+        "s-religious-cbt"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "population",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "religious-cbt:finding",
+      "sourceIds": [
+        "s-religious-cbt"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "finding",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "religious-cbt:limit",
+      "sourceIds": [
+        "s-religious-cbt"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "limit",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "disaster-needs:population",
+      "sourceIds": [
+        "s-disaster-needs"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "population",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "disaster-needs:finding",
+      "sourceIds": [
+        "s-disaster-needs"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "finding",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "disaster-needs:limit",
+      "sourceIds": [
+        "s-disaster-needs"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "limit",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "brief-rcope:population",
+      "sourceIds": [
+        "s-brief-rcope"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "population",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "brief-rcope:finding",
+      "sourceIds": [
+        "s-brief-rcope"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "finding",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "brief-rcope:limit",
+      "sourceIds": [
+        "s-brief-rcope"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "limit",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "meaning-questionnaire:population",
+      "sourceIds": [
+        "s-meaning-questionnaire"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "population",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "meaning-questionnaire:finding",
+      "sourceIds": [
+        "s-meaning-questionnaire"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "finding",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "meaning-questionnaire:limit",
+      "sourceIds": [
+        "s-meaning-questionnaire"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "limit",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "durel:population",
+      "sourceIds": [
+        "s-durel"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "population",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "durel:finding",
+      "sourceIds": [
+        "s-durel"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "finding",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "durel:limit",
+      "sourceIds": [
+        "s-durel"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "limit",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-eksi-kardas:population",
+      "sourceIds": [
+        "s-swbs-eksi-kardas"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "population",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-eksi-kardas:finding",
+      "sourceIds": [
+        "s-swbs-eksi-kardas"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "finding",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-eksi-kardas:limit",
+      "sourceIds": [
+        "s-swbs-eksi-kardas"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "limit",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-paloutzian-ellison:population",
+      "sourceIds": [
+        "s-swbs-paloutzian-ellison"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "population",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-paloutzian-ellison:finding",
+      "sourceIds": [
+        "s-swbs-paloutzian-ellison"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "finding",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-paloutzian-ellison:limit",
+      "sourceIds": [
+        "s-swbs-paloutzian-ellison"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "limit",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "within-person-attendance:population",
+      "sourceIds": [
+        "s-within-person-attendance"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "population",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "within-person-attendance:finding",
+      "sourceIds": [
+        "s-within-person-attendance"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "finding",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "within-person-attendance:limit",
+      "sourceIds": [
+        "s-within-person-attendance"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "limit",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "bidirectional-alspac:population",
+      "sourceIds": [
+        "s-bidirectional-alspac"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "population",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "bidirectional-alspac:finding",
+      "sourceIds": [
+        "s-bidirectional-alspac"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "finding",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "bidirectional-alspac:limit",
+      "sourceIds": [
+        "s-bidirectional-alspac"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "limit",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "brazil-medical-students:population",
+      "sourceIds": [
+        "s-brazil-medical-students"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "population",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "brazil-medical-students:finding",
+      "sourceIds": [
+        "s-brazil-medical-students"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "finding",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "brazil-medical-students:limit",
+      "sourceIds": [
+        "s-brazil-medical-students"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "limit",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "turkish-bereavement:population",
+      "sourceIds": [
+        "s-turkish-bereavement"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "population",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "turkish-bereavement:finding",
+      "sourceIds": [
+        "s-turkish-bereavement"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "finding",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "turkish-bereavement:limit",
+      "sourceIds": [
+        "s-turkish-bereavement"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "limit",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "psychosis-spirituality:population",
+      "sourceIds": [
+        "s-psychosis-spirituality"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "population",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "psychosis-spirituality:finding",
+      "sourceIds": [
+        "s-psychosis-spirituality"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "finding",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "psychosis-spirituality:limit",
+      "sourceIds": [
+        "s-psychosis-spirituality"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "limit",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "clergy-abuse-harm:population",
+      "sourceIds": [
+        "s-clergy-abuse-harm"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "population",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "clergy-abuse-harm:finding",
+      "sourceIds": [
+        "s-clergy-abuse-harm"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "finding",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "clergy-abuse-harm:limit",
+      "sourceIds": [
+        "s-clergy-abuse-harm"
+      ],
+      "support": "source-bound-edition",
+      "claimType": "limit",
+      "sourceLocation": "shared scholarly brief",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "scientificApproval": false
+    },
+    {
+      "id": "bridge:muslim-coping",
+      "sourceIds": [
+        "s-muslim-coping-multinational",
+        "s-refugee-faith-coping"
+      ],
+      "support": "editorial-synthesis",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "checked": "2026-10-05"
+    },
+    {
+      "id": "bridge:turkiye-intervention",
+      "sourceIds": [
+        "s-hemodialysis-spiritual-care"
+      ],
+      "support": "editorial-synthesis",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "checked": "2026-10-05"
+    },
+    {
+      "id": "bridge:worldview-plurality",
+      "sourceIds": [
+        "s-nonreligious-turkiye",
+        "s-religious-sexual-stigma"
+      ],
+      "support": "editorial-synthesis",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "checked": "2026-10-05"
+    },
+    {
+      "id": "bridge:measurement-lineage",
+      "sourceIds": [
+        "s-rss-ff-tr",
+        "s-sprs",
+        "s-sefc"
+      ],
+      "support": "editorial-synthesis",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "checked": "2026-10-05"
+    },
+    {
+      "id": "bridge:minority-context",
+      "sourceIds": [
+        "s-atheist-minority-stress",
+        "s-sexual-minority-rs-meta",
+        "s-lebanon-sexual-stigma"
+      ],
+      "support": "editorial-synthesis",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "checked": "2026-10-05"
+    },
+    {
+      "id": "bridge:spiritual-distress-grief",
+      "sourceIds": [
+        "s-icsg-2",
+        "s-icsg-2-fa",
+        "s-p-sds"
+      ],
+      "support": "editorial-synthesis",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "checked": "2026-10-05"
+    },
+    {
+      "id": "bridge:context-level-evidence",
+      "sourceIds": [
+        "s-religious-minority-context"
+      ],
+      "support": "editorial-synthesis",
+      "reviewStatus": "AI_ASSISTED_DRAFT",
+      "checked": "2026-10-05"
+    }
+  ]
+}

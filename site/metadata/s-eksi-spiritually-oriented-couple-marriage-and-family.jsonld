@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.37898/spc.2020.5.1.096",
+  "name": "Spiritually Oriented Couple, Marriage and Family Therapies",
+  "datePublished": "2020-02-15",
+  "identifier": [
+    "https://doi.org/10.37898/spc.2020.5.1.096"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Şeyda Çetintaş"
+    },
+    {
+      "@type": "Person",
+      "name": "Halil Ekşi"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Spiritual Psychology and Counseling"
+  },
+  "url": "https://doi.org/10.37898/spc.2020.5.1.096"
+}

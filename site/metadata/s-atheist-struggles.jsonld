@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.3390/rel9080242",
+  "name": "Spiritual Struggles among Atheists: Links to Psychological Distress and Well-Being",
+  "datePublished": "2018-08-09",
+  "identifier": [
+    "https://doi.org/10.3390/rel9080242"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Aaron E. Sedlar"
+    },
+    {
+      "@type": "Person",
+      "name": "Nick Stauner"
+    },
+    {
+      "@type": "Person",
+      "name": "Kenneth I. Pargament"
+    },
+    {
+      "@type": "Person",
+      "name": "Julie J. Exline"
+    },
+    {
+      "@type": "Person",
+      "name": "Joshua B. Grubbs"
+    },
+    {
+      "@type": "Person",
+      "name": "David F. Bradley"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Religions"
+  },
+  "url": "https://doi.org/10.3390/rel9080242"
+}

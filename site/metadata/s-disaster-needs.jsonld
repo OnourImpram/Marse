@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.56432/tmdrd.1645518",
+  "name": "Deprem Sonrası Manevi Danışmanlık ve Rehberlik İhtiyaçları: Psiko-Sosyal Destek Uzmanlarının Görüşlerine Dayalı Nitel Bir Araştırma",
+  "datePublished": "2025-06-30",
+  "identifier": [
+    "https://doi.org/10.56432/tmdrd.1645518"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "İclal Öztürk"
+    },
+    {
+      "@type": "Person",
+      "name": "Ümit Horozcu"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Türk Manevi Danışmanlık ve Rehberlik Dergisi"
+  },
+  "url": "https://doi.org/10.56432/tmdrd.1645518"
+}

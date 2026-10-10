@@ -1,0 +1,45 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://link.springer.com/article/10.1007/s10943-025-02551-9",
+  "name": "Addressing Spirituality in Counseling: Turkish Mental Health Professionals’ Views on a Training Program for Professional Competencies",
+  "datePublished": "2026-01-19",
+  "identifier": [
+    "https://doi.org/10.1007/s10943-025-02551-9"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Halil Ekşi"
+    },
+    {
+      "@type": "Person",
+      "name": "Ebru Talibe Turgut"
+    },
+    {
+      "@type": "Person",
+      "name": "Fatma Betül Karalı"
+    },
+    {
+      "@type": "Person",
+      "name": "Hale Şen"
+    },
+    {
+      "@type": "Person",
+      "name": "Havvanur Akyol"
+    },
+    {
+      "@type": "Person",
+      "name": "Neslihan Aydın"
+    },
+    {
+      "@type": "Person",
+      "name": "Yusuf Ziya Koç"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Religion and Health"
+  },
+  "url": "https://link.springer.com/article/10.1007/s10943-025-02551-9"
+}

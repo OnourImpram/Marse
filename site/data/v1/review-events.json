@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "release": "marsam-finished-centre-0.12.0",
+  "version": "0.12.0",
+  "generatedAt": "2026-10-10T12:56:53.446Z",
+  "publicationState": "institutional-review",
+  "reviewStatus": "AI_ASSISTED_DRAFT",
+  "humanReviewed": false,
+  "scientificApproval": false,
+  "humanLanguageApproval": false,
+  "formalInstitutionalApproval": false,
+  "appendOnly": true,
+  "records": [
+    {
+      "eventId": "review-2026-10-05-roadmap-wave1",
+      "artifactId": "collection:research-roadmap-wave1",
+      "eventType": "source-verification",
+      "changedFields": [
+        "bibliography",
+        "inspection",
+        "scope"
+      ],
+      "reason": "First research-roadmap source tranche added after source-level identity and scope review.",
+      "reviewerRole": "AI-assisted editorial assessment",
+      "humanApproval": false,
+      "timestamp": "2026-10-05T00:00:00Z",
+      "releaseId": "marsam-scholarly-infrastructure-0.11.0"
+    },
+    {
+      "eventId": "review-2026-10-05-roadmap-wave2",
+      "artifactId": "collection:research-roadmap-wave2",
+      "eventType": "source-verification",
+      "changedFields": [
+        "bibliography",
+        "inspection",
+        "scope",
+        "correctionState"
+      ],
+      "reason": "Second high-information tranche added to fill worldview, minority-context, grief and spiritual-distress gaps.",
+      "reviewerRole": "AI-assisted editorial assessment",
+      "humanApproval": false,
+      "timestamp": "2026-10-05T00:00:00Z",
+      "releaseId": "marsam-scholarly-infrastructure-0.11.0"
+    },
+    {
+      "eventId": "review-2026-10-05-release",
+      "artifactId": "release:0.11.0",
+      "eventType": "release-hardening",
+      "changedFields": [
+        "releaseIdentity",
+        "tests",
+        "staticApi"
+      ],
+      "reason": "Research infrastructure candidate reconciled with release identity and required CI gates.",
+      "reviewerRole": "technical release maintenance",
+      "humanApproval": false,
+      "timestamp": "2026-10-05T00:00:00Z",
+      "releaseId": "marsam-scholarly-infrastructure-0.11.0"
+    }
+  ]
+}

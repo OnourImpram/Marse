@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.1080/00918369.2019.1601439",
+  "name": "Religious-Based Sexual Stigma and Psychological Health: Roles of Internalization, Religious Struggle, and Religiosity",
+  "datePublished": "2020",
+  "identifier": [
+    "https://doi.org/10.1080/00918369.2019.1601439"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Dawn M. Szymanski"
+    },
+    {
+      "@type": "Person",
+      "name": "Rachel F. Carretta"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Homosexuality"
+  },
+  "url": "https://doi.org/10.1080/00918369.2019.1601439"
+}

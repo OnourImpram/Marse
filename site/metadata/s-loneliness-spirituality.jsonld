@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://dergipark.org.tr/en/pub/spiritualpc/article/1603809",
+  "name": "The Mediating Role of Loneliness in the Relationship Between Spirituality and Anxiety Levels Among University Students in Turkiye",
+  "datePublished": "2026-06-30",
+  "identifier": [
+    "https://doi.org/10.37898/spiritualpc.1603809"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Yasemin Ekici"
+    },
+    {
+      "@type": "Person",
+      "name": "Figen Kasapoğlu"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Spiritual Psychology and Counseling"
+  },
+  "url": "https://dergipark.org.tr/en/pub/spiritualpc/article/1603809"
+}

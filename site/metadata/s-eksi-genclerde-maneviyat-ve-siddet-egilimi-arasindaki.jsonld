@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.28949/bilimname.845575",
+  "name": "Gençlerde maneviyat ve şiddet eğilimi arasındaki ilişkide erken dönem uyum bozucu şemaların moderatör etkisi",
+  "datePublished": "2021-04-30",
+  "identifier": [
+    "https://doi.org/10.28949/bilimname.845575"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Halil EKSİ"
+    },
+    {
+      "@type": "Person",
+      "name": "Nesrullah OKAN"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Bilimname"
+  },
+  "url": "https://doi.org/10.28949/bilimname.845575"
+}

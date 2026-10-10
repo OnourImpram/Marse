@@ -1,0 +1,27 @@
+{
+  "name": "MARSE",
+  "version": "1.0.0-review",
+  "mode": "review-preview",
+  "sourceCommit": "d5e75021eed775f01005f7df293b845c9aae0514",
+  "approvedDesignSHA256": "e4717c0f224ca1cb20b0b336b5047d86ac62614709cc048a44462b7fbef02e83",
+  "logoSHA256": "fa57ef361b9ccdd0159320acff0e7ce4800715d3f58745b4195c020ef0167595",
+  "sourceFiles": 284,
+  "sourceRecords": 79,
+  "rootLibraryRecords": 81,
+  "localizedSourceRoutes": 1048,
+  "newReadingPages": 1064,
+  "approvedLocalViews": 65,
+  "languages": [
+    "tr",
+    "en",
+    "de",
+    "zh",
+    "ru",
+    "ar",
+    "id",
+    "ms"
+  ],
+  "scientificApproval": false,
+  "humanLanguageApproval": false,
+  "formalInstitutionalApproval": false
+}

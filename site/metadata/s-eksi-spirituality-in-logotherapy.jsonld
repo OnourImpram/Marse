@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.12738/spc.2017.2.0028",
+  "name": "Spirituality in Logotherapy",
+  "datePublished": "2017-08-15",
+  "identifier": [
+    "https://doi.org/10.12738/spc.2017.2.0028"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Nesrullah Okan"
+    },
+    {
+      "@type": "Person",
+      "name": "Halil Eksi"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "SPIRITUAL PSYCHOLOGY AND COUNSELING"
+  },
+  "url": "https://doi.org/10.12738/spc.2017.2.0028"
+}

@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.3390/rel1010078",
+  "name": "The Duke University Religion Index (DUREL): A Five-Item Measure for Use in Epidemological Studies",
+  "datePublished": "2010-12-01",
+  "identifier": [
+    "https://doi.org/10.3390/rel1010078"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Harold G. Koenig"
+    },
+    {
+      "@type": "Person",
+      "name": "Arndt Büssing"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Religions"
+  },
+  "url": "https://doi.org/10.3390/rel1010078"
+}

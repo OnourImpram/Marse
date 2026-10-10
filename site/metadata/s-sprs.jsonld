@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.1007/s10943-024-02175-5",
+  "name": "The Spiritual Psychological Robustness Scale (SPRS): A New Measure for Assessing Spiritual and Psychological Strength in the Context of Turkish Culture",
+  "datePublished": "2025",
+  "identifier": [
+    "https://doi.org/10.1007/s10943-024-02175-5"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Nesrullah Okan"
+    },
+    {
+      "@type": "Person",
+      "name": "Füsun Ekşi"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Religion and Health"
+  },
+  "url": "https://doi.org/10.1007/s10943-024-02175-5"
+}

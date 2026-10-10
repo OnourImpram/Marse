@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://link.springer.com/article/10.1007/s10943-025-02329-z",
+  "name": "Measuring Spiritual Integrity in Turkish Culture: A Psychometric Approach to Understanding the Relationship Between Spirituality and Well-Being",
+  "datePublished": "2025-05-23",
+  "identifier": [
+    "https://doi.org/10.1007/s10943-025-02329-z"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Nesrullah Okan"
+    },
+    {
+      "@type": "Person",
+      "name": "Füsun Ekşi"
+    },
+    {
+      "@type": "Person",
+      "name": "Erdal Zengin"
+    },
+    {
+      "@type": "Person",
+      "name": "Halil Ekşi"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Religion and Health"
+  },
+  "url": "https://link.springer.com/article/10.1007/s10943-025-02329-z"
+}

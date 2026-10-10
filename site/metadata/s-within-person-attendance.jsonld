@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.1177/09567976251325449",
+  "name": "Does Religious-Service Attendance Increase Mental Health? A Random-Intercept Cross-Lagged Panel Analysis Across 18 Years",
+  "datePublished": "2025-03",
+  "identifier": [
+    "https://doi.org/10.1177/09567976251325449"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Gabriele Prati"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Psychological Science"
+  },
+  "url": "https://doi.org/10.1177/09567976251325449"
+}

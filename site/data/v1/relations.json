@@ -1,0 +1,1526 @@
+{
+  "schemaVersion": 1,
+  "release": "marsam-finished-centre-0.12.0",
+  "version": "0.12.0",
+  "generatedAt": "2026-10-10T12:56:53.446Z",
+  "publicationState": "institutional-review",
+  "reviewStatus": "AI_ASSISTED_DRAFT",
+  "humanReviewed": false,
+  "scientificApproval": false,
+  "humanLanguageApproval": false,
+  "formalInstitutionalApproval": false,
+  "records": [
+    {
+      "id": "relation:s-tunc:author:1",
+      "personMentionId": "s-tunc:author:1",
+      "sourceId": "s-tunc",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-tunc:author:2",
+      "personMentionId": "s-tunc:author:2",
+      "sourceId": "s-tunc",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-cbt-spiritual:author:1",
+      "personMentionId": "s-cbt-spiritual:author:1",
+      "sourceId": "s-cbt-spiritual",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-cbt-spiritual:author:2",
+      "personMentionId": "s-cbt-spiritual:author:2",
+      "sourceId": "s-cbt-spiritual",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-spiritual-burnout:author:1",
+      "personMentionId": "s-spiritual-burnout:author:1",
+      "sourceId": "s-spiritual-burnout",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-spiritual-burnout:author:2",
+      "personMentionId": "s-spiritual-burnout:author:2",
+      "sourceId": "s-spiritual-burnout",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-spiritual-burnout:author:3",
+      "personMentionId": "s-spiritual-burnout:author:3",
+      "sourceId": "s-spiritual-burnout",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-spiritual-burnout:author:4",
+      "personMentionId": "s-spiritual-burnout:author:4",
+      "sourceId": "s-spiritual-burnout",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-spiritual-burnout:author:5",
+      "personMentionId": "s-spiritual-burnout:author:5",
+      "sourceId": "s-spiritual-burnout",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-sipas:author:1",
+      "personMentionId": "s-sipas:author:1",
+      "sourceId": "s-sipas",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-sipas:author:2",
+      "personMentionId": "s-sipas:author:2",
+      "sourceId": "s-sipas",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-sipas:author:3",
+      "personMentionId": "s-sipas:author:3",
+      "sourceId": "s-sipas",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-sipas:author:4",
+      "personMentionId": "s-sipas:author:4",
+      "sourceId": "s-sipas",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-sipas:author:5",
+      "personMentionId": "s-sipas:author:5",
+      "sourceId": "s-sipas",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-sipas:author:6",
+      "personMentionId": "s-sipas:author:6",
+      "sourceId": "s-sipas",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-sipas:author:7",
+      "personMentionId": "s-sipas:author:7",
+      "sourceId": "s-sipas",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-loneliness-spirituality:author:1",
+      "personMentionId": "s-loneliness-spirituality:author:1",
+      "sourceId": "s-loneliness-spirituality",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-loneliness-spirituality:author:2",
+      "personMentionId": "s-loneliness-spirituality:author:2",
+      "sourceId": "s-loneliness-spirituality",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-professional-training:author:1",
+      "personMentionId": "s-professional-training:author:1",
+      "sourceId": "s-professional-training",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-professional-training:author:2",
+      "personMentionId": "s-professional-training:author:2",
+      "sourceId": "s-professional-training",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-professional-training:author:3",
+      "personMentionId": "s-professional-training:author:3",
+      "sourceId": "s-professional-training",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-professional-training:author:4",
+      "personMentionId": "s-professional-training:author:4",
+      "sourceId": "s-professional-training",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-professional-training:author:5",
+      "personMentionId": "s-professional-training:author:5",
+      "sourceId": "s-professional-training",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-professional-training:author:6",
+      "personMentionId": "s-professional-training:author:6",
+      "sourceId": "s-professional-training",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-professional-training:author:7",
+      "personMentionId": "s-professional-training:author:7",
+      "sourceId": "s-professional-training",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-spiritual-integrity:author:1",
+      "personMentionId": "s-spiritual-integrity:author:1",
+      "sourceId": "s-spiritual-integrity",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-spiritual-integrity:author:2",
+      "personMentionId": "s-spiritual-integrity:author:2",
+      "sourceId": "s-spiritual-integrity",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-spiritual-integrity:author:3",
+      "personMentionId": "s-spiritual-integrity:author:3",
+      "sourceId": "s-spiritual-integrity",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-spiritual-integrity:author:4",
+      "personMentionId": "s-spiritual-integrity:author:4",
+      "sourceId": "s-spiritual-integrity",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-spirituality-dimensions:author:1",
+      "personMentionId": "s-spirituality-dimensions:author:1",
+      "sourceId": "s-spirituality-dimensions",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-spirituality-dimensions:author:2",
+      "personMentionId": "s-spirituality-dimensions:author:2",
+      "sourceId": "s-spirituality-dimensions",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-spirituality-dimensions:author:3",
+      "personMentionId": "s-spirituality-dimensions:author:3",
+      "sourceId": "s-spirituality-dimensions",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-spirituality-dimensions:author:4",
+      "personMentionId": "s-spirituality-dimensions:author:4",
+      "sourceId": "s-spirituality-dimensions",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-spirituality-dimensions:author:5",
+      "personMentionId": "s-spirituality-dimensions:author:5",
+      "sourceId": "s-spirituality-dimensions",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-spirituality-dimensions:author:6",
+      "personMentionId": "s-spirituality-dimensions:author:6",
+      "sourceId": "s-spirituality-dimensions",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-spiritual-struggles:author:1",
+      "personMentionId": "s-spiritual-struggles:author:1",
+      "sourceId": "s-spiritual-struggles",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-spiritual-struggles:author:2",
+      "personMentionId": "s-spiritual-struggles:author:2",
+      "sourceId": "s-spiritual-struggles",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-spiritual-struggles:author:3",
+      "personMentionId": "s-spiritual-struggles:author:3",
+      "sourceId": "s-spiritual-struggles",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-adaptation-of-the-decision-to-forgive:author:1",
+      "personMentionId": "s-eksi-adaptation-of-the-decision-to-forgive:author:1",
+      "sourceId": "s-eksi-adaptation-of-the-decision-to-forgive",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-adaptation-of-the-decision-to-forgive:author:2",
+      "personMentionId": "s-eksi-adaptation-of-the-decision-to-forgive:author:2",
+      "sourceId": "s-eksi-adaptation-of-the-decision-to-forgive",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-adaptation-of-the-decision-to-forgive:author:3",
+      "personMentionId": "s-eksi-adaptation-of-the-decision-to-forgive:author:3",
+      "sourceId": "s-eksi-adaptation-of-the-decision-to-forgive",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-adaptation-of-the-decision-to-forgive:author:4",
+      "personMentionId": "s-eksi-adaptation-of-the-decision-to-forgive:author:4",
+      "sourceId": "s-eksi-adaptation-of-the-decision-to-forgive",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-the-intersection-of-faith-and-pornography:author:1",
+      "personMentionId": "s-eksi-the-intersection-of-faith-and-pornography:author:1",
+      "sourceId": "s-eksi-the-intersection-of-faith-and-pornography",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-the-intersection-of-faith-and-pornography:author:2",
+      "personMentionId": "s-eksi-the-intersection-of-faith-and-pornography:author:2",
+      "sourceId": "s-eksi-the-intersection-of-faith-and-pornography",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-a-spiritual-touch-on-family-resilience:author:1",
+      "personMentionId": "s-eksi-a-spiritual-touch-on-family-resilience:author:1",
+      "sourceId": "s-eksi-a-spiritual-touch-on-family-resilience",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-a-spiritual-touch-on-family-resilience:author:2",
+      "personMentionId": "s-eksi-a-spiritual-touch-on-family-resilience:author:2",
+      "sourceId": "s-eksi-a-spiritual-touch-on-family-resilience",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-through-the-inner-world-development-of:author:1",
+      "personMentionId": "s-eksi-through-the-inner-world-development-of:author:1",
+      "sourceId": "s-eksi-through-the-inner-world-development-of",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-through-the-inner-world-development-of:author:2",
+      "personMentionId": "s-eksi-through-the-inner-world-development-of:author:2",
+      "sourceId": "s-eksi-through-the-inner-world-development-of",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-through-the-inner-world-development-of:author:3",
+      "personMentionId": "s-eksi-through-the-inner-world-development-of:author:3",
+      "sourceId": "s-eksi-through-the-inner-world-development-of",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-through-the-inner-world-development-of:author:4",
+      "personMentionId": "s-eksi-through-the-inner-world-development-of:author:4",
+      "sourceId": "s-eksi-through-the-inner-world-development-of",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-well-being-and-spiritual-intelligence-predict:author:1",
+      "personMentionId": "s-eksi-well-being-and-spiritual-intelligence-predict:author:1",
+      "sourceId": "s-eksi-well-being-and-spiritual-intelligence-predict",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-well-being-and-spiritual-intelligence-predict:author:2",
+      "personMentionId": "s-eksi-well-being-and-spiritual-intelligence-predict:author:2",
+      "sourceId": "s-eksi-well-being-and-spiritual-intelligence-predict",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-the-mediator-role-of-forgiveness-between:author:1",
+      "personMentionId": "s-eksi-the-mediator-role-of-forgiveness-between:author:1",
+      "sourceId": "s-eksi-the-mediator-role-of-forgiveness-between",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-the-mediator-role-of-forgiveness-between:author:2",
+      "personMentionId": "s-eksi-the-mediator-role-of-forgiveness-between:author:2",
+      "sourceId": "s-eksi-the-mediator-role-of-forgiveness-between",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-genclerde-maneviyat-ve-siddet-egilimi-arasindaki:author:1",
+      "personMentionId": "s-eksi-genclerde-maneviyat-ve-siddet-egilimi-arasindaki:author:1",
+      "sourceId": "s-eksi-genclerde-maneviyat-ve-siddet-egilimi-arasindaki",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-genclerde-maneviyat-ve-siddet-egilimi-arasindaki:author:2",
+      "personMentionId": "s-eksi-genclerde-maneviyat-ve-siddet-egilimi-arasindaki:author:2",
+      "sourceId": "s-eksi-genclerde-maneviyat-ve-siddet-egilimi-arasindaki",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-spiritually-oriented-couple-marriage-and-family:author:1",
+      "personMentionId": "s-eksi-spiritually-oriented-couple-marriage-and-family:author:1",
+      "sourceId": "s-eksi-spiritually-oriented-couple-marriage-and-family",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-spiritually-oriented-couple-marriage-and-family:author:2",
+      "personMentionId": "s-eksi-spiritually-oriented-couple-marriage-and-family:author:2",
+      "sourceId": "s-eksi-spiritually-oriented-couple-marriage-and-family",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-manevi-sukran-olcegi-nin-turkce-uyarlamasi:author:1",
+      "personMentionId": "s-eksi-manevi-sukran-olcegi-nin-turkce-uyarlamasi:author:1",
+      "sourceId": "s-eksi-manevi-sukran-olcegi-nin-turkce-uyarlamasi",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-manevi-sukran-olcegi-nin-turkce-uyarlamasi:author:2",
+      "personMentionId": "s-eksi-manevi-sukran-olcegi-nin-turkce-uyarlamasi:author:2",
+      "sourceId": "s-eksi-manevi-sukran-olcegi-nin-turkce-uyarlamasi",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-manevi-askinlik-olcegi-nin-turkceye-uyarlanmasi:author:1",
+      "personMentionId": "s-eksi-manevi-askinlik-olcegi-nin-turkceye-uyarlanmasi:author:1",
+      "sourceId": "s-eksi-manevi-askinlik-olcegi-nin-turkceye-uyarlanmasi",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-manevi-askinlik-olcegi-nin-turkceye-uyarlanmasi:author:2",
+      "personMentionId": "s-eksi-manevi-askinlik-olcegi-nin-turkceye-uyarlanmasi:author:2",
+      "sourceId": "s-eksi-manevi-askinlik-olcegi-nin-turkceye-uyarlanmasi",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-manevi-askinlik-olcegi-nin-turkceye-uyarlanmasi:author:3",
+      "personMentionId": "s-eksi-manevi-askinlik-olcegi-nin-turkceye-uyarlanmasi:author:3",
+      "sourceId": "s-eksi-manevi-askinlik-olcegi-nin-turkceye-uyarlanmasi",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-a-psychological-counseling-study-on-fear:author:1",
+      "personMentionId": "s-eksi-a-psychological-counseling-study-on-fear:author:1",
+      "sourceId": "s-eksi-a-psychological-counseling-study-on-fear",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-a-psychological-counseling-study-on-fear:author:2",
+      "personMentionId": "s-eksi-a-psychological-counseling-study-on-fear:author:2",
+      "sourceId": "s-eksi-a-psychological-counseling-study-on-fear",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-multi-cultural-counseling-and-spiritual-interventions:author:1",
+      "personMentionId": "s-eksi-multi-cultural-counseling-and-spiritual-interventions:author:1",
+      "sourceId": "s-eksi-multi-cultural-counseling-and-spiritual-interventions",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-multi-cultural-counseling-and-spiritual-interventions:author:2",
+      "personMentionId": "s-eksi-multi-cultural-counseling-and-spiritual-interventions:author:2",
+      "sourceId": "s-eksi-multi-cultural-counseling-and-spiritual-interventions",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-islamic-spiritual-counseling-techniques:author:1",
+      "personMentionId": "s-eksi-islamic-spiritual-counseling-techniques:author:1",
+      "sourceId": "s-eksi-islamic-spiritual-counseling-techniques",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-islamic-spiritual-counseling-techniques:author:2",
+      "personMentionId": "s-eksi-islamic-spiritual-counseling-techniques:author:2",
+      "sourceId": "s-eksi-islamic-spiritual-counseling-techniques",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-adapting-the-scale-for-spiritual-intelligence:author:1",
+      "personMentionId": "s-eksi-adapting-the-scale-for-spiritual-intelligence:author:1",
+      "sourceId": "s-eksi-adapting-the-scale-for-spiritual-intelligence",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-adapting-the-scale-for-spiritual-intelligence:author:2",
+      "personMentionId": "s-eksi-adapting-the-scale-for-spiritual-intelligence:author:2",
+      "sourceId": "s-eksi-adapting-the-scale-for-spiritual-intelligence",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-ogretmen-adaylarinin-spirituel-i-yi-olus:author:1",
+      "personMentionId": "s-eksi-ogretmen-adaylarinin-spirituel-i-yi-olus:author:1",
+      "sourceId": "s-eksi-ogretmen-adaylarinin-spirituel-i-yi-olus",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-ogretmen-adaylarinin-spirituel-i-yi-olus:author:2",
+      "personMentionId": "s-eksi-ogretmen-adaylarinin-spirituel-i-yi-olus:author:2",
+      "sourceId": "s-eksi-ogretmen-adaylarinin-spirituel-i-yi-olus",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-ogretmen-adaylarinin-spirituel-i-yi-olus:author:3",
+      "personMentionId": "s-eksi-ogretmen-adaylarinin-spirituel-i-yi-olus:author:3",
+      "sourceId": "s-eksi-ogretmen-adaylarinin-spirituel-i-yi-olus",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-maternal-spiritual-coping-scale-development-and:author:1",
+      "personMentionId": "s-eksi-maternal-spiritual-coping-scale-development-and:author:1",
+      "sourceId": "s-eksi-maternal-spiritual-coping-scale-development-and",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-maternal-spiritual-coping-scale-development-and:author:2",
+      "personMentionId": "s-eksi-maternal-spiritual-coping-scale-development-and:author:2",
+      "sourceId": "s-eksi-maternal-spiritual-coping-scale-development-and",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-maternal-spiritual-coping-scale-development-and:author:3",
+      "personMentionId": "s-eksi-maternal-spiritual-coping-scale-development-and:author:3",
+      "sourceId": "s-eksi-maternal-spiritual-coping-scale-development-and",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-maternal-spiritual-coping-scale-development-and:author:4",
+      "personMentionId": "s-eksi-maternal-spiritual-coping-scale-development-and:author:4",
+      "sourceId": "s-eksi-maternal-spiritual-coping-scale-development-and",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-spirituality-in-logotherapy:author:1",
+      "personMentionId": "s-eksi-spirituality-in-logotherapy:author:1",
+      "sourceId": "s-eksi-spirituality-in-logotherapy",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-spirituality-in-logotherapy:author:2",
+      "personMentionId": "s-eksi-spirituality-in-logotherapy:author:2",
+      "sourceId": "s-eksi-spirituality-in-logotherapy",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-spirituality-in-psychotherapy-settings-a-phenomenological:author:1",
+      "personMentionId": "s-eksi-spirituality-in-psychotherapy-settings-a-phenomenological:author:1",
+      "sourceId": "s-eksi-spirituality-in-psychotherapy-settings-a-phenomenological",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-spirituality-in-psychotherapy-settings-a-phenomenological:author:2",
+      "personMentionId": "s-eksi-spirituality-in-psychotherapy-settings-a-phenomenological:author:2",
+      "sourceId": "s-eksi-spirituality-in-psychotherapy-settings-a-phenomenological",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-eksi-spirituality-in-psychotherapy-settings-a-phenomenological:author:3",
+      "personMentionId": "s-eksi-spirituality-in-psychotherapy-settings-a-phenomenological:author:3",
+      "sourceId": "s-eksi-spirituality-in-psychotherapy-settings-a-phenomenological",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-german-meta:author:1",
+      "personMentionId": "s-german-meta:author:1",
+      "sourceId": "s-german-meta",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-adolescent-contexts:author:1",
+      "personMentionId": "s-adolescent-contexts:author:1",
+      "sourceId": "s-adolescent-contexts",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-adolescent-contexts:author:2",
+      "personMentionId": "s-adolescent-contexts:author:2",
+      "sourceId": "s-adolescent-contexts",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-adolescent-contexts:author:3",
+      "personMentionId": "s-adolescent-contexts:author:3",
+      "sourceId": "s-adolescent-contexts",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-youth-evidence:author:1",
+      "personMentionId": "s-youth-evidence:author:1",
+      "sourceId": "s-youth-evidence",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-youth-evidence:author:2",
+      "personMentionId": "s-youth-evidence:author:2",
+      "sourceId": "s-youth-evidence",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-youth-evidence:author:3",
+      "personMentionId": "s-youth-evidence:author:3",
+      "sourceId": "s-youth-evidence",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-youth-evidence:author:4",
+      "personMentionId": "s-youth-evidence:author:4",
+      "sourceId": "s-youth-evidence",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-youth-evidence:author:5",
+      "personMentionId": "s-youth-evidence:author:5",
+      "sourceId": "s-youth-evidence",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-older-adults:author:1",
+      "personMentionId": "s-older-adults:author:1",
+      "sourceId": "s-older-adults",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-older-adults:author:2",
+      "personMentionId": "s-older-adults:author:2",
+      "sourceId": "s-older-adults",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-older-adults:author:3",
+      "personMentionId": "s-older-adults:author:3",
+      "sourceId": "s-older-adults",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-older-adults:author:4",
+      "personMentionId": "s-older-adults:author:4",
+      "sourceId": "s-older-adults",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-older-adults:author:5",
+      "personMentionId": "s-older-adults:author:5",
+      "sourceId": "s-older-adults",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-older-adults:author:6",
+      "personMentionId": "s-older-adults:author:6",
+      "sourceId": "s-older-adults",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-older-adults:author:7",
+      "personMentionId": "s-older-adults:author:7",
+      "sourceId": "s-older-adults",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-attendance-cohorts:author:1",
+      "personMentionId": "s-attendance-cohorts:author:1",
+      "sourceId": "s-attendance-cohorts",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-attendance-cohorts:author:2",
+      "personMentionId": "s-attendance-cohorts:author:2",
+      "sourceId": "s-attendance-cohorts",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-attendance-cohorts:author:3",
+      "personMentionId": "s-attendance-cohorts:author:3",
+      "sourceId": "s-attendance-cohorts",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-atheist-struggles:author:1",
+      "personMentionId": "s-atheist-struggles:author:1",
+      "sourceId": "s-atheist-struggles",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-atheist-struggles:author:2",
+      "personMentionId": "s-atheist-struggles:author:2",
+      "sourceId": "s-atheist-struggles",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-atheist-struggles:author:3",
+      "personMentionId": "s-atheist-struggles:author:3",
+      "sourceId": "s-atheist-struggles",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-atheist-struggles:author:4",
+      "personMentionId": "s-atheist-struggles:author:4",
+      "sourceId": "s-atheist-struggles",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-atheist-struggles:author:5",
+      "personMentionId": "s-atheist-struggles:author:5",
+      "sourceId": "s-atheist-struggles",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-atheist-struggles:author:6",
+      "personMentionId": "s-atheist-struggles:author:6",
+      "sourceId": "s-atheist-struggles",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-religious-cbt:author:1",
+      "personMentionId": "s-religious-cbt:author:1",
+      "sourceId": "s-religious-cbt",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-religious-cbt:author:2",
+      "personMentionId": "s-religious-cbt:author:2",
+      "sourceId": "s-religious-cbt",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-religious-cbt:author:3",
+      "personMentionId": "s-religious-cbt:author:3",
+      "sourceId": "s-religious-cbt",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-religious-cbt:author:4",
+      "personMentionId": "s-religious-cbt:author:4",
+      "sourceId": "s-religious-cbt",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-religious-cbt:author:5",
+      "personMentionId": "s-religious-cbt:author:5",
+      "sourceId": "s-religious-cbt",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-religious-cbt:author:6",
+      "personMentionId": "s-religious-cbt:author:6",
+      "sourceId": "s-religious-cbt",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-religious-cbt:author:7",
+      "personMentionId": "s-religious-cbt:author:7",
+      "sourceId": "s-religious-cbt",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-religious-cbt:author:8",
+      "personMentionId": "s-religious-cbt:author:8",
+      "sourceId": "s-religious-cbt",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-religious-cbt:author:9",
+      "personMentionId": "s-religious-cbt:author:9",
+      "sourceId": "s-religious-cbt",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-religious-cbt:author:10",
+      "personMentionId": "s-religious-cbt:author:10",
+      "sourceId": "s-religious-cbt",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-religious-cbt:author:11",
+      "personMentionId": "s-religious-cbt:author:11",
+      "sourceId": "s-religious-cbt",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-religious-cbt:author:12",
+      "personMentionId": "s-religious-cbt:author:12",
+      "sourceId": "s-religious-cbt",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-religious-cbt:author:13",
+      "personMentionId": "s-religious-cbt:author:13",
+      "sourceId": "s-religious-cbt",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-religious-cbt:author:14",
+      "personMentionId": "s-religious-cbt:author:14",
+      "sourceId": "s-religious-cbt",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-religious-cbt:author:15",
+      "personMentionId": "s-religious-cbt:author:15",
+      "sourceId": "s-religious-cbt",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-religious-cbt:author:16",
+      "personMentionId": "s-religious-cbt:author:16",
+      "sourceId": "s-religious-cbt",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-disaster-needs:author:1",
+      "personMentionId": "s-disaster-needs:author:1",
+      "sourceId": "s-disaster-needs",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-disaster-needs:author:2",
+      "personMentionId": "s-disaster-needs:author:2",
+      "sourceId": "s-disaster-needs",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-brief-rcope:author:1",
+      "personMentionId": "s-brief-rcope:author:1",
+      "sourceId": "s-brief-rcope",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-brief-rcope:author:2",
+      "personMentionId": "s-brief-rcope:author:2",
+      "sourceId": "s-brief-rcope",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-brief-rcope:author:3",
+      "personMentionId": "s-brief-rcope:author:3",
+      "sourceId": "s-brief-rcope",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-meaning-questionnaire:author:1",
+      "personMentionId": "s-meaning-questionnaire:author:1",
+      "sourceId": "s-meaning-questionnaire",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-meaning-questionnaire:author:2",
+      "personMentionId": "s-meaning-questionnaire:author:2",
+      "sourceId": "s-meaning-questionnaire",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-meaning-questionnaire:author:3",
+      "personMentionId": "s-meaning-questionnaire:author:3",
+      "sourceId": "s-meaning-questionnaire",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-meaning-questionnaire:author:4",
+      "personMentionId": "s-meaning-questionnaire:author:4",
+      "sourceId": "s-meaning-questionnaire",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-durel:author:1",
+      "personMentionId": "s-durel:author:1",
+      "sourceId": "s-durel",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-durel:author:2",
+      "personMentionId": "s-durel:author:2",
+      "sourceId": "s-durel",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-swbs-eksi-kardas:author:1",
+      "personMentionId": "s-swbs-eksi-kardas:author:1",
+      "sourceId": "s-swbs-eksi-kardas",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-swbs-eksi-kardas:author:2",
+      "personMentionId": "s-swbs-eksi-kardas:author:2",
+      "sourceId": "s-swbs-eksi-kardas",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-swbs-paloutzian-ellison:author:1",
+      "personMentionId": "s-swbs-paloutzian-ellison:author:1",
+      "sourceId": "s-swbs-paloutzian-ellison",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-within-person-attendance:author:1",
+      "personMentionId": "s-within-person-attendance:author:1",
+      "sourceId": "s-within-person-attendance",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-bidirectional-alspac:author:1",
+      "personMentionId": "s-bidirectional-alspac:author:1",
+      "sourceId": "s-bidirectional-alspac",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-bidirectional-alspac:author:2",
+      "personMentionId": "s-bidirectional-alspac:author:2",
+      "sourceId": "s-bidirectional-alspac",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-bidirectional-alspac:author:3",
+      "personMentionId": "s-bidirectional-alspac:author:3",
+      "sourceId": "s-bidirectional-alspac",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-bidirectional-alspac:author:4",
+      "personMentionId": "s-bidirectional-alspac:author:4",
+      "sourceId": "s-bidirectional-alspac",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-brazil-medical-students:author:1",
+      "personMentionId": "s-brazil-medical-students:author:1",
+      "sourceId": "s-brazil-medical-students",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-brazil-medical-students:author:2",
+      "personMentionId": "s-brazil-medical-students:author:2",
+      "sourceId": "s-brazil-medical-students",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-brazil-medical-students:author:3",
+      "personMentionId": "s-brazil-medical-students:author:3",
+      "sourceId": "s-brazil-medical-students",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-turkish-bereavement:author:1",
+      "personMentionId": "s-turkish-bereavement:author:1",
+      "sourceId": "s-turkish-bereavement",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-turkish-bereavement:author:2",
+      "personMentionId": "s-turkish-bereavement:author:2",
+      "sourceId": "s-turkish-bereavement",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-psychosis-spirituality:author:1",
+      "personMentionId": "s-psychosis-spirituality:author:1",
+      "sourceId": "s-psychosis-spirituality",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-psychosis-spirituality:author:2",
+      "personMentionId": "s-psychosis-spirituality:author:2",
+      "sourceId": "s-psychosis-spirituality",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-clergy-abuse-harm:author:1",
+      "personMentionId": "s-clergy-abuse-harm:author:1",
+      "sourceId": "s-clergy-abuse-harm",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-clergy-abuse-harm:author:2",
+      "personMentionId": "s-clergy-abuse-harm:author:2",
+      "sourceId": "s-clergy-abuse-harm",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-clergy-abuse-harm:author:3",
+      "personMentionId": "s-clergy-abuse-harm:author:3",
+      "sourceId": "s-clergy-abuse-harm",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-clergy-abuse-harm:author:4",
+      "personMentionId": "s-clergy-abuse-harm:author:4",
+      "sourceId": "s-clergy-abuse-harm",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-clergy-abuse-harm:author:5",
+      "personMentionId": "s-clergy-abuse-harm:author:5",
+      "sourceId": "s-clergy-abuse-harm",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-clergy-abuse-harm:author:6",
+      "personMentionId": "s-clergy-abuse-harm:author:6",
+      "sourceId": "s-clergy-abuse-harm",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-clergy-abuse-harm:author:7",
+      "personMentionId": "s-clergy-abuse-harm:author:7",
+      "sourceId": "s-clergy-abuse-harm",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-clergy-abuse-harm:author:8",
+      "personMentionId": "s-clergy-abuse-harm:author:8",
+      "sourceId": "s-clergy-abuse-harm",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-clergy-abuse-harm:author:9",
+      "personMentionId": "s-clergy-abuse-harm:author:9",
+      "sourceId": "s-clergy-abuse-harm",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-clergy-abuse-harm:author:10",
+      "personMentionId": "s-clergy-abuse-harm:author:10",
+      "sourceId": "s-clergy-abuse-harm",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-spirituality-ptsd-review:author:1",
+      "personMentionId": "s-spirituality-ptsd-review:author:1",
+      "sourceId": "s-spirituality-ptsd-review",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-spirituality-ptsd-review:author:2",
+      "personMentionId": "s-spirituality-ptsd-review:author:2",
+      "sourceId": "s-spirituality-ptsd-review",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-rss-ff-tr:author:1",
+      "personMentionId": "s-rss-ff-tr:author:1",
+      "sourceId": "s-rss-ff-tr",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-rss-ff-tr:author:2",
+      "personMentionId": "s-rss-ff-tr:author:2",
+      "sourceId": "s-rss-ff-tr",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-sprs:author:1",
+      "personMentionId": "s-sprs:author:1",
+      "sourceId": "s-sprs",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-sprs:author:2",
+      "personMentionId": "s-sprs:author:2",
+      "sourceId": "s-sprs",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-sefc:author:1",
+      "personMentionId": "s-sefc:author:1",
+      "sourceId": "s-sefc",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-sefc:author:2",
+      "personMentionId": "s-sefc:author:2",
+      "sourceId": "s-sefc",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-sefc:author:3",
+      "personMentionId": "s-sefc:author:3",
+      "sourceId": "s-sefc",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-sefc:author:4",
+      "personMentionId": "s-sefc:author:4",
+      "sourceId": "s-sefc",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-sefc:author:5",
+      "personMentionId": "s-sefc:author:5",
+      "sourceId": "s-sefc",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-sefc:author:6",
+      "personMentionId": "s-sefc:author:6",
+      "sourceId": "s-sefc",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-hemodialysis-spiritual-care:author:1",
+      "personMentionId": "s-hemodialysis-spiritual-care:author:1",
+      "sourceId": "s-hemodialysis-spiritual-care",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-hemodialysis-spiritual-care:author:2",
+      "personMentionId": "s-hemodialysis-spiritual-care:author:2",
+      "sourceId": "s-hemodialysis-spiritual-care",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-muslim-coping-multinational:author:1",
+      "personMentionId": "s-muslim-coping-multinational:author:1",
+      "sourceId": "s-muslim-coping-multinational",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-muslim-coping-multinational:author:2",
+      "personMentionId": "s-muslim-coping-multinational:author:2",
+      "sourceId": "s-muslim-coping-multinational",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-muslim-coping-multinational:author:3",
+      "personMentionId": "s-muslim-coping-multinational:author:3",
+      "sourceId": "s-muslim-coping-multinational",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-muslim-coping-multinational:author:4",
+      "personMentionId": "s-muslim-coping-multinational:author:4",
+      "sourceId": "s-muslim-coping-multinational",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-refugee-faith-coping:author:1",
+      "personMentionId": "s-refugee-faith-coping:author:1",
+      "sourceId": "s-refugee-faith-coping",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-refugee-faith-coping:author:2",
+      "personMentionId": "s-refugee-faith-coping:author:2",
+      "sourceId": "s-refugee-faith-coping",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-refugee-faith-coping:author:3",
+      "personMentionId": "s-refugee-faith-coping:author:3",
+      "sourceId": "s-refugee-faith-coping",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-refugee-faith-coping:author:4",
+      "personMentionId": "s-refugee-faith-coping:author:4",
+      "sourceId": "s-refugee-faith-coping",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-refugee-faith-coping:author:5",
+      "personMentionId": "s-refugee-faith-coping:author:5",
+      "sourceId": "s-refugee-faith-coping",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-nonreligious-turkiye:author:1",
+      "personMentionId": "s-nonreligious-turkiye:author:1",
+      "sourceId": "s-nonreligious-turkiye",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-nonreligious-turkiye:author:2",
+      "personMentionId": "s-nonreligious-turkiye:author:2",
+      "sourceId": "s-nonreligious-turkiye",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-nonreligious-turkiye:author:3",
+      "personMentionId": "s-nonreligious-turkiye:author:3",
+      "sourceId": "s-nonreligious-turkiye",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-religious-sexual-stigma:author:1",
+      "personMentionId": "s-religious-sexual-stigma:author:1",
+      "sourceId": "s-religious-sexual-stigma",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-religious-sexual-stigma:author:2",
+      "personMentionId": "s-religious-sexual-stigma:author:2",
+      "sourceId": "s-religious-sexual-stigma",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-atheist-minority-stress:author:1",
+      "personMentionId": "s-atheist-minority-stress:author:1",
+      "sourceId": "s-atheist-minority-stress",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-atheist-minority-stress:author:2",
+      "personMentionId": "s-atheist-minority-stress:author:2",
+      "sourceId": "s-atheist-minority-stress",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-atheist-minority-stress:author:3",
+      "personMentionId": "s-atheist-minority-stress:author:3",
+      "sourceId": "s-atheist-minority-stress",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-atheist-minority-stress:author:4",
+      "personMentionId": "s-atheist-minority-stress:author:4",
+      "sourceId": "s-atheist-minority-stress",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-sexual-minority-rs-meta:author:1",
+      "personMentionId": "s-sexual-minority-rs-meta:author:1",
+      "sourceId": "s-sexual-minority-rs-meta",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-sexual-minority-rs-meta:author:2",
+      "personMentionId": "s-sexual-minority-rs-meta:author:2",
+      "sourceId": "s-sexual-minority-rs-meta",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-sexual-minority-rs-meta:author:3",
+      "personMentionId": "s-sexual-minority-rs-meta:author:3",
+      "sourceId": "s-sexual-minority-rs-meta",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-sexual-minority-rs-meta:author:4",
+      "personMentionId": "s-sexual-minority-rs-meta:author:4",
+      "sourceId": "s-sexual-minority-rs-meta",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-lgbq-religious-family-therapy:author:1",
+      "personMentionId": "s-lgbq-religious-family-therapy:author:1",
+      "sourceId": "s-lgbq-religious-family-therapy",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-lgbq-religious-family-therapy:author:2",
+      "personMentionId": "s-lgbq-religious-family-therapy:author:2",
+      "sourceId": "s-lgbq-religious-family-therapy",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-lgbq-religious-family-therapy:author:3",
+      "personMentionId": "s-lgbq-religious-family-therapy:author:3",
+      "sourceId": "s-lgbq-religious-family-therapy",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-lgbq-religious-family-therapy:author:4",
+      "personMentionId": "s-lgbq-religious-family-therapy:author:4",
+      "sourceId": "s-lgbq-religious-family-therapy",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-lgbq-religious-family-therapy:author:5",
+      "personMentionId": "s-lgbq-religious-family-therapy:author:5",
+      "sourceId": "s-lgbq-religious-family-therapy",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-lebanon-sexual-stigma:author:1",
+      "personMentionId": "s-lebanon-sexual-stigma:author:1",
+      "sourceId": "s-lebanon-sexual-stigma",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-lebanon-sexual-stigma:author:2",
+      "personMentionId": "s-lebanon-sexual-stigma:author:2",
+      "sourceId": "s-lebanon-sexual-stigma",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-icsg-2:author:1",
+      "personMentionId": "s-icsg-2:author:1",
+      "sourceId": "s-icsg-2",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-icsg-2:author:2",
+      "personMentionId": "s-icsg-2:author:2",
+      "sourceId": "s-icsg-2",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-icsg-2:author:3",
+      "personMentionId": "s-icsg-2:author:3",
+      "sourceId": "s-icsg-2",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-icsg-2:author:4",
+      "personMentionId": "s-icsg-2:author:4",
+      "sourceId": "s-icsg-2",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-icsg-2-fa:author:1",
+      "personMentionId": "s-icsg-2-fa:author:1",
+      "sourceId": "s-icsg-2-fa",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-icsg-2-fa:author:2",
+      "personMentionId": "s-icsg-2-fa:author:2",
+      "sourceId": "s-icsg-2-fa",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-p-sds:author:1",
+      "personMentionId": "s-p-sds:author:1",
+      "sourceId": "s-p-sds",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-p-sds:author:2",
+      "personMentionId": "s-p-sds:author:2",
+      "sourceId": "s-p-sds",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-p-sds:author:3",
+      "personMentionId": "s-p-sds:author:3",
+      "sourceId": "s-p-sds",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-p-sds:author:4",
+      "personMentionId": "s-p-sds:author:4",
+      "sourceId": "s-p-sds",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-religious-minority-context:author:1",
+      "personMentionId": "s-religious-minority-context:author:1",
+      "sourceId": "s-religious-minority-context",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-religious-minority-context:author:2",
+      "personMentionId": "s-religious-minority-context:author:2",
+      "sourceId": "s-religious-minority-context",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    },
+    {
+      "id": "relation:s-religious-minority-context:author:3",
+      "personMentionId": "s-religious-minority-context:author:3",
+      "sourceId": "s-religious-minority-context",
+      "relation": "author-of",
+      "institutionalMembershipClaim": false
+    }
+  ]
+}

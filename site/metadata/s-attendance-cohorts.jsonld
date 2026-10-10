@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.1093/ije/dyaa120",
+  "name": "Religious-service attendance and subsequent health and well-being throughout adulthood: evidence from three prospective cohorts",
+  "datePublished": "2020-08-13",
+  "identifier": [
+    "https://doi.org/10.1093/ije/dyaa120"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Ying Chen"
+    },
+    {
+      "@type": "Person",
+      "name": "Eric S Kim"
+    },
+    {
+      "@type": "Person",
+      "name": "Tyler J VanderWeele"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "International Journal of Epidemiology"
+  },
+  "url": "https://doi.org/10.1093/ije/dyaa120"
+}

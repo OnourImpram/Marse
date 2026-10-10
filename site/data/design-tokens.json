@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "name": "MARSAM heritage reading room",
+  "brandStatus": "proposed, not an approved university brand specification",
+  "color": {
+    "surface-page": "#f8f5ee",
+    "surface-reading": "#fffdf8",
+    "surface-muted": "#eee8da",
+    "text-primary": "#293f49",
+    "text-heading": "#173f53",
+    "text-secondary": "#56656a",
+    "text-on-dark": "#f8f5ee",
+    "action": "#195567",
+    "action-hover": "#123f4e",
+    "border": "#d5cec0",
+    "border-control": "#7c898b",
+    "focus": "#835315",
+    "status-text": "#6a4f2e",
+    "status-surface": "#f0e8d8",
+    "ornament": "#9e7c43",
+    "footer": "#2b5b5b"
+  },
+  "space": {
+    "1": "0.25rem",
+    "2": "0.5rem",
+    "3": "0.75rem",
+    "4": "1rem",
+    "6": "1.5rem",
+    "8": "2rem",
+    "12": "3rem",
+    "16": "4rem"
+  },
+  "layout": {
+    "page": "82.5rem",
+    "reading": "45rem"
+  },
+  "type": {
+    "body": "1rem",
+    "reading": "1.125rem",
+    "small": "0.875rem"
+  },
+  "motion": {
+    "feedback": "140ms"
+  }
+}

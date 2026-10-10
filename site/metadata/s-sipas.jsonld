@@ -1,0 +1,45 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://dergipark.org.tr/en/pub/spiritualpc/article/1793082",
+  "name": "Spiritually Integrated Process Assessment Scale (SIPAS): Validity and Reliability Study",
+  "datePublished": "2026-06-30",
+  "identifier": [
+    "https://doi.org/10.37898/spiritualpc.1793082"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Halil Eksi"
+    },
+    {
+      "@type": "Person",
+      "name": "Havvanur Akyol"
+    },
+    {
+      "@type": "Person",
+      "name": "Neslihan Aydın"
+    },
+    {
+      "@type": "Person",
+      "name": "Fatma Betül Karalı"
+    },
+    {
+      "@type": "Person",
+      "name": "Mehmet Özalp"
+    },
+    {
+      "@type": "Person",
+      "name": "M. Furkan Tunç"
+    },
+    {
+      "@type": "Person",
+      "name": "Ebru Talibe Turgut"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Spiritual Psychology and Counseling"
+  },
+  "url": "https://dergipark.org.tr/en/pub/spiritualpc/article/1793082"
+}

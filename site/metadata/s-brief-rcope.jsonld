@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.3390/rel2010051",
+  "name": "The Brief RCOPE: Current Psychometric Status of a Short Measure of Religious Coping",
+  "datePublished": "2011-02-22",
+  "identifier": [
+    "https://doi.org/10.3390/rel2010051"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Kenneth Pargament"
+    },
+    {
+      "@type": "Person",
+      "name": "Margaret Feuille"
+    },
+    {
+      "@type": "Person",
+      "name": "Donna Burdzy"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Religions"
+  },
+  "url": "https://doi.org/10.3390/rel2010051"
+}

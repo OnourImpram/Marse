@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.1007/s10943-020-00999-5",
+  "name": "Depressive Feelings in Religious Minorities: Does the Religious Context Matter?",
+  "datePublished": "2020",
+  "identifier": [
+    "https://doi.org/10.1007/s10943-020-00999-5"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Sarah M. Van de Velde"
+    },
+    {
+      "@type": "Person",
+      "name": "Veerle Buffel"
+    },
+    {
+      "@type": "Person",
+      "name": "Lore Van Praag"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Religion and Health"
+  },
+  "url": "https://doi.org/10.1007/s10943-020-00999-5"
+}

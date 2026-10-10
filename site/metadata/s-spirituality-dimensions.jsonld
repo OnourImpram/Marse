@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://pubmed.ncbi.nlm.nih.gov/40274690/",
+  "name": "Unveiling the Multifaceted Nature of Spirituality: Assessing the Dimensions of the Spirituality Inventory in the Turkish Context—A Preliminary Adaptation and Validity Reliability Study",
+  "datePublished": "2025-04-24",
+  "identifier": [
+    "https://doi.org/10.1007/s10943-025-02313-7"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Halil Ekşi"
+    },
+    {
+      "@type": "Person",
+      "name": "Dilek Günel"
+    },
+    {
+      "@type": "Person",
+      "name": "Ece Yağcı Akgündüz"
+    },
+    {
+      "@type": "Person",
+      "name": "Emre Gürkan"
+    },
+    {
+      "@type": "Person",
+      "name": "Fadile Zeynep Çavuş"
+    },
+    {
+      "@type": "Person",
+      "name": "Yasemin Altıntaş"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Journal of Religion and Health"
+  },
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40274690/"
+}

@@ -1,0 +1,2744 @@
+{
+  "schemaVersion": 1,
+  "humanReviewed": false,
+  "sourceLanguage": null,
+  "method": "Shared factual brief with independently authored locale editions. Persisted source and edition hashes establish continuity, not linguistic or scientific accuracy.",
+  "records": [
+    {
+      "id": "german-meta",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "briefHash": "853b813c2df56f13f5f1ba6052b14bd58273e76ed1546f31e954f6507b8f2dc0",
+      "editionHash": "ad2a11d53a4104a64ee57eea1dc9711e18a656325aa2791a54cceeabdd7611ea",
+      "claimIds": [
+        "german-meta:population",
+        "german-meta:finding",
+        "german-meta:limit"
+      ],
+      "sourceIds": [
+        "s-german-meta"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "german-meta",
+      "locale": "en",
+      "sourceLanguage": null,
+      "briefHash": "853b813c2df56f13f5f1ba6052b14bd58273e76ed1546f31e954f6507b8f2dc0",
+      "editionHash": "fa3c18b7460ed16cfeaf2d48b88bfb4aa2926207475f5b992f7da920c1486f8d",
+      "claimIds": [
+        "german-meta:population",
+        "german-meta:finding",
+        "german-meta:limit"
+      ],
+      "sourceIds": [
+        "s-german-meta"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "german-meta",
+      "locale": "de",
+      "sourceLanguage": null,
+      "briefHash": "853b813c2df56f13f5f1ba6052b14bd58273e76ed1546f31e954f6507b8f2dc0",
+      "editionHash": "6dfcf2978c4ee888822c6610286b48ef01a97b130a77fb89d5d8eb7adccf7655",
+      "claimIds": [
+        "german-meta:population",
+        "german-meta:finding",
+        "german-meta:limit"
+      ],
+      "sourceIds": [
+        "s-german-meta"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "german-meta",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "briefHash": "853b813c2df56f13f5f1ba6052b14bd58273e76ed1546f31e954f6507b8f2dc0",
+      "editionHash": "b3e59bf4ae147919abfaa19c187910bad373162fc6a6e1918b9695ecab6d2ef4",
+      "claimIds": [
+        "german-meta:population",
+        "german-meta:finding",
+        "german-meta:limit"
+      ],
+      "sourceIds": [
+        "s-german-meta"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "german-meta",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "briefHash": "853b813c2df56f13f5f1ba6052b14bd58273e76ed1546f31e954f6507b8f2dc0",
+      "editionHash": "c12ebb138d7d01ce6665b3d955b57faa57da4ff4dd5d863253a55189de66aaf4",
+      "claimIds": [
+        "german-meta:population",
+        "german-meta:finding",
+        "german-meta:limit"
+      ],
+      "sourceIds": [
+        "s-german-meta"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "german-meta",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "briefHash": "853b813c2df56f13f5f1ba6052b14bd58273e76ed1546f31e954f6507b8f2dc0",
+      "editionHash": "ef65b2827281cf054cbd478e8dd072c3c75eec1ce66b0749e9e8c85ca730872d",
+      "claimIds": [
+        "german-meta:population",
+        "german-meta:finding",
+        "german-meta:limit"
+      ],
+      "sourceIds": [
+        "s-german-meta"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "german-meta",
+      "locale": "id",
+      "sourceLanguage": null,
+      "briefHash": "853b813c2df56f13f5f1ba6052b14bd58273e76ed1546f31e954f6507b8f2dc0",
+      "editionHash": "72d7c09cffdcb5e51ceaf59a2c6b4c0fa2aaf240908a32ae18f5bf0f146c7e21",
+      "claimIds": [
+        "german-meta:population",
+        "german-meta:finding",
+        "german-meta:limit"
+      ],
+      "sourceIds": [
+        "s-german-meta"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "german-meta",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "briefHash": "853b813c2df56f13f5f1ba6052b14bd58273e76ed1546f31e954f6507b8f2dc0",
+      "editionHash": "204082a317e3d559937b7ca16a7d63e5cf51fa051592f8463731ddddbcf0a343",
+      "claimIds": [
+        "german-meta:population",
+        "german-meta:finding",
+        "german-meta:limit"
+      ],
+      "sourceIds": [
+        "s-german-meta"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "adolescent-contexts",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "briefHash": "76ff9599e07b76e8f747ec4c5dee18276a4f3735105ae9bc95c911c9e67e1c76",
+      "editionHash": "813aba1987a464a80365a040ccf3109cdfc39c9d54a73b630574cc4e25f6a80f",
+      "claimIds": [
+        "adolescent-contexts:population",
+        "adolescent-contexts:finding",
+        "adolescent-contexts:limit"
+      ],
+      "sourceIds": [
+        "s-adolescent-contexts"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "adolescent-contexts",
+      "locale": "en",
+      "sourceLanguage": null,
+      "briefHash": "76ff9599e07b76e8f747ec4c5dee18276a4f3735105ae9bc95c911c9e67e1c76",
+      "editionHash": "37164c574578e631e4b30fbc3a38096b8375306e33c15339ec4518c060d7476d",
+      "claimIds": [
+        "adolescent-contexts:population",
+        "adolescent-contexts:finding",
+        "adolescent-contexts:limit"
+      ],
+      "sourceIds": [
+        "s-adolescent-contexts"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "adolescent-contexts",
+      "locale": "de",
+      "sourceLanguage": null,
+      "briefHash": "76ff9599e07b76e8f747ec4c5dee18276a4f3735105ae9bc95c911c9e67e1c76",
+      "editionHash": "88158733c53e4929768d1393c5d66e1255faa642aa65a2812931239a53dd2dc0",
+      "claimIds": [
+        "adolescent-contexts:population",
+        "adolescent-contexts:finding",
+        "adolescent-contexts:limit"
+      ],
+      "sourceIds": [
+        "s-adolescent-contexts"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "adolescent-contexts",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "briefHash": "76ff9599e07b76e8f747ec4c5dee18276a4f3735105ae9bc95c911c9e67e1c76",
+      "editionHash": "c72e7d93e17235f5385e6465d80309dc4bd0060a2cf832f8ba911c5049a463d2",
+      "claimIds": [
+        "adolescent-contexts:population",
+        "adolescent-contexts:finding",
+        "adolescent-contexts:limit"
+      ],
+      "sourceIds": [
+        "s-adolescent-contexts"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "adolescent-contexts",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "briefHash": "76ff9599e07b76e8f747ec4c5dee18276a4f3735105ae9bc95c911c9e67e1c76",
+      "editionHash": "a985ba971fb74a616bb3fff5da81477be32cc934ac087536d002461a1a9681e4",
+      "claimIds": [
+        "adolescent-contexts:population",
+        "adolescent-contexts:finding",
+        "adolescent-contexts:limit"
+      ],
+      "sourceIds": [
+        "s-adolescent-contexts"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "adolescent-contexts",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "briefHash": "76ff9599e07b76e8f747ec4c5dee18276a4f3735105ae9bc95c911c9e67e1c76",
+      "editionHash": "0bf0a1779c37d2f531da69bfdf7a1e4303344579f27618c9417b2d986d800597",
+      "claimIds": [
+        "adolescent-contexts:population",
+        "adolescent-contexts:finding",
+        "adolescent-contexts:limit"
+      ],
+      "sourceIds": [
+        "s-adolescent-contexts"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "adolescent-contexts",
+      "locale": "id",
+      "sourceLanguage": null,
+      "briefHash": "76ff9599e07b76e8f747ec4c5dee18276a4f3735105ae9bc95c911c9e67e1c76",
+      "editionHash": "30dc91307b80930f4d0acb690234c0bf0951e005becc3ce11889f71dc3cbcdbe",
+      "claimIds": [
+        "adolescent-contexts:population",
+        "adolescent-contexts:finding",
+        "adolescent-contexts:limit"
+      ],
+      "sourceIds": [
+        "s-adolescent-contexts"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "adolescent-contexts",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "briefHash": "76ff9599e07b76e8f747ec4c5dee18276a4f3735105ae9bc95c911c9e67e1c76",
+      "editionHash": "b98ff4cbaf45c9dee4f97edf93441515e2ee507d43fc753d5733ed658b5c5b52",
+      "claimIds": [
+        "adolescent-contexts:population",
+        "adolescent-contexts:finding",
+        "adolescent-contexts:limit"
+      ],
+      "sourceIds": [
+        "s-adolescent-contexts"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "youth-evidence",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "briefHash": "d8719888820f469bdc2459b88d9bbced20022b51b20f81c7427ce33bc46737d2",
+      "editionHash": "994abf0e572bdc612428dda5dbe5aaaa58e37c8820ce2728d66cedb1354fa4f4",
+      "claimIds": [
+        "youth-evidence:population",
+        "youth-evidence:finding",
+        "youth-evidence:limit"
+      ],
+      "sourceIds": [
+        "s-youth-evidence"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "youth-evidence",
+      "locale": "en",
+      "sourceLanguage": null,
+      "briefHash": "d8719888820f469bdc2459b88d9bbced20022b51b20f81c7427ce33bc46737d2",
+      "editionHash": "345ddeff4c32b01051f6025f55697b0ebb8dd8efe26ef6a3a9bfdee1e2cf9d4f",
+      "claimIds": [
+        "youth-evidence:population",
+        "youth-evidence:finding",
+        "youth-evidence:limit"
+      ],
+      "sourceIds": [
+        "s-youth-evidence"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "youth-evidence",
+      "locale": "de",
+      "sourceLanguage": null,
+      "briefHash": "d8719888820f469bdc2459b88d9bbced20022b51b20f81c7427ce33bc46737d2",
+      "editionHash": "63fec0bb694498aaadc0389979bbdee7bf4cf84e46c47dc46807b477766b7037",
+      "claimIds": [
+        "youth-evidence:population",
+        "youth-evidence:finding",
+        "youth-evidence:limit"
+      ],
+      "sourceIds": [
+        "s-youth-evidence"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "youth-evidence",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "briefHash": "d8719888820f469bdc2459b88d9bbced20022b51b20f81c7427ce33bc46737d2",
+      "editionHash": "17fe572d48fbc86e25fc4f32582fbc2bed840fa6736e759be9b5834646b6e794",
+      "claimIds": [
+        "youth-evidence:population",
+        "youth-evidence:finding",
+        "youth-evidence:limit"
+      ],
+      "sourceIds": [
+        "s-youth-evidence"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "youth-evidence",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "briefHash": "d8719888820f469bdc2459b88d9bbced20022b51b20f81c7427ce33bc46737d2",
+      "editionHash": "ad25d573a74574971352cd1e4c55021c15af17d666c4e4e7017a06fe517534ef",
+      "claimIds": [
+        "youth-evidence:population",
+        "youth-evidence:finding",
+        "youth-evidence:limit"
+      ],
+      "sourceIds": [
+        "s-youth-evidence"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "youth-evidence",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "briefHash": "d8719888820f469bdc2459b88d9bbced20022b51b20f81c7427ce33bc46737d2",
+      "editionHash": "e09af8d145bc2cc0368adc249a1bc00a6dff74bc4132bfa46c74ce3e8d0f3490",
+      "claimIds": [
+        "youth-evidence:population",
+        "youth-evidence:finding",
+        "youth-evidence:limit"
+      ],
+      "sourceIds": [
+        "s-youth-evidence"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "youth-evidence",
+      "locale": "id",
+      "sourceLanguage": null,
+      "briefHash": "d8719888820f469bdc2459b88d9bbced20022b51b20f81c7427ce33bc46737d2",
+      "editionHash": "f2464b3753f6ec9c33b4fcc00c82a6d0b08d50d73f9f8c60f8a9cc54de278a8a",
+      "claimIds": [
+        "youth-evidence:population",
+        "youth-evidence:finding",
+        "youth-evidence:limit"
+      ],
+      "sourceIds": [
+        "s-youth-evidence"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "youth-evidence",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "briefHash": "d8719888820f469bdc2459b88d9bbced20022b51b20f81c7427ce33bc46737d2",
+      "editionHash": "8414db8477698e445ebca6cbc7182d6877b506ef2d8d353bbebc6a50f1b7a89b",
+      "claimIds": [
+        "youth-evidence:population",
+        "youth-evidence:finding",
+        "youth-evidence:limit"
+      ],
+      "sourceIds": [
+        "s-youth-evidence"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "older-adults",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "briefHash": "1a138e9bde7d0d84a3f19d7a02d2ea269950b9fe5befc94f58d12d5bec658b76",
+      "editionHash": "74f50d3caa4da5c964bb2b3aac8aef715bea6ec4e8d4f8d7af5cac0ece0d372d",
+      "claimIds": [
+        "older-adults:population",
+        "older-adults:finding",
+        "older-adults:limit"
+      ],
+      "sourceIds": [
+        "s-older-adults"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "older-adults",
+      "locale": "en",
+      "sourceLanguage": null,
+      "briefHash": "1a138e9bde7d0d84a3f19d7a02d2ea269950b9fe5befc94f58d12d5bec658b76",
+      "editionHash": "2fbb201bdb56d0f1dc36047e359ef1f620c00a341e31a348d7e2de20e7108e73",
+      "claimIds": [
+        "older-adults:population",
+        "older-adults:finding",
+        "older-adults:limit"
+      ],
+      "sourceIds": [
+        "s-older-adults"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "older-adults",
+      "locale": "de",
+      "sourceLanguage": null,
+      "briefHash": "1a138e9bde7d0d84a3f19d7a02d2ea269950b9fe5befc94f58d12d5bec658b76",
+      "editionHash": "b1fae0a0bf2b6ba8245069817584dfe52226e57a7ec9a4db3bc2bcc4e8d0b3d8",
+      "claimIds": [
+        "older-adults:population",
+        "older-adults:finding",
+        "older-adults:limit"
+      ],
+      "sourceIds": [
+        "s-older-adults"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "older-adults",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "briefHash": "1a138e9bde7d0d84a3f19d7a02d2ea269950b9fe5befc94f58d12d5bec658b76",
+      "editionHash": "9723b31f3acf2568e0f7bd3e577f881e71001c54d9d96e5c529e81e695e0b2f2",
+      "claimIds": [
+        "older-adults:population",
+        "older-adults:finding",
+        "older-adults:limit"
+      ],
+      "sourceIds": [
+        "s-older-adults"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "older-adults",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "briefHash": "1a138e9bde7d0d84a3f19d7a02d2ea269950b9fe5befc94f58d12d5bec658b76",
+      "editionHash": "10243d63d44af5190b9d697cd6f543408f8fbbdbd342e677ac40da6f9335be18",
+      "claimIds": [
+        "older-adults:population",
+        "older-adults:finding",
+        "older-adults:limit"
+      ],
+      "sourceIds": [
+        "s-older-adults"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "older-adults",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "briefHash": "1a138e9bde7d0d84a3f19d7a02d2ea269950b9fe5befc94f58d12d5bec658b76",
+      "editionHash": "20c621648a2ae6feffd92684f09da341ddd468beaf7a833c8f89fff581219db7",
+      "claimIds": [
+        "older-adults:population",
+        "older-adults:finding",
+        "older-adults:limit"
+      ],
+      "sourceIds": [
+        "s-older-adults"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "older-adults",
+      "locale": "id",
+      "sourceLanguage": null,
+      "briefHash": "1a138e9bde7d0d84a3f19d7a02d2ea269950b9fe5befc94f58d12d5bec658b76",
+      "editionHash": "ee650d753b1fc85376d5862c5c4d3d7732020b95b5ca2c277dc6a32bb89b13d5",
+      "claimIds": [
+        "older-adults:population",
+        "older-adults:finding",
+        "older-adults:limit"
+      ],
+      "sourceIds": [
+        "s-older-adults"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "older-adults",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "briefHash": "1a138e9bde7d0d84a3f19d7a02d2ea269950b9fe5befc94f58d12d5bec658b76",
+      "editionHash": "a050c813ca4e8d46854153a36ec1bbdcd7621c47b4572e1c2599507b91701e0e",
+      "claimIds": [
+        "older-adults:population",
+        "older-adults:finding",
+        "older-adults:limit"
+      ],
+      "sourceIds": [
+        "s-older-adults"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "attendance-cohorts",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "briefHash": "fa66640007d72703ea902d0e0e77e734bd7af873e74b64d8b362674b1ed16a16",
+      "editionHash": "8dc5727095cd930ef278fa4372560714411e123d02e6037bdaee5cf8b47350b3",
+      "claimIds": [
+        "attendance-cohorts:population",
+        "attendance-cohorts:finding",
+        "attendance-cohorts:limit"
+      ],
+      "sourceIds": [
+        "s-attendance-cohorts"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "attendance-cohorts",
+      "locale": "en",
+      "sourceLanguage": null,
+      "briefHash": "fa66640007d72703ea902d0e0e77e734bd7af873e74b64d8b362674b1ed16a16",
+      "editionHash": "b441ed55050e299a0ac734370b6b2cacc27e6ea7b4e8c67e8f431f9e89bda4bb",
+      "claimIds": [
+        "attendance-cohorts:population",
+        "attendance-cohorts:finding",
+        "attendance-cohorts:limit"
+      ],
+      "sourceIds": [
+        "s-attendance-cohorts"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "attendance-cohorts",
+      "locale": "de",
+      "sourceLanguage": null,
+      "briefHash": "fa66640007d72703ea902d0e0e77e734bd7af873e74b64d8b362674b1ed16a16",
+      "editionHash": "413d357c0264e25d42cf64d6cb3f41cf81e22d12fa330da44bf9a49f8ff9c55d",
+      "claimIds": [
+        "attendance-cohorts:population",
+        "attendance-cohorts:finding",
+        "attendance-cohorts:limit"
+      ],
+      "sourceIds": [
+        "s-attendance-cohorts"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "attendance-cohorts",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "briefHash": "fa66640007d72703ea902d0e0e77e734bd7af873e74b64d8b362674b1ed16a16",
+      "editionHash": "5b88f2a2b36f79a1c8c8e34c09a87322975bf73b74b52428429970c12ca501b2",
+      "claimIds": [
+        "attendance-cohorts:population",
+        "attendance-cohorts:finding",
+        "attendance-cohorts:limit"
+      ],
+      "sourceIds": [
+        "s-attendance-cohorts"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "attendance-cohorts",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "briefHash": "fa66640007d72703ea902d0e0e77e734bd7af873e74b64d8b362674b1ed16a16",
+      "editionHash": "588403f579584ab99d28988439d005ef65f33fca9114f6b12bd875cb8a0308f4",
+      "claimIds": [
+        "attendance-cohorts:population",
+        "attendance-cohorts:finding",
+        "attendance-cohorts:limit"
+      ],
+      "sourceIds": [
+        "s-attendance-cohorts"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "attendance-cohorts",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "briefHash": "fa66640007d72703ea902d0e0e77e734bd7af873e74b64d8b362674b1ed16a16",
+      "editionHash": "9e3013a5ac2fda4a8344e2aba9c4da3446f6d1e4e8995d099f1ab9783d30b32e",
+      "claimIds": [
+        "attendance-cohorts:population",
+        "attendance-cohorts:finding",
+        "attendance-cohorts:limit"
+      ],
+      "sourceIds": [
+        "s-attendance-cohorts"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "attendance-cohorts",
+      "locale": "id",
+      "sourceLanguage": null,
+      "briefHash": "fa66640007d72703ea902d0e0e77e734bd7af873e74b64d8b362674b1ed16a16",
+      "editionHash": "73d4ca4957f5cc2046ea6c94f58a6f741bd662ed3e987dc80fedd1bec026c409",
+      "claimIds": [
+        "attendance-cohorts:population",
+        "attendance-cohorts:finding",
+        "attendance-cohorts:limit"
+      ],
+      "sourceIds": [
+        "s-attendance-cohorts"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "attendance-cohorts",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "briefHash": "fa66640007d72703ea902d0e0e77e734bd7af873e74b64d8b362674b1ed16a16",
+      "editionHash": "d7e28e88385172f1ce1af26f61735d6ca843aa81f60e775a8643ceb5d54b0f42",
+      "claimIds": [
+        "attendance-cohorts:population",
+        "attendance-cohorts:finding",
+        "attendance-cohorts:limit"
+      ],
+      "sourceIds": [
+        "s-attendance-cohorts"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "atheist-struggles",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "briefHash": "7baad6fc6048caf2e7d3225bfd08cbe980dadacdf0c8cf8cc46ae868287353df",
+      "editionHash": "adeb1fb7dc0f8e4e661066556d7ad3c48cc393dfddc4221d8c9c4579c4396780",
+      "claimIds": [
+        "atheist-struggles:population",
+        "atheist-struggles:finding",
+        "atheist-struggles:limit"
+      ],
+      "sourceIds": [
+        "s-atheist-struggles"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "atheist-struggles",
+      "locale": "en",
+      "sourceLanguage": null,
+      "briefHash": "7baad6fc6048caf2e7d3225bfd08cbe980dadacdf0c8cf8cc46ae868287353df",
+      "editionHash": "036f334f9df64d23d2a80b0c44b6ac5c947f314bd434f112cb19307d99d599eb",
+      "claimIds": [
+        "atheist-struggles:population",
+        "atheist-struggles:finding",
+        "atheist-struggles:limit"
+      ],
+      "sourceIds": [
+        "s-atheist-struggles"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "atheist-struggles",
+      "locale": "de",
+      "sourceLanguage": null,
+      "briefHash": "7baad6fc6048caf2e7d3225bfd08cbe980dadacdf0c8cf8cc46ae868287353df",
+      "editionHash": "06259fe84a34befcc7b2c0c515a1ebadbd4f21f19904d6d68a2511f019957195",
+      "claimIds": [
+        "atheist-struggles:population",
+        "atheist-struggles:finding",
+        "atheist-struggles:limit"
+      ],
+      "sourceIds": [
+        "s-atheist-struggles"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "atheist-struggles",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "briefHash": "7baad6fc6048caf2e7d3225bfd08cbe980dadacdf0c8cf8cc46ae868287353df",
+      "editionHash": "b51f4cb4f685197df2472239a7668231313594946c0a5902e5acc3b66fa6d3ac",
+      "claimIds": [
+        "atheist-struggles:population",
+        "atheist-struggles:finding",
+        "atheist-struggles:limit"
+      ],
+      "sourceIds": [
+        "s-atheist-struggles"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "atheist-struggles",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "briefHash": "7baad6fc6048caf2e7d3225bfd08cbe980dadacdf0c8cf8cc46ae868287353df",
+      "editionHash": "02281d8b9d30098618c590fe4c2b8bf17adc6a4053c93c23623213ac64ae251c",
+      "claimIds": [
+        "atheist-struggles:population",
+        "atheist-struggles:finding",
+        "atheist-struggles:limit"
+      ],
+      "sourceIds": [
+        "s-atheist-struggles"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "atheist-struggles",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "briefHash": "7baad6fc6048caf2e7d3225bfd08cbe980dadacdf0c8cf8cc46ae868287353df",
+      "editionHash": "5facdb84a8e0027e39b11525de0cb8dea9dcc6efb705112aa2c51e10e1d4078d",
+      "claimIds": [
+        "atheist-struggles:population",
+        "atheist-struggles:finding",
+        "atheist-struggles:limit"
+      ],
+      "sourceIds": [
+        "s-atheist-struggles"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "atheist-struggles",
+      "locale": "id",
+      "sourceLanguage": null,
+      "briefHash": "7baad6fc6048caf2e7d3225bfd08cbe980dadacdf0c8cf8cc46ae868287353df",
+      "editionHash": "11f0914793907631c40fccae67208b02e4d72ccc0053deff79cdb07b7e6a7759",
+      "claimIds": [
+        "atheist-struggles:population",
+        "atheist-struggles:finding",
+        "atheist-struggles:limit"
+      ],
+      "sourceIds": [
+        "s-atheist-struggles"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "atheist-struggles",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "briefHash": "7baad6fc6048caf2e7d3225bfd08cbe980dadacdf0c8cf8cc46ae868287353df",
+      "editionHash": "e4b9695284a56abb75e9a41d27f4428940645c68b1e51b50d9a580d9ee65d3e7",
+      "claimIds": [
+        "atheist-struggles:population",
+        "atheist-struggles:finding",
+        "atheist-struggles:limit"
+      ],
+      "sourceIds": [
+        "s-atheist-struggles"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "religious-cbt",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "briefHash": "d50d6d95c726a8638b3ffa3abd4ae625d3efc89da27a13ebb9d5931b12e1350c",
+      "editionHash": "2c3c899beb3a74792cfb1f0d987dc3ec078a674e70bac4fa20ef2b8bee94cb9e",
+      "claimIds": [
+        "religious-cbt:population",
+        "religious-cbt:finding",
+        "religious-cbt:limit"
+      ],
+      "sourceIds": [
+        "s-religious-cbt"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "religious-cbt",
+      "locale": "en",
+      "sourceLanguage": null,
+      "briefHash": "d50d6d95c726a8638b3ffa3abd4ae625d3efc89da27a13ebb9d5931b12e1350c",
+      "editionHash": "02205f5fe51e386ce68c7e1d8d4c9f6756837973d0c3656aae83d814715aefd3",
+      "claimIds": [
+        "religious-cbt:population",
+        "religious-cbt:finding",
+        "religious-cbt:limit"
+      ],
+      "sourceIds": [
+        "s-religious-cbt"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "religious-cbt",
+      "locale": "de",
+      "sourceLanguage": null,
+      "briefHash": "d50d6d95c726a8638b3ffa3abd4ae625d3efc89da27a13ebb9d5931b12e1350c",
+      "editionHash": "cbe47aae2bd48284faf5378e8294eac9040fad04b1f68a6ccec5299cedbdd0d8",
+      "claimIds": [
+        "religious-cbt:population",
+        "religious-cbt:finding",
+        "religious-cbt:limit"
+      ],
+      "sourceIds": [
+        "s-religious-cbt"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "religious-cbt",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "briefHash": "d50d6d95c726a8638b3ffa3abd4ae625d3efc89da27a13ebb9d5931b12e1350c",
+      "editionHash": "1455b1f77bcbe9482de19b5b9de01dc0382f7347e5949cc4031d47dc25ae8f89",
+      "claimIds": [
+        "religious-cbt:population",
+        "religious-cbt:finding",
+        "religious-cbt:limit"
+      ],
+      "sourceIds": [
+        "s-religious-cbt"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "religious-cbt",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "briefHash": "d50d6d95c726a8638b3ffa3abd4ae625d3efc89da27a13ebb9d5931b12e1350c",
+      "editionHash": "856e7fe05ef9fb3aff0ce82ca6ea3d795997e47ac379b3fe05d1ae593bcf2380",
+      "claimIds": [
+        "religious-cbt:population",
+        "religious-cbt:finding",
+        "religious-cbt:limit"
+      ],
+      "sourceIds": [
+        "s-religious-cbt"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "religious-cbt",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "briefHash": "d50d6d95c726a8638b3ffa3abd4ae625d3efc89da27a13ebb9d5931b12e1350c",
+      "editionHash": "0555993534393f664577d59a97b61fa7497d48f7478d276192c5af71e9522c90",
+      "claimIds": [
+        "religious-cbt:population",
+        "religious-cbt:finding",
+        "religious-cbt:limit"
+      ],
+      "sourceIds": [
+        "s-religious-cbt"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "religious-cbt",
+      "locale": "id",
+      "sourceLanguage": null,
+      "briefHash": "d50d6d95c726a8638b3ffa3abd4ae625d3efc89da27a13ebb9d5931b12e1350c",
+      "editionHash": "64948020ca65017234e32e4a7fe609206a5631b9c25d2d22589b7639e9de27e4",
+      "claimIds": [
+        "religious-cbt:population",
+        "religious-cbt:finding",
+        "religious-cbt:limit"
+      ],
+      "sourceIds": [
+        "s-religious-cbt"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "religious-cbt",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "briefHash": "d50d6d95c726a8638b3ffa3abd4ae625d3efc89da27a13ebb9d5931b12e1350c",
+      "editionHash": "0a3b028113dae5af02048ae930c52d852a935710abf5095a1692536afb451b67",
+      "claimIds": [
+        "religious-cbt:population",
+        "religious-cbt:finding",
+        "religious-cbt:limit"
+      ],
+      "sourceIds": [
+        "s-religious-cbt"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "disaster-needs",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "briefHash": "60a4538f6da937c287527435cd5647fa1e4f736e965f02f172918a119c9cf20b",
+      "editionHash": "56d39f051651ed690f22140578deda6ea56919ca73b9faf324abe06831d84400",
+      "claimIds": [
+        "disaster-needs:population",
+        "disaster-needs:finding",
+        "disaster-needs:limit"
+      ],
+      "sourceIds": [
+        "s-disaster-needs"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "disaster-needs",
+      "locale": "en",
+      "sourceLanguage": null,
+      "briefHash": "60a4538f6da937c287527435cd5647fa1e4f736e965f02f172918a119c9cf20b",
+      "editionHash": "35cab4faec1d950a5fc37f1ab13afc33ce092dc4469589625d1222eb9b262417",
+      "claimIds": [
+        "disaster-needs:population",
+        "disaster-needs:finding",
+        "disaster-needs:limit"
+      ],
+      "sourceIds": [
+        "s-disaster-needs"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "disaster-needs",
+      "locale": "de",
+      "sourceLanguage": null,
+      "briefHash": "60a4538f6da937c287527435cd5647fa1e4f736e965f02f172918a119c9cf20b",
+      "editionHash": "dc716af94baae4ef9af4e32344a0b0e1895b8cd2e995e0dcc939f2fb43a144f8",
+      "claimIds": [
+        "disaster-needs:population",
+        "disaster-needs:finding",
+        "disaster-needs:limit"
+      ],
+      "sourceIds": [
+        "s-disaster-needs"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "disaster-needs",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "briefHash": "60a4538f6da937c287527435cd5647fa1e4f736e965f02f172918a119c9cf20b",
+      "editionHash": "4ce928d7c92af0609eaf21ae9aac9825893437f035f9914be957eb62a8555e6a",
+      "claimIds": [
+        "disaster-needs:population",
+        "disaster-needs:finding",
+        "disaster-needs:limit"
+      ],
+      "sourceIds": [
+        "s-disaster-needs"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "disaster-needs",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "briefHash": "60a4538f6da937c287527435cd5647fa1e4f736e965f02f172918a119c9cf20b",
+      "editionHash": "a368c06ccd316f6d929269fd64282a527ef75bcd8fa4cbcbb238399201680264",
+      "claimIds": [
+        "disaster-needs:population",
+        "disaster-needs:finding",
+        "disaster-needs:limit"
+      ],
+      "sourceIds": [
+        "s-disaster-needs"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "disaster-needs",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "briefHash": "60a4538f6da937c287527435cd5647fa1e4f736e965f02f172918a119c9cf20b",
+      "editionHash": "aac1ef33fef3ee5df2504360ed6638f11881ea75be84fbc57e642d6c6ec6343a",
+      "claimIds": [
+        "disaster-needs:population",
+        "disaster-needs:finding",
+        "disaster-needs:limit"
+      ],
+      "sourceIds": [
+        "s-disaster-needs"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "disaster-needs",
+      "locale": "id",
+      "sourceLanguage": null,
+      "briefHash": "60a4538f6da937c287527435cd5647fa1e4f736e965f02f172918a119c9cf20b",
+      "editionHash": "421c825f4edaeff26929dc7a37c009c3990a8efda72f5633c2169b4a8aa8beb6",
+      "claimIds": [
+        "disaster-needs:population",
+        "disaster-needs:finding",
+        "disaster-needs:limit"
+      ],
+      "sourceIds": [
+        "s-disaster-needs"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "disaster-needs",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "briefHash": "60a4538f6da937c287527435cd5647fa1e4f736e965f02f172918a119c9cf20b",
+      "editionHash": "f1bcbc4100eb584fa66b510a193d5c775bbfdf1fb194fe3f42994cc4e9010e66",
+      "claimIds": [
+        "disaster-needs:population",
+        "disaster-needs:finding",
+        "disaster-needs:limit"
+      ],
+      "sourceIds": [
+        "s-disaster-needs"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brief-rcope",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "briefHash": "8a843ae41cd740c6feb4731379621d4dfbe4f8ca91d89dbffcf31b71bb15fb42",
+      "editionHash": "7b21968c535f30efad047a9ba4ef2ef85231d0a1699557658719152c54bf1947",
+      "claimIds": [
+        "brief-rcope:population",
+        "brief-rcope:finding",
+        "brief-rcope:limit"
+      ],
+      "sourceIds": [
+        "s-brief-rcope"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brief-rcope",
+      "locale": "en",
+      "sourceLanguage": null,
+      "briefHash": "8a843ae41cd740c6feb4731379621d4dfbe4f8ca91d89dbffcf31b71bb15fb42",
+      "editionHash": "527b43c2f10a94b1efa1bbfcc95ec97bfa5226f375b6a530485eadf6362bf2e2",
+      "claimIds": [
+        "brief-rcope:population",
+        "brief-rcope:finding",
+        "brief-rcope:limit"
+      ],
+      "sourceIds": [
+        "s-brief-rcope"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brief-rcope",
+      "locale": "de",
+      "sourceLanguage": null,
+      "briefHash": "8a843ae41cd740c6feb4731379621d4dfbe4f8ca91d89dbffcf31b71bb15fb42",
+      "editionHash": "dba6177ecb07131140a3b22b30811583572a0e92d0fb9485f4e6b4b07d1c1327",
+      "claimIds": [
+        "brief-rcope:population",
+        "brief-rcope:finding",
+        "brief-rcope:limit"
+      ],
+      "sourceIds": [
+        "s-brief-rcope"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brief-rcope",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "briefHash": "8a843ae41cd740c6feb4731379621d4dfbe4f8ca91d89dbffcf31b71bb15fb42",
+      "editionHash": "d817ff5b3c722d305a711ce0b8297defc8c097f4d61775d23216351c09a2f6af",
+      "claimIds": [
+        "brief-rcope:population",
+        "brief-rcope:finding",
+        "brief-rcope:limit"
+      ],
+      "sourceIds": [
+        "s-brief-rcope"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brief-rcope",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "briefHash": "8a843ae41cd740c6feb4731379621d4dfbe4f8ca91d89dbffcf31b71bb15fb42",
+      "editionHash": "05e268655a142e68fdccf9b9b560da354da85568858501d9d775b6e4edda88f8",
+      "claimIds": [
+        "brief-rcope:population",
+        "brief-rcope:finding",
+        "brief-rcope:limit"
+      ],
+      "sourceIds": [
+        "s-brief-rcope"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brief-rcope",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "briefHash": "8a843ae41cd740c6feb4731379621d4dfbe4f8ca91d89dbffcf31b71bb15fb42",
+      "editionHash": "fe84804186de36def9071b0e4d164924d947dc530a5e206d1a3ee2422758fb00",
+      "claimIds": [
+        "brief-rcope:population",
+        "brief-rcope:finding",
+        "brief-rcope:limit"
+      ],
+      "sourceIds": [
+        "s-brief-rcope"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brief-rcope",
+      "locale": "id",
+      "sourceLanguage": null,
+      "briefHash": "8a843ae41cd740c6feb4731379621d4dfbe4f8ca91d89dbffcf31b71bb15fb42",
+      "editionHash": "8731b30f362c92b5228262461545b9563468b412aaae852b3522db292892e945",
+      "claimIds": [
+        "brief-rcope:population",
+        "brief-rcope:finding",
+        "brief-rcope:limit"
+      ],
+      "sourceIds": [
+        "s-brief-rcope"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brief-rcope",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "briefHash": "8a843ae41cd740c6feb4731379621d4dfbe4f8ca91d89dbffcf31b71bb15fb42",
+      "editionHash": "621b8243a67c5fd1d3d662aec75edb1d4adc82141cf7dc45acc3338849fd43ce",
+      "claimIds": [
+        "brief-rcope:population",
+        "brief-rcope:finding",
+        "brief-rcope:limit"
+      ],
+      "sourceIds": [
+        "s-brief-rcope"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "meaning-questionnaire",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "briefHash": "b8a94e89384f162916a6fc73271668491501305ac39d9b3a13043f6ef5480def",
+      "editionHash": "8916b1f0e12b34e93ef6f203266375af76c857ceaa74e1fd855416cc03b7daa3",
+      "claimIds": [
+        "meaning-questionnaire:population",
+        "meaning-questionnaire:finding",
+        "meaning-questionnaire:limit"
+      ],
+      "sourceIds": [
+        "s-meaning-questionnaire"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "meaning-questionnaire",
+      "locale": "en",
+      "sourceLanguage": null,
+      "briefHash": "b8a94e89384f162916a6fc73271668491501305ac39d9b3a13043f6ef5480def",
+      "editionHash": "03cfa0e3f3a310350c78ef7cb2c566c51504be6a5368b0a75b0521c2471b76b4",
+      "claimIds": [
+        "meaning-questionnaire:population",
+        "meaning-questionnaire:finding",
+        "meaning-questionnaire:limit"
+      ],
+      "sourceIds": [
+        "s-meaning-questionnaire"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "meaning-questionnaire",
+      "locale": "de",
+      "sourceLanguage": null,
+      "briefHash": "b8a94e89384f162916a6fc73271668491501305ac39d9b3a13043f6ef5480def",
+      "editionHash": "5ccea914846e0b20493b149edef04d61500a7076b65b1936aa0063dfd89d518c",
+      "claimIds": [
+        "meaning-questionnaire:population",
+        "meaning-questionnaire:finding",
+        "meaning-questionnaire:limit"
+      ],
+      "sourceIds": [
+        "s-meaning-questionnaire"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "meaning-questionnaire",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "briefHash": "b8a94e89384f162916a6fc73271668491501305ac39d9b3a13043f6ef5480def",
+      "editionHash": "2fa844a81230db81e78844e0ae0a8eafd25f4fba2b4793bd9e7b8adb45d560d9",
+      "claimIds": [
+        "meaning-questionnaire:population",
+        "meaning-questionnaire:finding",
+        "meaning-questionnaire:limit"
+      ],
+      "sourceIds": [
+        "s-meaning-questionnaire"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "meaning-questionnaire",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "briefHash": "b8a94e89384f162916a6fc73271668491501305ac39d9b3a13043f6ef5480def",
+      "editionHash": "97eb5f7e98ff6215e6aea8b647cb979e1c52d150a864f23b50bd247320ed285d",
+      "claimIds": [
+        "meaning-questionnaire:population",
+        "meaning-questionnaire:finding",
+        "meaning-questionnaire:limit"
+      ],
+      "sourceIds": [
+        "s-meaning-questionnaire"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "meaning-questionnaire",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "briefHash": "b8a94e89384f162916a6fc73271668491501305ac39d9b3a13043f6ef5480def",
+      "editionHash": "b9736020cd1f35a4a375b176f01a7ad7b78e23886dc290270a174a0d41f46048",
+      "claimIds": [
+        "meaning-questionnaire:population",
+        "meaning-questionnaire:finding",
+        "meaning-questionnaire:limit"
+      ],
+      "sourceIds": [
+        "s-meaning-questionnaire"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "meaning-questionnaire",
+      "locale": "id",
+      "sourceLanguage": null,
+      "briefHash": "b8a94e89384f162916a6fc73271668491501305ac39d9b3a13043f6ef5480def",
+      "editionHash": "5521ff94b5470cde1090dc25c656f461621be9df8632a52de3c616a5115085d3",
+      "claimIds": [
+        "meaning-questionnaire:population",
+        "meaning-questionnaire:finding",
+        "meaning-questionnaire:limit"
+      ],
+      "sourceIds": [
+        "s-meaning-questionnaire"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "meaning-questionnaire",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "briefHash": "b8a94e89384f162916a6fc73271668491501305ac39d9b3a13043f6ef5480def",
+      "editionHash": "66745b5ffa44f3b4deb9ea84cd2369fe5b40203d5f9c754f92363c91147f3f58",
+      "claimIds": [
+        "meaning-questionnaire:population",
+        "meaning-questionnaire:finding",
+        "meaning-questionnaire:limit"
+      ],
+      "sourceIds": [
+        "s-meaning-questionnaire"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "durel",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "briefHash": "9ee0c81f6d7bd6e7790248de1fe0715a7cd7464b02582bd5cdff6e01bb2b5578",
+      "editionHash": "60968b46df87debe261c4b8010f5373cdd64dc6c81db5071746fff83aec762f2",
+      "claimIds": [
+        "durel:population",
+        "durel:finding",
+        "durel:limit"
+      ],
+      "sourceIds": [
+        "s-durel"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "durel",
+      "locale": "en",
+      "sourceLanguage": null,
+      "briefHash": "9ee0c81f6d7bd6e7790248de1fe0715a7cd7464b02582bd5cdff6e01bb2b5578",
+      "editionHash": "478a7a215b3d0a58841c52bb186bd85e508e41e2e5da3857c7c891ae0e2076e1",
+      "claimIds": [
+        "durel:population",
+        "durel:finding",
+        "durel:limit"
+      ],
+      "sourceIds": [
+        "s-durel"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "durel",
+      "locale": "de",
+      "sourceLanguage": null,
+      "briefHash": "9ee0c81f6d7bd6e7790248de1fe0715a7cd7464b02582bd5cdff6e01bb2b5578",
+      "editionHash": "7ff8cd482e20b46476bba36d58a988fa76b5d19ffa8c1ebee7ea024c43c55c0e",
+      "claimIds": [
+        "durel:population",
+        "durel:finding",
+        "durel:limit"
+      ],
+      "sourceIds": [
+        "s-durel"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "durel",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "briefHash": "9ee0c81f6d7bd6e7790248de1fe0715a7cd7464b02582bd5cdff6e01bb2b5578",
+      "editionHash": "9e8bdde5926abe06db9f3003906d270a5add78dd4035a3260db9c924323db4c7",
+      "claimIds": [
+        "durel:population",
+        "durel:finding",
+        "durel:limit"
+      ],
+      "sourceIds": [
+        "s-durel"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "durel",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "briefHash": "9ee0c81f6d7bd6e7790248de1fe0715a7cd7464b02582bd5cdff6e01bb2b5578",
+      "editionHash": "635847d45d3d3e1fbea8e0fbdfa6ccce3d8f91b26730a922a89cb56e3c2118cb",
+      "claimIds": [
+        "durel:population",
+        "durel:finding",
+        "durel:limit"
+      ],
+      "sourceIds": [
+        "s-durel"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "durel",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "briefHash": "9ee0c81f6d7bd6e7790248de1fe0715a7cd7464b02582bd5cdff6e01bb2b5578",
+      "editionHash": "51e3ab4389db622ffb9a983f1667a69195d99fdcbb2e13f2c1fa6dd5a46645e9",
+      "claimIds": [
+        "durel:population",
+        "durel:finding",
+        "durel:limit"
+      ],
+      "sourceIds": [
+        "s-durel"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "durel",
+      "locale": "id",
+      "sourceLanguage": null,
+      "briefHash": "9ee0c81f6d7bd6e7790248de1fe0715a7cd7464b02582bd5cdff6e01bb2b5578",
+      "editionHash": "ddf9632d22020e6c4a6b23daaf55e26bea104a18c012e4b4d29a842aac235118",
+      "claimIds": [
+        "durel:population",
+        "durel:finding",
+        "durel:limit"
+      ],
+      "sourceIds": [
+        "s-durel"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "durel",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "briefHash": "9ee0c81f6d7bd6e7790248de1fe0715a7cd7464b02582bd5cdff6e01bb2b5578",
+      "editionHash": "40b5b38311e9999ee8e238a734129fbe371a7e2d2db38de64ae824336afc0a37",
+      "claimIds": [
+        "durel:population",
+        "durel:finding",
+        "durel:limit"
+      ],
+      "sourceIds": [
+        "s-durel"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-eksi-kardas",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "briefHash": "50b3f9f55f0d96ee532a8b0bfd650186f06c0564d7164a9f0c5d99c4538531d3",
+      "editionHash": "aa40e497cdc441cd906ab449331d5aaac471a915a363bd84cf04f92de22491d7",
+      "claimIds": [
+        "swbs-eksi-kardas:population",
+        "swbs-eksi-kardas:finding",
+        "swbs-eksi-kardas:limit"
+      ],
+      "sourceIds": [
+        "s-swbs-eksi-kardas"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-eksi-kardas",
+      "locale": "en",
+      "sourceLanguage": null,
+      "briefHash": "50b3f9f55f0d96ee532a8b0bfd650186f06c0564d7164a9f0c5d99c4538531d3",
+      "editionHash": "05ac6ef55424b87ce610243ccf25b74acf42e2b9de67cdf29c34ffba7c78dc2b",
+      "claimIds": [
+        "swbs-eksi-kardas:population",
+        "swbs-eksi-kardas:finding",
+        "swbs-eksi-kardas:limit"
+      ],
+      "sourceIds": [
+        "s-swbs-eksi-kardas"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-eksi-kardas",
+      "locale": "de",
+      "sourceLanguage": null,
+      "briefHash": "50b3f9f55f0d96ee532a8b0bfd650186f06c0564d7164a9f0c5d99c4538531d3",
+      "editionHash": "77fff2015a185050c2bce4b4ce565b6890ad0cf656cc0913c1869bb086bbe2c0",
+      "claimIds": [
+        "swbs-eksi-kardas:population",
+        "swbs-eksi-kardas:finding",
+        "swbs-eksi-kardas:limit"
+      ],
+      "sourceIds": [
+        "s-swbs-eksi-kardas"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-eksi-kardas",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "briefHash": "50b3f9f55f0d96ee532a8b0bfd650186f06c0564d7164a9f0c5d99c4538531d3",
+      "editionHash": "18af1b9dca9b26967b8da14b7c3a06cd43bc843d80971e8e2a5c2be018bdf6e0",
+      "claimIds": [
+        "swbs-eksi-kardas:population",
+        "swbs-eksi-kardas:finding",
+        "swbs-eksi-kardas:limit"
+      ],
+      "sourceIds": [
+        "s-swbs-eksi-kardas"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-eksi-kardas",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "briefHash": "50b3f9f55f0d96ee532a8b0bfd650186f06c0564d7164a9f0c5d99c4538531d3",
+      "editionHash": "7bb7dd1b5dd77d4ebc5904fa5328afadf4cf7a87170549c378dd9f1dee004653",
+      "claimIds": [
+        "swbs-eksi-kardas:population",
+        "swbs-eksi-kardas:finding",
+        "swbs-eksi-kardas:limit"
+      ],
+      "sourceIds": [
+        "s-swbs-eksi-kardas"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-eksi-kardas",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "briefHash": "50b3f9f55f0d96ee532a8b0bfd650186f06c0564d7164a9f0c5d99c4538531d3",
+      "editionHash": "516a90124b3bcd4c3ce046f890992a202f9f13820473b658fb3e39493c66842c",
+      "claimIds": [
+        "swbs-eksi-kardas:population",
+        "swbs-eksi-kardas:finding",
+        "swbs-eksi-kardas:limit"
+      ],
+      "sourceIds": [
+        "s-swbs-eksi-kardas"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-eksi-kardas",
+      "locale": "id",
+      "sourceLanguage": null,
+      "briefHash": "50b3f9f55f0d96ee532a8b0bfd650186f06c0564d7164a9f0c5d99c4538531d3",
+      "editionHash": "346df17996e00e14e43caf64927ac5a46c7ce78cda967ccd9c3da5f845c1934f",
+      "claimIds": [
+        "swbs-eksi-kardas:population",
+        "swbs-eksi-kardas:finding",
+        "swbs-eksi-kardas:limit"
+      ],
+      "sourceIds": [
+        "s-swbs-eksi-kardas"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-eksi-kardas",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "briefHash": "50b3f9f55f0d96ee532a8b0bfd650186f06c0564d7164a9f0c5d99c4538531d3",
+      "editionHash": "30c20b787c1a7dbb079370fe6846b7da1217dba1feedeeeaf833b9435f20b2e5",
+      "claimIds": [
+        "swbs-eksi-kardas:population",
+        "swbs-eksi-kardas:finding",
+        "swbs-eksi-kardas:limit"
+      ],
+      "sourceIds": [
+        "s-swbs-eksi-kardas"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-paloutzian-ellison",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "briefHash": "eba8530a3a7e31e801191c765181b820d66d94603557a9995ded27d1fdf8c1fb",
+      "editionHash": "8513a745fce6350b9ab527ac0e6c4291bdfebc8c8b1e02f2417fbb2057411df3",
+      "claimIds": [
+        "swbs-paloutzian-ellison:population",
+        "swbs-paloutzian-ellison:finding",
+        "swbs-paloutzian-ellison:limit"
+      ],
+      "sourceIds": [
+        "s-swbs-paloutzian-ellison"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-paloutzian-ellison",
+      "locale": "en",
+      "sourceLanguage": null,
+      "briefHash": "eba8530a3a7e31e801191c765181b820d66d94603557a9995ded27d1fdf8c1fb",
+      "editionHash": "6df26c024dc544489c8ee239099e679b5a2fc4059707c5cfe1ef338ea01cd0fe",
+      "claimIds": [
+        "swbs-paloutzian-ellison:population",
+        "swbs-paloutzian-ellison:finding",
+        "swbs-paloutzian-ellison:limit"
+      ],
+      "sourceIds": [
+        "s-swbs-paloutzian-ellison"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-paloutzian-ellison",
+      "locale": "de",
+      "sourceLanguage": null,
+      "briefHash": "eba8530a3a7e31e801191c765181b820d66d94603557a9995ded27d1fdf8c1fb",
+      "editionHash": "8f29edd0d1a670565a191d4d14e12068ceda7c8ee1363a6c2675abd041e8e899",
+      "claimIds": [
+        "swbs-paloutzian-ellison:population",
+        "swbs-paloutzian-ellison:finding",
+        "swbs-paloutzian-ellison:limit"
+      ],
+      "sourceIds": [
+        "s-swbs-paloutzian-ellison"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-paloutzian-ellison",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "briefHash": "eba8530a3a7e31e801191c765181b820d66d94603557a9995ded27d1fdf8c1fb",
+      "editionHash": "419f7e12539fac0247e2ef0a16ade5119991c23653e905a3de7f11c31b11be07",
+      "claimIds": [
+        "swbs-paloutzian-ellison:population",
+        "swbs-paloutzian-ellison:finding",
+        "swbs-paloutzian-ellison:limit"
+      ],
+      "sourceIds": [
+        "s-swbs-paloutzian-ellison"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-paloutzian-ellison",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "briefHash": "eba8530a3a7e31e801191c765181b820d66d94603557a9995ded27d1fdf8c1fb",
+      "editionHash": "b428fd8f5bd0652b3464c384ecd8498ff17c94049a63ce711757a9ee14f4eede",
+      "claimIds": [
+        "swbs-paloutzian-ellison:population",
+        "swbs-paloutzian-ellison:finding",
+        "swbs-paloutzian-ellison:limit"
+      ],
+      "sourceIds": [
+        "s-swbs-paloutzian-ellison"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-paloutzian-ellison",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "briefHash": "eba8530a3a7e31e801191c765181b820d66d94603557a9995ded27d1fdf8c1fb",
+      "editionHash": "05f8076d02e0e083fb33cc427f3687328d235116e7a841e64ce766a0c123ccbb",
+      "claimIds": [
+        "swbs-paloutzian-ellison:population",
+        "swbs-paloutzian-ellison:finding",
+        "swbs-paloutzian-ellison:limit"
+      ],
+      "sourceIds": [
+        "s-swbs-paloutzian-ellison"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-paloutzian-ellison",
+      "locale": "id",
+      "sourceLanguage": null,
+      "briefHash": "eba8530a3a7e31e801191c765181b820d66d94603557a9995ded27d1fdf8c1fb",
+      "editionHash": "1001ee3f25f8a75825eb603b7911027fecb67829cb43bc3f503f1e0719731b45",
+      "claimIds": [
+        "swbs-paloutzian-ellison:population",
+        "swbs-paloutzian-ellison:finding",
+        "swbs-paloutzian-ellison:limit"
+      ],
+      "sourceIds": [
+        "s-swbs-paloutzian-ellison"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "swbs-paloutzian-ellison",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "briefHash": "eba8530a3a7e31e801191c765181b820d66d94603557a9995ded27d1fdf8c1fb",
+      "editionHash": "04c39179dd84aa12a3c3b7cc717e7501df71337af056a7d34a28011081aeda6a",
+      "claimIds": [
+        "swbs-paloutzian-ellison:population",
+        "swbs-paloutzian-ellison:finding",
+        "swbs-paloutzian-ellison:limit"
+      ],
+      "sourceIds": [
+        "s-swbs-paloutzian-ellison"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "within-person-attendance",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "briefHash": "4abb5b8b2b052b542e62e728ee47c75b189abcc55e9ff7ecaaca9b9b30e4bbe0",
+      "editionHash": "ad2fe2e2e7de244768a7136b9be1ef79b9c81ae32a23cbf3f1d82aa492d9b6d7",
+      "claimIds": [
+        "within-person-attendance:population",
+        "within-person-attendance:finding",
+        "within-person-attendance:limit"
+      ],
+      "sourceIds": [
+        "s-within-person-attendance"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "within-person-attendance",
+      "locale": "en",
+      "sourceLanguage": null,
+      "briefHash": "4abb5b8b2b052b542e62e728ee47c75b189abcc55e9ff7ecaaca9b9b30e4bbe0",
+      "editionHash": "fd83f18b0eb4c2f9b147e939bd04c344b0d0b94cac3caa79622485fb3413529b",
+      "claimIds": [
+        "within-person-attendance:population",
+        "within-person-attendance:finding",
+        "within-person-attendance:limit"
+      ],
+      "sourceIds": [
+        "s-within-person-attendance"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "within-person-attendance",
+      "locale": "de",
+      "sourceLanguage": null,
+      "briefHash": "4abb5b8b2b052b542e62e728ee47c75b189abcc55e9ff7ecaaca9b9b30e4bbe0",
+      "editionHash": "37613af2a132094a098679561e73d0d8364df24a8d56deba16a1d56c0392d40c",
+      "claimIds": [
+        "within-person-attendance:population",
+        "within-person-attendance:finding",
+        "within-person-attendance:limit"
+      ],
+      "sourceIds": [
+        "s-within-person-attendance"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "within-person-attendance",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "briefHash": "4abb5b8b2b052b542e62e728ee47c75b189abcc55e9ff7ecaaca9b9b30e4bbe0",
+      "editionHash": "d73520ab9929ff4db3f9270887beb7d3c70af27bcb49547c37e88efd55ab3a53",
+      "claimIds": [
+        "within-person-attendance:population",
+        "within-person-attendance:finding",
+        "within-person-attendance:limit"
+      ],
+      "sourceIds": [
+        "s-within-person-attendance"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "within-person-attendance",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "briefHash": "4abb5b8b2b052b542e62e728ee47c75b189abcc55e9ff7ecaaca9b9b30e4bbe0",
+      "editionHash": "82e8e1189e832f4f72d5464f3c9ca06db21fd7b040005527ff3de867160ad71c",
+      "claimIds": [
+        "within-person-attendance:population",
+        "within-person-attendance:finding",
+        "within-person-attendance:limit"
+      ],
+      "sourceIds": [
+        "s-within-person-attendance"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "within-person-attendance",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "briefHash": "4abb5b8b2b052b542e62e728ee47c75b189abcc55e9ff7ecaaca9b9b30e4bbe0",
+      "editionHash": "e6dc35c8572b0631ea37372fd0f2509c03dd46f0d271380f04a6aa730fe04443",
+      "claimIds": [
+        "within-person-attendance:population",
+        "within-person-attendance:finding",
+        "within-person-attendance:limit"
+      ],
+      "sourceIds": [
+        "s-within-person-attendance"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "within-person-attendance",
+      "locale": "id",
+      "sourceLanguage": null,
+      "briefHash": "4abb5b8b2b052b542e62e728ee47c75b189abcc55e9ff7ecaaca9b9b30e4bbe0",
+      "editionHash": "403a29c5dfaf9c9304aec70b6a6e96b051e60d25eef538d98466fee08d98d64e",
+      "claimIds": [
+        "within-person-attendance:population",
+        "within-person-attendance:finding",
+        "within-person-attendance:limit"
+      ],
+      "sourceIds": [
+        "s-within-person-attendance"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "within-person-attendance",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "briefHash": "4abb5b8b2b052b542e62e728ee47c75b189abcc55e9ff7ecaaca9b9b30e4bbe0",
+      "editionHash": "4af6b7922c9829f23b08eaaa9d8a5dd3900ad74036a67b95972a8b8048f41787",
+      "claimIds": [
+        "within-person-attendance:population",
+        "within-person-attendance:finding",
+        "within-person-attendance:limit"
+      ],
+      "sourceIds": [
+        "s-within-person-attendance"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "bidirectional-alspac",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "briefHash": "d2ddb083a3c400d5d271e6933c0a7e01b10bb7089c71a0b2fa1b8dfcbffdf086",
+      "editionHash": "3d9f69d03a8d60c7676538d07b13ad5bef4650be5f62c094b0fa96f6b6d88332",
+      "claimIds": [
+        "bidirectional-alspac:population",
+        "bidirectional-alspac:finding",
+        "bidirectional-alspac:limit"
+      ],
+      "sourceIds": [
+        "s-bidirectional-alspac"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "bidirectional-alspac",
+      "locale": "en",
+      "sourceLanguage": null,
+      "briefHash": "d2ddb083a3c400d5d271e6933c0a7e01b10bb7089c71a0b2fa1b8dfcbffdf086",
+      "editionHash": "dd04299be24603af62e92f7980fcf590b1b18a0c34f72d710a0aff11515b833b",
+      "claimIds": [
+        "bidirectional-alspac:population",
+        "bidirectional-alspac:finding",
+        "bidirectional-alspac:limit"
+      ],
+      "sourceIds": [
+        "s-bidirectional-alspac"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "bidirectional-alspac",
+      "locale": "de",
+      "sourceLanguage": null,
+      "briefHash": "d2ddb083a3c400d5d271e6933c0a7e01b10bb7089c71a0b2fa1b8dfcbffdf086",
+      "editionHash": "5f7b2df998738c32d018476bd6f971e068e9f54f37b7de364f373c470c6946ac",
+      "claimIds": [
+        "bidirectional-alspac:population",
+        "bidirectional-alspac:finding",
+        "bidirectional-alspac:limit"
+      ],
+      "sourceIds": [
+        "s-bidirectional-alspac"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "bidirectional-alspac",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "briefHash": "d2ddb083a3c400d5d271e6933c0a7e01b10bb7089c71a0b2fa1b8dfcbffdf086",
+      "editionHash": "c137fb67866a9b3a415c681110df357381eb05b7fb54c97ebdee24810bc889b8",
+      "claimIds": [
+        "bidirectional-alspac:population",
+        "bidirectional-alspac:finding",
+        "bidirectional-alspac:limit"
+      ],
+      "sourceIds": [
+        "s-bidirectional-alspac"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "bidirectional-alspac",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "briefHash": "d2ddb083a3c400d5d271e6933c0a7e01b10bb7089c71a0b2fa1b8dfcbffdf086",
+      "editionHash": "490ba197d1a77dec1c0c8b4402b7cce29707d56977c455a07f6b558a6ab4324e",
+      "claimIds": [
+        "bidirectional-alspac:population",
+        "bidirectional-alspac:finding",
+        "bidirectional-alspac:limit"
+      ],
+      "sourceIds": [
+        "s-bidirectional-alspac"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "bidirectional-alspac",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "briefHash": "d2ddb083a3c400d5d271e6933c0a7e01b10bb7089c71a0b2fa1b8dfcbffdf086",
+      "editionHash": "9d306c40b7605604f9f323f5f9354fdd6e39c784bcdad0a98db16f4be9273acc",
+      "claimIds": [
+        "bidirectional-alspac:population",
+        "bidirectional-alspac:finding",
+        "bidirectional-alspac:limit"
+      ],
+      "sourceIds": [
+        "s-bidirectional-alspac"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "bidirectional-alspac",
+      "locale": "id",
+      "sourceLanguage": null,
+      "briefHash": "d2ddb083a3c400d5d271e6933c0a7e01b10bb7089c71a0b2fa1b8dfcbffdf086",
+      "editionHash": "dee3a85d19f344eba7060ce25df1f8a296f5fb5d10796f1390e6682ea3336ffb",
+      "claimIds": [
+        "bidirectional-alspac:population",
+        "bidirectional-alspac:finding",
+        "bidirectional-alspac:limit"
+      ],
+      "sourceIds": [
+        "s-bidirectional-alspac"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "bidirectional-alspac",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "briefHash": "d2ddb083a3c400d5d271e6933c0a7e01b10bb7089c71a0b2fa1b8dfcbffdf086",
+      "editionHash": "2e7347b78233ab9109fa42da1aa60ebc9a5b3f6f5badb05af6d5fdbf2dde0369",
+      "claimIds": [
+        "bidirectional-alspac:population",
+        "bidirectional-alspac:finding",
+        "bidirectional-alspac:limit"
+      ],
+      "sourceIds": [
+        "s-bidirectional-alspac"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brazil-medical-students",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "briefHash": "8925f323136bc259c718ca971b31b8f48ce86b5595ec3983ea31e9badc976146",
+      "editionHash": "722219afe6c41a305f58e0406c34ebe61e5114b9fc525328aff34479e514415a",
+      "claimIds": [
+        "brazil-medical-students:population",
+        "brazil-medical-students:finding",
+        "brazil-medical-students:limit"
+      ],
+      "sourceIds": [
+        "s-brazil-medical-students"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brazil-medical-students",
+      "locale": "en",
+      "sourceLanguage": null,
+      "briefHash": "8925f323136bc259c718ca971b31b8f48ce86b5595ec3983ea31e9badc976146",
+      "editionHash": "3dea48ad7d6946bd28535e29bd1059900cfa415642d3b65037d49d84eaf75bf7",
+      "claimIds": [
+        "brazil-medical-students:population",
+        "brazil-medical-students:finding",
+        "brazil-medical-students:limit"
+      ],
+      "sourceIds": [
+        "s-brazil-medical-students"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brazil-medical-students",
+      "locale": "de",
+      "sourceLanguage": null,
+      "briefHash": "8925f323136bc259c718ca971b31b8f48ce86b5595ec3983ea31e9badc976146",
+      "editionHash": "474bc2f2a3aa7ac560444dd456c068f73f2bdd12f29d68af81fcd6ea50f4ee47",
+      "claimIds": [
+        "brazil-medical-students:population",
+        "brazil-medical-students:finding",
+        "brazil-medical-students:limit"
+      ],
+      "sourceIds": [
+        "s-brazil-medical-students"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brazil-medical-students",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "briefHash": "8925f323136bc259c718ca971b31b8f48ce86b5595ec3983ea31e9badc976146",
+      "editionHash": "d6dec1fe0ec722d6ba899151ba8b572e6c61d5bda2e49b8de9a709f472cd4358",
+      "claimIds": [
+        "brazil-medical-students:population",
+        "brazil-medical-students:finding",
+        "brazil-medical-students:limit"
+      ],
+      "sourceIds": [
+        "s-brazil-medical-students"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brazil-medical-students",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "briefHash": "8925f323136bc259c718ca971b31b8f48ce86b5595ec3983ea31e9badc976146",
+      "editionHash": "b678de672cd848515a9f1dc4a48e146f3743b58e9da7d0f3004f264e2d3d0572",
+      "claimIds": [
+        "brazil-medical-students:population",
+        "brazil-medical-students:finding",
+        "brazil-medical-students:limit"
+      ],
+      "sourceIds": [
+        "s-brazil-medical-students"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brazil-medical-students",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "briefHash": "8925f323136bc259c718ca971b31b8f48ce86b5595ec3983ea31e9badc976146",
+      "editionHash": "2dac9f1491ba7017470842b24b356341289813d7dc58806ccde92087c598c692",
+      "claimIds": [
+        "brazil-medical-students:population",
+        "brazil-medical-students:finding",
+        "brazil-medical-students:limit"
+      ],
+      "sourceIds": [
+        "s-brazil-medical-students"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brazil-medical-students",
+      "locale": "id",
+      "sourceLanguage": null,
+      "briefHash": "8925f323136bc259c718ca971b31b8f48ce86b5595ec3983ea31e9badc976146",
+      "editionHash": "8c14f551ca4d0d27d58db33a77c36a96fc9f7fe9a5fe5c96793da2bf2fa4f3cc",
+      "claimIds": [
+        "brazil-medical-students:population",
+        "brazil-medical-students:finding",
+        "brazil-medical-students:limit"
+      ],
+      "sourceIds": [
+        "s-brazil-medical-students"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "brazil-medical-students",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "briefHash": "8925f323136bc259c718ca971b31b8f48ce86b5595ec3983ea31e9badc976146",
+      "editionHash": "27e2f4f39bf8e48698803e8b448f801526ae48309fb16a2bff9961bf11ae535a",
+      "claimIds": [
+        "brazil-medical-students:population",
+        "brazil-medical-students:finding",
+        "brazil-medical-students:limit"
+      ],
+      "sourceIds": [
+        "s-brazil-medical-students"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "turkish-bereavement",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "briefHash": "66170ff885fc293c463f742ca49dee2a928cd4410bc781fc49cded808d0fd45f",
+      "editionHash": "d2c6224e6d5cfb6cba77819ef0f231fbd145f855502bde514b5b20b4c5bf7f7a",
+      "claimIds": [
+        "turkish-bereavement:population",
+        "turkish-bereavement:finding",
+        "turkish-bereavement:limit"
+      ],
+      "sourceIds": [
+        "s-turkish-bereavement"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "turkish-bereavement",
+      "locale": "en",
+      "sourceLanguage": null,
+      "briefHash": "66170ff885fc293c463f742ca49dee2a928cd4410bc781fc49cded808d0fd45f",
+      "editionHash": "2bc8caa27061da041bf1bb21efeddc8adfeb00b8fd26d6b810f0990d422ee538",
+      "claimIds": [
+        "turkish-bereavement:population",
+        "turkish-bereavement:finding",
+        "turkish-bereavement:limit"
+      ],
+      "sourceIds": [
+        "s-turkish-bereavement"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "turkish-bereavement",
+      "locale": "de",
+      "sourceLanguage": null,
+      "briefHash": "66170ff885fc293c463f742ca49dee2a928cd4410bc781fc49cded808d0fd45f",
+      "editionHash": "62756f40562237afd61dfc878eaf005e86c5df65c34ad6a3920e996d69932208",
+      "claimIds": [
+        "turkish-bereavement:population",
+        "turkish-bereavement:finding",
+        "turkish-bereavement:limit"
+      ],
+      "sourceIds": [
+        "s-turkish-bereavement"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "turkish-bereavement",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "briefHash": "66170ff885fc293c463f742ca49dee2a928cd4410bc781fc49cded808d0fd45f",
+      "editionHash": "29bd35f126d021da00ece0819b4a38ea424051434c40a21e345dda3fb028d5b6",
+      "claimIds": [
+        "turkish-bereavement:population",
+        "turkish-bereavement:finding",
+        "turkish-bereavement:limit"
+      ],
+      "sourceIds": [
+        "s-turkish-bereavement"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "turkish-bereavement",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "briefHash": "66170ff885fc293c463f742ca49dee2a928cd4410bc781fc49cded808d0fd45f",
+      "editionHash": "1d0c9ce36952cb58312737986840534c089280c2e93ea1d7abc83ae8c473e6a5",
+      "claimIds": [
+        "turkish-bereavement:population",
+        "turkish-bereavement:finding",
+        "turkish-bereavement:limit"
+      ],
+      "sourceIds": [
+        "s-turkish-bereavement"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "turkish-bereavement",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "briefHash": "66170ff885fc293c463f742ca49dee2a928cd4410bc781fc49cded808d0fd45f",
+      "editionHash": "b594d1260dc94b11971db260ca224fd5b3ef4d163a874fa433e3d288a9958d2d",
+      "claimIds": [
+        "turkish-bereavement:population",
+        "turkish-bereavement:finding",
+        "turkish-bereavement:limit"
+      ],
+      "sourceIds": [
+        "s-turkish-bereavement"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "turkish-bereavement",
+      "locale": "id",
+      "sourceLanguage": null,
+      "briefHash": "66170ff885fc293c463f742ca49dee2a928cd4410bc781fc49cded808d0fd45f",
+      "editionHash": "f1e19653269e02d04e2d3a9ae80c12cfe33131a550bbd247c45d7609ee049dcd",
+      "claimIds": [
+        "turkish-bereavement:population",
+        "turkish-bereavement:finding",
+        "turkish-bereavement:limit"
+      ],
+      "sourceIds": [
+        "s-turkish-bereavement"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "turkish-bereavement",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "briefHash": "66170ff885fc293c463f742ca49dee2a928cd4410bc781fc49cded808d0fd45f",
+      "editionHash": "4f3c494255bf36e0196d8e545e348e78f555b873f7cf476600bd7c70d9e61ca7",
+      "claimIds": [
+        "turkish-bereavement:population",
+        "turkish-bereavement:finding",
+        "turkish-bereavement:limit"
+      ],
+      "sourceIds": [
+        "s-turkish-bereavement"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "psychosis-spirituality",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "briefHash": "b711e860cd72d54f5c6d3f5ae8b7ca16901034532e4379f9f5bcdf5b66c91921",
+      "editionHash": "e8b9282ea3e8dc08c0a76d6dc6888a2746ab97e3ff63e5b1880575036c4f958b",
+      "claimIds": [
+        "psychosis-spirituality:population",
+        "psychosis-spirituality:finding",
+        "psychosis-spirituality:limit"
+      ],
+      "sourceIds": [
+        "s-psychosis-spirituality"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "psychosis-spirituality",
+      "locale": "en",
+      "sourceLanguage": null,
+      "briefHash": "b711e860cd72d54f5c6d3f5ae8b7ca16901034532e4379f9f5bcdf5b66c91921",
+      "editionHash": "f5953e51b8a6203a7df4ce8c4abba474dbef287c5a2feefd38d29b4fe4eda835",
+      "claimIds": [
+        "psychosis-spirituality:population",
+        "psychosis-spirituality:finding",
+        "psychosis-spirituality:limit"
+      ],
+      "sourceIds": [
+        "s-psychosis-spirituality"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "psychosis-spirituality",
+      "locale": "de",
+      "sourceLanguage": null,
+      "briefHash": "b711e860cd72d54f5c6d3f5ae8b7ca16901034532e4379f9f5bcdf5b66c91921",
+      "editionHash": "cf80d4db23fb5f77ab9ca7d0a4fee3cd7c65c2637e73536fa2c11abb76437323",
+      "claimIds": [
+        "psychosis-spirituality:population",
+        "psychosis-spirituality:finding",
+        "psychosis-spirituality:limit"
+      ],
+      "sourceIds": [
+        "s-psychosis-spirituality"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "psychosis-spirituality",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "briefHash": "b711e860cd72d54f5c6d3f5ae8b7ca16901034532e4379f9f5bcdf5b66c91921",
+      "editionHash": "a024478a53b70dfba4340202ddb5521a03dfa860143a363d756061ff7a23c01a",
+      "claimIds": [
+        "psychosis-spirituality:population",
+        "psychosis-spirituality:finding",
+        "psychosis-spirituality:limit"
+      ],
+      "sourceIds": [
+        "s-psychosis-spirituality"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "psychosis-spirituality",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "briefHash": "b711e860cd72d54f5c6d3f5ae8b7ca16901034532e4379f9f5bcdf5b66c91921",
+      "editionHash": "d94cdb8f5977c6cbb70a4e8b0aae1acf212055d7df16a41794a18b8b3c39c81d",
+      "claimIds": [
+        "psychosis-spirituality:population",
+        "psychosis-spirituality:finding",
+        "psychosis-spirituality:limit"
+      ],
+      "sourceIds": [
+        "s-psychosis-spirituality"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "psychosis-spirituality",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "briefHash": "b711e860cd72d54f5c6d3f5ae8b7ca16901034532e4379f9f5bcdf5b66c91921",
+      "editionHash": "bc5fecace85109bc5351055665402bc6411058e5e60046804a8f832142691722",
+      "claimIds": [
+        "psychosis-spirituality:population",
+        "psychosis-spirituality:finding",
+        "psychosis-spirituality:limit"
+      ],
+      "sourceIds": [
+        "s-psychosis-spirituality"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "psychosis-spirituality",
+      "locale": "id",
+      "sourceLanguage": null,
+      "briefHash": "b711e860cd72d54f5c6d3f5ae8b7ca16901034532e4379f9f5bcdf5b66c91921",
+      "editionHash": "84970c1b1a6114bb1e2740f61e1c38130c84ae2a8ab6130c87c1e5e8aef1b248",
+      "claimIds": [
+        "psychosis-spirituality:population",
+        "psychosis-spirituality:finding",
+        "psychosis-spirituality:limit"
+      ],
+      "sourceIds": [
+        "s-psychosis-spirituality"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "psychosis-spirituality",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "briefHash": "b711e860cd72d54f5c6d3f5ae8b7ca16901034532e4379f9f5bcdf5b66c91921",
+      "editionHash": "9c7226e2e765315893e862dbe5b2965660a715043d930646a360d661fb98f0fa",
+      "claimIds": [
+        "psychosis-spirituality:population",
+        "psychosis-spirituality:finding",
+        "psychosis-spirituality:limit"
+      ],
+      "sourceIds": [
+        "s-psychosis-spirituality"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "clergy-abuse-harm",
+      "locale": "tr",
+      "sourceLanguage": null,
+      "briefHash": "ce09a9b711cf2d59028adc0d5e45fafd780da88b81e65f67b5522e1e9330e8da",
+      "editionHash": "06ddc4bdc781299e6ad531429fa97c26405c4f2814fafe396286cf8ce2119c18",
+      "claimIds": [
+        "clergy-abuse-harm:population",
+        "clergy-abuse-harm:finding",
+        "clergy-abuse-harm:limit"
+      ],
+      "sourceIds": [
+        "s-clergy-abuse-harm"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "clergy-abuse-harm",
+      "locale": "en",
+      "sourceLanguage": null,
+      "briefHash": "ce09a9b711cf2d59028adc0d5e45fafd780da88b81e65f67b5522e1e9330e8da",
+      "editionHash": "8bffe48b81a8d9dea7832f87a59e4fc0239ab167dda63187cb1e5e1f76de060b",
+      "claimIds": [
+        "clergy-abuse-harm:population",
+        "clergy-abuse-harm:finding",
+        "clergy-abuse-harm:limit"
+      ],
+      "sourceIds": [
+        "s-clergy-abuse-harm"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "clergy-abuse-harm",
+      "locale": "de",
+      "sourceLanguage": null,
+      "briefHash": "ce09a9b711cf2d59028adc0d5e45fafd780da88b81e65f67b5522e1e9330e8da",
+      "editionHash": "656e3510b318bb2f3f686047b070b5726403c3eab0c602aff68a19d34b74c2c6",
+      "claimIds": [
+        "clergy-abuse-harm:population",
+        "clergy-abuse-harm:finding",
+        "clergy-abuse-harm:limit"
+      ],
+      "sourceIds": [
+        "s-clergy-abuse-harm"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "clergy-abuse-harm",
+      "locale": "zh",
+      "sourceLanguage": null,
+      "briefHash": "ce09a9b711cf2d59028adc0d5e45fafd780da88b81e65f67b5522e1e9330e8da",
+      "editionHash": "0dbb1a461bb40a1c07efd618a2518d873cc31c0d09c16db42be7fc02035da9c6",
+      "claimIds": [
+        "clergy-abuse-harm:population",
+        "clergy-abuse-harm:finding",
+        "clergy-abuse-harm:limit"
+      ],
+      "sourceIds": [
+        "s-clergy-abuse-harm"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "clergy-abuse-harm",
+      "locale": "ru",
+      "sourceLanguage": null,
+      "briefHash": "ce09a9b711cf2d59028adc0d5e45fafd780da88b81e65f67b5522e1e9330e8da",
+      "editionHash": "dfa4972efb6e771dcb562b34a12077544f788de39c2c33ae066bed78eddb08d7",
+      "claimIds": [
+        "clergy-abuse-harm:population",
+        "clergy-abuse-harm:finding",
+        "clergy-abuse-harm:limit"
+      ],
+      "sourceIds": [
+        "s-clergy-abuse-harm"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "clergy-abuse-harm",
+      "locale": "ar",
+      "sourceLanguage": null,
+      "briefHash": "ce09a9b711cf2d59028adc0d5e45fafd780da88b81e65f67b5522e1e9330e8da",
+      "editionHash": "becdf5b1823ae41a5f1624270969a9b425e71d781d21ea58034a839d2f43fb3c",
+      "claimIds": [
+        "clergy-abuse-harm:population",
+        "clergy-abuse-harm:finding",
+        "clergy-abuse-harm:limit"
+      ],
+      "sourceIds": [
+        "s-clergy-abuse-harm"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "clergy-abuse-harm",
+      "locale": "id",
+      "sourceLanguage": null,
+      "briefHash": "ce09a9b711cf2d59028adc0d5e45fafd780da88b81e65f67b5522e1e9330e8da",
+      "editionHash": "3889e52aaf62f08003087ddcba4784a3592ea1869eda76fac7bf956db95e0bab",
+      "claimIds": [
+        "clergy-abuse-harm:population",
+        "clergy-abuse-harm:finding",
+        "clergy-abuse-harm:limit"
+      ],
+      "sourceIds": [
+        "s-clergy-abuse-harm"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    },
+    {
+      "id": "clergy-abuse-harm",
+      "locale": "ms",
+      "sourceLanguage": null,
+      "briefHash": "ce09a9b711cf2d59028adc0d5e45fafd780da88b81e65f67b5522e1e9330e8da",
+      "editionHash": "811f11928528d744211738984c9e0afcaabc1f82de38f690d0a8a326cfd5bfd1",
+      "claimIds": [
+        "clergy-abuse-harm:population",
+        "clergy-abuse-harm:finding",
+        "clergy-abuse-harm:limit"
+      ],
+      "sourceIds": [
+        "s-clergy-abuse-harm"
+      ],
+      "status": "AI_ASSISTED_DRAFT",
+      "humanReviewed": false,
+      "scientificApproval": false
+    }
+  ]
+}

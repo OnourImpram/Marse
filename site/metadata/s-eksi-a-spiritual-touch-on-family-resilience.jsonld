@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.37898/spc.2023.8.1.185",
+  "name": "A Spiritual Touch on Family Resilience: A Positive Psychology Based Group Study From Burnout To Hope",
+  "datePublished": "2023-02-15",
+  "identifier": [
+    "https://doi.org/10.37898/spc.2023.8.1.185"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Halil Ekşi"
+    },
+    {
+      "@type": "Person",
+      "name": "Deniz Erök Özkapu"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Spiritual Psychology and Counseling"
+  },
+  "url": "https://doi.org/10.37898/spc.2023.8.1.185"
+}

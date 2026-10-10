@@ -1,0 +1,476 @@
+{
+  "schemaVersion": 1,
+  "release": "marsam-finished-centre-0.12.0",
+  "version": "0.12.0",
+  "generatedAt": "2026-10-10T12:56:53.446Z",
+  "publicationState": "institutional-review",
+  "reviewStatus": "AI_ASSISTED_DRAFT",
+  "humanReviewed": false,
+  "scientificApproval": false,
+  "humanLanguageApproval": false,
+  "formalInstitutionalApproval": false,
+  "records": [
+    {
+      "id": "rss-ff-tr",
+      "family": "religious-spiritual-struggles",
+      "sourceId": "s-rss-ff-tr",
+      "title": "RSS-FF Türkiye · 22",
+      "status": "adaptation",
+      "language": "tr",
+      "construct": "religious and spiritual struggles",
+      "properties": [
+        "CFA",
+        "internal consistency",
+        "convergent/divergent validity"
+      ],
+      "invariance": "not reported in inspected abstract",
+      "rights": "link-only; item text not republished",
+      "form": "five-factor-22-item",
+      "itemCount": 22,
+      "measurementProperties": [
+        {
+          "property": "CFA",
+          "method": null,
+          "resultSummary": null,
+          "sourceId": "s-rss-ff-tr",
+          "appraisal": {
+            "framework": "COSMIN",
+            "status": "NOT_YET_APPRAISED"
+          }
+        },
+        {
+          "property": "internal consistency",
+          "method": null,
+          "resultSummary": null,
+          "sourceId": "s-rss-ff-tr",
+          "appraisal": {
+            "framework": "COSMIN",
+            "status": "NOT_YET_APPRAISED"
+          }
+        },
+        {
+          "property": "convergent/divergent validity",
+          "method": null,
+          "resultSummary": null,
+          "sourceId": "s-rss-ff-tr",
+          "appraisal": {
+            "framework": "COSMIN",
+            "status": "NOT_YET_APPRAISED"
+          }
+        }
+      ],
+      "rightsDetail": {
+        "itemReproduction": "NOT_CLEARED",
+        "scoringInstructions": "NOT_CLEARED",
+        "translationReuse": "NOT_CLEARED"
+      }
+    },
+    {
+      "id": "sprs",
+      "family": "spiritual-psychological-robustness",
+      "sourceId": "s-sprs",
+      "title": "SPRS",
+      "status": "development",
+      "language": "tr",
+      "construct": "spiritual psychological robustness",
+      "properties": [
+        "EFA",
+        "CFA",
+        "internal consistency",
+        "criterion validity"
+      ],
+      "invariance": "cross-cultural invariance not established",
+      "rights": "link-only; item text not republished",
+      "form": null,
+      "itemCount": null,
+      "measurementProperties": [
+        {
+          "property": "EFA",
+          "method": null,
+          "resultSummary": null,
+          "sourceId": "s-sprs",
+          "appraisal": {
+            "framework": "COSMIN",
+            "status": "NOT_YET_APPRAISED"
+          }
+        },
+        {
+          "property": "CFA",
+          "method": null,
+          "resultSummary": null,
+          "sourceId": "s-sprs",
+          "appraisal": {
+            "framework": "COSMIN",
+            "status": "NOT_YET_APPRAISED"
+          }
+        },
+        {
+          "property": "internal consistency",
+          "method": null,
+          "resultSummary": null,
+          "sourceId": "s-sprs",
+          "appraisal": {
+            "framework": "COSMIN",
+            "status": "NOT_YET_APPRAISED"
+          }
+        },
+        {
+          "property": "criterion validity",
+          "method": null,
+          "resultSummary": null,
+          "sourceId": "s-sprs",
+          "appraisal": {
+            "framework": "COSMIN",
+            "status": "NOT_YET_APPRAISED"
+          }
+        }
+      ],
+      "rightsDetail": {
+        "itemReproduction": "NOT_CLEARED",
+        "scoringInstructions": "NOT_CLEARED",
+        "translationReuse": "NOT_CLEARED"
+      }
+    },
+    {
+      "id": "sefc",
+      "family": "spiritual-empathy-fatigue",
+      "sourceId": "s-sefc",
+      "title": "SEFC",
+      "status": "development",
+      "language": "tr",
+      "construct": "spiritual empathy fatigue",
+      "properties": [
+        "EFA",
+        "CFA",
+        "internal consistency",
+        "test-retest"
+      ],
+      "invariance": "not established",
+      "rights": "link-only; item text not republished",
+      "form": null,
+      "itemCount": null,
+      "measurementProperties": [
+        {
+          "property": "EFA",
+          "method": null,
+          "resultSummary": null,
+          "sourceId": "s-sefc",
+          "appraisal": {
+            "framework": "COSMIN",
+            "status": "NOT_YET_APPRAISED"
+          }
+        },
+        {
+          "property": "CFA",
+          "method": null,
+          "resultSummary": null,
+          "sourceId": "s-sefc",
+          "appraisal": {
+            "framework": "COSMIN",
+            "status": "NOT_YET_APPRAISED"
+          }
+        },
+        {
+          "property": "internal consistency",
+          "method": null,
+          "resultSummary": null,
+          "sourceId": "s-sefc",
+          "appraisal": {
+            "framework": "COSMIN",
+            "status": "NOT_YET_APPRAISED"
+          }
+        },
+        {
+          "property": "test-retest",
+          "method": null,
+          "resultSummary": null,
+          "sourceId": "s-sefc",
+          "appraisal": {
+            "framework": "COSMIN",
+            "status": "NOT_YET_APPRAISED"
+          }
+        }
+      ],
+      "rightsDetail": {
+        "itemReproduction": "NOT_CLEARED",
+        "scoringInstructions": "NOT_CLEARED",
+        "translationReuse": "NOT_CLEARED"
+      }
+    },
+    {
+      "id": "swbs-eksi-kardas",
+      "family": "spiritual-wellbeing-eksi-kardas",
+      "sourceId": "s-swbs-eksi-kardas",
+      "title": "SWBS · Ekşi & Kardaş · 29",
+      "status": "development",
+      "language": "tr",
+      "construct": "spiritual well-being",
+      "properties": [
+        "factor structure",
+        "internal consistency"
+      ],
+      "invariance": "see source record",
+      "rights": "permission must be checked before item reproduction",
+      "form": "eksi-kardas-29-item",
+      "itemCount": 29,
+      "measurementProperties": [
+        {
+          "property": "factor structure",
+          "method": null,
+          "resultSummary": null,
+          "sourceId": "s-swbs-eksi-kardas",
+          "appraisal": {
+            "framework": "COSMIN",
+            "status": "NOT_YET_APPRAISED"
+          }
+        },
+        {
+          "property": "internal consistency",
+          "method": null,
+          "resultSummary": null,
+          "sourceId": "s-swbs-eksi-kardas",
+          "appraisal": {
+            "framework": "COSMIN",
+            "status": "NOT_YET_APPRAISED"
+          }
+        }
+      ],
+      "rightsDetail": {
+        "itemReproduction": "NOT_CLEARED",
+        "scoringInstructions": "NOT_CLEARED",
+        "translationReuse": "NOT_CLEARED"
+      }
+    },
+    {
+      "id": "swbs-paloutzian-ellison",
+      "family": "spiritual-wellbeing-paloutzian-ellison",
+      "sourceId": "s-swbs-paloutzian-ellison",
+      "title": "SWBS · Paloutzian & Ellison · 20",
+      "status": "development",
+      "language": "en",
+      "construct": "spiritual well-being",
+      "properties": [
+        "original conceptualization and measurement"
+      ],
+      "invariance": "language and population specific evidence required",
+      "rights": "permission must be checked before item reproduction",
+      "form": "paloutzian-ellison-20-item",
+      "itemCount": 20,
+      "measurementProperties": [
+        {
+          "property": "original conceptualization and measurement",
+          "method": null,
+          "resultSummary": null,
+          "sourceId": "s-swbs-paloutzian-ellison",
+          "appraisal": {
+            "framework": "COSMIN",
+            "status": "NOT_YET_APPRAISED"
+          }
+        }
+      ],
+      "rightsDetail": {
+        "itemReproduction": "NOT_CLEARED",
+        "scoringInstructions": "NOT_CLEARED",
+        "translationReuse": "NOT_CLEARED"
+      }
+    },
+    {
+      "id": "icsg-2",
+      "family": "inventory-complicated-spiritual-grief",
+      "sourceId": "s-icsg-2",
+      "title": "ICSG 2.0 · 28",
+      "status": "validation",
+      "language": "en",
+      "construct": "complicated spiritual grief",
+      "properties": [
+        "factor structure",
+        "convergent validity",
+        "incremental validity"
+      ],
+      "invariance": "cross-language invariance not established by this record",
+      "rights": "link-only; item text not republished",
+      "form": "2.0",
+      "itemCount": 28,
+      "measurementProperties": [
+        {
+          "property": "factor structure",
+          "method": null,
+          "resultSummary": null,
+          "sourceId": "s-icsg-2",
+          "appraisal": {
+            "framework": "COSMIN",
+            "status": "NOT_YET_APPRAISED"
+          }
+        },
+        {
+          "property": "convergent validity",
+          "method": null,
+          "resultSummary": null,
+          "sourceId": "s-icsg-2",
+          "appraisal": {
+            "framework": "COSMIN",
+            "status": "NOT_YET_APPRAISED"
+          }
+        },
+        {
+          "property": "incremental validity",
+          "method": null,
+          "resultSummary": null,
+          "sourceId": "s-icsg-2",
+          "appraisal": {
+            "framework": "COSMIN",
+            "status": "NOT_YET_APPRAISED"
+          }
+        }
+      ],
+      "rightsDetail": {
+        "itemReproduction": "NOT_CLEARED",
+        "scoringInstructions": "NOT_CLEARED",
+        "translationReuse": "NOT_CLEARED"
+      }
+    },
+    {
+      "id": "icsg-2-fa",
+      "family": "inventory-complicated-spiritual-grief",
+      "sourceId": "s-icsg-2-fa",
+      "title": "ICSG 2.0 · Persian",
+      "status": "adaptation",
+      "language": "fa",
+      "construct": "complicated spiritual grief",
+      "properties": [
+        "CFA",
+        "internal consistency",
+        "test-retest",
+        "convergent/divergent validity"
+      ],
+      "invariance": "adaptation evidence does not establish cross-language invariance",
+      "rights": "link-only; item text not republished",
+      "form": "2.0-persian",
+      "itemCount": 28,
+      "measurementProperties": [
+        {
+          "property": "CFA",
+          "method": null,
+          "resultSummary": null,
+          "sourceId": "s-icsg-2-fa",
+          "appraisal": {
+            "framework": "COSMIN",
+            "status": "NOT_YET_APPRAISED"
+          }
+        },
+        {
+          "property": "internal consistency",
+          "method": null,
+          "resultSummary": null,
+          "sourceId": "s-icsg-2-fa",
+          "appraisal": {
+            "framework": "COSMIN",
+            "status": "NOT_YET_APPRAISED"
+          }
+        },
+        {
+          "property": "test-retest",
+          "method": null,
+          "resultSummary": null,
+          "sourceId": "s-icsg-2-fa",
+          "appraisal": {
+            "framework": "COSMIN",
+            "status": "NOT_YET_APPRAISED"
+          }
+        },
+        {
+          "property": "convergent/divergent validity",
+          "method": null,
+          "resultSummary": null,
+          "sourceId": "s-icsg-2-fa",
+          "appraisal": {
+            "framework": "COSMIN",
+            "status": "NOT_YET_APPRAISED"
+          }
+        }
+      ],
+      "rightsDetail": {
+        "itemReproduction": "NOT_CLEARED",
+        "scoringInstructions": "NOT_CLEARED",
+        "translationReuse": "NOT_CLEARED"
+      }
+    },
+    {
+      "id": "p-sds",
+      "family": "spiritual-distress-scale",
+      "sourceId": "s-p-sds",
+      "title": "P-SDS",
+      "status": "adaptation",
+      "language": "fa",
+      "construct": "spiritual distress",
+      "properties": [
+        "content validity",
+        "CFA",
+        "internal consistency",
+        "test-retest",
+        "concurrent validity"
+      ],
+      "invariance": "cross-language invariance not established by this record",
+      "rights": "link-only; item text not republished",
+      "form": "persian-adaptation",
+      "itemCount": null,
+      "measurementProperties": [
+        {
+          "property": "content validity",
+          "method": null,
+          "resultSummary": null,
+          "sourceId": "s-p-sds",
+          "appraisal": {
+            "framework": "COSMIN",
+            "status": "NOT_YET_APPRAISED"
+          }
+        },
+        {
+          "property": "CFA",
+          "method": null,
+          "resultSummary": null,
+          "sourceId": "s-p-sds",
+          "appraisal": {
+            "framework": "COSMIN",
+            "status": "NOT_YET_APPRAISED"
+          }
+        },
+        {
+          "property": "internal consistency",
+          "method": null,
+          "resultSummary": null,
+          "sourceId": "s-p-sds",
+          "appraisal": {
+            "framework": "COSMIN",
+            "status": "NOT_YET_APPRAISED"
+          }
+        },
+        {
+          "property": "test-retest",
+          "method": null,
+          "resultSummary": null,
+          "sourceId": "s-p-sds",
+          "appraisal": {
+            "framework": "COSMIN",
+            "status": "NOT_YET_APPRAISED"
+          }
+        },
+        {
+          "property": "concurrent validity",
+          "method": null,
+          "resultSummary": null,
+          "sourceId": "s-p-sds",
+          "appraisal": {
+            "framework": "COSMIN",
+            "status": "NOT_YET_APPRAISED"
+          }
+        }
+      ],
+      "rightsDetail": {
+        "itemReproduction": "NOT_CLEARED",
+        "scoringInstructions": "NOT_CLEARED",
+        "translationReuse": "NOT_CLEARED"
+      }
+    }
+  ]
+}

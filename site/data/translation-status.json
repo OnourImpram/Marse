@@ -1,0 +1,21 @@
+{
+  "locales": [
+    "tr",
+    "en",
+    "de",
+    "zh",
+    "ru",
+    "ar",
+    "id",
+    "ms"
+  ],
+  "review": "AI_ASSISTED_DRAFT",
+  "humanReviewed": false,
+  "additionalLanguages": [
+    "ar",
+    "id",
+    "ms"
+  ],
+  "regionalScope": "Indonesian and Malay. No Javanese or Sundanese.",
+  "sourceBinding": "Exact source strings. Missing translation fails the build."
+}

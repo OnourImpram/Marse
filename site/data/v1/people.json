@@ -1,0 +1,2175 @@
+{
+  "schemaVersion": 1,
+  "release": "marsam-finished-centre-0.12.0",
+  "version": "0.12.0",
+  "generatedAt": "2026-10-10T12:56:53.446Z",
+  "publicationState": "institutional-review",
+  "reviewStatus": "AI_ASSISTED_DRAFT",
+  "humanReviewed": false,
+  "scientificApproval": false,
+  "humanLanguageApproval": false,
+  "formalInstitutionalApproval": false,
+  "identityPolicy": "Source-scoped mentions are not merged by name. ORCID is never guessed from a name.",
+  "records": [
+    {
+      "id": "s-tunc:author:1",
+      "displayName": "M. Furkan Tunç",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-tunc",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-tunc:author:2",
+      "displayName": "Halil Ekşi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-tunc",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-cbt-spiritual:author:1",
+      "displayName": "Tuğba Turgut",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-cbt-spiritual",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-cbt-spiritual:author:2",
+      "displayName": "Halil Ekşi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-cbt-spiritual",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-spiritual-burnout:author:1",
+      "displayName": "Nesrullah Okan",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-spiritual-burnout",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-spiritual-burnout:author:2",
+      "displayName": "Osman Hatun",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-spiritual-burnout",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-spiritual-burnout:author:3",
+      "displayName": "Füsun Ekşi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-spiritual-burnout",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-spiritual-burnout:author:4",
+      "displayName": "Halil Ekşi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-spiritual-burnout",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-spiritual-burnout:author:5",
+      "displayName": "Nihat Köse",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-spiritual-burnout",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-sipas:author:1",
+      "displayName": "Halil Eksi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-sipas",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-sipas:author:2",
+      "displayName": "Havvanur Akyol",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-sipas",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-sipas:author:3",
+      "displayName": "Neslihan Aydın",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-sipas",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-sipas:author:4",
+      "displayName": "Fatma Betül Karalı",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-sipas",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-sipas:author:5",
+      "displayName": "Mehmet Özalp",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-sipas",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-sipas:author:6",
+      "displayName": "M. Furkan Tunç",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-sipas",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-sipas:author:7",
+      "displayName": "Ebru Talibe Turgut",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-sipas",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-loneliness-spirituality:author:1",
+      "displayName": "Yasemin Ekici",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-loneliness-spirituality",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-loneliness-spirituality:author:2",
+      "displayName": "Figen Kasapoğlu",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-loneliness-spirituality",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-professional-training:author:1",
+      "displayName": "Halil Ekşi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-professional-training",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-professional-training:author:2",
+      "displayName": "Ebru Talibe Turgut",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-professional-training",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-professional-training:author:3",
+      "displayName": "Fatma Betül Karalı",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-professional-training",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-professional-training:author:4",
+      "displayName": "Hale Şen",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-professional-training",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-professional-training:author:5",
+      "displayName": "Havvanur Akyol",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-professional-training",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-professional-training:author:6",
+      "displayName": "Neslihan Aydın",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-professional-training",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-professional-training:author:7",
+      "displayName": "Yusuf Ziya Koç",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-professional-training",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-spiritual-integrity:author:1",
+      "displayName": "Nesrullah Okan",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-spiritual-integrity",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-spiritual-integrity:author:2",
+      "displayName": "Füsun Ekşi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-spiritual-integrity",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-spiritual-integrity:author:3",
+      "displayName": "Erdal Zengin",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-spiritual-integrity",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-spiritual-integrity:author:4",
+      "displayName": "Halil Ekşi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-spiritual-integrity",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-spirituality-dimensions:author:1",
+      "displayName": "Halil Ekşi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-spirituality-dimensions",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-spirituality-dimensions:author:2",
+      "displayName": "Dilek Günel",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-spirituality-dimensions",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-spirituality-dimensions:author:3",
+      "displayName": "Ece Yağcı Akgündüz",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-spirituality-dimensions",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-spirituality-dimensions:author:4",
+      "displayName": "Emre Gürkan",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-spirituality-dimensions",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-spirituality-dimensions:author:5",
+      "displayName": "Fadile Zeynep Çavuş",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-spirituality-dimensions",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-spirituality-dimensions:author:6",
+      "displayName": "Yasemin Altıntaş",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-spirituality-dimensions",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-spiritual-struggles:author:1",
+      "displayName": "Dilanur Rehber",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-spiritual-struggles",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-spiritual-struggles:author:2",
+      "displayName": "Muhammet Enes Vural",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-spiritual-struggles",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-spiritual-struggles:author:3",
+      "displayName": "Halil Ekşi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-spiritual-struggles",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-adaptation-of-the-decision-to-forgive:author:1",
+      "displayName": "Ece Yağcı Akgündüz",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-adaptation-of-the-decision-to-forgive",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-adaptation-of-the-decision-to-forgive:author:2",
+      "displayName": "Gülbin Demir Celayir",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-adaptation-of-the-decision-to-forgive",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-adaptation-of-the-decision-to-forgive:author:3",
+      "displayName": "Simel Parlak",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-adaptation-of-the-decision-to-forgive",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-adaptation-of-the-decision-to-forgive:author:4",
+      "displayName": "Halil Ekşi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-adaptation-of-the-decision-to-forgive",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-the-intersection-of-faith-and-pornography:author:1",
+      "displayName": "Eren Murat Dinçer",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-the-intersection-of-faith-and-pornography",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-the-intersection-of-faith-and-pornography:author:2",
+      "displayName": "Halil Eksi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-the-intersection-of-faith-and-pornography",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-a-spiritual-touch-on-family-resilience:author:1",
+      "displayName": "Halil Ekşi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-a-spiritual-touch-on-family-resilience",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-a-spiritual-touch-on-family-resilience:author:2",
+      "displayName": "Deniz Erök Özkapu",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-a-spiritual-touch-on-family-resilience",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-through-the-inner-world-development-of:author:1",
+      "displayName": "Betül Kürüm Yıldırım",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-through-the-inner-world-development-of",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-through-the-inner-world-development-of:author:2",
+      "displayName": "Halil Ekşi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-through-the-inner-world-development-of",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-through-the-inner-world-development-of:author:3",
+      "displayName": "Selami Kardaş",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-through-the-inner-world-development-of",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-through-the-inner-world-development-of:author:4",
+      "displayName": "Füsun Ekşi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-through-the-inner-world-development-of",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-well-being-and-spiritual-intelligence-predict:author:1",
+      "displayName": "Özge ERDURAN TEKİN",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-well-being-and-spiritual-intelligence-predict",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-well-being-and-spiritual-intelligence-predict:author:2",
+      "displayName": "Halil EKŞİ",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-well-being-and-spiritual-intelligence-predict",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-the-mediator-role-of-forgiveness-between:author:1",
+      "displayName": "Hatice Vildan YILDIZ",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-the-mediator-role-of-forgiveness-between",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-the-mediator-role-of-forgiveness-between:author:2",
+      "displayName": "Halil EKŞİ",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-the-mediator-role-of-forgiveness-between",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-genclerde-maneviyat-ve-siddet-egilimi-arasindaki:author:1",
+      "displayName": "Halil EKSİ",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-genclerde-maneviyat-ve-siddet-egilimi-arasindaki",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-genclerde-maneviyat-ve-siddet-egilimi-arasindaki:author:2",
+      "displayName": "Nesrullah OKAN",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-genclerde-maneviyat-ve-siddet-egilimi-arasindaki",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-spiritually-oriented-couple-marriage-and-family:author:1",
+      "displayName": "Şeyda Çetintaş",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-spiritually-oriented-couple-marriage-and-family",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-spiritually-oriented-couple-marriage-and-family:author:2",
+      "displayName": "Halil Ekşi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-spiritually-oriented-couple-marriage-and-family",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-manevi-sukran-olcegi-nin-turkce-uyarlamasi:author:1",
+      "displayName": "Kübra KAPLANER",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-manevi-sukran-olcegi-nin-turkce-uyarlamasi",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-manevi-sukran-olcegi-nin-turkce-uyarlamasi:author:2",
+      "displayName": "Halil EKŞİ",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-manevi-sukran-olcegi-nin-turkce-uyarlamasi",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-manevi-askinlik-olcegi-nin-turkceye-uyarlanmasi:author:1",
+      "displayName": "Yakup İme",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-manevi-askinlik-olcegi-nin-turkceye-uyarlanmasi",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-manevi-askinlik-olcegi-nin-turkceye-uyarlanmasi:author:2",
+      "displayName": "Halil Ekşi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-manevi-askinlik-olcegi-nin-turkceye-uyarlanmasi",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-manevi-askinlik-olcegi-nin-turkceye-uyarlanmasi:author:3",
+      "displayName": "Füsun Ekşi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-manevi-askinlik-olcegi-nin-turkceye-uyarlanmasi",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-a-psychological-counseling-study-on-fear:author:1",
+      "displayName": "Serra Dinç",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-a-psychological-counseling-study-on-fear",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-a-psychological-counseling-study-on-fear:author:2",
+      "displayName": "Halil Ekşi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-a-psychological-counseling-study-on-fear",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-multi-cultural-counseling-and-spiritual-interventions:author:1",
+      "displayName": "Berra Keçeci",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-multi-cultural-counseling-and-spiritual-interventions",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-multi-cultural-counseling-and-spiritual-interventions:author:2",
+      "displayName": "Halil Ekşi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-multi-cultural-counseling-and-spiritual-interventions",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-islamic-spiritual-counseling-techniques:author:1",
+      "displayName": "Muhammet Şerif KESKİNOĞLU",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-islamic-spiritual-counseling-techniques",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-islamic-spiritual-counseling-techniques:author:2",
+      "displayName": "Halil EKŞİ",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-islamic-spiritual-counseling-techniques",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-adapting-the-scale-for-spiritual-intelligence:author:1",
+      "displayName": "Özge Erduran-Tekin",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-adapting-the-scale-for-spiritual-intelligence",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-adapting-the-scale-for-spiritual-intelligence:author:2",
+      "displayName": "Halil Ekşi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-adapting-the-scale-for-spiritual-intelligence",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-ogretmen-adaylarinin-spirituel-i-yi-olus:author:1",
+      "displayName": "Halil EKŞİ",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-ogretmen-adaylarinin-spirituel-i-yi-olus",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-ogretmen-adaylarinin-spirituel-i-yi-olus:author:2",
+      "displayName": "Cem BOYALI",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-ogretmen-adaylarinin-spirituel-i-yi-olus",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-ogretmen-adaylarinin-spirituel-i-yi-olus:author:3",
+      "displayName": "Durmuş ÜMMET",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-ogretmen-adaylarinin-spirituel-i-yi-olus",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-maternal-spiritual-coping-scale-development-and:author:1",
+      "displayName": "A. Nilgün Canel",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-maternal-spiritual-coping-scale-development-and",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-maternal-spiritual-coping-scale-development-and:author:2",
+      "displayName": "Halil Eksi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-maternal-spiritual-coping-scale-development-and",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-maternal-spiritual-coping-scale-development-and:author:3",
+      "displayName": "Hatice Sanver Gürsoy",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-maternal-spiritual-coping-scale-development-and",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-maternal-spiritual-coping-scale-development-and:author:4",
+      "displayName": "K. Gamze Yaman",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-maternal-spiritual-coping-scale-development-and",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-spirituality-in-logotherapy:author:1",
+      "displayName": "Nesrullah Okan",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-spirituality-in-logotherapy",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-spirituality-in-logotherapy:author:2",
+      "displayName": "Halil Eksi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-spirituality-in-logotherapy",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-spirituality-in-psychotherapy-settings-a-phenomenological:author:1",
+      "displayName": "Halil Eksi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-spirituality-in-psychotherapy-settings-a-phenomenological",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-spirituality-in-psychotherapy-settings-a-phenomenological:author:2",
+      "displayName": "Zeynep Takmaz",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-spirituality-in-psychotherapy-settings-a-phenomenological",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-eksi-spirituality-in-psychotherapy-settings-a-phenomenological:author:3",
+      "displayName": "Selami Kardas",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-eksi-spirituality-in-psychotherapy-settings-a-phenomenological",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-german-meta:author:1",
+      "displayName": "Christian Zwingmann",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-german-meta",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-adolescent-contexts:author:1",
+      "displayName": "Lydia Mannion",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-adolescent-contexts",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-adolescent-contexts:author:2",
+      "displayName": "Maurice Harmon",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-adolescent-contexts",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-adolescent-contexts:author:3",
+      "displayName": "Trevor O’Brien",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-adolescent-contexts",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-youth-evidence:author:1",
+      "displayName": "Shilpa Aggarwal",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-youth-evidence",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-youth-evidence:author:2",
+      "displayName": "Judith Wright",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-youth-evidence",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-youth-evidence:author:3",
+      "displayName": "Amy Morgan",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-youth-evidence",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-youth-evidence:author:4",
+      "displayName": "George Patton",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-youth-evidence",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-youth-evidence:author:5",
+      "displayName": "Nicola Reavley",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-youth-evidence",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-older-adults:author:1",
+      "displayName": "Hélio José Coelho-Júnior",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-older-adults",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-older-adults:author:2",
+      "displayName": "Riccardo Calvani",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-older-adults",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-older-adults:author:3",
+      "displayName": "Francesco Panza",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-older-adults",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-older-adults:author:4",
+      "displayName": "Riccardo F. Allegri",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-older-adults",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-older-adults:author:5",
+      "displayName": "Anna Picca",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-older-adults",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-older-adults:author:6",
+      "displayName": "Emanuele Marzetti",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-older-adults",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-older-adults:author:7",
+      "displayName": "Vicente Paulo Alves",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-older-adults",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-attendance-cohorts:author:1",
+      "displayName": "Ying Chen",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-attendance-cohorts",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-attendance-cohorts:author:2",
+      "displayName": "Eric S Kim",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-attendance-cohorts",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-attendance-cohorts:author:3",
+      "displayName": "Tyler J VanderWeele",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-attendance-cohorts",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-atheist-struggles:author:1",
+      "displayName": "Aaron E. Sedlar",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-atheist-struggles",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-atheist-struggles:author:2",
+      "displayName": "Nick Stauner",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-atheist-struggles",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-atheist-struggles:author:3",
+      "displayName": "Kenneth I. Pargament",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-atheist-struggles",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-atheist-struggles:author:4",
+      "displayName": "Julie J. Exline",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-atheist-struggles",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-atheist-struggles:author:5",
+      "displayName": "Joshua B. Grubbs",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-atheist-struggles",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-atheist-struggles:author:6",
+      "displayName": "David F. Bradley",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-atheist-struggles",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-religious-cbt:author:1",
+      "displayName": "Harold G. Koenig",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-religious-cbt",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-religious-cbt:author:2",
+      "displayName": "Michelle J. Pearce",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-religious-cbt",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-religious-cbt:author:3",
+      "displayName": "Bruce Nelson",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-religious-cbt",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-religious-cbt:author:4",
+      "displayName": "Sally F. Shaw",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-religious-cbt",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-religious-cbt:author:5",
+      "displayName": "Clive J. Robins",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-religious-cbt",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-religious-cbt:author:6",
+      "displayName": "Noha S. Daher",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-religious-cbt",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-religious-cbt:author:7",
+      "displayName": "Harvey Jay Cohen",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-religious-cbt",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-religious-cbt:author:8",
+      "displayName": "Lee S. Berk",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-religious-cbt",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-religious-cbt:author:9",
+      "displayName": "Denise L. Bellinger",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-religious-cbt",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-religious-cbt:author:10",
+      "displayName": "Kenneth I. Pargament",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-religious-cbt",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-religious-cbt:author:11",
+      "displayName": "David H. Rosmarin",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-religious-cbt",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-religious-cbt:author:12",
+      "displayName": "Sasan Vasegh",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-religious-cbt",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-religious-cbt:author:13",
+      "displayName": "Jean Kristeller",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-religious-cbt",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-religious-cbt:author:14",
+      "displayName": "Nalini Juthani",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-religious-cbt",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-religious-cbt:author:15",
+      "displayName": "Douglas Nies",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-religious-cbt",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-religious-cbt:author:16",
+      "displayName": "Michael B. King",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-religious-cbt",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-disaster-needs:author:1",
+      "displayName": "İclal Öztürk",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-disaster-needs",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-disaster-needs:author:2",
+      "displayName": "Ümit Horozcu",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-disaster-needs",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-brief-rcope:author:1",
+      "displayName": "Kenneth Pargament",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-brief-rcope",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-brief-rcope:author:2",
+      "displayName": "Margaret Feuille",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-brief-rcope",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-brief-rcope:author:3",
+      "displayName": "Donna Burdzy",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-brief-rcope",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-meaning-questionnaire:author:1",
+      "displayName": "Michael F. Steger",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-meaning-questionnaire",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-meaning-questionnaire:author:2",
+      "displayName": "Patricia Frazier",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-meaning-questionnaire",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-meaning-questionnaire:author:3",
+      "displayName": "Shigehiro Oishi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-meaning-questionnaire",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-meaning-questionnaire:author:4",
+      "displayName": "Matthew Kaler",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-meaning-questionnaire",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-durel:author:1",
+      "displayName": "Harold G. Koenig",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-durel",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-durel:author:2",
+      "displayName": "Arndt Büssing",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-durel",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-swbs-eksi-kardas:author:1",
+      "displayName": "Halil Ekşi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-swbs-eksi-kardas",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-swbs-eksi-kardas:author:2",
+      "displayName": "Selami Kardaş",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-swbs-eksi-kardas",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-swbs-paloutzian-ellison:author:1",
+      "displayName": "Craig W. Ellison",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-swbs-paloutzian-ellison",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-within-person-attendance:author:1",
+      "displayName": "Gabriele Prati",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-within-person-attendance",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-bidirectional-alspac:author:1",
+      "displayName": "Daniel Major-Smith",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-bidirectional-alspac",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-bidirectional-alspac:author:2",
+      "displayName": "Jimmy Morgan",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-bidirectional-alspac",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-bidirectional-alspac:author:3",
+      "displayName": "Isaac Halstead",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-bidirectional-alspac",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-bidirectional-alspac:author:4",
+      "displayName": "Jean Golding",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-bidirectional-alspac",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-brazil-medical-students:author:1",
+      "displayName": "Rocío de Diego-Cordero",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-brazil-medical-students",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-brazil-medical-students:author:2",
+      "displayName": "Alessandra Lamas Granero Lucchetti",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-brazil-medical-students",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-brazil-medical-students:author:3",
+      "displayName": "Giancarlo Lucchetti",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-brazil-medical-students",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-turkish-bereavement:author:1",
+      "displayName": "Olcan Aslan",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-turkish-bereavement",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-turkish-bereavement:author:2",
+      "displayName": "İrem Topuz",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-turkish-bereavement",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-psychosis-spirituality:author:1",
+      "displayName": "Megan Westhead",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-psychosis-spirituality",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-psychosis-spirituality:author:2",
+      "displayName": "Anna Georgiades",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-psychosis-spirituality",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-clergy-abuse-harm:author:1",
+      "displayName": "Joanne Durkin",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-clergy-abuse-harm",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-clergy-abuse-harm:author:2",
+      "displayName": "Rachel Zordan",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-clergy-abuse-harm",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-clergy-abuse-harm:author:3",
+      "displayName": "Matthew Bullen",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-clergy-abuse-harm",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-clergy-abuse-harm:author:4",
+      "displayName": "Nadia Pavich",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-clergy-abuse-harm",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-clergy-abuse-harm:author:5",
+      "displayName": "Patricia Therese Benedict Thomas",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-clergy-abuse-harm",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-clergy-abuse-harm:author:6",
+      "displayName": "Carolyn Lethborg",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-clergy-abuse-harm",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-clergy-abuse-harm:author:7",
+      "displayName": "Wendy Holder",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-clergy-abuse-harm",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-clergy-abuse-harm:author:8",
+      "displayName": "Melinda Jolly",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-clergy-abuse-harm",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-clergy-abuse-harm:author:9",
+      "displayName": "Darlene Dreise",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-clergy-abuse-harm",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-clergy-abuse-harm:author:10",
+      "displayName": "Daniel Fleming",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-clergy-abuse-harm",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-spirituality-ptsd-review:author:1",
+      "displayName": "Nesrullah Okan",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-spirituality-ptsd-review",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-spirituality-ptsd-review:author:2",
+      "displayName": "Yahya Şahin",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-spirituality-ptsd-review",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-rss-ff-tr:author:1",
+      "displayName": "Betül Şahin",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-rss-ff-tr",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-rss-ff-tr:author:2",
+      "displayName": "Yıldız Bilge",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-rss-ff-tr",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-sprs:author:1",
+      "displayName": "Nesrullah Okan",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-sprs",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-sprs:author:2",
+      "displayName": "Füsun Ekşi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-sprs",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-sefc:author:1",
+      "displayName": "Nesrullah Okan",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-sefc",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-sefc:author:2",
+      "displayName": "Muhammed Kızılgeçit",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-sefc",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-sefc:author:3",
+      "displayName": "Hanifi Şahin",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-sefc",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-sefc:author:4",
+      "displayName": "Fatih Kurt",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-sefc",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-sefc:author:5",
+      "displayName": "Reyhan Keleş",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-sefc",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-sefc:author:6",
+      "displayName": "Aytaç Ören",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-sefc",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-hemodialysis-spiritual-care:author:1",
+      "displayName": "Mustafa Durmuş",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-hemodialysis-spiritual-care",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-hemodialysis-spiritual-care:author:2",
+      "displayName": "Mine Ekinci",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-hemodialysis-spiritual-care",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-muslim-coping-multinational:author:1",
+      "displayName": "Hisham Abu-Raiya",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-muslim-coping-multinational",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-muslim-coping-multinational:author:2",
+      "displayName": "Ali Ayten",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-muslim-coping-multinational",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-muslim-coping-multinational:author:3",
+      "displayName": "Mustafa Tekke",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-muslim-coping-multinational",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-muslim-coping-multinational:author:4",
+      "displayName": "Qutaiba Agbaria",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-muslim-coping-multinational",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-refugee-faith-coping:author:1",
+      "displayName": "Diana Rayes",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-refugee-faith-coping",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-refugee-faith-coping:author:2",
+      "displayName": "Carine Karnouk",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-refugee-faith-coping",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-refugee-faith-coping:author:3",
+      "displayName": "Dana Churbaji",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-refugee-faith-coping",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-refugee-faith-coping:author:4",
+      "displayName": "Lena Walther",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-refugee-faith-coping",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-refugee-faith-coping:author:5",
+      "displayName": "Malek Bajbouj",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-refugee-faith-coping",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-nonreligious-turkiye:author:1",
+      "displayName": "Güven Soner",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-nonreligious-turkiye",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-nonreligious-turkiye:author:2",
+      "displayName": "Emel Güven",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-nonreligious-turkiye",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-nonreligious-turkiye:author:3",
+      "displayName": "Ercan Tunç",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-nonreligious-turkiye",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-religious-sexual-stigma:author:1",
+      "displayName": "Dawn M. Szymanski",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-religious-sexual-stigma",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-religious-sexual-stigma:author:2",
+      "displayName": "Rachel F. Carretta",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-religious-sexual-stigma",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-atheist-minority-stress:author:1",
+      "displayName": "Melanie E. Brewster",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-atheist-minority-stress",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-atheist-minority-stress:author:2",
+      "displayName": "Brandon L. Velez",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-atheist-minority-stress",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-atheist-minority-stress:author:3",
+      "displayName": "Elizabeth F. Geiger",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-atheist-minority-stress",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-atheist-minority-stress:author:4",
+      "displayName": "Jacob S. Sawyer",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-atheist-minority-stress",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-sexual-minority-rs-meta:author:1",
+      "displayName": "G. Tyler Lefevor",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-sexual-minority-rs-meta",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-sexual-minority-rs-meta:author:2",
+      "displayName": "Edward B. Davis",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-sexual-minority-rs-meta",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-sexual-minority-rs-meta:author:3",
+      "displayName": "Jaqueline Y. Paiz",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-sexual-minority-rs-meta",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-sexual-minority-rs-meta:author:4",
+      "displayName": "Abigail C. P. Smack",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-sexual-minority-rs-meta",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-lgbq-religious-family-therapy:author:1",
+      "displayName": "Katie Heiden-Rootes",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-lgbq-religious-family-therapy",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-lgbq-religious-family-therapy:author:2",
+      "displayName": "Kristin Ross",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-lgbq-religious-family-therapy",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-lgbq-religious-family-therapy:author:3",
+      "displayName": "Rachel Moore",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-lgbq-religious-family-therapy",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-lgbq-religious-family-therapy:author:4",
+      "displayName": "Shah Hasan",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-lgbq-religious-family-therapy",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-lgbq-religious-family-therapy:author:5",
+      "displayName": "Samantha Gulotta",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-lgbq-religious-family-therapy",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-lebanon-sexual-stigma:author:1",
+      "displayName": "Ismael Maatouk",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-lebanon-sexual-stigma",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-lebanon-sexual-stigma:author:2",
+      "displayName": "Rusi Jaspal",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-lebanon-sexual-stigma",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-icsg-2:author:1",
+      "displayName": "Laurie A. Burke",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-icsg-2",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-icsg-2:author:2",
+      "displayName": "A. Elizabeth Crunk",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-icsg-2",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-icsg-2:author:3",
+      "displayName": "Robert A. Neimeyer",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-icsg-2",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-icsg-2:author:4",
+      "displayName": "Haiyan Bai",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-icsg-2",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-icsg-2-fa:author:1",
+      "displayName": "Ahmad Ashouri",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-icsg-2-fa",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-icsg-2-fa:author:2",
+      "displayName": "Shahab Yousefi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-icsg-2-fa",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-p-sds:author:1",
+      "displayName": "Hadi Najafi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-p-sds",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-p-sds:author:2",
+      "displayName": "Shahab Papi",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-p-sds",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-p-sds:author:3",
+      "displayName": "Abolfazl Hosseinnataj",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-p-sds",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-p-sds:author:4",
+      "displayName": "Alireza Namazi Shabestari",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-p-sds",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-religious-minority-context:author:1",
+      "displayName": "Sarah M. Van de Velde",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-religious-minority-context",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-religious-minority-context:author:2",
+      "displayName": "Veerle Buffel",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-religious-minority-context",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    },
+    {
+      "id": "s-religious-minority-context:author:3",
+      "displayName": "Lore Van Praag",
+      "identityResolution": "source-scoped-mention",
+      "externalPersonId": null,
+      "sourceId": "s-religious-minority-context",
+      "role": "author",
+      "orcid": null,
+      "orcidProvenance": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.54535/rep.1025099",
+  "name": "The Mediator Role of Forgiveness between The Interpersonal Relationships and The Level of Cognitive Distortions in Young Adults",
+  "datePublished": "2021-12-31",
+  "identifier": [
+    "https://doi.org/10.54535/rep.1025099"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Hatice Vildan YILDIZ"
+    },
+    {
+      "@type": "Person",
+      "name": "Halil EKŞİ"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Research on Education and Psychology"
+  },
+  "url": "https://doi.org/10.54535/rep.1025099"
+}

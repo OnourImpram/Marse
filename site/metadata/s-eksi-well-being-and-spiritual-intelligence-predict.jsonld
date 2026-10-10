@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.37898/spc.2022.7.3.181",
+  "name": "Well-Being and Spiritual Intelligence Predict Attitudes of Adolescents’ Towards Violence",
+  "datePublished": "2022-10-15",
+  "identifier": [
+    "https://doi.org/10.37898/spc.2022.7.3.181"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Özge ERDURAN TEKİN"
+    },
+    {
+      "@type": "Person",
+      "name": "Halil EKŞİ"
+    }
+  ],
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Spiritual Psychology and Counseling"
+  },
+  "url": "https://doi.org/10.37898/spc.2022.7.3.181"
+}
