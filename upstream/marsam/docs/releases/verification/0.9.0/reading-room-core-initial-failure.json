@@ -1,0 +1,2869 @@
+{
+  "mode": "REAL_HTTP_NATIVE_BROWSER",
+  "suite": "core",
+  "origin": "https://onourimpram.github.io",
+  "base": "/MARSAM/",
+  "release": "0.9.0",
+  "browsers": {
+    "chromium": "149.0.7827.55",
+    "firefox": "151.0",
+    "webkit": "26.5"
+  },
+  "checks": [
+    {
+      "name": "HTTP tr/dossier/preferences-and-boundaries/",
+      "passed": true
+    },
+    {
+      "name": "chromium/tr dialog focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/tr dialog restores focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/tr saved state persists",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/saved/",
+      "passed": true
+    },
+    {
+      "name": "chromium/tr saved record resolves",
+      "passed": true
+    },
+    {
+      "name": "chromium/tr storage scope disclosed",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/search/",
+      "passed": true
+    },
+    {
+      "name": "chromium/tr exact DOI first",
+      "passed": true
+    },
+    {
+      "name": "chromium/tr identifier not generic search",
+      "passed": true
+    },
+    {
+      "name": "chromium/tr hostile query is text",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/books/",
+      "passed": true
+    },
+    {
+      "name": "chromium/tr native list toggle",
+      "passed": true
+    },
+    {
+      "name": "chromium/tr filter survives language change",
+      "passed": true
+    },
+    {
+      "name": "chromium/tr view survives language change",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/library/",
+      "passed": true
+    },
+    {
+      "name": "chromium/tr all sources comparable",
+      "passed": true
+    },
+    {
+      "name": "chromium/tr comparison limit",
+      "passed": true
+    },
+    {
+      "name": "chromium/tr four record columns",
+      "passed": true
+    },
+    {
+      "name": "chromium/tr descriptive real export",
+      "passed": true
+    },
+    {
+      "name": "chromium/tr/320 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "chromium/tr/390 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "chromium/tr native select keeps keyboard focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/tr native selection updates comparison",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/compare/?ids=aservic-principles,aservic-principles,unknown,%3Cimg%3E",
+      "passed": true
+    },
+    {
+      "name": "chromium/tr selection validation",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/resource/sipas/",
+      "passed": true
+    },
+    {
+      "name": "chromium/tr separate review dimensions",
+      "passed": true
+    },
+    {
+      "name": "chromium/tr actual RIS",
+      "passed": true
+    },
+    {
+      "name": "chromium/tr actual BibTeX",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/contribute/",
+      "passed": true
+    },
+    {
+      "name": "chromium/tr summary receives focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/tr error links to field",
+      "passed": true
+    },
+    {
+      "name": "chromium/tr local proposal not submission",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/dossier/preferences-and-boundaries/",
+      "passed": true
+    },
+    {
+      "name": "chromium/en dialog focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/en dialog restores focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/en saved state persists",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/saved/",
+      "passed": true
+    },
+    {
+      "name": "chromium/en saved record resolves",
+      "passed": true
+    },
+    {
+      "name": "chromium/en storage scope disclosed",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/search/",
+      "passed": true
+    },
+    {
+      "name": "chromium/en exact DOI first",
+      "passed": true
+    },
+    {
+      "name": "chromium/en identifier not generic search",
+      "passed": true
+    },
+    {
+      "name": "chromium/en hostile query is text",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/books/",
+      "passed": true
+    },
+    {
+      "name": "chromium/en native list toggle",
+      "passed": true
+    },
+    {
+      "name": "chromium/en filter survives language change",
+      "passed": true
+    },
+    {
+      "name": "chromium/en view survives language change",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/library/",
+      "passed": true
+    },
+    {
+      "name": "chromium/en all sources comparable",
+      "passed": true
+    },
+    {
+      "name": "chromium/en comparison limit",
+      "passed": true
+    },
+    {
+      "name": "chromium/en four record columns",
+      "passed": true
+    },
+    {
+      "name": "chromium/en descriptive real export",
+      "passed": true
+    },
+    {
+      "name": "chromium/en/320 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "chromium/en/390 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "chromium/en native select keeps keyboard focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/en native selection updates comparison",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/compare/?ids=aservic-principles,aservic-principles,unknown,%3Cimg%3E",
+      "passed": true
+    },
+    {
+      "name": "chromium/en selection validation",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/resource/sipas/",
+      "passed": true
+    },
+    {
+      "name": "chromium/en separate review dimensions",
+      "passed": true
+    },
+    {
+      "name": "chromium/en actual RIS",
+      "passed": true
+    },
+    {
+      "name": "chromium/en actual BibTeX",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/contribute/",
+      "passed": true
+    },
+    {
+      "name": "chromium/en summary receives focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/en error links to field",
+      "passed": true
+    },
+    {
+      "name": "chromium/en local proposal not submission",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/dossier/preferences-and-boundaries/",
+      "passed": true
+    },
+    {
+      "name": "chromium/de dialog focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/de dialog restores focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/de saved state persists",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/saved/",
+      "passed": true
+    },
+    {
+      "name": "chromium/de saved record resolves",
+      "passed": true
+    },
+    {
+      "name": "chromium/de storage scope disclosed",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/search/",
+      "passed": true
+    },
+    {
+      "name": "chromium/de exact DOI first",
+      "passed": true
+    },
+    {
+      "name": "chromium/de identifier not generic search",
+      "passed": true
+    },
+    {
+      "name": "chromium/de hostile query is text",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/books/",
+      "passed": true
+    },
+    {
+      "name": "chromium/de native list toggle",
+      "passed": true
+    },
+    {
+      "name": "chromium/de filter survives language change",
+      "passed": true
+    },
+    {
+      "name": "chromium/de view survives language change",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/library/",
+      "passed": true
+    },
+    {
+      "name": "chromium/de all sources comparable",
+      "passed": true
+    },
+    {
+      "name": "chromium/de comparison limit",
+      "passed": true
+    },
+    {
+      "name": "chromium/de four record columns",
+      "passed": true
+    },
+    {
+      "name": "chromium/de descriptive real export",
+      "passed": true
+    },
+    {
+      "name": "chromium/de/320 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "chromium/de/390 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "chromium/de native select keeps keyboard focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/de native selection updates comparison",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/compare/?ids=aservic-principles,aservic-principles,unknown,%3Cimg%3E",
+      "passed": true
+    },
+    {
+      "name": "chromium/de selection validation",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/resource/sipas/",
+      "passed": true
+    },
+    {
+      "name": "chromium/de separate review dimensions",
+      "passed": true
+    },
+    {
+      "name": "chromium/de actual RIS",
+      "passed": true
+    },
+    {
+      "name": "chromium/de actual BibTeX",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/contribute/",
+      "passed": true
+    },
+    {
+      "name": "chromium/de summary receives focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/de error links to field",
+      "passed": true
+    },
+    {
+      "name": "chromium/de local proposal not submission",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/dossier/preferences-and-boundaries/",
+      "passed": true
+    },
+    {
+      "name": "chromium/zh dialog focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/zh dialog restores focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/zh saved state persists",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/saved/",
+      "passed": true
+    },
+    {
+      "name": "chromium/zh saved record resolves",
+      "passed": true
+    },
+    {
+      "name": "chromium/zh storage scope disclosed",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/search/",
+      "passed": true
+    },
+    {
+      "name": "chromium/zh exact DOI first",
+      "passed": true
+    },
+    {
+      "name": "chromium/zh identifier not generic search",
+      "passed": true
+    },
+    {
+      "name": "chromium/zh hostile query is text",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/books/",
+      "passed": true
+    },
+    {
+      "name": "chromium/zh native list toggle",
+      "passed": true
+    },
+    {
+      "name": "chromium/zh filter survives language change",
+      "passed": true
+    },
+    {
+      "name": "chromium/zh view survives language change",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/library/",
+      "passed": true
+    },
+    {
+      "name": "chromium/zh all sources comparable",
+      "passed": true
+    },
+    {
+      "name": "chromium/zh comparison limit",
+      "passed": true
+    },
+    {
+      "name": "chromium/zh four record columns",
+      "passed": true
+    },
+    {
+      "name": "chromium/zh descriptive real export",
+      "passed": true
+    },
+    {
+      "name": "chromium/zh/320 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "chromium/zh/390 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "chromium/zh native select keeps keyboard focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/zh native selection updates comparison",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/compare/?ids=aservic-principles,aservic-principles,unknown,%3Cimg%3E",
+      "passed": true
+    },
+    {
+      "name": "chromium/zh selection validation",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/resource/sipas/",
+      "passed": true
+    },
+    {
+      "name": "chromium/zh separate review dimensions",
+      "passed": true
+    },
+    {
+      "name": "chromium/zh actual RIS",
+      "passed": true
+    },
+    {
+      "name": "chromium/zh actual BibTeX",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/contribute/",
+      "passed": true
+    },
+    {
+      "name": "chromium/zh summary receives focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/zh error links to field",
+      "passed": true
+    },
+    {
+      "name": "chromium/zh local proposal not submission",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/dossier/preferences-and-boundaries/",
+      "passed": true
+    },
+    {
+      "name": "chromium/ru dialog focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/ru dialog restores focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/ru saved state persists",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/saved/",
+      "passed": true
+    },
+    {
+      "name": "chromium/ru saved record resolves",
+      "passed": true
+    },
+    {
+      "name": "chromium/ru storage scope disclosed",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/search/",
+      "passed": true
+    },
+    {
+      "name": "chromium/ru exact DOI first",
+      "passed": true
+    },
+    {
+      "name": "chromium/ru identifier not generic search",
+      "passed": true
+    },
+    {
+      "name": "chromium/ru hostile query is text",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/books/",
+      "passed": true
+    },
+    {
+      "name": "chromium/ru native list toggle",
+      "passed": true
+    },
+    {
+      "name": "chromium/ru filter survives language change",
+      "passed": true
+    },
+    {
+      "name": "chromium/ru view survives language change",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/library/",
+      "passed": true
+    },
+    {
+      "name": "chromium/ru all sources comparable",
+      "passed": true
+    },
+    {
+      "name": "chromium/ru comparison limit",
+      "passed": true
+    },
+    {
+      "name": "chromium/ru four record columns",
+      "passed": true
+    },
+    {
+      "name": "chromium/ru descriptive real export",
+      "passed": true
+    },
+    {
+      "name": "chromium/ru/320 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "chromium/ru/390 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "chromium/ru native select keeps keyboard focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/ru native selection updates comparison",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/compare/?ids=aservic-principles,aservic-principles,unknown,%3Cimg%3E",
+      "passed": true
+    },
+    {
+      "name": "chromium/ru selection validation",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/resource/sipas/",
+      "passed": true
+    },
+    {
+      "name": "chromium/ru separate review dimensions",
+      "passed": true
+    },
+    {
+      "name": "chromium/ru actual RIS",
+      "passed": true
+    },
+    {
+      "name": "chromium/ru actual BibTeX",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/contribute/",
+      "passed": true
+    },
+    {
+      "name": "chromium/ru summary receives focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/ru error links to field",
+      "passed": true
+    },
+    {
+      "name": "chromium/ru local proposal not submission",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/dossier/preferences-and-boundaries/",
+      "passed": true
+    },
+    {
+      "name": "chromium/ar dialog focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/ar dialog restores focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/ar saved state persists",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/saved/",
+      "passed": true
+    },
+    {
+      "name": "chromium/ar saved record resolves",
+      "passed": true
+    },
+    {
+      "name": "chromium/ar storage scope disclosed",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/search/",
+      "passed": true
+    },
+    {
+      "name": "chromium/ar exact DOI first",
+      "passed": true
+    },
+    {
+      "name": "chromium/ar identifier not generic search",
+      "passed": true
+    },
+    {
+      "name": "chromium/ar hostile query is text",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/books/",
+      "passed": true
+    },
+    {
+      "name": "chromium/ar native list toggle",
+      "passed": true
+    },
+    {
+      "name": "chromium/ar filter survives language change",
+      "passed": true
+    },
+    {
+      "name": "chromium/ar view survives language change",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/library/",
+      "passed": true
+    },
+    {
+      "name": "chromium/ar all sources comparable",
+      "passed": true
+    },
+    {
+      "name": "chromium/ar comparison limit",
+      "passed": true
+    },
+    {
+      "name": "chromium/ar four record columns",
+      "passed": true
+    },
+    {
+      "name": "chromium/ar descriptive real export",
+      "passed": true
+    },
+    {
+      "name": "chromium/ar/320 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "chromium/ar/390 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "chromium/ar native select keeps keyboard focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/ar native selection updates comparison",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/compare/?ids=aservic-principles,aservic-principles,unknown,%3Cimg%3E",
+      "passed": true
+    },
+    {
+      "name": "chromium/ar selection validation",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/resource/sipas/",
+      "passed": true
+    },
+    {
+      "name": "chromium/ar separate review dimensions",
+      "passed": true
+    },
+    {
+      "name": "chromium/ar actual RIS",
+      "passed": true
+    },
+    {
+      "name": "chromium/ar actual BibTeX",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/contribute/",
+      "passed": true
+    },
+    {
+      "name": "chromium/ar summary receives focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/ar error links to field",
+      "passed": true
+    },
+    {
+      "name": "chromium/ar local proposal not submission",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/dossier/preferences-and-boundaries/",
+      "passed": true
+    },
+    {
+      "name": "chromium/id dialog focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/id dialog restores focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/id saved state persists",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/saved/",
+      "passed": true
+    },
+    {
+      "name": "chromium/id saved record resolves",
+      "passed": true
+    },
+    {
+      "name": "chromium/id storage scope disclosed",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/search/",
+      "passed": true
+    },
+    {
+      "name": "chromium/id exact DOI first",
+      "passed": true
+    },
+    {
+      "name": "chromium/id identifier not generic search",
+      "passed": true
+    },
+    {
+      "name": "chromium/id hostile query is text",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/books/",
+      "passed": true
+    },
+    {
+      "name": "chromium/id native list toggle",
+      "passed": true
+    },
+    {
+      "name": "chromium/id filter survives language change",
+      "passed": true
+    },
+    {
+      "name": "chromium/id view survives language change",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/library/",
+      "passed": true
+    },
+    {
+      "name": "chromium/id all sources comparable",
+      "passed": true
+    },
+    {
+      "name": "chromium/id comparison limit",
+      "passed": true
+    },
+    {
+      "name": "chromium/id four record columns",
+      "passed": true
+    },
+    {
+      "name": "chromium/id descriptive real export",
+      "passed": true
+    },
+    {
+      "name": "chromium/id/320 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "chromium/id/390 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "chromium/id native select keeps keyboard focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/id native selection updates comparison",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/compare/?ids=aservic-principles,aservic-principles,unknown,%3Cimg%3E",
+      "passed": true
+    },
+    {
+      "name": "chromium/id selection validation",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/resource/sipas/",
+      "passed": true
+    },
+    {
+      "name": "chromium/id separate review dimensions",
+      "passed": true
+    },
+    {
+      "name": "chromium/id actual RIS",
+      "passed": true
+    },
+    {
+      "name": "chromium/id actual BibTeX",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/contribute/",
+      "passed": true
+    },
+    {
+      "name": "chromium/id summary receives focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/id error links to field",
+      "passed": true
+    },
+    {
+      "name": "chromium/id local proposal not submission",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/dossier/preferences-and-boundaries/",
+      "passed": true
+    },
+    {
+      "name": "chromium/ms dialog focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/ms dialog restores focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/ms saved state persists",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/saved/",
+      "passed": true
+    },
+    {
+      "name": "chromium/ms saved record resolves",
+      "passed": true
+    },
+    {
+      "name": "chromium/ms storage scope disclosed",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/search/",
+      "passed": true
+    },
+    {
+      "name": "chromium/ms exact DOI first",
+      "passed": true
+    },
+    {
+      "name": "chromium/ms identifier not generic search",
+      "passed": true
+    },
+    {
+      "name": "chromium/ms hostile query is text",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/books/",
+      "passed": true
+    },
+    {
+      "name": "chromium/ms native list toggle",
+      "passed": true
+    },
+    {
+      "name": "chromium/ms filter survives language change",
+      "passed": true
+    },
+    {
+      "name": "chromium/ms view survives language change",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/library/",
+      "passed": true
+    },
+    {
+      "name": "chromium/ms all sources comparable",
+      "passed": true
+    },
+    {
+      "name": "chromium/ms comparison limit",
+      "passed": true
+    },
+    {
+      "name": "chromium/ms four record columns",
+      "passed": true
+    },
+    {
+      "name": "chromium/ms descriptive real export",
+      "passed": true
+    },
+    {
+      "name": "chromium/ms/320 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "chromium/ms/390 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "chromium/ms native select keeps keyboard focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/ms native selection updates comparison",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/compare/?ids=aservic-principles,aservic-principles,unknown,%3Cimg%3E",
+      "passed": true
+    },
+    {
+      "name": "chromium/ms selection validation",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/resource/sipas/",
+      "passed": true
+    },
+    {
+      "name": "chromium/ms separate review dimensions",
+      "passed": true
+    },
+    {
+      "name": "chromium/ms actual RIS",
+      "passed": true
+    },
+    {
+      "name": "chromium/ms actual BibTeX",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/contribute/",
+      "passed": true
+    },
+    {
+      "name": "chromium/ms summary receives focus",
+      "passed": true
+    },
+    {
+      "name": "chromium/ms error links to field",
+      "passed": true
+    },
+    {
+      "name": "chromium/ms local proposal not submission",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/dossier/preferences-and-boundaries/",
+      "passed": true
+    },
+    {
+      "name": "firefox/tr dialog focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/tr dialog restores focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/tr saved state persists",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/saved/",
+      "passed": true
+    },
+    {
+      "name": "firefox/tr saved record resolves",
+      "passed": true
+    },
+    {
+      "name": "firefox/tr storage scope disclosed",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/search/",
+      "passed": true
+    },
+    {
+      "name": "firefox/tr exact DOI first",
+      "passed": true
+    },
+    {
+      "name": "firefox/tr identifier not generic search",
+      "passed": true
+    },
+    {
+      "name": "firefox/tr hostile query is text",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/books/",
+      "passed": true
+    },
+    {
+      "name": "firefox/tr native list toggle",
+      "passed": true
+    },
+    {
+      "name": "firefox/tr filter survives language change",
+      "passed": true
+    },
+    {
+      "name": "firefox/tr view survives language change",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/library/",
+      "passed": true
+    },
+    {
+      "name": "firefox/tr all sources comparable",
+      "passed": true
+    },
+    {
+      "name": "firefox/tr comparison limit",
+      "passed": true
+    },
+    {
+      "name": "firefox/tr four record columns",
+      "passed": true
+    },
+    {
+      "name": "firefox/tr descriptive real export",
+      "passed": true
+    },
+    {
+      "name": "firefox/tr/320 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "firefox/tr/390 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "firefox/tr native select keeps keyboard focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/tr native selection updates comparison",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/compare/?ids=aservic-principles,aservic-principles,unknown,%3Cimg%3E",
+      "passed": true
+    },
+    {
+      "name": "firefox/tr selection validation",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/resource/sipas/",
+      "passed": true
+    },
+    {
+      "name": "firefox/tr separate review dimensions",
+      "passed": true
+    },
+    {
+      "name": "firefox/tr actual RIS",
+      "passed": true
+    },
+    {
+      "name": "firefox/tr actual BibTeX",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/contribute/",
+      "passed": true
+    },
+    {
+      "name": "firefox/tr summary receives focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/tr error links to field",
+      "passed": true
+    },
+    {
+      "name": "firefox/tr local proposal not submission",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/dossier/preferences-and-boundaries/",
+      "passed": true
+    },
+    {
+      "name": "firefox/en dialog focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/en dialog restores focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/en saved state persists",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/saved/",
+      "passed": true
+    },
+    {
+      "name": "firefox/en saved record resolves",
+      "passed": true
+    },
+    {
+      "name": "firefox/en storage scope disclosed",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/search/",
+      "passed": true
+    },
+    {
+      "name": "firefox/en exact DOI first",
+      "passed": true
+    },
+    {
+      "name": "firefox/en identifier not generic search",
+      "passed": true
+    },
+    {
+      "name": "firefox/en hostile query is text",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/books/",
+      "passed": true
+    },
+    {
+      "name": "firefox/en native list toggle",
+      "passed": true
+    },
+    {
+      "name": "firefox/en filter survives language change",
+      "passed": true
+    },
+    {
+      "name": "firefox/en view survives language change",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/library/",
+      "passed": true
+    },
+    {
+      "name": "firefox/en all sources comparable",
+      "passed": true
+    },
+    {
+      "name": "firefox/en comparison limit",
+      "passed": true
+    },
+    {
+      "name": "firefox/en four record columns",
+      "passed": true
+    },
+    {
+      "name": "firefox/en descriptive real export",
+      "passed": true
+    },
+    {
+      "name": "firefox/en/320 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "firefox/en/390 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "firefox/en native select keeps keyboard focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/en native selection updates comparison",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/compare/?ids=aservic-principles,aservic-principles,unknown,%3Cimg%3E",
+      "passed": true
+    },
+    {
+      "name": "firefox/en selection validation",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/resource/sipas/",
+      "passed": true
+    },
+    {
+      "name": "firefox/en separate review dimensions",
+      "passed": true
+    },
+    {
+      "name": "firefox/en actual RIS",
+      "passed": true
+    },
+    {
+      "name": "firefox/en actual BibTeX",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/contribute/",
+      "passed": true
+    },
+    {
+      "name": "firefox/en summary receives focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/en error links to field",
+      "passed": true
+    },
+    {
+      "name": "firefox/en local proposal not submission",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/dossier/preferences-and-boundaries/",
+      "passed": true
+    },
+    {
+      "name": "firefox/de dialog focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/de dialog restores focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/de saved state persists",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/saved/",
+      "passed": true
+    },
+    {
+      "name": "firefox/de saved record resolves",
+      "passed": true
+    },
+    {
+      "name": "firefox/de storage scope disclosed",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/search/",
+      "passed": true
+    },
+    {
+      "name": "firefox/de exact DOI first",
+      "passed": true
+    },
+    {
+      "name": "firefox/de identifier not generic search",
+      "passed": true
+    },
+    {
+      "name": "firefox/de hostile query is text",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/books/",
+      "passed": true
+    },
+    {
+      "name": "firefox/de native list toggle",
+      "passed": true
+    },
+    {
+      "name": "firefox/de filter survives language change",
+      "passed": true
+    },
+    {
+      "name": "firefox/de view survives language change",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/library/",
+      "passed": true
+    },
+    {
+      "name": "firefox/de all sources comparable",
+      "passed": true
+    },
+    {
+      "name": "firefox/de comparison limit",
+      "passed": true
+    },
+    {
+      "name": "firefox/de four record columns",
+      "passed": true
+    },
+    {
+      "name": "firefox/de descriptive real export",
+      "passed": true
+    },
+    {
+      "name": "firefox/de/320 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "firefox/de/390 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "firefox/de native select keeps keyboard focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/de native selection updates comparison",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/compare/?ids=aservic-principles,aservic-principles,unknown,%3Cimg%3E",
+      "passed": true
+    },
+    {
+      "name": "firefox/de selection validation",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/resource/sipas/",
+      "passed": true
+    },
+    {
+      "name": "firefox/de separate review dimensions",
+      "passed": true
+    },
+    {
+      "name": "firefox/de actual RIS",
+      "passed": true
+    },
+    {
+      "name": "firefox/de actual BibTeX",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/contribute/",
+      "passed": true
+    },
+    {
+      "name": "firefox/de summary receives focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/de error links to field",
+      "passed": true
+    },
+    {
+      "name": "firefox/de local proposal not submission",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/dossier/preferences-and-boundaries/",
+      "passed": true
+    },
+    {
+      "name": "firefox/zh dialog focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/zh dialog restores focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/zh saved state persists",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/saved/",
+      "passed": true
+    },
+    {
+      "name": "firefox/zh saved record resolves",
+      "passed": true
+    },
+    {
+      "name": "firefox/zh storage scope disclosed",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/search/",
+      "passed": true
+    },
+    {
+      "name": "firefox/zh exact DOI first",
+      "passed": true
+    },
+    {
+      "name": "firefox/zh identifier not generic search",
+      "passed": true
+    },
+    {
+      "name": "firefox/zh hostile query is text",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/books/",
+      "passed": true
+    },
+    {
+      "name": "firefox/zh native list toggle",
+      "passed": true
+    },
+    {
+      "name": "firefox/zh filter survives language change",
+      "passed": true
+    },
+    {
+      "name": "firefox/zh view survives language change",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/library/",
+      "passed": true
+    },
+    {
+      "name": "firefox/zh all sources comparable",
+      "passed": true
+    },
+    {
+      "name": "firefox/zh comparison limit",
+      "passed": true
+    },
+    {
+      "name": "firefox/zh four record columns",
+      "passed": true
+    },
+    {
+      "name": "firefox/zh descriptive real export",
+      "passed": true
+    },
+    {
+      "name": "firefox/zh/320 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "firefox/zh/390 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "firefox/zh native select keeps keyboard focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/zh native selection updates comparison",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/compare/?ids=aservic-principles,aservic-principles,unknown,%3Cimg%3E",
+      "passed": true
+    },
+    {
+      "name": "firefox/zh selection validation",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/resource/sipas/",
+      "passed": true
+    },
+    {
+      "name": "firefox/zh separate review dimensions",
+      "passed": true
+    },
+    {
+      "name": "firefox/zh actual RIS",
+      "passed": true
+    },
+    {
+      "name": "firefox/zh actual BibTeX",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/contribute/",
+      "passed": true
+    },
+    {
+      "name": "firefox/zh summary receives focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/zh error links to field",
+      "passed": true
+    },
+    {
+      "name": "firefox/zh local proposal not submission",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/dossier/preferences-and-boundaries/",
+      "passed": true
+    },
+    {
+      "name": "firefox/ru dialog focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/ru dialog restores focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/ru saved state persists",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/saved/",
+      "passed": true
+    },
+    {
+      "name": "firefox/ru saved record resolves",
+      "passed": true
+    },
+    {
+      "name": "firefox/ru storage scope disclosed",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/search/",
+      "passed": true
+    },
+    {
+      "name": "firefox/ru exact DOI first",
+      "passed": true
+    },
+    {
+      "name": "firefox/ru identifier not generic search",
+      "passed": true
+    },
+    {
+      "name": "firefox/ru hostile query is text",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/books/",
+      "passed": true
+    },
+    {
+      "name": "firefox/ru native list toggle",
+      "passed": true
+    },
+    {
+      "name": "firefox/ru filter survives language change",
+      "passed": true
+    },
+    {
+      "name": "firefox/ru view survives language change",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/library/",
+      "passed": true
+    },
+    {
+      "name": "firefox/ru all sources comparable",
+      "passed": true
+    },
+    {
+      "name": "firefox/ru comparison limit",
+      "passed": true
+    },
+    {
+      "name": "firefox/ru four record columns",
+      "passed": true
+    },
+    {
+      "name": "firefox/ru descriptive real export",
+      "passed": true
+    },
+    {
+      "name": "firefox/ru/320 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "firefox/ru/390 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "firefox/ru native select keeps keyboard focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/ru native selection updates comparison",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/compare/?ids=aservic-principles,aservic-principles,unknown,%3Cimg%3E",
+      "passed": true
+    },
+    {
+      "name": "firefox/ru selection validation",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/resource/sipas/",
+      "passed": true
+    },
+    {
+      "name": "firefox/ru separate review dimensions",
+      "passed": true
+    },
+    {
+      "name": "firefox/ru actual RIS",
+      "passed": true
+    },
+    {
+      "name": "firefox/ru actual BibTeX",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/contribute/",
+      "passed": true
+    },
+    {
+      "name": "firefox/ru summary receives focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/ru error links to field",
+      "passed": true
+    },
+    {
+      "name": "firefox/ru local proposal not submission",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/dossier/preferences-and-boundaries/",
+      "passed": true
+    },
+    {
+      "name": "firefox/ar dialog focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/ar dialog restores focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/ar saved state persists",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/saved/",
+      "passed": true
+    },
+    {
+      "name": "firefox/ar saved record resolves",
+      "passed": true
+    },
+    {
+      "name": "firefox/ar storage scope disclosed",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/search/",
+      "passed": true
+    },
+    {
+      "name": "firefox/ar exact DOI first",
+      "passed": true
+    },
+    {
+      "name": "firefox/ar identifier not generic search",
+      "passed": true
+    },
+    {
+      "name": "firefox/ar hostile query is text",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/books/",
+      "passed": true
+    },
+    {
+      "name": "firefox/ar native list toggle",
+      "passed": true
+    },
+    {
+      "name": "firefox/ar filter survives language change",
+      "passed": true
+    },
+    {
+      "name": "firefox/ar view survives language change",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/library/",
+      "passed": true
+    },
+    {
+      "name": "firefox/ar all sources comparable",
+      "passed": true
+    },
+    {
+      "name": "firefox/ar comparison limit",
+      "passed": true
+    },
+    {
+      "name": "firefox/ar four record columns",
+      "passed": true
+    },
+    {
+      "name": "firefox/ar descriptive real export",
+      "passed": true
+    },
+    {
+      "name": "firefox/ar/320 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "firefox/ar/390 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "firefox/ar native select keeps keyboard focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/ar native selection updates comparison",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/compare/?ids=aservic-principles,aservic-principles,unknown,%3Cimg%3E",
+      "passed": true
+    },
+    {
+      "name": "firefox/ar selection validation",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/resource/sipas/",
+      "passed": true
+    },
+    {
+      "name": "firefox/ar separate review dimensions",
+      "passed": true
+    },
+    {
+      "name": "firefox/ar actual RIS",
+      "passed": true
+    },
+    {
+      "name": "firefox/ar actual BibTeX",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/contribute/",
+      "passed": true
+    },
+    {
+      "name": "firefox/ar summary receives focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/ar error links to field",
+      "passed": true
+    },
+    {
+      "name": "firefox/ar local proposal not submission",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/dossier/preferences-and-boundaries/",
+      "passed": true
+    },
+    {
+      "name": "firefox/id dialog focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/id dialog restores focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/id saved state persists",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/saved/",
+      "passed": true
+    },
+    {
+      "name": "firefox/id saved record resolves",
+      "passed": true
+    },
+    {
+      "name": "firefox/id storage scope disclosed",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/search/",
+      "passed": true
+    },
+    {
+      "name": "firefox/id exact DOI first",
+      "passed": true
+    },
+    {
+      "name": "firefox/id identifier not generic search",
+      "passed": true
+    },
+    {
+      "name": "firefox/id hostile query is text",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/books/",
+      "passed": true
+    },
+    {
+      "name": "firefox/id native list toggle",
+      "passed": true
+    },
+    {
+      "name": "firefox/id filter survives language change",
+      "passed": true
+    },
+    {
+      "name": "firefox/id view survives language change",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/library/",
+      "passed": true
+    },
+    {
+      "name": "firefox/id all sources comparable",
+      "passed": true
+    },
+    {
+      "name": "firefox/id comparison limit",
+      "passed": true
+    },
+    {
+      "name": "firefox/id four record columns",
+      "passed": true
+    },
+    {
+      "name": "firefox/id descriptive real export",
+      "passed": true
+    },
+    {
+      "name": "firefox/id/320 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "firefox/id/390 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "firefox/id native select keeps keyboard focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/id native selection updates comparison",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/compare/?ids=aservic-principles,aservic-principles,unknown,%3Cimg%3E",
+      "passed": true
+    },
+    {
+      "name": "firefox/id selection validation",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/resource/sipas/",
+      "passed": true
+    },
+    {
+      "name": "firefox/id separate review dimensions",
+      "passed": true
+    },
+    {
+      "name": "firefox/id actual RIS",
+      "passed": true
+    },
+    {
+      "name": "firefox/id actual BibTeX",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/contribute/",
+      "passed": true
+    },
+    {
+      "name": "firefox/id summary receives focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/id error links to field",
+      "passed": true
+    },
+    {
+      "name": "firefox/id local proposal not submission",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/dossier/preferences-and-boundaries/",
+      "passed": true
+    },
+    {
+      "name": "firefox/ms dialog focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/ms dialog restores focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/ms saved state persists",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/saved/",
+      "passed": true
+    },
+    {
+      "name": "firefox/ms saved record resolves",
+      "passed": true
+    },
+    {
+      "name": "firefox/ms storage scope disclosed",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/search/",
+      "passed": true
+    },
+    {
+      "name": "firefox/ms exact DOI first",
+      "passed": true
+    },
+    {
+      "name": "firefox/ms identifier not generic search",
+      "passed": true
+    },
+    {
+      "name": "firefox/ms hostile query is text",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/books/",
+      "passed": true
+    },
+    {
+      "name": "firefox/ms native list toggle",
+      "passed": true
+    },
+    {
+      "name": "firefox/ms filter survives language change",
+      "passed": true
+    },
+    {
+      "name": "firefox/ms view survives language change",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/library/",
+      "passed": true
+    },
+    {
+      "name": "firefox/ms all sources comparable",
+      "passed": true
+    },
+    {
+      "name": "firefox/ms comparison limit",
+      "passed": true
+    },
+    {
+      "name": "firefox/ms four record columns",
+      "passed": true
+    },
+    {
+      "name": "firefox/ms descriptive real export",
+      "passed": true
+    },
+    {
+      "name": "firefox/ms/320 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "firefox/ms/390 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "firefox/ms native select keeps keyboard focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/ms native selection updates comparison",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/compare/?ids=aservic-principles,aservic-principles,unknown,%3Cimg%3E",
+      "passed": true
+    },
+    {
+      "name": "firefox/ms selection validation",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/resource/sipas/",
+      "passed": true
+    },
+    {
+      "name": "firefox/ms separate review dimensions",
+      "passed": true
+    },
+    {
+      "name": "firefox/ms actual RIS",
+      "passed": true
+    },
+    {
+      "name": "firefox/ms actual BibTeX",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/contribute/",
+      "passed": true
+    },
+    {
+      "name": "firefox/ms summary receives focus",
+      "passed": true
+    },
+    {
+      "name": "firefox/ms error links to field",
+      "passed": true
+    },
+    {
+      "name": "firefox/ms local proposal not submission",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/dossier/preferences-and-boundaries/",
+      "passed": true
+    },
+    {
+      "name": "webkit/tr dialog focus",
+      "passed": true
+    },
+    {
+      "name": "webkit/tr dialog restores focus",
+      "passed": true
+    },
+    {
+      "name": "webkit/tr saved state persists",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/saved/",
+      "passed": true
+    },
+    {
+      "name": "webkit/tr saved record resolves",
+      "passed": true
+    },
+    {
+      "name": "webkit/tr storage scope disclosed",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/search/",
+      "passed": true
+    },
+    {
+      "name": "webkit/tr exact DOI first",
+      "passed": true
+    },
+    {
+      "name": "webkit/tr identifier not generic search",
+      "passed": true
+    },
+    {
+      "name": "webkit/tr hostile query is text",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/books/",
+      "passed": true
+    },
+    {
+      "name": "webkit/tr native list toggle",
+      "passed": true
+    },
+    {
+      "name": "webkit/tr filter survives language change",
+      "passed": true
+    },
+    {
+      "name": "webkit/tr view survives language change",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/library/",
+      "passed": true
+    },
+    {
+      "name": "webkit/tr all sources comparable",
+      "passed": true
+    },
+    {
+      "name": "webkit/tr comparison limit",
+      "passed": true
+    },
+    {
+      "name": "webkit/tr four record columns",
+      "passed": true
+    },
+    {
+      "name": "webkit/tr descriptive real export",
+      "passed": true
+    },
+    {
+      "name": "webkit/tr/320 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "webkit/tr/390 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "webkit/tr native select keeps keyboard focus",
+      "passed": true
+    },
+    {
+      "name": "webkit/tr native selection updates comparison",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/compare/?ids=aservic-principles,aservic-principles,unknown,%3Cimg%3E",
+      "passed": true
+    },
+    {
+      "name": "webkit/tr selection validation",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/resource/sipas/",
+      "passed": true
+    },
+    {
+      "name": "webkit/tr separate review dimensions",
+      "passed": true
+    },
+    {
+      "name": "webkit/tr actual RIS",
+      "passed": true
+    },
+    {
+      "name": "webkit/tr actual BibTeX",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/contribute/",
+      "passed": true
+    },
+    {
+      "name": "webkit/tr summary receives focus",
+      "passed": true
+    },
+    {
+      "name": "webkit/tr error links to field",
+      "passed": true
+    },
+    {
+      "name": "webkit/tr local proposal not submission",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/dossier/preferences-and-boundaries/",
+      "passed": true
+    },
+    {
+      "name": "webkit/en dialog focus",
+      "passed": true
+    },
+    {
+      "name": "webkit/en dialog restores focus",
+      "passed": true
+    },
+    {
+      "name": "webkit/en saved state persists",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/saved/",
+      "passed": true
+    },
+    {
+      "name": "webkit/en saved record resolves",
+      "passed": true
+    },
+    {
+      "name": "webkit/en storage scope disclosed",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/search/",
+      "passed": true
+    },
+    {
+      "name": "webkit/en exact DOI first",
+      "passed": true
+    },
+    {
+      "name": "webkit/en identifier not generic search",
+      "passed": true
+    },
+    {
+      "name": "webkit/en hostile query is text",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/books/",
+      "passed": true
+    },
+    {
+      "name": "webkit/en native list toggle",
+      "passed": true
+    },
+    {
+      "name": "webkit/en filter survives language change",
+      "passed": true
+    },
+    {
+      "name": "webkit/en view survives language change",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/library/",
+      "passed": true
+    },
+    {
+      "name": "webkit/en all sources comparable",
+      "passed": true
+    },
+    {
+      "name": "webkit/en comparison limit",
+      "passed": true
+    },
+    {
+      "name": "webkit/en four record columns",
+      "passed": true
+    },
+    {
+      "name": "webkit/en descriptive real export",
+      "passed": true
+    },
+    {
+      "name": "webkit/en/320 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "webkit/en/390 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "webkit/en native select keeps keyboard focus",
+      "passed": true
+    },
+    {
+      "name": "webkit/en native selection updates comparison",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/compare/?ids=aservic-principles,aservic-principles,unknown,%3Cimg%3E",
+      "passed": true
+    },
+    {
+      "name": "webkit/en selection validation",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/resource/sipas/",
+      "passed": true
+    },
+    {
+      "name": "webkit/en separate review dimensions",
+      "passed": true
+    },
+    {
+      "name": "webkit/en actual RIS",
+      "passed": true
+    },
+    {
+      "name": "webkit/en actual BibTeX",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/contribute/",
+      "passed": true
+    },
+    {
+      "name": "webkit/en summary receives focus",
+      "passed": true
+    },
+    {
+      "name": "webkit/en error links to field",
+      "passed": true
+    },
+    {
+      "name": "webkit/en local proposal not submission",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/dossier/preferences-and-boundaries/",
+      "passed": true
+    },
+    {
+      "name": "webkit/de dialog focus",
+      "passed": true
+    },
+    {
+      "name": "webkit/de dialog restores focus",
+      "passed": true
+    },
+    {
+      "name": "webkit/de saved state persists",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/saved/",
+      "passed": true
+    },
+    {
+      "name": "webkit/de saved record resolves",
+      "passed": true
+    },
+    {
+      "name": "webkit/de storage scope disclosed",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/search/",
+      "passed": true
+    },
+    {
+      "name": "webkit/de exact DOI first",
+      "passed": true
+    },
+    {
+      "name": "webkit/de identifier not generic search",
+      "passed": true
+    },
+    {
+      "name": "webkit/de hostile query is text",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/books/",
+      "passed": true
+    },
+    {
+      "name": "webkit/de native list toggle",
+      "passed": true
+    },
+    {
+      "name": "webkit/de filter survives language change",
+      "passed": true
+    },
+    {
+      "name": "webkit/de view survives language change",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/library/",
+      "passed": true
+    },
+    {
+      "name": "webkit/de all sources comparable",
+      "passed": true
+    },
+    {
+      "name": "webkit/de comparison limit",
+      "passed": true
+    },
+    {
+      "name": "webkit/de four record columns",
+      "passed": true
+    },
+    {
+      "name": "webkit/de descriptive real export",
+      "passed": true
+    },
+    {
+      "name": "webkit/de/320 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "webkit/de/390 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "webkit/de native select keeps keyboard focus",
+      "passed": true
+    },
+    {
+      "name": "webkit/de native selection updates comparison",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/compare/?ids=aservic-principles,aservic-principles,unknown,%3Cimg%3E",
+      "passed": true
+    },
+    {
+      "name": "webkit/de selection validation",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/resource/sipas/",
+      "passed": true
+    },
+    {
+      "name": "webkit/de separate review dimensions",
+      "passed": true
+    },
+    {
+      "name": "webkit/de actual RIS",
+      "passed": true
+    },
+    {
+      "name": "webkit/de actual BibTeX",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/contribute/",
+      "passed": true
+    },
+    {
+      "name": "webkit/de summary receives focus",
+      "passed": true
+    },
+    {
+      "name": "webkit/de error links to field",
+      "passed": true
+    },
+    {
+      "name": "webkit/de local proposal not submission",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/dossier/preferences-and-boundaries/",
+      "passed": true
+    },
+    {
+      "name": "webkit/zh dialog focus",
+      "passed": true
+    },
+    {
+      "name": "webkit/zh dialog restores focus",
+      "passed": true
+    },
+    {
+      "name": "webkit/zh saved state persists",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/saved/",
+      "passed": true
+    },
+    {
+      "name": "webkit/zh saved record resolves",
+      "passed": true
+    },
+    {
+      "name": "webkit/zh storage scope disclosed",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/search/",
+      "passed": true
+    },
+    {
+      "name": "webkit/zh exact DOI first",
+      "passed": true
+    },
+    {
+      "name": "webkit/zh identifier not generic search",
+      "passed": true
+    },
+    {
+      "name": "webkit/zh hostile query is text",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/books/",
+      "passed": true
+    },
+    {
+      "name": "webkit/zh native list toggle",
+      "passed": true
+    },
+    {
+      "name": "webkit/zh filter survives language change",
+      "passed": true
+    },
+    {
+      "name": "webkit/zh view survives language change",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/library/",
+      "passed": true
+    },
+    {
+      "name": "webkit/zh all sources comparable",
+      "passed": true
+    },
+    {
+      "name": "webkit/zh comparison limit",
+      "passed": true
+    },
+    {
+      "name": "webkit/zh four record columns",
+      "passed": true
+    },
+    {
+      "name": "webkit/zh descriptive real export",
+      "passed": true
+    },
+    {
+      "name": "webkit/zh/320 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "webkit/zh/390 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "webkit/zh native select keeps keyboard focus",
+      "passed": true
+    },
+    {
+      "name": "webkit/zh native selection updates comparison",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/compare/?ids=aservic-principles,aservic-principles,unknown,%3Cimg%3E",
+      "passed": true
+    },
+    {
+      "name": "webkit/zh selection validation",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/resource/sipas/",
+      "passed": true
+    },
+    {
+      "name": "webkit/zh separate review dimensions",
+      "passed": true
+    },
+    {
+      "name": "webkit/zh actual RIS",
+      "passed": true
+    },
+    {
+      "name": "webkit/zh actual BibTeX",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/contribute/",
+      "passed": true
+    },
+    {
+      "name": "webkit/zh summary receives focus",
+      "passed": true
+    },
+    {
+      "name": "webkit/zh error links to field",
+      "passed": true
+    },
+    {
+      "name": "webkit/zh local proposal not submission",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/dossier/preferences-and-boundaries/",
+      "passed": true
+    },
+    {
+      "name": "webkit/ru dialog focus",
+      "passed": true
+    },
+    {
+      "name": "webkit/ru dialog restores focus",
+      "passed": true
+    },
+    {
+      "name": "webkit/ru saved state persists",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/saved/",
+      "passed": true
+    },
+    {
+      "name": "webkit/ru saved record resolves",
+      "passed": true
+    },
+    {
+      "name": "webkit/ru storage scope disclosed",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/search/",
+      "passed": true
+    },
+    {
+      "name": "webkit/ru exact DOI first",
+      "passed": true
+    },
+    {
+      "name": "webkit/ru identifier not generic search",
+      "passed": true
+    },
+    {
+      "name": "webkit/ru hostile query is text",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/books/",
+      "passed": true
+    },
+    {
+      "name": "webkit/ru native list toggle",
+      "passed": true
+    },
+    {
+      "name": "webkit/ru filter survives language change",
+      "passed": true
+    },
+    {
+      "name": "webkit/ru view survives language change",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/library/",
+      "passed": true
+    },
+    {
+      "name": "webkit/ru all sources comparable",
+      "passed": true
+    },
+    {
+      "name": "webkit/ru comparison limit",
+      "passed": true
+    },
+    {
+      "name": "webkit/ru four record columns",
+      "passed": true
+    },
+    {
+      "name": "webkit/ru descriptive real export",
+      "passed": true
+    },
+    {
+      "name": "webkit/ru/320 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "webkit/ru/390 comparison scroll contained",
+      "passed": true
+    },
+    {
+      "name": "webkit/ru native select keeps keyboard focus",
+      "passed": true
+    },
+    {
+      "name": "webkit/ru native selection updates comparison",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/compare/?ids=aservic-principles,aservic-principles,unknown,%3Cimg%3E",
+      "passed": true
+    },
+    {
+      "name": "webkit/ru selection validation",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/resource/sipas/",
+      "passed": true
+    },
+    {
+      "name": "webkit/ru separate review dimensions",
+      "passed": true
+    },
+    {
+      "name": "webkit/ru actual RIS",
+      "passed": true
+    },
+    {
+      "name": "webkit/ru actual BibTeX",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/contribute/",
+      "passed": false
+    }
+  ],
+  "passed": 710,
+  "total": 711,
+  "success": false,
+  "error": "Traceback (most recent call last):\n  File \"/__w/onourimpram.github.io/onourimpram.github.io/.marsam-source/tests/browser_suite.py\", line 266, in run\n    getattr(self, self.mode)(browser, engine)\n  File \"/__w/onourimpram.github.io/onourimpram.github.io/.marsam-source/tests/browser_suite.py\", line 154, in core\n    self.goto(page, locale, 'contribute/')\n  File \"/__w/onourimpram.github.io/onourimpram.github.io/.marsam-source/tests/browser_suite.py\", line 54, in goto\n    self.ck(f'HTTP {locale}/{path}', response is not None and response.status == 200)\n  File \"/__w/onourimpram.github.io/onourimpram.github.io/.marsam-source/tests/browser_suite.py\", line 49, in ck\n    raise AssertionError(name)\nAssertionError: HTTP ru/contribute/\n",
+  "browserErrors": [],
+  "posts": [],
+  "mockedIO": false,
+  "limits": [
+    "Not an independent accessibility audit, screen-reader assessment, human usability study, scientific approval or native-language review.",
+    "The text enlargement test uses root font sizing, not a claim about every browser zoom configuration."
+  ]
+}

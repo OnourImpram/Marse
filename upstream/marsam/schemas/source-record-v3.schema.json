@@ -1,0 +1,92 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://marsam.example/schema/source-record-v3.json",
+  "title": "MARSAM Source Record v3",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "url",
+    "kind",
+    "inspection",
+    "checked",
+    "reviewStatus",
+    "rights"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^s-[a-z0-9-]+$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "doi": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "pmid": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "kind": {
+      "enum": [
+        "study",
+        "measure",
+        "theory",
+        "guide",
+        "method",
+        "book",
+        "hub"
+      ]
+    },
+    "inspection": {
+      "enum": [
+        "metadata",
+        "abstract",
+        "fulltext",
+        "official"
+      ]
+    },
+    "checked": {
+      "type": "string",
+      "format": "date"
+    },
+    "reviewStatus": {
+      "enum": [
+        "AI_ASSISTED_DRAFT",
+        "HUMAN_REVIEWED",
+        "OUTDATED"
+      ]
+    },
+    "rights": {
+      "type": "string",
+      "minLength": 1
+    },
+    "correctionState": {
+      "enum": [
+        "not-checked",
+        "no-update-found",
+        "correction",
+        "retraction",
+        "expression-of-concern"
+      ]
+    },
+    "sourceHash": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "additionalProperties": true
+}

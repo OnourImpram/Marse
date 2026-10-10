@@ -1,0 +1,67 @@
+{
+  "version": "0.9.1",
+  "status": "candidate-verified-not-public",
+  "sourceBaseline": "992a29bcefd350f54342d388b86c1f98e13bd212",
+  "runId": "37192115633",
+  "regressions": {
+    "beforeFailed": 5,
+    "afterPassed": 5
+  },
+  "suites": {
+    "reading-room-core": {
+      "passed": 818,
+      "browsers": {
+        "chromium": "149.0.7827.55",
+        "firefox": "151.0",
+        "webkit": "26.5"
+      },
+      "success": true
+    },
+    "reading-room-scope": {
+      "passed": 899,
+      "browsers": {
+        "chromium": "149.0.7827.55",
+        "firefox": "151.0",
+        "webkit": "26.5"
+      },
+      "success": true
+    },
+    "reading-room-layout": {
+      "passed": 2723,
+      "browsers": {
+        "chromium": "149.0.7827.55",
+        "firefox": "151.0",
+        "webkit": "26.5"
+      },
+      "success": true
+    },
+    "research-browser": {
+      "passed": 2324,
+      "browsers": [
+        "chromium",
+        "firefox",
+        "webkit"
+      ],
+      "success": true
+    },
+    "cini-browser": {
+      "passed": 1393,
+      "browsers": [
+        "chromium",
+        "firefox",
+        "webkit"
+      ],
+      "success": true
+    },
+    "scholarship-browser": {
+      "passed": 829,
+      "browsers": null,
+      "success": true
+    }
+  },
+  "visualAssetsChanged": false,
+  "paletteChanged": false,
+  "scientificHumanReview": false,
+  "nativeLanguageHumanReview": false,
+  "formalInstitutionalApproval": false
+}

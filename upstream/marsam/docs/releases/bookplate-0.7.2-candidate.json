@@ -1,0 +1,45 @@
+{
+  "version": "0.7.2",
+  "status": "candidate-tested-pending-visual-review-and-deployment",
+  "baseSource": "999e640f3f33a490087d5d774ceae3c94c217b84",
+  "unitRegression": {
+    "before": "3 failures for the requested corrections",
+    "after": "3 passed"
+  },
+  "academicSourceDataChanged": false,
+  "humanLanguageReview": false,
+  "formalApproval": false,
+  "workflowRun": 36977278814,
+  "suites": {
+    "core": {
+      "passed": 818,
+      "total": 818,
+      "success": true,
+      "browsers": {
+        "chromium": "149.0.7827.55",
+        "firefox": "151.0",
+        "webkit": "26.5"
+      }
+    },
+    "scope": {
+      "passed": 899,
+      "total": 899,
+      "success": true,
+      "browsers": {
+        "chromium": "149.0.7827.55",
+        "firefox": "151.0",
+        "webkit": "26.5"
+      }
+    },
+    "layout": {
+      "passed": 2627,
+      "total": 2627,
+      "success": true,
+      "browsers": {
+        "chromium": "149.0.7827.55",
+        "firefox": "151.0",
+        "webkit": "26.5"
+      }
+    }
+  }
+}

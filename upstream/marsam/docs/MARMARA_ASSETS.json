@@ -1,0 +1,17 @@
+{
+  "sourcePage": "https://isletme.marmara.edu.tr/fakulte/kurumsal-logo",
+  "guide": "https://isletme.marmara.edu.tr/dosya/isf/Kurumsal_Logo_Kullanim_Kilavuzu.pdf",
+  "checked": "2026-10-01",
+  "primaryHex": "#003d72",
+  "treatment": "General university TR/EN horizontal marks copied byte-for-byte from the official archive. CSS preserves proportions. No font files or faculty-specific marks. Institutional proposal, not formal endorsement.",
+  "assets": [
+    {
+      "path": "public/assets/marmara-tr.png",
+      "sha256": "4646a98b7bb6b128a4cf5dc1ae2915eea0675d20aea2c04a15e01564f1af333b"
+    },
+    {
+      "path": "public/assets/marmara-en.png",
+      "sha256": "30c3b2c37ddf361c82659d5ac322089984957434ad156cb5b473ec2c278a92be"
+    }
+  ]
+}

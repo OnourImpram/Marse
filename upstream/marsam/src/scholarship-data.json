@@ -1,0 +1,1390 @@
+{
+  "schemaVersion": 1,
+  "records": [
+    {
+      "id": "german-meta",
+      "sourceId": "s-german-meta",
+      "title": "Religiosity, Spirituality and Mental Health: Meta-analysis of Studies from the German-Speaking Area",
+      "language": "en",
+      "year": 2026,
+      "url": "https://doi.org/10.1007/s10943-025-02406-3",
+      "citation": "Christian Zwingmann (2026). Religiosity, Spirituality and Mental Health: Meta-analysis of Studies from the German-Speaking Area. Journal of Religion and Health. https://doi.org/10.1007/s10943-025-02406-3",
+      "brief": {
+        "design": "meta-analysis",
+        "population": "39 studies from German-speaking settings",
+        "findingDirection": "small-positive",
+        "doi": "10.1007/s10943-025-02406-3",
+        "inspection": "abstract-and-metadata",
+        "checked": "2026-10-03",
+        "effect": {
+          "r": 0.083,
+          "CI95": [
+            0.055,
+            0.111
+          ]
+        },
+        "onlineDate": "2025-08-12",
+        "issueYear": 2026,
+        "limitationCodes": [
+          "association-not-causation",
+          "cultural-transfer-uncertain",
+          "construct-overlap"
+        ]
+      },
+      "editions": {
+        "tr": {
+          "title": "Almanca konuşulan ülkelerde maneviyat ve ruh sağlığı",
+          "finding": "39 çalışmada küçük bir ilişki bulunmuştur: r = 0,083.",
+          "limit": "Korelasyon nedensellik göstermez. Kültür ve ölçüm önemlidir.",
+          "briefHash": "853b813c2df56f13f5f1ba6052b14bd58273e76ed1546f31e954f6507b8f2dc0",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Almanca konuşulan ülkelerden 39 çalışma."
+        },
+        "en": {
+          "title": "Spirituality and mental health in German-speaking settings",
+          "finding": "39 studies: a small association, r = 0.083.",
+          "limit": "Correlation does not establish causation. Culture and measurement matter.",
+          "briefHash": "853b813c2df56f13f5f1ba6052b14bd58273e76ed1546f31e954f6507b8f2dc0",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "39 studies from German-speaking settings."
+        },
+        "de": {
+          "title": "Spiritualität und psychische Gesundheit im deutschsprachigen Raum",
+          "finding": "39 Studien: kleiner Zusammenhang, r = 0,083.",
+          "limit": "Korrelation belegt keine Kausalität. Kultur und Messung sind relevant.",
+          "briefHash": "853b813c2df56f13f5f1ba6052b14bd58273e76ed1546f31e954f6507b8f2dc0",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "39 Studien aus dem deutschsprachigen Raum."
+        },
+        "zh": {
+          "title": "德语地区的灵性与心理健康",
+          "finding": "39项研究：相关较弱，r = 0.083。",
+          "limit": "相关不等于因果，文化与测量方式会影响解释。",
+          "briefHash": "853b813c2df56f13f5f1ba6052b14bd58273e76ed1546f31e954f6507b8f2dc0",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "德语地区的39项研究。"
+        },
+        "ru": {
+          "title": "Духовность и психическое здоровье в немецкоязычных странах",
+          "finding": "39 исследований: слабая связь, r = 0,083.",
+          "limit": "Корреляция не доказывает причинность. Важны культура и измерение.",
+          "briefHash": "853b813c2df56f13f5f1ba6052b14bd58273e76ed1546f31e954f6507b8f2dc0",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "39 исследований в немецкоязычных регионах."
+        },
+        "ar": {
+          "title": "الروحانية والصحة النفسية في البيئات الناطقة بالألمانية",
+          "finding": "39 دراسة: ارتباط ضعيف، r = 0.083.",
+          "limit": "الارتباط لا يثبت السببية. للسياق الثقافي والقياس أهمية.",
+          "briefHash": "853b813c2df56f13f5f1ba6052b14bd58273e76ed1546f31e954f6507b8f2dc0",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "39 دراسة من بيئات ناطقة بالألمانية."
+        },
+        "id": {
+          "title": "Spiritualitas dan kesehatan mental di wilayah berbahasa Jerman",
+          "finding": "39 studi: hubungan kecil, r = 0,083.",
+          "limit": "Korelasi bukan bukti sebab akibat. Budaya dan pengukuran penting.",
+          "briefHash": "853b813c2df56f13f5f1ba6052b14bd58273e76ed1546f31e954f6507b8f2dc0",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "39 studi dari wilayah berbahasa Jerman."
+        },
+        "ms": {
+          "title": "Kerohanian dan kesihatan mental di wilayah berbahasa Jerman",
+          "finding": "39 kajian: perkaitan kecil, r = 0.083.",
+          "limit": "Korelasi tidak membuktikan sebab akibat. Budaya dan pengukuran penting.",
+          "briefHash": "853b813c2df56f13f5f1ba6052b14bd58273e76ed1546f31e954f6507b8f2dc0",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "39 kajian dari wilayah berbahasa Jerman."
+        }
+      },
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Christian Zwingmann"
+        ],
+        "editors": [],
+        "date": "2026-02",
+        "journal": "Journal of Religion and Health",
+        "volume": "65",
+        "issue": "1",
+        "pages": "132-157",
+        "doi": "10.1007/s10943-025-02406-3",
+        "note": {
+          "tr": "Korelasyon nedensellik göstermez. Kültür ve ölçüm önemlidir.",
+          "en": "Correlation does not establish causation. Culture and measurement matter.",
+          "de": "Korrelation belegt keine Kausalität. Kultur und Messung sind relevant.",
+          "zh": "相关不等于因果，文化与测量方式会影响解释。",
+          "ru": "Корреляция не доказывает причинность. Важны культура и измерение.",
+          "ar": "الارتباط لا يثبت السببية. للسياق الثقافي والقياس أهمية.",
+          "id": "Korelasi bukan bukti sebab akibat. Budaya dan pengukuran penting.",
+          "ms": "Korelasi tidak membuktikan sebab akibat. Budaya dan pengukuran penting."
+        },
+        "onlineDate": "2025-08-12"
+      }
+    },
+    {
+      "id": "adolescent-contexts",
+      "sourceId": "s-adolescent-contexts",
+      "title": "Unpacking the Complex Relationship Between Religiosity and Adolescent Mental Health: A Cross-Cultural Systematic Literature Review",
+      "language": "en",
+      "year": 2026,
+      "url": "https://doi.org/10.1007/s10943-026-02736-w",
+      "citation": "Lydia Mannion, Maurice Harmon, Trevor O’Brien (2026). Unpacking the Complex Relationship Between Religiosity and Adolescent Mental Health: A Cross-Cultural Systematic Literature Review. Journal of Religion and Health. https://doi.org/10.1007/s10943-026-02736-w",
+      "brief": {
+        "design": "systematic-review",
+        "population": "10 studies, adolescents, multiple countries",
+        "findingDirection": "mixed",
+        "doi": "10.1007/s10943-026-02736-w",
+        "inspection": "abstract-and-metadata",
+        "checked": "2026-10-03",
+        "limitationCodes": [
+          "heterogeneous-contexts",
+          "no-universal-protection"
+        ]
+      },
+      "editions": {
+        "tr": {
+          "title": "Ergenlikte din ve ruh sağlığı: kültürler arası bulgular",
+          "finding": "10 çalışmada yararlı ilişkilerin yanı sıra nötr ve olumsuz bulgular da yer almaktadır.",
+          "limit": "Bağlamlar farklıdır. Evrensel koruyuculuk çıkarılamaz.",
+          "briefHash": "76ff9599e07b76e8f747ec4c5dee18276a4f3735105ae9bc95c911c9e67e1c76",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Farklı ülke ve dini bağlamlarda ergenleri inceleyen 10 çalışma."
+        },
+        "en": {
+          "title": "Religion and adolescent mental health across cultures",
+          "finding": "10 studies include beneficial, neutral and adverse associations.",
+          "limit": "Contexts differ. Universal protection cannot be inferred.",
+          "briefHash": "76ff9599e07b76e8f747ec4c5dee18276a4f3735105ae9bc95c911c9e67e1c76",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "10 studies of adolescents across countries and religious contexts."
+        },
+        "de": {
+          "title": "Religion und psychische Gesundheit Jugendlicher im Kulturvergleich",
+          "finding": "10 Studien berichten förderliche, neutrale und ungünstige Zusammenhänge.",
+          "limit": "Unterschiedliche Kontexte erlauben keine universelle Schutzannahme.",
+          "briefHash": "76ff9599e07b76e8f747ec4c5dee18276a4f3735105ae9bc95c911c9e67e1c76",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "10 Studien mit Jugendlichen aus mehreren Ländern und religiösen Kontexten."
+        },
+        "zh": {
+          "title": "跨文化视角下青少年的宗教与心理健康",
+          "finding": "10项研究呈现有益、中性及不利关联。",
+          "limit": "情境不同，不能推断普遍的保护作用。",
+          "briefHash": "76ff9599e07b76e8f747ec4c5dee18276a4f3735105ae9bc95c911c9e67e1c76",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "来自多个国家及宗教情境的10项青少年研究。"
+        },
+        "ru": {
+          "title": "Религия и психическое здоровье подростков в разных культурах",
+          "finding": "10 исследований выявляют благоприятные, нейтральные и неблагоприятные связи.",
+          "limit": "Контексты различаются. Универсальная защита не доказана.",
+          "briefHash": "76ff9599e07b76e8f747ec4c5dee18276a4f3735105ae9bc95c911c9e67e1c76",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "10 исследований подростков в разных странах и религиозных контекстах."
+        },
+        "ar": {
+          "title": "الدين والصحة النفسية للمراهقين عبر الثقافات",
+          "finding": "10 دراسات تتضمن ارتباطات مفيدة ومحايدة وسلبية.",
+          "limit": "تختلف السياقات، ولا يمكن استنتاج حماية شاملة.",
+          "briefHash": "76ff9599e07b76e8f747ec4c5dee18276a4f3735105ae9bc95c911c9e67e1c76",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "10 دراسات للمراهقين عبر بلدان وسياقات دينية متعددة."
+        },
+        "id": {
+          "title": "Agama dan kesehatan mental remaja lintas budaya",
+          "finding": "10 studi mencakup hubungan menguntungkan, netral, dan merugikan.",
+          "limit": "Konteks berbeda. Perlindungan universal tidak dapat disimpulkan.",
+          "briefHash": "76ff9599e07b76e8f747ec4c5dee18276a4f3735105ae9bc95c911c9e67e1c76",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "10 studi remaja di berbagai negara dan konteks agama."
+        },
+        "ms": {
+          "title": "Agama dan kesihatan mental remaja merentas budaya",
+          "finding": "10 kajian merangkumi perkaitan bermanfaat, neutral dan memudaratkan.",
+          "limit": "Konteks berbeza. Perlindungan sejagat tidak dapat disimpulkan.",
+          "briefHash": "76ff9599e07b76e8f747ec4c5dee18276a4f3735105ae9bc95c911c9e67e1c76",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "10 kajian remaja merentas negara dan konteks agama."
+        }
+      },
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Lydia Mannion",
+          "Maurice Harmon",
+          "Trevor O’Brien"
+        ],
+        "editors": [],
+        "date": "2026-07-11",
+        "journal": "Journal of Religion and Health",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1007/s10943-026-02736-w",
+        "note": {
+          "tr": "Bağlamlar farklıdır. Evrensel koruyuculuk çıkarılamaz.",
+          "en": "Contexts differ. Universal protection cannot be inferred.",
+          "de": "Unterschiedliche Kontexte erlauben keine universelle Schutzannahme.",
+          "zh": "情境不同，不能推断普遍的保护作用。",
+          "ru": "Контексты различаются. Универсальная защита не доказана.",
+          "ar": "تختلف السياقات، ولا يمكن استنتاج حماية شاملة.",
+          "id": "Konteks berbeda. Perlindungan universal tidak dapat disimpulkan.",
+          "ms": "Konteks berbeza. Perlindungan sejagat tidak dapat disimpulkan."
+        }
+      }
+    },
+    {
+      "id": "youth-evidence",
+      "sourceId": "s-youth-evidence",
+      "title": "Religiosity and spirituality in the prevention and management of depression and anxiety in young people: a systematic review and meta-analysis",
+      "language": "en",
+      "year": 2023,
+      "url": "https://doi.org/10.1186/s12888-023-05091-2",
+      "citation": "Shilpa Aggarwal, Judith Wright, Amy Morgan, George Patton, Nicola Reavley (2023). Religiosity and spirituality in the prevention and management of depression and anxiety in young people: a systematic review and meta-analysis. BMC Psychiatry. https://doi.org/10.1186/s12888-023-05091-2",
+      "brief": {
+        "design": "meta-analysis",
+        "population": "45 longitudinal and 29 intervention studies, ages 10–24",
+        "findingDirection": "mixed",
+        "doi": "10.1186/s12888-023-05091-2",
+        "inspection": "abstract-and-metadata",
+        "checked": "2026-10-03",
+        "effects": {
+          "wellbeingDepression": {
+            "r": -0.153,
+            "CI95": [
+              -0.187,
+              -0.118
+            ]
+          },
+          "importanceDepression": {
+            "r": -0.024,
+            "CI95": [
+              -0.053,
+              0.004
+            ]
+          },
+          "negativeCopingDepression": {
+            "r": 0.09,
+            "CI95": [
+              -0.009,
+              0.188
+            ]
+          }
+        },
+        "limitationCodes": [
+          "mostly-low-moderate-quality",
+          "intervention-heterogeneity",
+          "high-income-predominance"
+        ]
+      },
+      "editions": {
+        "tr": {
+          "title": "Gençlerde depresyon ve kaygı: farklı maneviyat boyutları",
+          "finding": "Manevi iyi oluş ile depresyon arasında ters yönde bir ilişki bulunmuştur. Dinin kişi için taşıdığı önem açısından ise genel bir ilişki saptanmamıştır.",
+          "limit": "Çalışma kalitesi ve müdahale çeşitliliği çıkarımları sınırlar.",
+          "briefHash": "d8719888820f469bdc2459b88d9bbced20022b51b20f81c7427ce33bc46737d2",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "10–24 yaş aralığında yürütülmüş 45 boylamsal çalışma ve 29 müdahale çalışması."
+        },
+        "en": {
+          "title": "Depression and anxiety in young people: distinct spiritual dimensions",
+          "finding": "Spiritual wellbeing correlated inversely with depression. Religious importance showed no overall association.",
+          "limit": "Study quality and intervention heterogeneity constrain conclusions.",
+          "briefHash": "d8719888820f469bdc2459b88d9bbced20022b51b20f81c7427ce33bc46737d2",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Ages 10–24. 45 longitudinal studies and 29 intervention studies."
+        },
+        "de": {
+          "title": "Depression und Angst bei jungen Menschen: unterschiedliche spirituelle Dimensionen",
+          "finding": "Spirituelles Wohlbefinden korrelierte negativ mit Depression. Religiöse Wichtigkeit zeigte keinen Gesamtzusammenhang.",
+          "limit": "Studienqualität und heterogene Interventionen begrenzen Schlussfolgerungen.",
+          "briefHash": "d8719888820f469bdc2459b88d9bbced20022b51b20f81c7427ce33bc46737d2",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Alter 10–24 Jahre. 45 Längsschnittstudien und 29 Interventionsstudien."
+        },
+        "zh": {
+          "title": "青年抑郁与焦虑：不同的灵性维度",
+          "finding": "灵性福祉与抑郁负相关，宗教的重要性未显示总体关联。",
+          "limit": "研究质量与干预差异限制结论。",
+          "briefHash": "d8719888820f469bdc2459b88d9bbced20022b51b20f81c7427ce33bc46737d2",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "年龄10至24岁。45项纵向研究与29项干预研究。"
+        },
+        "ru": {
+          "title": "Депрессия и тревога у молодёжи: разные аспекты духовности",
+          "finding": "Духовное благополучие обратно связано с депрессией. Общая связь значимости религии не выявлена.",
+          "limit": "Качество исследований и неоднородность вмешательств ограничивают выводы.",
+          "briefHash": "d8719888820f469bdc2459b88d9bbced20022b51b20f81c7427ce33bc46737d2",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Возраст 10–24 года. 45 продольных и 29 интервенционных исследований."
+        },
+        "ar": {
+          "title": "الاكتئاب والقلق لدى الشباب: أبعاد روحانية متمايزة",
+          "finding": "ارتبط الرفاه الروحاني عكسياً بالاكتئاب. لم تظهر أهمية الدين ارتباطاً إجمالياً.",
+          "limit": "تحد جودة الدراسات وتباين التدخلات من الاستنتاجات.",
+          "briefHash": "d8719888820f469bdc2459b88d9bbced20022b51b20f81c7427ce33bc46737d2",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "الأعمار 10–24 عاماً. 45 دراسة طولية و29 دراسة تدخلية."
+        },
+        "id": {
+          "title": "Depresi dan kecemasan pada kaum muda: dimensi spiritual yang berbeda",
+          "finding": "Kesejahteraan spiritual berkorelasi terbalik dengan depresi. Pentingnya agama tidak menunjukkan hubungan keseluruhan.",
+          "limit": "Kualitas studi dan keragaman intervensi membatasi kesimpulan.",
+          "briefHash": "d8719888820f469bdc2459b88d9bbced20022b51b20f81c7427ce33bc46737d2",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Usia 10–24 tahun. 45 studi longitudinal dan 29 studi intervensi."
+        },
+        "ms": {
+          "title": "Kemurungan dan kebimbangan golongan muda: dimensi kerohanian yang berbeza",
+          "finding": "Kesejahteraan rohani berkorelasi songsang dengan kemurungan. Kepentingan agama tiada perkaitan keseluruhan.",
+          "limit": "Kualiti kajian dan kepelbagaian intervensi mengehadkan kesimpulan.",
+          "briefHash": "d8719888820f469bdc2459b88d9bbced20022b51b20f81c7427ce33bc46737d2",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Umur 10–24 tahun. 45 kajian longitudinal dan 29 kajian intervensi."
+        }
+      },
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Shilpa Aggarwal",
+          "Judith Wright",
+          "Amy Morgan",
+          "George Patton",
+          "Nicola Reavley"
+        ],
+        "editors": [],
+        "date": "2023-10-10",
+        "journal": "BMC Psychiatry",
+        "volume": "23",
+        "issue": "1",
+        "pages": "729",
+        "doi": "10.1186/s12888-023-05091-2",
+        "note": {
+          "tr": "Çalışma kalitesi ve müdahale çeşitliliği çıkarımları sınırlar.",
+          "en": "Study quality and intervention heterogeneity constrain conclusions.",
+          "de": "Studienqualität und heterogene Interventionen begrenzen Schlussfolgerungen.",
+          "zh": "研究质量与干预差异限制结论。",
+          "ru": "Качество исследований и неоднородность вмешательств ограничивают выводы.",
+          "ar": "تحد جودة الدراسات وتباين التدخلات من الاستنتاجات.",
+          "id": "Kualitas studi dan keragaman intervensi membatasi kesimpulan.",
+          "ms": "Kualiti kajian dan kepelbagaian intervensi mengehadkan kesimpulan."
+        }
+      }
+    },
+    {
+      "id": "older-adults",
+      "sourceId": "s-older-adults",
+      "title": "Religiosity/Spirituality and Mental Health in Older Adults: A Systematic Review and Meta-Analysis of Observational Studies",
+      "language": "en",
+      "year": 2022,
+      "url": "https://doi.org/10.3389/fmed.2022.877213",
+      "citation": "Hélio José Coelho-Júnior, Riccardo Calvani, Francesco Panza, Riccardo F. Allegri, Anna Picca, Emanuele Marzetti, Vicente Paulo Alves (2022). Religiosity/Spirituality and Mental Health in Older Adults: A Systematic Review and Meta-Analysis of Observational Studies. Frontiers in Medicine. https://doi.org/10.3389/fmed.2022.877213",
+      "brief": {
+        "design": "meta-analysis",
+        "population": "Observational studies of adults aged 60+. Total study count is unresolved between abstract and body.",
+        "findingDirection": "generally-positive",
+        "doi": "10.3389/fmed.2022.877213",
+        "inspection": "abstract-and-metadata",
+        "checked": "2026-10-03",
+        "limitationCodes": [
+          "observational-not-treatment-effect",
+          "heterogeneous-measures",
+          "study-count-discrepancy"
+        ],
+        "countStatus": "abstract-fulltext-counts-unreconciled"
+      },
+      "editions": {
+        "tr": {
+          "title": "İleri yaşta maneviyat ve ruh sağlığı",
+          "finding": "Derlemedeki çalışmalar çoğunlukla daha iyi ruh sağlığıyla ilişki bildirmektedir.",
+          "limit": "Gözlemsel bulgular tedavi etkisini göstermez. Özet ve tam metin farklı çalışma sayıları verdiğinden burada toplam sayı aktarılmadı.",
+          "briefHash": "1a138e9bde7d0d84a3f19d7a02d2ea269950b9fe5befc94f58d12d5bec658b76",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "60 yaş ve üzerindeki yetişkinlerle yürütülmüş gözlemsel araştırmalar."
+        },
+        "en": {
+          "title": "Spirituality and mental health in later life",
+          "finding": "The review generally reported associations with better mental health.",
+          "limit": "Observational findings do not establish treatment effects. Abstract and body report different study counts, so no total is reproduced here.",
+          "briefHash": "1a138e9bde7d0d84a3f19d7a02d2ea269950b9fe5befc94f58d12d5bec658b76",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Observational research on adults aged 60 or older."
+        },
+        "de": {
+          "title": "Spiritualität und psychische Gesundheit im Alter",
+          "finding": "Die Übersicht berichtete überwiegend Zusammenhänge mit besserer psychischer Gesundheit.",
+          "limit": "Beobachtungsbefunde belegen keine Behandlungseffekte. Abstract und Haupttext nennen unterschiedliche Studienzahlen, deshalb wird hier keine Gesamtzahl angegeben.",
+          "briefHash": "1a138e9bde7d0d84a3f19d7a02d2ea269950b9fe5befc94f58d12d5bec658b76",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Beobachtungsforschung mit Erwachsenen ab 60 Jahren."
+        },
+        "zh": {
+          "title": "老年人的灵性与心理健康",
+          "finding": "综述总体报告与较佳心理健康的关联。",
+          "limit": "观察性发现不能确立治疗效果。摘要与正文报告的研究数不同，因此此处不列总数。",
+          "briefHash": "1a138e9bde7d0d84a3f19d7a02d2ea269950b9fe5befc94f58d12d5bec658b76",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "60岁及以上成年人的观察性研究。"
+        },
+        "ru": {
+          "title": "Духовность и психическое здоровье в пожилом возрасте",
+          "finding": "Обзор преимущественно выявлял связи с лучшим психическим здоровьем.",
+          "limit": "Наблюдения не доказывают эффект лечения. Число исследований в аннотации и основном тексте различается, поэтому общее число здесь не приводится.",
+          "briefHash": "1a138e9bde7d0d84a3f19d7a02d2ea269950b9fe5befc94f58d12d5bec658b76",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Наблюдательные исследования взрослых от 60 лет."
+        },
+        "ar": {
+          "title": "الروحانية والصحة النفسية في سن متقدمة",
+          "finding": "أبلغت المراجعة عموماً عن ارتباطات بصحة نفسية أفضل.",
+          "limit": "لا تثبت النتائج الرصدية آثار العلاج. يختلف عدد الدراسات بين الملخص والمتن، لذا لا يُذكر مجموع هنا.",
+          "briefHash": "1a138e9bde7d0d84a3f19d7a02d2ea269950b9fe5befc94f58d12d5bec658b76",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "بحوث رصدية عن البالغين بعمر 60 عاماً فأكثر."
+        },
+        "id": {
+          "title": "Spiritualitas dan kesehatan mental pada usia lanjut",
+          "finding": "Tinjauan umumnya melaporkan hubungan dengan kesehatan mental yang lebih baik.",
+          "limit": "Temuan observasional tidak membuktikan efek terapi. Jumlah studi dalam abstrak dan isi berbeda, sehingga total tidak dicantumkan di sini.",
+          "briefHash": "1a138e9bde7d0d84a3f19d7a02d2ea269950b9fe5befc94f58d12d5bec658b76",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Penelitian observasional pada orang berusia 60 tahun ke atas."
+        },
+        "ms": {
+          "title": "Kerohanian dan kesihatan mental pada usia lanjut",
+          "finding": "Ulasan umumnya melaporkan perkaitan dengan kesihatan mental lebih baik.",
+          "limit": "Dapatan pemerhatian tidak membuktikan kesan rawatan. Bilangan kajian dalam abstrak dan teks berbeza, maka jumlah tidak dinyatakan di sini.",
+          "briefHash": "1a138e9bde7d0d84a3f19d7a02d2ea269950b9fe5befc94f58d12d5bec658b76",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Penyelidikan pemerhatian pada orang berumur 60 tahun ke atas."
+        }
+      },
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Hélio José Coelho-Júnior",
+          "Riccardo Calvani",
+          "Francesco Panza",
+          "Riccardo F. Allegri",
+          "Anna Picca",
+          "Emanuele Marzetti",
+          "Vicente Paulo Alves"
+        ],
+        "editors": [],
+        "date": "2022-05-12",
+        "journal": "Frontiers in Medicine",
+        "volume": "9",
+        "issue": "",
+        "pages": "877213",
+        "doi": "10.3389/fmed.2022.877213",
+        "note": {
+          "tr": "Gözlemsel bulgular tedavi etkisini göstermez. Özet ve tam metin farklı çalışma sayıları verdiğinden burada toplam sayı aktarılmadı.",
+          "en": "Observational findings do not establish treatment effects. Abstract and body report different study counts, so no total is reproduced here.",
+          "de": "Beobachtungsbefunde belegen keine Behandlungseffekte. Abstract und Haupttext nennen unterschiedliche Studienzahlen, deshalb wird hier keine Gesamtzahl angegeben.",
+          "zh": "观察性发现不能确立治疗效果。摘要与正文报告的研究数不同，因此此处不列总数。",
+          "ru": "Наблюдения не доказывают эффект лечения. Число исследований в аннотации и основном тексте различается, поэтому общее число здесь не приводится.",
+          "ar": "لا تثبت النتائج الرصدية آثار العلاج. يختلف عدد الدراسات بين الملخص والمتن، لذا لا يُذكر مجموع هنا.",
+          "id": "Temuan observasional tidak membuktikan efek terapi. Jumlah studi dalam abstrak dan isi berbeda, sehingga total tidak dicantumkan di sini.",
+          "ms": "Dapatan pemerhatian tidak membuktikan kesan rawatan. Bilangan kajian dalam abstrak dan teks berbeza, maka jumlah tidak dinyatakan di sini."
+        }
+      }
+    },
+    {
+      "id": "attendance-cohorts",
+      "sourceId": "s-attendance-cohorts",
+      "title": "Religious-service attendance and subsequent health and well-being throughout adulthood: evidence from three prospective cohorts",
+      "language": "en",
+      "year": 2020,
+      "url": "https://doi.org/10.1093/ije/dyaa120",
+      "citation": "Ying Chen, Eric S Kim, Tyler J VanderWeele (2020). Religious-service attendance and subsequent health and well-being throughout adulthood: evidence from three prospective cohorts. International Journal of Epidemiology. https://doi.org/10.1093/ije/dyaa120",
+      "brief": {
+        "design": "prospective-cohort",
+        "population": "Three US cohorts across adulthood",
+        "findingDirection": "mixed",
+        "doi": "10.1093/ije/dyaa120",
+        "inspection": "abstract-and-metadata",
+        "checked": "2026-10-03",
+        "limitationCodes": [
+          "residual-confounding",
+          "us-context",
+          "attendance-not-total-spirituality"
+        ]
+      },
+      "editions": {
+        "tr": {
+          "title": "Dini katılım: üç ileriye dönük kohort çalışması",
+          "finding": "Dini katılımın ilerleyen dönemlerdeki bazı ruh sağlığı çıktılarıyla olumlu ilişkili olduğu görülmüştür.",
+          "limit": "ABD örneklemleri. Kalıntı karıştırıcı etkiler göz ardı edilemez. Katılım, maneviyatın bütünü değildir.",
+          "briefHash": "fa66640007d72703ea902d0e0e77e734bd7af873e74b64d8b362674b1ed16a16",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "ABD’de genç, orta ve ileri yaştaki yetişkinleri izleyen üç kohort."
+        },
+        "en": {
+          "title": "Religious attendance: three prospective cohorts",
+          "finding": "Attendance was favourably associated with some subsequent mental health outcomes.",
+          "limit": "US samples. Residual confounding remains possible. Attendance is not spirituality as a whole.",
+          "briefHash": "fa66640007d72703ea902d0e0e77e734bd7af873e74b64d8b362674b1ed16a16",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Three US cohorts following young, middle-aged and older adults."
+        },
+        "de": {
+          "title": "Religiöse Teilnahme: drei prospektive Kohorten",
+          "finding": "Teilnahme war mit einigen späteren psychischen Gesundheitsmaßen günstig assoziiert.",
+          "limit": "US-Stichproben. Restkonfundierung bleibt möglich. Teilnahme erfasst nicht die gesamte Spiritualität.",
+          "briefHash": "fa66640007d72703ea902d0e0e77e734bd7af873e74b64d8b362674b1ed16a16",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Drei US-Kohorten mit jungen, mittelalten und älteren Erwachsenen."
+        },
+        "zh": {
+          "title": "宗教活动参与：三项前瞻性队列",
+          "finding": "参与程度与部分后续心理健康指标存在有益关联。",
+          "limit": "样本来自美国，仍可能存在残余混杂。参与活动不等同于全部灵性。",
+          "briefHash": "fa66640007d72703ea902d0e0e77e734bd7af873e74b64d8b362674b1ed16a16",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "美国三项队列，追踪青年、中年及老年成年人。"
+        },
+        "ru": {
+          "title": "Участие в религиозных службах: три проспективные когорты",
+          "finding": "Участие благоприятно связано с некоторыми последующими показателями психического здоровья.",
+          "limit": "Выборки из США. Возможно остаточное смешение. Участие не охватывает всю духовность.",
+          "briefHash": "fa66640007d72703ea902d0e0e77e734bd7af873e74b64d8b362674b1ed16a16",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Три когорты молодых, среднего возраста и пожилых взрослых в США."
+        },
+        "ar": {
+          "title": "المشاركة الدينية: ثلاث مجموعات أترابية مستقبلية",
+          "finding": "ارتبطت المشاركة ببعض النتائج النفسية اللاحقة بصورة إيجابية.",
+          "limit": "عينات أمريكية. قد تبقى عوامل مربكة. المشاركة لا تشمل الروحانية كلها.",
+          "briefHash": "fa66640007d72703ea902d0e0e77e734bd7af873e74b64d8b362674b1ed16a16",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "ثلاث مجموعات أترابية أمريكية لشباب وبالغين في منتصف العمر وكبار السن."
+        },
+        "id": {
+          "title": "Kehadiran kegiatan agama: tiga kohort prospektif",
+          "finding": "Kehadiran berkaitan positif dengan beberapa hasil kesehatan mental berikutnya.",
+          "limit": "Sampel AS. Perancu residual mungkin ada. Kehadiran bukan keseluruhan spiritualitas.",
+          "briefHash": "fa66640007d72703ea902d0e0e77e734bd7af873e74b64d8b362674b1ed16a16",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Tiga kohort AS yang mengikuti dewasa muda, paruh baya, dan lanjut usia."
+        },
+        "ms": {
+          "title": "Kehadiran kegiatan agama: tiga kohort prospektif",
+          "finding": "Kehadiran berkait secara positif dengan beberapa hasil kesihatan mental kemudian.",
+          "limit": "Sampel AS. Faktor pengeliru baki mungkin wujud. Kehadiran bukan keseluruhan kerohanian.",
+          "briefHash": "fa66640007d72703ea902d0e0e77e734bd7af873e74b64d8b362674b1ed16a16",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Tiga kohort AS yang mengikuti dewasa muda, pertengahan umur dan warga tua."
+        }
+      },
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Ying Chen",
+          "Eric S Kim",
+          "Tyler J VanderWeele"
+        ],
+        "editors": [],
+        "date": "2020-08-13",
+        "journal": "International Journal of Epidemiology",
+        "volume": "49",
+        "issue": "6",
+        "pages": "2030-2040",
+        "doi": "10.1093/ije/dyaa120",
+        "note": {
+          "tr": "ABD örneklemleri. Kalıntı karıştırıcı etkiler göz ardı edilemez. Katılım, maneviyatın bütünü değildir.",
+          "en": "US samples. Residual confounding remains possible. Attendance is not spirituality as a whole.",
+          "de": "US-Stichproben. Restkonfundierung bleibt möglich. Teilnahme erfasst nicht die gesamte Spiritualität.",
+          "zh": "样本来自美国，仍可能存在残余混杂。参与活动不等同于全部灵性。",
+          "ru": "Выборки из США. Возможно остаточное смешение. Участие не охватывает всю духовность.",
+          "ar": "عينات أمريكية. قد تبقى عوامل مربكة. المشاركة لا تشمل الروحانية كلها.",
+          "id": "Sampel AS. Perancu residual mungkin ada. Kehadiran bukan keseluruhan spiritualitas.",
+          "ms": "Sampel AS. Faktor pengeliru baki mungkin wujud. Kehadiran bukan keseluruhan kerohanian."
+        }
+      }
+    },
+    {
+      "id": "atheist-struggles",
+      "sourceId": "s-atheist-struggles",
+      "title": "Spiritual Struggles among Atheists: Links to Psychological Distress and Well-Being",
+      "language": "en",
+      "year": 2018,
+      "url": "https://doi.org/10.3390/rel9080242",
+      "citation": "Aaron E. Sedlar, Nick Stauner, Kenneth I. Pargament, Julie J. Exline, Joshua B. Grubbs, David F. Bradley (2018). Spiritual Struggles among Atheists: Links to Psychological Distress and Well-Being. Religions. https://doi.org/10.3390/rel9080242",
+      "brief": {
+        "design": "cross-sectional",
+        "population": "3978 undergraduates and 1048 internet workers, atheist/theist comparisons",
+        "findingDirection": "adverse-associations",
+        "doi": "10.3390/rel9080242",
+        "inspection": "abstract-and-metadata",
+        "checked": "2026-10-03",
+        "limitationCodes": [
+          "cross-sectional",
+          "sampling-not-all-nonreligious"
+        ]
+      },
+      "editions": {
+        "tr": {
+          "title": "Ateist örneklemlerde anlam ve manevi mücadele",
+          "finding": "Anlama ilişkin mücadelenin ateist katılımcılarda da sıkıntıyla ilişkili olduğu bulunmuştur.",
+          "limit": "Kesitsel örneklemler tüm inançsız insanları temsil etmez.",
+          "briefHash": "7baad6fc6048caf2e7d3225bfd08cbe980dadacdf0c8cf8cc46ae868287353df",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "3.978 üniversite öğrencisi ve 1.048 çevrim içi çalışandan oluşan iki örneklemde ateist ve teist katılımcılar karşılaştırılmıştır."
+        },
+        "en": {
+          "title": "Meaning and spiritual struggles in atheist samples",
+          "finding": "Meaning-related struggles were associated with distress among atheist participants too.",
+          "limit": "Cross-sectional samples do not represent all nonreligious people.",
+          "briefHash": "7baad6fc6048caf2e7d3225bfd08cbe980dadacdf0c8cf8cc46ae868287353df",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Atheist/theist comparisons in two samples of 3,978 undergraduates and 1,048 internet workers."
+        },
+        "de": {
+          "title": "Sinnfragen und spirituelle Konflikte in atheistischen Stichproben",
+          "finding": "Sinnbezogene Konflikte gingen auch bei atheistischen Teilnehmenden mit Belastung einher.",
+          "limit": "Querschnittsstichproben repräsentieren nicht alle nichtreligiösen Menschen.",
+          "briefHash": "7baad6fc6048caf2e7d3225bfd08cbe980dadacdf0c8cf8cc46ae868287353df",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Atheistisch-theistische Vergleiche in zwei Stichproben mit 3.978 Studierenden und 1.048 Internetarbeitenden."
+        },
+        "zh": {
+          "title": "无神论者样本中的意义与灵性挣扎",
+          "finding": "意义相关的挣扎在无神论参与者中也与痛苦相关。",
+          "limit": "横断面样本不能代表所有无宗教信仰者。",
+          "briefHash": "7baad6fc6048caf2e7d3225bfd08cbe980dadacdf0c8cf8cc46ae868287353df",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "在3,978名本科生及1,048名网络工作者的两个样本中比较无神论者与有神论者。"
+        },
+        "ru": {
+          "title": "Смысл и духовные трудности в выборках атеистов",
+          "finding": "Трудности поиска смысла связаны с дистрессом и у атеистов.",
+          "limit": "Поперечные выборки не представляют всех нерелигиозных людей.",
+          "briefHash": "7baad6fc6048caf2e7d3225bfd08cbe980dadacdf0c8cf8cc46ae868287353df",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Сравнения атеистов и теистов в двух выборках: 3978 студентов и 1048 интернет-работников."
+        },
+        "ar": {
+          "title": "المعنى والصراعات الروحانية في عينات ملحدة",
+          "finding": "ارتبطت صراعات المعنى بالضيق لدى المشاركين الملحدين أيضاً.",
+          "limit": "العينات المقطعية لا تمثل جميع غير المتدينين.",
+          "briefHash": "7baad6fc6048caf2e7d3225bfd08cbe980dadacdf0c8cf8cc46ae868287353df",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "مقارنات بين ملحدين ومؤمنين في عينتين تضمان 3,978 طالباً جامعياً و1,048 عاملاً عبر الإنترنت."
+        },
+        "id": {
+          "title": "Makna dan pergumulan spiritual pada sampel ateis",
+          "finding": "Pergumulan terkait makna juga berkaitan dengan distres pada peserta ateis.",
+          "limit": "Sampel potong lintang tidak mewakili semua orang nonreligius.",
+          "briefHash": "7baad6fc6048caf2e7d3225bfd08cbe980dadacdf0c8cf8cc46ae868287353df",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Perbandingan ateis dan teis dalam dua sampel berisi 3.978 mahasiswa dan 1.048 pekerja internet."
+        },
+        "ms": {
+          "title": "Makna dan pergolakan kerohanian dalam sampel ateis",
+          "finding": "Pergolakan berkaitan makna turut berkait dengan distres dalam kalangan peserta ateis.",
+          "limit": "Sampel keratan rentas tidak mewakili semua orang tanpa pegangan agama.",
+          "briefHash": "7baad6fc6048caf2e7d3225bfd08cbe980dadacdf0c8cf8cc46ae868287353df",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Perbandingan ateis dan teis dalam dua sampel 3,978 mahasiswa dan 1,048 pekerja internet."
+        }
+      },
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Aaron E. Sedlar",
+          "Nick Stauner",
+          "Kenneth I. Pargament",
+          "Julie J. Exline",
+          "Joshua B. Grubbs",
+          "David F. Bradley"
+        ],
+        "editors": [],
+        "date": "2018-08-09",
+        "journal": "Religions",
+        "volume": "9",
+        "issue": "8",
+        "pages": "242",
+        "doi": "10.3390/rel9080242",
+        "note": {
+          "tr": "Kesitsel örneklemler tüm inançsız insanları temsil etmez.",
+          "en": "Cross-sectional samples do not represent all nonreligious people.",
+          "de": "Querschnittsstichproben repräsentieren nicht alle nichtreligiösen Menschen.",
+          "zh": "横断面样本不能代表所有无宗教信仰者。",
+          "ru": "Поперечные выборки не представляют всех нерелигиозных людей.",
+          "ar": "العينات المقطعية لا تمثل جميع غير المتدينين.",
+          "id": "Sampel potong lintang tidak mewakili semua orang nonreligius.",
+          "ms": "Sampel keratan rentas tidak mewakili semua orang tanpa pegangan agama."
+        }
+      }
+    },
+    {
+      "id": "religious-cbt",
+      "sourceId": "s-religious-cbt",
+      "title": "Religious vs. Conventional Cognitive Behavioral Therapy for Major Depression in Persons With Chronic Medical Illness",
+      "language": "en",
+      "year": 2015,
+      "url": "https://doi.org/10.1097/NMD.0000000000000273",
+      "citation": "Harold G. Koenig, Michelle J. Pearce, Bruce Nelson, Sally F. Shaw, Clive J. Robins, Noha S. Daher, Harvey Jay Cohen, Lee S. Berk, Denise L. Bellinger, Kenneth I. Pargament, David H. Rosmarin, Sasan Vasegh, Jean Kristeller, Nalini Juthani, Douglas Nies, Michael B. King (2015). Religious vs. Conventional Cognitive Behavioral Therapy for Major Depression in Persons With Chronic Medical Illness. Journal of Nervous & Mental Disease. https://doi.org/10.1097/NMD.0000000000000273",
+      "brief": {
+        "design": "pilot-rct",
+        "population": "132 people with major depression and chronic medical illness, 12 weeks",
+        "findingDirection": "no-overall-difference",
+        "doi": "10.1097/NMD.0000000000000273",
+        "inspection": "abstract-and-metadata",
+        "checked": "2026-10-03",
+        "outcome": {
+          "p": 0.86
+        },
+        "inspectionURL": "https://europepmc.org/article/MED/25816046",
+        "limitationCodes": [
+          "pilot-sample",
+          "nonsignificance-not-equivalence",
+          "subgroup-exploratory"
+        ]
+      },
+      "editions": {
+        "tr": {
+          "title": "Dini uyarlamalı BDT ve standart BDT",
+          "finding": "132 kişilik ön denemede gruplar arasındaki genel fark anlamlı bulunmamıştır.",
+          "limit": "Anlamsız fark, eşdeğerlik kanıtı değildir.",
+          "briefHash": "d50d6d95c726a8638b3ffa3abd4ae625d3efc89da27a13ebb9d5931b12e1350c",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Majör depresyonu ve kronik bir tıbbi hastalığı olan 132 kişiyle 12 hafta boyunca yapılan karşılaştırma."
+        },
+        "en": {
+          "title": "Religiously integrated versus conventional CBT",
+          "finding": "The 132-person pilot trial found no significant overall group difference.",
+          "limit": "A nonsignificant difference does not prove equivalence.",
+          "briefHash": "d50d6d95c726a8638b3ffa3abd4ae625d3efc89da27a13ebb9d5931b12e1350c",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "132 people with major depression and chronic medical illness. A 12-week comparison."
+        },
+        "de": {
+          "title": "Religiös integrierte und konventionelle Verhaltenstherapie",
+          "finding": "Die Pilotstudie mit 132 Personen fand keinen signifikanten Gesamtunterschied.",
+          "limit": "Ein nichtsignifikanter Unterschied belegt keine Gleichwertigkeit.",
+          "briefHash": "d50d6d95c726a8638b3ffa3abd4ae625d3efc89da27a13ebb9d5931b12e1350c",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "132 Personen mit Major Depression und chronischer körperlicher Erkrankung. Vergleich über 12 Wochen."
+        },
+        "zh": {
+          "title": "宗教整合式与常规认知行为疗法",
+          "finding": "132人参与的试点试验未发现总体组间显著差异。",
+          "limit": "差异不显著并不证明等效。",
+          "briefHash": "d50d6d95c726a8638b3ffa3abd4ae625d3efc89da27a13ebb9d5931b12e1350c",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "132名同时患重性抑郁症及慢性躯体疾病的参与者，比较期为12周。"
+        },
+        "ru": {
+          "title": "Религиозно интегрированная и обычная КПТ",
+          "finding": "Пилотное испытание с 132 участниками не выявило значимого общего различия.",
+          "limit": "Незначимое различие не доказывает эквивалентность.",
+          "briefHash": "d50d6d95c726a8638b3ffa3abd4ae625d3efc89da27a13ebb9d5931b12e1350c",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "132 человека с большой депрессией и хроническим соматическим заболеванием. Сравнение за 12 недель."
+        },
+        "ar": {
+          "title": "العلاج المعرفي السلوكي المدمج دينياً مقابل التقليدي",
+          "finding": "لم تجد التجربة الاستطلاعية على 132 شخصاً فرقاً إجمالياً دالاً.",
+          "limit": "غياب فرق دال لا يثبت التكافؤ.",
+          "briefHash": "d50d6d95c726a8638b3ffa3abd4ae625d3efc89da27a13ebb9d5931b12e1350c",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "132 شخصاً لديهم اكتئاب جسيم ومرض جسدي مزمن. مقارنة على مدى 12 أسبوعاً."
+        },
+        "id": {
+          "title": "CBT terintegrasi agama dibandingkan CBT konvensional",
+          "finding": "Uji coba perintis pada 132 orang tidak menemukan perbedaan keseluruhan yang signifikan.",
+          "limit": "Perbedaan tidak signifikan bukan bukti kesetaraan.",
+          "briefHash": "d50d6d95c726a8638b3ffa3abd4ae625d3efc89da27a13ebb9d5931b12e1350c",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "132 orang dengan depresi mayor dan penyakit medis kronis. Perbandingan selama 12 minggu."
+        },
+        "ms": {
+          "title": "CBT berintegrasikan agama berbanding CBT konvensional",
+          "finding": "Percubaan rintis 132 peserta tidak menemukan perbezaan keseluruhan yang signifikan.",
+          "limit": "Perbezaan tidak signifikan bukan bukti kesetaraan.",
+          "briefHash": "d50d6d95c726a8638b3ffa3abd4ae625d3efc89da27a13ebb9d5931b12e1350c",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "132 orang dengan kemurungan major dan penyakit perubatan kronik. Perbandingan selama 12 minggu."
+        }
+      },
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Harold G. Koenig",
+          "Michelle J. Pearce",
+          "Bruce Nelson",
+          "Sally F. Shaw",
+          "Clive J. Robins",
+          "Noha S. Daher",
+          "Harvey Jay Cohen",
+          "Lee S. Berk",
+          "Denise L. Bellinger",
+          "Kenneth I. Pargament",
+          "David H. Rosmarin",
+          "Sasan Vasegh",
+          "Jean Kristeller",
+          "Nalini Juthani",
+          "Douglas Nies",
+          "Michael B. King"
+        ],
+        "editors": [],
+        "date": "2015-04",
+        "journal": "Journal of Nervous & Mental Disease",
+        "volume": "203",
+        "issue": "4",
+        "pages": "243-251",
+        "doi": "10.1097/NMD.0000000000000273",
+        "note": {
+          "tr": "Anlamsız fark, eşdeğerlik kanıtı değildir.",
+          "en": "A nonsignificant difference does not prove equivalence.",
+          "de": "Ein nichtsignifikanter Unterschied belegt keine Gleichwertigkeit.",
+          "zh": "差异不显著并不证明等效。",
+          "ru": "Незначимое различие не доказывает эквивалентность.",
+          "ar": "غياب فرق دال لا يثبت التكافؤ.",
+          "id": "Perbedaan tidak signifikan bukan bukti kesetaraan.",
+          "ms": "Perbezaan tidak signifikan bukan bukti kesetaraan."
+        }
+      }
+    },
+    {
+      "id": "disaster-needs",
+      "sourceId": "s-disaster-needs",
+      "title": "Deprem Sonrası Manevi Danışmanlık ve Rehberlik İhtiyaçları: Psiko-Sosyal Destek Uzmanlarının Görüşlerine Dayalı Nitel Bir Araştırma",
+      "language": "tr",
+      "year": 2025,
+      "url": "https://doi.org/10.56432/tmdrd.1645518",
+      "citation": "İclal Öztürk, Ümit Horozcu (2025). Deprem Sonrası Manevi Danışmanlık ve Rehberlik İhtiyaçları: Psiko-Sosyal Destek Uzmanlarının Görüşlerine Dayalı Nitel Bir Araştırma. Türk Manevi Danışmanlık ve Rehberlik Dergisi. https://doi.org/10.56432/tmdrd.1645518",
+      "brief": {
+        "design": "qualitative",
+        "population": "Interviews with psychosocial support professionals after the 2023 Türkiye earthquakes",
+        "findingDirection": "needs-and-experiences",
+        "doi": "10.56432/tmdrd.1645518",
+        "inspection": "abstract-and-metadata",
+        "checked": "2026-10-03",
+        "inspectionURL": "https://dergipark.org.tr/tr/pub/tmdrd/article/1645518",
+        "limitationCodes": [
+          "professional-perspectives",
+          "no-efficacy-test"
+        ]
+      },
+      "editions": {
+        "tr": {
+          "title": "Deprem sonrasında manevi destek gereksinimleri",
+          "finding": "Uzmanlarla yapılan görüşmeler, deprem sonrasında ortaya çıkan manevi destek ihtiyaçlarını ele almaktadır.",
+          "limit": "Görüşmeler müdahale etkililiğini kanıtlamaz.",
+          "briefHash": "60a4538f6da937c287527435cd5647fa1e4f736e965f02f172918a119c9cf20b",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "2023 Türkiye depremlerinin ardından psikososyal destek veren uzmanlarla yapılan görüşmeler."
+        },
+        "en": {
+          "title": "Spiritual support needs after earthquakes",
+          "finding": "Professional interviews explore spiritual support needs after earthquakes.",
+          "limit": "Interviews do not establish intervention efficacy.",
+          "briefHash": "60a4538f6da937c287527435cd5647fa1e4f736e965f02f172918a119c9cf20b",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Interviews with psychosocial support professionals after the 2023 Türkiye earthquakes."
+        },
+        "de": {
+          "title": "Spiritueller Unterstützungsbedarf nach Erdbeben",
+          "finding": "Fachinterviews untersuchen spirituellen Unterstützungsbedarf nach Erdbeben.",
+          "limit": "Interviews belegen keine Wirksamkeit von Interventionen.",
+          "briefHash": "60a4538f6da937c287527435cd5647fa1e4f736e965f02f172918a119c9cf20b",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Interviews mit psychosozialen Fachkräften nach den Erdbeben 2023 in der Türkei."
+        },
+        "zh": {
+          "title": "地震后的灵性支持需求",
+          "finding": "专业人员访谈探讨地震后的灵性支持需求。",
+          "limit": "访谈不能确立干预效果。",
+          "briefHash": "60a4538f6da937c287527435cd5647fa1e4f736e965f02f172918a119c9cf20b",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "2023年土耳其地震后对心理社会支持专业人员的访谈。"
+        },
+        "ru": {
+          "title": "Потребности в духовной поддержке после землетрясений",
+          "finding": "Интервью со специалистами раскрывают потребности в духовной поддержке после землетрясений.",
+          "limit": "Интервью не доказывают эффективность вмешательства.",
+          "briefHash": "60a4538f6da937c287527435cd5647fa1e4f736e965f02f172918a119c9cf20b",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Интервью со специалистами психосоциальной поддержки после землетрясений 2023 года в Турции."
+        },
+        "ar": {
+          "title": "احتياجات الدعم الروحاني بعد الزلازل",
+          "finding": "تستكشف مقابلات المختصين احتياجات الدعم الروحاني بعد الزلازل.",
+          "limit": "المقابلات لا تثبت فعالية التدخل.",
+          "briefHash": "60a4538f6da937c287527435cd5647fa1e4f736e965f02f172918a119c9cf20b",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "مقابلات مع مختصي الدعم النفسي الاجتماعي بعد زلازل تركيا عام 2023."
+        },
+        "id": {
+          "title": "Kebutuhan dukungan spiritual setelah gempa",
+          "finding": "Wawancara profesional menggali kebutuhan dukungan spiritual setelah gempa.",
+          "limit": "Wawancara tidak membuktikan efektivitas intervensi.",
+          "briefHash": "60a4538f6da937c287527435cd5647fa1e4f736e965f02f172918a119c9cf20b",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Wawancara tenaga dukungan psikososial setelah gempa Turki tahun 2023."
+        },
+        "ms": {
+          "title": "Keperluan sokongan rohani selepas gempa bumi",
+          "finding": "Temu bual profesional meneroka keperluan sokongan rohani selepas gempa.",
+          "limit": "Temu bual tidak membuktikan keberkesanan intervensi.",
+          "briefHash": "60a4538f6da937c287527435cd5647fa1e4f736e965f02f172918a119c9cf20b",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Temu bual profesional sokongan psikososial selepas gempa Türkiye 2023."
+        }
+      },
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "İclal Öztürk",
+          "Ümit Horozcu"
+        ],
+        "editors": [],
+        "date": "2025-06-30",
+        "journal": "Türk Manevi Danışmanlık ve Rehberlik Dergisi",
+        "volume": "",
+        "issue": "11",
+        "pages": "85-118",
+        "doi": "10.56432/tmdrd.1645518",
+        "note": {
+          "tr": "Görüşmeler müdahale etkililiğini kanıtlamaz.",
+          "en": "Interviews do not establish intervention efficacy.",
+          "de": "Interviews belegen keine Wirksamkeit von Interventionen.",
+          "zh": "访谈不能确立干预效果。",
+          "ru": "Интервью не доказывают эффективность вмешательства.",
+          "ar": "المقابلات لا تثبت فعالية التدخل.",
+          "id": "Wawancara tidak membuktikan efektivitas intervensi.",
+          "ms": "Temu bual tidak membuktikan keberkesanan intervensi."
+        }
+      }
+    },
+    {
+      "id": "brief-rcope",
+      "sourceId": "s-brief-rcope",
+      "title": "The Brief RCOPE: Current Psychometric Status of a Short Measure of Religious Coping",
+      "language": "en",
+      "year": 2011,
+      "url": "https://doi.org/10.3390/rel2010051",
+      "citation": "Kenneth Pargament, Margaret Feuille, Donna Burdzy (2011). The Brief RCOPE: Current Psychometric Status of a Short Measure of Religious Coping. Religions. https://doi.org/10.3390/rel2010051",
+      "brief": {
+        "design": "psychometric-review",
+        "population": "14 items, positive and negative religious coping subscales",
+        "findingDirection": "measurement",
+        "doi": "10.3390/rel2010051",
+        "inspection": "abstract-and-metadata",
+        "checked": "2026-10-03",
+        "limitationCodes": [
+          "context-specific-validity",
+          "not-universal-translation-validation"
+        ]
+      },
+      "editions": {
+        "tr": {
+          "title": "Brief RCOPE: dini başa çıkmanın iki boyutu",
+          "finding": "14 maddeden oluşur; olumlu ve olumsuz dini başa çıkmayı ayrı ayrı ölçer.",
+          "limit": "Dil ve kültür için geçerlik ayrıca değerlendirilmelidir.",
+          "briefHash": "8a843ae41cd740c6feb4731379621d4dfbe4f8ca91d89dbffcf31b71bb15fb42",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Dini başa çıkmanın 14 maddelik kısa formuna ilişkin psikometrik derleme."
+        },
+        "en": {
+          "title": "Brief RCOPE: two dimensions of religious coping",
+          "finding": "14 items distinguish positive and negative religious coping.",
+          "limit": "Validity needs separate assessment in each language and culture.",
+          "briefHash": "8a843ae41cd740c6feb4731379621d4dfbe4f8ca91d89dbffcf31b71bb15fb42",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Psychometric review of a 14-item religious coping measure."
+        },
+        "de": {
+          "title": "Brief RCOPE: zwei Dimensionen religiöser Bewältigung",
+          "finding": "14 Items unterscheiden positive und negative religiöse Bewältigung.",
+          "limit": "Validität ist je Sprache und Kultur gesondert zu prüfen.",
+          "briefHash": "8a843ae41cd740c6feb4731379621d4dfbe4f8ca91d89dbffcf31b71bb15fb42",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Psychometrische Übersicht zu einem 14-Item-Maß religiöser Bewältigung."
+        },
+        "zh": {
+          "title": "Brief RCOPE：宗教应对的两个维度",
+          "finding": "14个条目区分积极与消极宗教应对。",
+          "limit": "各语言与文化中的效度须分别检验。",
+          "briefHash": "8a843ae41cd740c6feb4731379621d4dfbe4f8ca91d89dbffcf31b71bb15fb42",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "14条目宗教应对工具的心理测量综述。"
+        },
+        "ru": {
+          "title": "Brief RCOPE: два аспекта религиозного совладания",
+          "finding": "14 пунктов различают позитивное и негативное религиозное совладание.",
+          "limit": "Валидность требует отдельной оценки для каждого языка и культуры.",
+          "briefHash": "8a843ae41cd740c6feb4731379621d4dfbe4f8ca91d89dbffcf31b71bb15fb42",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Психометрический обзор 14-пунктовой шкалы религиозного совладания."
+        },
+        "ar": {
+          "title": "Brief RCOPE: بُعدا التكيف الديني",
+          "finding": "تميّز 14 فقرة بين التكيف الديني الإيجابي والسلبي.",
+          "limit": "تحتاج الصلاحية إلى تقييم مستقل لكل لغة وثقافة.",
+          "briefHash": "8a843ae41cd740c6feb4731379621d4dfbe4f8ca91d89dbffcf31b71bb15fb42",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "مراجعة سيكومترية لمقياس التكيف الديني ذي 14 فقرة."
+        },
+        "id": {
+          "title": "Brief RCOPE: dua dimensi koping religius",
+          "finding": "14 butir membedakan koping religius positif dan negatif.",
+          "limit": "Validitas perlu dinilai untuk tiap bahasa dan budaya.",
+          "briefHash": "8a843ae41cd740c6feb4731379621d4dfbe4f8ca91d89dbffcf31b71bb15fb42",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Tinjauan psikometrik alat koping religius 14 butir."
+        },
+        "ms": {
+          "title": "Brief RCOPE: dua dimensi daya tindak beragama",
+          "finding": "14 item membezakan daya tindak beragama positif dan negatif.",
+          "limit": "Kesahan perlu dinilai bagi setiap bahasa dan budaya.",
+          "briefHash": "8a843ae41cd740c6feb4731379621d4dfbe4f8ca91d89dbffcf31b71bb15fb42",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Ulasan psikometrik ukuran daya tindak beragama 14 item."
+        }
+      },
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Kenneth Pargament",
+          "Margaret Feuille",
+          "Donna Burdzy"
+        ],
+        "editors": [],
+        "date": "2011-02-22",
+        "journal": "Religions",
+        "volume": "2",
+        "issue": "1",
+        "pages": "51-76",
+        "doi": "10.3390/rel2010051",
+        "note": {
+          "tr": "Dil ve kültür için geçerlik ayrıca değerlendirilmelidir.",
+          "en": "Validity needs separate assessment in each language and culture.",
+          "de": "Validität ist je Sprache und Kultur gesondert zu prüfen.",
+          "zh": "各语言与文化中的效度须分别检验。",
+          "ru": "Валидность требует отдельной оценки для каждого языка и культуры.",
+          "ar": "تحتاج الصلاحية إلى تقييم مستقل لكل لغة وثقافة.",
+          "id": "Validitas perlu dinilai untuk tiap bahasa dan budaya.",
+          "ms": "Kesahan perlu dinilai bagi setiap bahasa dan budaya."
+        }
+      }
+    },
+    {
+      "id": "meaning-questionnaire",
+      "sourceId": "s-meaning-questionnaire",
+      "title": "The meaning in life questionnaire: Assessing the presence of and search for meaning in life.",
+      "language": "en",
+      "year": 2006,
+      "url": "https://doi.org/10.1037/0022-0167.53.1.80",
+      "citation": "Michael F. Steger, Patricia Frazier, Shigehiro Oishi, Matthew Kaler (2006). The meaning in life questionnaire: Assessing the presence of and search for meaning in life.. Journal of Counseling Psychology. https://doi.org/10.1037/0022-0167.53.1.80",
+      "brief": {
+        "design": "scale-development",
+        "population": "10 items, presence of meaning and search for meaning",
+        "findingDirection": "measurement",
+        "doi": "10.1037/0022-0167.53.1.80",
+        "inspection": "official-measure-description-and-metadata",
+        "checked": "2026-10-03",
+        "inspectionURL": "https://ppc.sas.upenn.edu/node/213",
+        "limitationCodes": [
+          "institutional-description-not-full-validation-appraisal",
+          "meaning-not-diagnosis"
+        ]
+      },
+      "editions": {
+        "tr": {
+          "title": "Yaşamın Anlamı Ölçeği: anlamın varlığı ve aranması",
+          "finding": "10 maddeden oluşur; anlamın varlığını ve anlam arayışını ayrı ayrı ölçer.",
+          "limit": "Anlam, dindarlıkla veya ruhsal bozukluk tanısıyla özdeş değildir.",
+          "briefHash": "b8a94e89384f162916a6fc73271668491501305ac39d9b3a13043f6ef5480def",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Ölçeğin özgün geliştirme kaydı ve resmî tanıtımı. Geliştirme örneklemleri bu sayfada değerlendirilmemiştir."
+        },
+        "en": {
+          "title": "Meaning in Life Questionnaire: presence and search",
+          "finding": "10 items measure presence of meaning and search for meaning separately.",
+          "limit": "Meaning is not identical to religiosity or psychiatric diagnosis.",
+          "briefHash": "b8a94e89384f162916a6fc73271668491501305ac39d9b3a13043f6ef5480def",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Original development record and official instrument description. Development samples were not appraised in this profile."
+        },
+        "de": {
+          "title": "Meaning in Life Questionnaire: Sinnerleben und Sinnsuche",
+          "finding": "10 Items erfassen Sinnerleben und Sinnsuche getrennt.",
+          "limit": "Sinn ist weder mit Religiosität noch mit psychiatrischer Diagnose gleichzusetzen.",
+          "briefHash": "b8a94e89384f162916a6fc73271668491501305ac39d9b3a13043f6ef5480def",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Originalentwicklungsnachweis und offizielle Instrumentbeschreibung. Entwicklungsstichproben wurden hier nicht bewertet."
+        },
+        "zh": {
+          "title": "生命意义问卷：意义感与意义追寻",
+          "finding": "10个条目分别测量意义感与意义追寻。",
+          "limit": "意义不等同于宗教性或精神障碍诊断。",
+          "briefHash": "b8a94e89384f162916a6fc73271668491501305ac39d9b3a13043f6ef5480def",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "原始开发记录及官方工具说明。本档案未评价开发样本。"
+        },
+        "ru": {
+          "title": "Опросник смысла жизни: наличие и поиск",
+          "finding": "10 пунктов отдельно измеряют наличие смысла и его поиск.",
+          "limit": "Смысл не тождествен религиозности или психиатрическому диагнозу.",
+          "briefHash": "b8a94e89384f162916a6fc73271668491501305ac39d9b3a13043f6ef5480def",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Исходная публикация и официальное описание. Выборки разработки в этом профиле не оценивались."
+        },
+        "ar": {
+          "title": "استبيان معنى الحياة: وجود المعنى والبحث عنه",
+          "finding": "تقيس 10 فقرات وجود المعنى والبحث عنه بصورة منفصلة.",
+          "limit": "المعنى ليس مرادفاً للتدين أو التشخيص النفسي.",
+          "briefHash": "b8a94e89384f162916a6fc73271668491501305ac39d9b3a13043f6ef5480def",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "سجل التطوير الأصلي ووصف رسمي للأداة. لم تُقيّم عينات التطوير في هذا الملف."
+        },
+        "id": {
+          "title": "Kuesioner Makna Hidup: keberadaan dan pencarian",
+          "finding": "10 butir mengukur keberadaan dan pencarian makna secara terpisah.",
+          "limit": "Makna tidak identik dengan religiositas atau diagnosis psikiatri.",
+          "briefHash": "b8a94e89384f162916a6fc73271668491501305ac39d9b3a13043f6ef5480def",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Catatan pengembangan asli dan deskripsi resmi. Sampel pengembangan belum dinilai dalam profil ini."
+        },
+        "ms": {
+          "title": "Soal Selidik Makna Hidup: kewujudan dan pencarian",
+          "finding": "10 item mengukur kewujudan dan pencarian makna secara berasingan.",
+          "limit": "Makna tidak sama dengan religiositi atau diagnosis psikiatri.",
+          "briefHash": "b8a94e89384f162916a6fc73271668491501305ac39d9b3a13043f6ef5480def",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Rekod pembangunan asal dan penerangan rasmi. Sampel pembangunan belum dinilai dalam profil ini."
+        }
+      },
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Michael F. Steger",
+          "Patricia Frazier",
+          "Shigehiro Oishi",
+          "Matthew Kaler"
+        ],
+        "editors": [],
+        "date": "2006-01",
+        "journal": "Journal of Counseling Psychology",
+        "volume": "53",
+        "issue": "1",
+        "pages": "80-93",
+        "doi": "10.1037/0022-0167.53.1.80",
+        "note": {
+          "tr": "Anlam, dindarlıkla veya ruhsal bozukluk tanısıyla özdeş değildir.",
+          "en": "Meaning is not identical to religiosity or psychiatric diagnosis.",
+          "de": "Sinn ist weder mit Religiosität noch mit psychiatrischer Diagnose gleichzusetzen.",
+          "zh": "意义不等同于宗教性或精神障碍诊断。",
+          "ru": "Смысл не тождествен религиозности или психиатрическому диагнозу.",
+          "ar": "المعنى ليس مرادفاً للتدين أو التشخيص النفسي.",
+          "id": "Makna tidak identik dengan religiositas atau diagnosis psikiatri.",
+          "ms": "Makna tidak sama dengan religiositi atau diagnosis psikiatri."
+        }
+      }
+    },
+    {
+      "id": "durel",
+      "sourceId": "s-durel",
+      "title": "The Duke University Religion Index (DUREL): A Five-Item Measure for Use in Epidemological Studies",
+      "language": "en",
+      "year": 2010,
+      "url": "https://doi.org/10.3390/rel1010078",
+      "citation": "Harold G. Koenig, Arndt Büssing (2010). The Duke University Religion Index (DUREL): A Five-Item Measure for Use in Epidemological Studies. Religions. https://doi.org/10.3390/rel1010078",
+      "brief": {
+        "design": "measurement-overview",
+        "population": "5 items, organizational, non-organizational and intrinsic religiosity",
+        "findingDirection": "measurement",
+        "doi": "10.3390/rel1010078",
+        "inspection": "official-measure-description-and-metadata",
+        "checked": "2026-10-03",
+        "inspectionURL": "https://scholars.duke.edu/publication/960636",
+        "limitationCodes": [
+          "religiosity-not-all-spirituality",
+          "not-clinical-need-assessment"
+        ]
+      },
+      "editions": {
+        "tr": {
+          "title": "DUREL: dini katılım ve içsel dindarlık",
+          "finding": "Beş maddeden oluşur; dindarlığın üç boyutunu ele alır.",
+          "limit": "Maneviyatın tümünü veya klinik gereksinimi ölçmez.",
+          "briefHash": "9ee0c81f6d7bd6e7790248de1fe0715a7cd7464b02582bd5cdff6e01bb2b5578",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Epidemiyolojik araştırmalar için geliştirilmiş beş maddelik bir ölçme aracı. Bu kayıt tek bir geçerlik çalışmasının örneklemini yansıtmaz."
+        },
+        "en": {
+          "title": "DUREL: religious involvement and intrinsic religiosity",
+          "finding": "Five items address three dimensions of religiosity.",
+          "limit": "It does not measure all spirituality or clinical need.",
+          "briefHash": "9ee0c81f6d7bd6e7790248de1fe0715a7cd7464b02582bd5cdff6e01bb2b5578",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Five-item instrument for epidemiological research. This overview is not a single validation sample."
+        },
+        "de": {
+          "title": "DUREL: religiöse Beteiligung und intrinsische Religiosität",
+          "finding": "Fünf Items erfassen drei Dimensionen der Religiosität.",
+          "limit": "Es misst weder die gesamte Spiritualität noch klinischen Bedarf.",
+          "briefHash": "9ee0c81f6d7bd6e7790248de1fe0715a7cd7464b02582bd5cdff6e01bb2b5578",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Fünf-Item-Instrument für epidemiologische Forschung. Dieser Überblick ist keine einzelne Validierungsstichprobe."
+        },
+        "zh": {
+          "title": "DUREL：宗教参与与内在宗教性",
+          "finding": "五个条目涉及宗教性的三个维度。",
+          "limit": "不能测量全部灵性或临床需求。",
+          "briefHash": "9ee0c81f6d7bd6e7790248de1fe0715a7cd7464b02582bd5cdff6e01bb2b5578",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "面向流行病学研究的五条目工具。本概览并非单一验证样本。"
+        },
+        "ru": {
+          "title": "DUREL: религиозная вовлечённость и внутренняя религиозность",
+          "finding": "Пять пунктов охватывают три аспекта религиозности.",
+          "limit": "Не измеряет духовность во всей полноте или клиническую потребность.",
+          "briefHash": "9ee0c81f6d7bd6e7790248de1fe0715a7cd7464b02582bd5cdff6e01bb2b5578",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Пятичастный инструмент для эпидемиологических исследований. Обзор не представляет одну валидационную выборку."
+        },
+        "ar": {
+          "title": "DUREL: المشاركة الدينية والتدين الداخلي",
+          "finding": "تتناول خمس فقرات ثلاثة أبعاد للتدين.",
+          "limit": "لا يقيس الروحانية بكاملها أو الحاجة السريرية.",
+          "briefHash": "9ee0c81f6d7bd6e7790248de1fe0715a7cd7464b02582bd5cdff6e01bb2b5578",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "أداة من خمس فقرات للبحث الوبائي. هذا العرض لا يمثل عينة تحقق واحدة."
+        },
+        "id": {
+          "title": "DUREL: keterlibatan agama dan religiositas intrinsik",
+          "finding": "Lima butir mencakup tiga dimensi religiositas.",
+          "limit": "Tidak mengukur seluruh spiritualitas atau kebutuhan klinis.",
+          "briefHash": "9ee0c81f6d7bd6e7790248de1fe0715a7cd7464b02582bd5cdff6e01bb2b5578",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Instrumen lima butir untuk riset epidemiologi. Tinjauan ini bukan satu sampel validasi."
+        },
+        "ms": {
+          "title": "DUREL: penglibatan agama dan religiositi intrinsik",
+          "finding": "Lima item merangkumi tiga dimensi religiositi.",
+          "limit": "Tidak mengukur keseluruhan kerohanian atau keperluan klinikal.",
+          "briefHash": "9ee0c81f6d7bd6e7790248de1fe0715a7cd7464b02582bd5cdff6e01bb2b5578",
+          "humanReviewed": false,
+          "scientificApproval": false,
+          "population": "Instrumen lima item untuk penyelidikan epidemiologi. Gambaran ini bukan satu sampel pengesahan."
+        }
+      },
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Harold G. Koenig",
+          "Arndt Büssing"
+        ],
+        "editors": [],
+        "date": "2010-12-01",
+        "journal": "Religions",
+        "volume": "1",
+        "issue": "1",
+        "pages": "78-85",
+        "doi": "10.3390/rel1010078",
+        "note": {
+          "tr": "Maneviyatın tümünü veya klinik gereksinimi ölçmez.",
+          "en": "It does not measure all spirituality or clinical need.",
+          "de": "Es misst weder die gesamte Spiritualität noch klinischen Bedarf.",
+          "zh": "不能测量全部灵性或临床需求。",
+          "ru": "Не измеряет духовность во всей полноте или клиническую потребность.",
+          "ar": "لا يقيس الروحانية بكاملها أو الحاجة السريرية.",
+          "id": "Tidak mengukur seluruh spiritualitas atau kebutuhan klinis.",
+          "ms": "Tidak mengukur keseluruhan kerohanian atau keperluan klinikal."
+        }
+      }
+    }
+  ]
+}

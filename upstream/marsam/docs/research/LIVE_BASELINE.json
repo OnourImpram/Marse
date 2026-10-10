@@ -1,0 +1,3768 @@
+{
+  "checkedAt": "2026-10-03",
+  "scope": "Every route in the original public build manifest. HTTP/text inspection is distinct from hands-on visual inspection.",
+  "baseVersion": "0.8.3",
+  "count": 537,
+  "allHTTP200": true,
+  "routes": [
+    {
+      "path": "/tr/",
+      "status": 200,
+      "title": "Ana sayfa · MARSAM",
+      "lang": "tr",
+      "sha256": "0c078990c05e36fe8594e01bb1d9d39c56da83d1dfdbcb9763c8e6e81eabdee2"
+    },
+    {
+      "path": "/tr/library/",
+      "status": 200,
+      "title": "Yayınlar ve kaynaklar · MARSAM",
+      "lang": "tr",
+      "sha256": "a870b2f132dc072487227e671ff4ca65c5a5b5b73c500db8f2a8408984b5c988"
+    },
+    {
+      "path": "/tr/concepts/",
+      "status": 200,
+      "title": "Kavram atlası · MARSAM",
+      "lang": "tr",
+      "sha256": "5400b55a9680645041a5c79e64146dd02e0e7942a2b10ed56a294bc7446d6edb"
+    },
+    {
+      "path": "/tr/approaches/",
+      "status": 200,
+      "title": "Kuramlar ve yaklaşımlar · MARSAM",
+      "lang": "tr",
+      "sha256": "b84b2c33f8a23333d65b1681ed75898605b2caed8ace1f8dc4c03f51a9d24b41"
+    },
+    {
+      "path": "/tr/practice/",
+      "status": 200,
+      "title": "Manevi yönelimli psikolojik danışma · MARSAM",
+      "lang": "tr",
+      "sha256": "a318323617e7ec49ea43333e9d0837227b9368fa7a8844c9ec546c7f5e6a75b3"
+    },
+    {
+      "path": "/tr/ethics/",
+      "status": 200,
+      "title": "Etik ve yetkinlik · MARSAM",
+      "lang": "tr",
+      "sha256": "97938821d9cfe0619f9331c2c3bfb64330ac0c63d370b28998001cb321b0179d"
+    },
+    {
+      "path": "/tr/methods/",
+      "status": 200,
+      "title": "Araştırma yöntemleri · MARSAM",
+      "lang": "tr",
+      "sha256": "4c00c794c0215b6d4b56e90a041d7b47432e29fa262d9fee3316d8b158ee2361"
+    },
+    {
+      "path": "/tr/measures/",
+      "status": 200,
+      "title": "Ölçme araçları dizini · MARSAM",
+      "lang": "tr",
+      "sha256": "b298510f3aeacf2955c8e0f467f5ab411d876fd461bf6b347e37b9eb3fe3503e"
+    },
+    {
+      "path": "/tr/learning/",
+      "status": 200,
+      "title": "Okuma ve öğrenme yolları · MARSAM",
+      "lang": "tr",
+      "sha256": "166ccd8c2aa12c0083bd14d15093ff60f45ecaf40db78dbcaa58c18f0c7595ee"
+    },
+    {
+      "path": "/tr/media/",
+      "status": 200,
+      "title": "Video ve seminer arşivi · MARSAM",
+      "lang": "tr",
+      "sha256": "9049c7ec56d9965072349dec5d092619f940bc42328236ddf0644c61d0010739"
+    },
+    {
+      "path": "/tr/projects/",
+      "status": 200,
+      "title": "Araştırma projeleri · MARSAM",
+      "lang": "tr",
+      "sha256": "50d634e1c156191282bb42e8444344a00bc4a434b43e93623d320fb373c77246"
+    },
+    {
+      "path": "/tr/participate/",
+      "status": 200,
+      "title": "Araştırmaya katılım · MARSAM",
+      "lang": "tr",
+      "sha256": "c27068e87dd2398146022cc41865cb17e9a26fa07fbd586d06b30a09a2d07ee2"
+    },
+    {
+      "path": "/tr/news/",
+      "status": 200,
+      "title": "Haberler ve duyurular · MARSAM",
+      "lang": "tr",
+      "sha256": "bb7519102e9df751d9d3791013b3c71b6ef3c34e3b64a625e8c26834618bc406"
+    },
+    {
+      "path": "/tr/about/",
+      "status": 200,
+      "title": "MARSAM hakkında · MARSAM",
+      "lang": "tr",
+      "sha256": "957436c9f7d1c4454ce6b565605580322bcd983bf0b30266435a829ebfcdd837"
+    },
+    {
+      "path": "/tr/editorial/",
+      "status": 200,
+      "title": "Yayın ve inceleme ilkeleri · MARSAM",
+      "lang": "tr",
+      "sha256": "0fe10e15811c0086e752ce5d28895b0712b3d421ceeedea5853bf05ad29cd6a4"
+    },
+    {
+      "path": "/tr/contribute/",
+      "status": 200,
+      "title": "Katkı taslağı hazırla · MARSAM",
+      "lang": "tr",
+      "sha256": "317c84258aeafe79a471aafcdb9805eadd519c027206508d7c21458a82305af5"
+    },
+    {
+      "path": "/tr/saved/",
+      "status": 200,
+      "title": "Okuma listem · MARSAM",
+      "lang": "tr",
+      "sha256": "885060c7b70a12e40b3704c89e62874ff5a9240c0eceff39290e28f3bc2346dc"
+    },
+    {
+      "path": "/tr/search/",
+      "status": 200,
+      "title": "İçerikte ara · MARSAM",
+      "lang": "tr",
+      "sha256": "ab9be1bb8727d1f9949c61b8b9f0163adcf009577e6cb3fcaf1d4de5ae219741"
+    },
+    {
+      "path": "/tr/publications/",
+      "status": 200,
+      "title": "Güncel araştırmalar · MARSAM",
+      "lang": "tr",
+      "sha256": "80b48abe91d7cc1bc1f6435eddcf533b0260e10acb670659e90be15b150f9f13"
+    },
+    {
+      "path": "/tr/books/",
+      "status": 200,
+      "title": "Kitaplar · MARSAM",
+      "lang": "tr",
+      "sha256": "de8b296e65780d9d6ea6dc1d1bce64a278eebe6fad9e91761ac390e434e2c301"
+    },
+    {
+      "path": "/tr/collections/",
+      "status": 200,
+      "title": "Çalışma alanları · MARSAM",
+      "lang": "tr",
+      "sha256": "856832c392f9c06e02bfacbac870ade75f0b530f6206dfd8f512f98dfb4ef3a5"
+    },
+    {
+      "path": "/tr/compare/",
+      "status": 200,
+      "title": "Kaynakları karşılaştır · MARSAM",
+      "lang": "tr",
+      "sha256": "ce8835d15a72280edc49c28d340fa266445ce99bbe667db52b5a46c808964273"
+    },
+    {
+      "path": "/tr/events/",
+      "status": 200,
+      "title": "Seminerler ve etkinlikler · MARSAM",
+      "lang": "tr",
+      "sha256": "3fa1341762f690eeaea22cbd51b2ec98f2298dcc3805a45032306b9160a42325"
+    },
+    {
+      "path": "/tr/research/",
+      "status": 200,
+      "title": "Araştırma ve kaynak haritası · MARSAM",
+      "lang": "tr",
+      "sha256": "510b11f5f87dd94b8e23d23d7bd69b0f2d3475c4d5dd68ba9a8499957790166b"
+    },
+    {
+      "path": "/tr/governance/",
+      "status": 200,
+      "title": "Editoryal ilkeler ve erişim · MARSAM",
+      "lang": "tr",
+      "sha256": "19a76601138dbbd32420280ad7a8ed892ee83b73d859e702671efe95f014d706"
+    },
+    {
+      "path": "/tr/research-guide/",
+      "status": 200,
+      "title": "Bir araştırmayı kanıtıyla okumak · MARSAM",
+      "lang": "tr",
+      "sha256": "883a450f681e0a9467d518c0c393f39a395069a1246d969ed43235a9eac1697d"
+    },
+    {
+      "path": "/tr/measurement-guide/",
+      "status": 200,
+      "title": "Ölçme aracı kanıt dosyası · MARSAM",
+      "lang": "tr",
+      "sha256": "ddfec8f379c9c33d80bded735a97c87993220d2e6d63cd75029f6c8b64356c51"
+    },
+    {
+      "path": "/tr/data-access/",
+      "status": 200,
+      "title": "Veri erişimi ve Türkiye karşılaştırmaları · MARSAM",
+      "lang": "tr",
+      "sha256": "ff7c8f8ee6aadf41874a37f234cfcbd997ab22014fd9a59a65e1665a2d55aa53"
+    },
+    {
+      "path": "/tr/reproducible-lab/",
+      "status": 200,
+      "title": "Katalog envanteri laboratuvarı · MARSAM",
+      "lang": "tr",
+      "sha256": "6a1c276bd08e89b8c235295a954fd22ee74116a9ba177f4c0f48a7538f4d12db"
+    },
+    {
+      "path": "/tr/dossier/understanding-spiritual-experience/",
+      "status": 200,
+      "title": "Manevi deneyim ve psikolojik danışma · MARSAM",
+      "lang": "tr",
+      "sha256": "23aba1f126d357fafb589c5da5b23bb0449662503bdc5ef226c561e466727f82"
+    },
+    {
+      "path": "/tr/dossier/reading-evidence/",
+      "status": 200,
+      "title": "Araştırma bulgularının değerlendirilmesi · MARSAM",
+      "lang": "tr",
+      "sha256": "e2643caf337f081b9c8c220c809da9140993a926d12ff0aa7e4a369bbfdb3cf4"
+    },
+    {
+      "path": "/tr/dossier/preferences-and-boundaries/",
+      "status": 200,
+      "title": "Danışma sürecinde mesleki yeterlik ve etik · MARSAM",
+      "lang": "tr",
+      "sha256": "c6c29008d6178cbaf4748130d781180187e76ac00c685b209b3003e84ae7c433"
+    },
+    {
+      "path": "/tr/dossier/culture-and-worldviews/",
+      "status": 200,
+      "title": "Kültürel bağlam ve dünya görüşü · MARSAM",
+      "lang": "tr",
+      "sha256": "0bb7a1de570e4d7d5bb5174ff9043699908f7049a5b4a6869d817e0f646bcedc"
+    },
+    {
+      "path": "/tr/dossier/assessment-and-permission/",
+      "status": 200,
+      "title": "Ölçme araçlarının seçimi · MARSAM",
+      "lang": "tr",
+      "sha256": "d299551214b6e48c7a62a916f790a1225990e0f9916bfc6aff09e0b058ed06d4"
+    },
+    {
+      "path": "/tr/dossier/question-to-design/",
+      "status": 200,
+      "title": "Araştırma sorusu ve yöntem · MARSAM",
+      "lang": "tr",
+      "sha256": "849ebcbdedc6c4bad9f1efd0bee2118ac4071cb5f2c961680f3e47180fdc8f40"
+    },
+    {
+      "path": "/tr/dossier/theory-and-integration/",
+      "status": 200,
+      "title": "Psikoterapi kuramlarında maneviyat · MARSAM",
+      "lang": "tr",
+      "sha256": "ef16e49a496b00b192df7ac04b8f87f62b5ac43822cb13d7630ca9d99fc4bae5"
+    },
+    {
+      "path": "/tr/dossier/digital-tools-and-responsibility/",
+      "status": 200,
+      "title": "Yapay zekâ ve mesleki sorumluluk · MARSAM",
+      "lang": "tr",
+      "sha256": "734741f9b575c20bca1fce9a3173fec22f3208604573d20396a29c4112e2f680"
+    },
+    {
+      "path": "/tr/resource/aservic-principles/",
+      "status": 200,
+      "title": "Manevi ve dini konularda mesleki uygulama ilkeleri · MARSAM",
+      "lang": "tr",
+      "sha256": "5e0e9620f6581b7a2abfeca7d3f822aa089289d94bd32006b88d75384eb8d265"
+    },
+    {
+      "path": "/tr/resource/spiritual-competence/",
+      "status": 200,
+      "title": "Manevi ve dini yeterlikler · MARSAM",
+      "lang": "tr",
+      "sha256": "42f8ca49f41070a23baf8ebe561d07e86b64ffbd003f9bbcb702910163287560"
+    },
+    {
+      "path": "/tr/resource/integration-meta-analysis/",
+      "status": 200,
+      "title": "Manevi uyarlamalar için meta-analitik kanıt · MARSAM",
+      "lang": "tr",
+      "sha256": "6bc12730965e671993d094366517a703c043551da7a079341e1b7d8c1d618466"
+    },
+    {
+      "path": "/tr/resource/client-preference/",
+      "status": 200,
+      "title": "Danışanın manevi entegrasyon tercihi · MARSAM",
+      "lang": "tr",
+      "sha256": "0c53904564bf38fd3550345bc9f7862a23f43f670dfb451b2af1568f68a475b9"
+    },
+    {
+      "path": "/tr/resource/sacred-tensions/",
+      "status": 200,
+      "title": "Maneviyat, etik ve mesleki kimlik · MARSAM",
+      "lang": "tr",
+      "sha256": "f53af019b203a4e12eb93845374c9169b21bee8f2375a483f8ce01de8876de65"
+    },
+    {
+      "path": "/tr/resource/metaphysical-diversity/",
+      "status": 200,
+      "title": "Metafizik çeşitlilik üzerine kuramsal tartışma · MARSAM",
+      "lang": "tr",
+      "sha256": "811368b5cc0c72e1ae4651fdcf2f62dbe5173b66eeab84cd4e2c81572b41f347"
+    },
+    {
+      "path": "/tr/resource/three-waves/",
+      "status": 200,
+      "title": "Araştırmadan uygulamaya üç dalga · MARSAM",
+      "lang": "tr",
+      "sha256": "2a3572e99de655e27837472c397b4f09d9f92b3aecc8bceea9c3f4930613383e"
+    },
+    {
+      "path": "/tr/resource/theories-book/",
+      "status": 200,
+      "title": "Psikoterapi ve Psikolojik Danışma Kuramları · MARSAM",
+      "lang": "tr",
+      "sha256": "253d17df36418e8b0710dbba8a97f8bd47e655c6c952dbb925e62cdf35bbe4b4"
+    },
+    {
+      "path": "/tr/resource/toad-directory/",
+      "status": 200,
+      "title": "TOAD · Türkçe ölçme kaynağı aramak · MARSAM",
+      "lang": "tr",
+      "sha256": "601c12b3d8c65e9baf8299d36c8aed5bab8c0bb3c27af89e6d25f18dd3678161"
+    },
+    {
+      "path": "/tr/resource/prisma-guidance/",
+      "status": 200,
+      "title": "PRISMA · Şeffaf derleme raporlaması · MARSAM",
+      "lang": "tr",
+      "sha256": "2cd3a4c07bed7137d83897566de4ade9ff2c9c26bfe6da8584a3117045fa20b1"
+    },
+    {
+      "path": "/tr/resource/ai-health-ethics/",
+      "status": 200,
+      "title": "Sağlıkta yapay zekâ, etik ve yönetişim · MARSAM",
+      "lang": "tr",
+      "sha256": "6f3082978540de924db2233ffd23732aad50a1c200890979f63a06a8c6008fbb"
+    },
+    {
+      "path": "/tr/resource/malaysia-ukm-counselling/",
+      "status": 200,
+      "title": "İslami danışma ve kaygı üzerine literatür incelemesi · MARSAM",
+      "lang": "tr",
+      "sha256": "4783697292f2e82a86be43b0c10dada0f0a023290a55b00a1386eff132387852"
+    },
+    {
+      "path": "/tr/resource/trauma-spirituality/",
+      "status": 200,
+      "title": "Travmanın İzinde Maneviyat · MARSAM",
+      "lang": "tr",
+      "sha256": "afa10ab0ff1b60afa9477c6beec72f6094726f7078c3c4b37406a33b29ff726b"
+    },
+    {
+      "path": "/tr/resource/spiritual-counselling-book/",
+      "status": 200,
+      "title": "Manevi Yönelimli Psikolojik Danışma · MARSAM",
+      "lang": "tr",
+      "sha256": "4b9e98e2d6f43c7b6ee8c43413b23341b32b7017a9963f4379aae5e5ff8bc359"
+    },
+    {
+      "path": "/tr/resource/discovering-spirituality/",
+      "status": 200,
+      "title": "Maneviyatın Keşfi · MARSAM",
+      "lang": "tr",
+      "sha256": "afe0d85278b5d9104385ad179204bd3a1b11d0ceab739406d926949637cf0aa4"
+    },
+    {
+      "path": "/tr/resource/spiritual-practices/",
+      "status": 200,
+      "title": "Manevi Yaşam Pratikleri · MARSAM",
+      "lang": "tr",
+      "sha256": "7ff5539a07265332c9d335f9b69c5a547c42fc22a264ab59460a97291eb2f5c1"
+    },
+    {
+      "path": "/tr/resource/techniques-101/",
+      "status": 200,
+      "title": "Manevi Yönelimli 101 Teknik · MARSAM",
+      "lang": "tr",
+      "sha256": "9d90774fdbd5d84930ca88cbf2be14c22042c317203e20db1e06b01e8d7967f8"
+    },
+    {
+      "path": "/tr/resource/family-spiritual/",
+      "status": 200,
+      "title": "Aile Terapisi · MARSAM",
+      "lang": "tr",
+      "sha256": "31b1f5cf8a8807a082c26bca4849dfb6fdfa7063f20011bfeedfcbd3e8cabfcc"
+    },
+    {
+      "path": "/tr/resource/group-counselling/",
+      "status": 200,
+      "title": "Grupla Psikolojik Danışma Uygulamaları · MARSAM",
+      "lang": "tr",
+      "sha256": "90ce76c9a5bb4567c8207b514b9d60d6420df5efeeaae53a11443b9e6f329bd9"
+    },
+    {
+      "path": "/tr/resource/cbt-spiritual/",
+      "status": 200,
+      "title": "Bilişsel Davranışçı Terapi · MARSAM",
+      "lang": "tr",
+      "sha256": "e0137a88a5cf249d3ce1ddbd1d67bce9dd47c2bd7795894a765deafb84b9da39"
+    },
+    {
+      "path": "/tr/resource/spiritual-burnout/",
+      "status": 200,
+      "title": "Manevi tükenmişliğin ölçülmesi · MARSAM",
+      "lang": "tr",
+      "sha256": "f457d0c81d75e4a3ac686a0eca7aa9d7b93a91a2fa9cad4eaadac09aa8c5f57a"
+    },
+    {
+      "path": "/tr/resource/sipas/",
+      "status": 200,
+      "title": "SIPAS. Maneviyatın danışma sürecine bütünleştirilmesi · MARSAM",
+      "lang": "tr",
+      "sha256": "f0de67066044dfc5ffbae041bc6eea8672f815b2c3be89603f03eb1621fd781e"
+    },
+    {
+      "path": "/tr/resource/loneliness-spirituality/",
+      "status": 200,
+      "title": "Manevi iyi oluş, yalnızlık ve kaygı · MARSAM",
+      "lang": "tr",
+      "sha256": "c69720c2d45f843af9c37d6caace98c02532e9bc82b08f2d32f4a7891e0474ec"
+    },
+    {
+      "path": "/tr/resource/professional-training/",
+      "status": 200,
+      "title": "Maneviyatla çalışmak için mesleki eğitim · MARSAM",
+      "lang": "tr",
+      "sha256": "0631db5739c1f804c98c2e335dae2414758eb9c08077afa4e2348471d7ef6875"
+    },
+    {
+      "path": "/tr/resource/spiritual-integrity/",
+      "status": 200,
+      "title": "Manevi bütünlük ve iyi oluş · MARSAM",
+      "lang": "tr",
+      "sha256": "0723cefb5bb0b282728d3896942481bbaeef88bafbead6153c6f751832e09fc8"
+    },
+    {
+      "path": "/tr/resource/spirituality-dimensions/",
+      "status": 200,
+      "title": "Maneviyatın çok boyutlu yapısı · MARSAM",
+      "lang": "tr",
+      "sha256": "0dd07331c9b21edb31d5306da7b90697ee0406c9096d8a41afe8084889c40133"
+    },
+    {
+      "path": "/tr/resource/spiritual-struggles/",
+      "status": 200,
+      "title": "Dini ve manevi mücadele · MARSAM",
+      "lang": "tr",
+      "sha256": "a7f159807807149aba3c120c8d8020d9fbcbcfd05d830ef5208effe5c77be44d"
+    },
+    {
+      "path": "/tr/learning/foundations/",
+      "status": 200,
+      "title": "Temelden başla · MARSAM",
+      "lang": "tr",
+      "sha256": "f2780fb6a53d6e4aa5704b399e711f9e9df46a36e27b34e80319c37172ede8f7"
+    },
+    {
+      "path": "/tr/learning/professional/",
+      "status": 200,
+      "title": "Danışma sürecini düşün · MARSAM",
+      "lang": "tr",
+      "sha256": "572f8ba07aa885cd7afec0ff7852d46778f279bdc3c0c6b7310f9dab35cfe0bf"
+    },
+    {
+      "path": "/tr/learning/research/",
+      "status": 200,
+      "title": "Araştırmaya hazırlan · MARSAM",
+      "lang": "tr",
+      "sha256": "4b7173d8475dca9c61f66c0cd79de0191bd2c716c2f5314e5161ae4ca4cd303a"
+    },
+    {
+      "path": "/en/",
+      "status": 200,
+      "title": "Home · MARSAM",
+      "lang": "en",
+      "sha256": "dc3e19a38cfa4f2f2daa419a229d6340dd436a04ebad2580e4f8207ec3c7402b"
+    },
+    {
+      "path": "/en/library/",
+      "status": 200,
+      "title": "Publications and resources · MARSAM",
+      "lang": "en",
+      "sha256": "ca512de4a7aa77688502fb5da434891d53b7d2b25fc911b0191ee6cc6a197cab"
+    },
+    {
+      "path": "/en/concepts/",
+      "status": 200,
+      "title": "Concept atlas · MARSAM",
+      "lang": "en",
+      "sha256": "007b328365a047313a7157f643f8d554e04128f273ae953c6c8d020128abee60"
+    },
+    {
+      "path": "/en/approaches/",
+      "status": 200,
+      "title": "Theories and approaches · MARSAM",
+      "lang": "en",
+      "sha256": "658bbd701fb124ebe08879f211964bdc5ffe7576a2ba3664edd14f2c079c8850"
+    },
+    {
+      "path": "/en/practice/",
+      "status": 200,
+      "title": "Spiritually oriented counseling · MARSAM",
+      "lang": "en",
+      "sha256": "14972096033c0b8e0c39a91242bb9f203fca78be7a31e10827298fbfc5b5ef0e"
+    },
+    {
+      "path": "/en/ethics/",
+      "status": 200,
+      "title": "Ethics and competence · MARSAM",
+      "lang": "en",
+      "sha256": "52579ea7f520cfb05918ca2cdfd5ef221014d777249da84ae43f0e823c96a8ec"
+    },
+    {
+      "path": "/en/methods/",
+      "status": 200,
+      "title": "Research methods · MARSAM",
+      "lang": "en",
+      "sha256": "c134c8cfc659edb04e9581f73392da661b92a4e8fe4a1da1dc2579caf8382fe5"
+    },
+    {
+      "path": "/en/measures/",
+      "status": 200,
+      "title": "Assessment directory · MARSAM",
+      "lang": "en",
+      "sha256": "22824b39454f21955a6c4e9a771c1604f34ddfdeb968eaf3981853d9c2ecebb0"
+    },
+    {
+      "path": "/en/learning/",
+      "status": 200,
+      "title": "Reading and learning pathways · MARSAM",
+      "lang": "en",
+      "sha256": "1109a50914720b4549383300a3a3ae1c3672cff5ec786280e0cc9e279e0385f5"
+    },
+    {
+      "path": "/en/media/",
+      "status": 200,
+      "title": "Video and seminar archive · MARSAM",
+      "lang": "en",
+      "sha256": "747f86fcc7048a6ed99b34fa57bc08d2a5116a87ed7c1483928d68b3a0dfd1b1"
+    },
+    {
+      "path": "/en/projects/",
+      "status": 200,
+      "title": "Research projects · MARSAM",
+      "lang": "en",
+      "sha256": "ccad228d8947b752eaa5e84f7a94558a544ed5479334df66cb02549bf6c40adf"
+    },
+    {
+      "path": "/en/participate/",
+      "status": 200,
+      "title": "Research participation · MARSAM",
+      "lang": "en",
+      "sha256": "e96d9b597607f13ba0b3dd42ab76623f6df1b4c7587cf1ec98b35d83049caf01"
+    },
+    {
+      "path": "/en/news/",
+      "status": 200,
+      "title": "News and announcements · MARSAM",
+      "lang": "en",
+      "sha256": "2e4616ad59c3c53f05f070ca40a977f213aa8e368b4495f2b12dd5805e5bce01"
+    },
+    {
+      "path": "/en/about/",
+      "status": 200,
+      "title": "About MARSAM · MARSAM",
+      "lang": "en",
+      "sha256": "bcb86f60e73befe0cd0343e2787279498dd63ec1f9c47b39fcf6fe7f59b70fcc"
+    },
+    {
+      "path": "/en/editorial/",
+      "status": 200,
+      "title": "Editorial and review policy · MARSAM",
+      "lang": "en",
+      "sha256": "a138debffc6be13891e5fd4d9c1bbb854e39dc88f0e29443fbd054560214c75b"
+    },
+    {
+      "path": "/en/contribute/",
+      "status": 200,
+      "title": "Prepare a contribution · MARSAM",
+      "lang": "en",
+      "sha256": "f1d8ca9e3432e670f496aa8c0e5043059006a80e6c7e4210c8b74adfcf22e206"
+    },
+    {
+      "path": "/en/saved/",
+      "status": 200,
+      "title": "My reading list · MARSAM",
+      "lang": "en",
+      "sha256": "15698260680466119e48db5779ef306d90a080734a99b0f6cf5845eda8a3acf1"
+    },
+    {
+      "path": "/en/search/",
+      "status": 200,
+      "title": "Search the collection · MARSAM",
+      "lang": "en",
+      "sha256": "d1eb4a5a86272c2aa29db35a794306ca6bb4ceef6f823fbb979cf35ea6c6d442"
+    },
+    {
+      "path": "/en/publications/",
+      "status": 200,
+      "title": "Recent research · MARSAM",
+      "lang": "en",
+      "sha256": "7064eebd124da5bdf4b106a2fc05863010c8cc408b1b94ed83a321df55a1529e"
+    },
+    {
+      "path": "/en/books/",
+      "status": 200,
+      "title": "Books · MARSAM",
+      "lang": "en",
+      "sha256": "8026cf57c0ae2379450b218bd8616497b89e84c1e229ca118996cf2ba3476626"
+    },
+    {
+      "path": "/en/collections/",
+      "status": 200,
+      "title": "Areas of study · MARSAM",
+      "lang": "en",
+      "sha256": "0ef0fce619d6fa643bbb1eff7fa9de5e9aaf29a78e1a8df7b98eff283bfbeafd"
+    },
+    {
+      "path": "/en/compare/",
+      "status": 200,
+      "title": "Compare sources · MARSAM",
+      "lang": "en",
+      "sha256": "30cf8072457b5e6e50a378449a027dbbbe7490fece7c358f9ce461738b7fd2e9"
+    },
+    {
+      "path": "/en/events/",
+      "status": 200,
+      "title": "Seminars and events · MARSAM",
+      "lang": "en",
+      "sha256": "0d620d2256a747872f2dc8c7bc0b3701189fa6ef8a7c2f4aece932e5dd71e9a6"
+    },
+    {
+      "path": "/en/research/",
+      "status": 200,
+      "title": "Research and collection map · MARSAM",
+      "lang": "en",
+      "sha256": "266ccb5d3a3615033811d2dab4de57e5e1e4c6df0721eadf704af9e7cd650ea2"
+    },
+    {
+      "path": "/en/governance/",
+      "status": 200,
+      "title": "Editorial practice and access · MARSAM",
+      "lang": "en",
+      "sha256": "1685c222b19eca178722b255ffa67f5a33925c4e03206f682a2e9de6d6ce3637"
+    },
+    {
+      "path": "/en/research-guide/",
+      "status": 200,
+      "title": "Reading a study through its evidence · MARSAM",
+      "lang": "en",
+      "sha256": "6da27c33ff357abac10fa152d84546e5f5570056caea857c323ca64a89645da7"
+    },
+    {
+      "path": "/en/measurement-guide/",
+      "status": 200,
+      "title": "An evidence file for a measure · MARSAM",
+      "lang": "en",
+      "sha256": "2b908fc3fcb04346b5215a01c4330651b5fdc7450edad13f750cf7b3fc1061e0"
+    },
+    {
+      "path": "/en/data-access/",
+      "status": 200,
+      "title": "Data access and comparisons with Türkiye · MARSAM",
+      "lang": "en",
+      "sha256": "225d4a1e0dff1ebd53f7c24560ff18dfcdd8df137c2d3f0731add0ed590fc4dd"
+    },
+    {
+      "path": "/en/reproducible-lab/",
+      "status": 200,
+      "title": "Catalogue inventory laboratory · MARSAM",
+      "lang": "en",
+      "sha256": "97e4cb12345fe68790e87c003e6276b6e96c6a3b37ebf2dcba3852784f8a8a8c"
+    },
+    {
+      "path": "/en/dossier/understanding-spiritual-experience/",
+      "status": 200,
+      "title": "Spiritual experience and counseling · MARSAM",
+      "lang": "en",
+      "sha256": "ea0edb8a3adbb9f161ac0e22e9e8abb3603ace80652bb79a65f35a02aeac8089"
+    },
+    {
+      "path": "/en/dossier/reading-evidence/",
+      "status": 200,
+      "title": "Evaluating research findings · MARSAM",
+      "lang": "en",
+      "sha256": "ae8f4cb6eb41a588b8dcc2c47d65e42d0ffcea973797fde2cb67aa23d3c0e8ca"
+    },
+    {
+      "path": "/en/dossier/preferences-and-boundaries/",
+      "status": 200,
+      "title": "Competence and ethics in counseling · MARSAM",
+      "lang": "en",
+      "sha256": "95a3af4958ff3cc51f32dfbc4a40cbd4008b18f41eb9a1d01df7e7697984cda8"
+    },
+    {
+      "path": "/en/dossier/culture-and-worldviews/",
+      "status": 200,
+      "title": "Cultural context and worldview · MARSAM",
+      "lang": "en",
+      "sha256": "35229799198ad2155d626d01f65e727793c8dbe8f6c45bba2a868bfd0d4e7ee8"
+    },
+    {
+      "path": "/en/dossier/assessment-and-permission/",
+      "status": 200,
+      "title": "Selecting assessment instruments · MARSAM",
+      "lang": "en",
+      "sha256": "6b1059e2e6631a5ee2e43823bc7e4537628c68de1972aa2c5f2043df28f6f156"
+    },
+    {
+      "path": "/en/dossier/question-to-design/",
+      "status": 200,
+      "title": "Research questions and methods · MARSAM",
+      "lang": "en",
+      "sha256": "9f696b1862d478692f099c4c540c11983dcdd865cb8f87374d197b2c7b5f634b"
+    },
+    {
+      "path": "/en/dossier/theory-and-integration/",
+      "status": 200,
+      "title": "Spirituality in psychotherapy theories · MARSAM",
+      "lang": "en",
+      "sha256": "3954ef0d408e3bef2c24f4a7e3403d8ecd0a6ab19b1456ba67323fd9a87dc7e1"
+    },
+    {
+      "path": "/en/dossier/digital-tools-and-responsibility/",
+      "status": 200,
+      "title": "AI and professional responsibility · MARSAM",
+      "lang": "en",
+      "sha256": "3a218b4b35d541a891b4d9b7cca8fc06b1426320c1f8b5ff8cde22f99741ab7e"
+    },
+    {
+      "path": "/en/resource/aservic-principles/",
+      "status": 200,
+      "title": "Professional principles for spirituality and religion · MARSAM",
+      "lang": "en",
+      "sha256": "461960a9ca81cb5dabca6e491b363a74a04f7a4a4d92552daab16e112d4fe1e7"
+    },
+    {
+      "path": "/en/resource/spiritual-competence/",
+      "status": 200,
+      "title": "Spiritual and religious competence · MARSAM",
+      "lang": "en",
+      "sha256": "7bd92def5f4ff3a0e48072801f220079b06dd468e398ea7e8896f737593b8b1f"
+    },
+    {
+      "path": "/en/resource/integration-meta-analysis/",
+      "status": 200,
+      "title": "Meta-analytic evidence for spiritual adaptations · MARSAM",
+      "lang": "en",
+      "sha256": "06a211099731e00424d5e1c28c6b38f201460451f210ee782ba78e167adf43f9"
+    },
+    {
+      "path": "/en/resource/client-preference/",
+      "status": 200,
+      "title": "Client preferences for spiritual integration · MARSAM",
+      "lang": "en",
+      "sha256": "8f2a465e5c7f8a194f0066cfe30b57409f9c50d7bf04ccf2318c8c799275f172"
+    },
+    {
+      "path": "/en/resource/sacred-tensions/",
+      "status": 200,
+      "title": "Spirituality, ethics and professional identity · MARSAM",
+      "lang": "en",
+      "sha256": "d38373959cd2f6d0d04a0036aec587f138e971fc977d7bded6e2583aefe2aff3"
+    },
+    {
+      "path": "/en/resource/metaphysical-diversity/",
+      "status": 200,
+      "title": "A theoretical discussion of metaphysical diversity · MARSAM",
+      "lang": "en",
+      "sha256": "9981fd97119229cf1918128062acc846c629ec802e0727c339341516438b7e3d"
+    },
+    {
+      "path": "/en/resource/three-waves/",
+      "status": 200,
+      "title": "Three waves from research to practice · MARSAM",
+      "lang": "en",
+      "sha256": "b5c762e0434c5abfe44cb6ff1a36aeb6cf1cd17180829dead580aa434a27f7d9"
+    },
+    {
+      "path": "/en/resource/theories-book/",
+      "status": 200,
+      "title": "Psychotherapy and Counselling Theories · MARSAM",
+      "lang": "en",
+      "sha256": "aa7f722f9725b501b20fef69b8f3b73049f6c48206501f522b49521c99fdf840"
+    },
+    {
+      "path": "/en/resource/toad-directory/",
+      "status": 200,
+      "title": "TOAD · Finding Turkish assessment resources · MARSAM",
+      "lang": "en",
+      "sha256": "5bb8089dd29238eb6307e73fca02b48e11d046752f95b2b1463069dfc8bfc4df"
+    },
+    {
+      "path": "/en/resource/prisma-guidance/",
+      "status": 200,
+      "title": "PRISMA · Transparent review reporting · MARSAM",
+      "lang": "en",
+      "sha256": "f3b67fd35bebc7a20fb68774f13e721eb698801ae182b2e27cb69de2aaa5f2c0"
+    },
+    {
+      "path": "/en/resource/ai-health-ethics/",
+      "status": 200,
+      "title": "AI for health, ethics and governance · MARSAM",
+      "lang": "en",
+      "sha256": "7dfba292c3c2b3a9c8fd1328dd031316bd05b6acc0a398736ee89da06c337d8a"
+    },
+    {
+      "path": "/en/resource/malaysia-ukm-counselling/",
+      "status": 200,
+      "title": "Islamic counselling and anxiety. A literature study · MARSAM",
+      "lang": "en",
+      "sha256": "d67194caad7354692fa29293e6af258805953a05929c108e2572a3beebdbc834"
+    },
+    {
+      "path": "/en/resource/trauma-spirituality/",
+      "status": 200,
+      "title": "Spirituality in the Wake of Trauma · MARSAM",
+      "lang": "en",
+      "sha256": "4d6aaa7992277ccd001ab5f79d29e8c2243f13bed24058ee17436f784d085a0e"
+    },
+    {
+      "path": "/en/resource/spiritual-counselling-book/",
+      "status": 200,
+      "title": "Spiritually Oriented Psychological Counselling · MARSAM",
+      "lang": "en",
+      "sha256": "6b1fadfc4d8f912328fa9b8899e785dc233e5a97f788db47fae39ac6525e2a52"
+    },
+    {
+      "path": "/en/resource/discovering-spirituality/",
+      "status": 200,
+      "title": "Exploring Spirituality · MARSAM",
+      "lang": "en",
+      "sha256": "4750ed9db2035c0969dbbddee324a5f5f5ce64381a452eb4f24b33573eddff43"
+    },
+    {
+      "path": "/en/resource/spiritual-practices/",
+      "status": 200,
+      "title": "Practices for Spiritual Living · MARSAM",
+      "lang": "en",
+      "sha256": "0270f119bed9c1c23896769618915fa6fe480712fe95cdb7a34010531f01cba0"
+    },
+    {
+      "path": "/en/resource/techniques-101/",
+      "status": 200,
+      "title": "101 Spiritually Oriented Techniques · MARSAM",
+      "lang": "en",
+      "sha256": "1b079ee4c4608e955d62e437ac026265d2c2e7bebd5c308695a2c1b93f57b33c"
+    },
+    {
+      "path": "/en/resource/family-spiritual/",
+      "status": 200,
+      "title": "Family Therapy · MARSAM",
+      "lang": "en",
+      "sha256": "9740e6436640243f7630e4d75785c8886a1a801bb1397163fa4dd5d64225c324"
+    },
+    {
+      "path": "/en/resource/group-counselling/",
+      "status": 200,
+      "title": "Group Counselling Practices · MARSAM",
+      "lang": "en",
+      "sha256": "de2328aa7cacc33a7199e715c7344a5d2dba8f4fc83b9b102224dac8c2c4548a"
+    },
+    {
+      "path": "/en/resource/cbt-spiritual/",
+      "status": 200,
+      "title": "Cognitive Behavioural Therapy · MARSAM",
+      "lang": "en",
+      "sha256": "73628bb126d8c7cf9cfd1ae30706e22758f4b368c9131f08b85179759de9b3c3"
+    },
+    {
+      "path": "/en/resource/spiritual-burnout/",
+      "status": 200,
+      "title": "Measuring spiritual burnout · MARSAM",
+      "lang": "en",
+      "sha256": "77a483c5024c598ba6f14f90f592f84574348e258003e488b39693288c268e7f"
+    },
+    {
+      "path": "/en/resource/sipas/",
+      "status": 200,
+      "title": "SIPAS. Integrating spirituality into counselling · MARSAM",
+      "lang": "en",
+      "sha256": "8477179d39b5eebc1cbdb3b7ec691bf0d8983df11f855e64f9c3ba21e8ccf680"
+    },
+    {
+      "path": "/en/resource/loneliness-spirituality/",
+      "status": 200,
+      "title": "Spiritual well-being, loneliness and anxiety · MARSAM",
+      "lang": "en",
+      "sha256": "f56eddb59fc7302d0ed466a95b85604d5a7df23b5adf6b2af3946da58809ef58"
+    },
+    {
+      "path": "/en/resource/professional-training/",
+      "status": 200,
+      "title": "Professional training for working with spirituality · MARSAM",
+      "lang": "en",
+      "sha256": "f1edd2d6cac17fe45e76280eb516362cce9b7ee885b3c4238da208232b4ebf3a"
+    },
+    {
+      "path": "/en/resource/spiritual-integrity/",
+      "status": 200,
+      "title": "Spiritual integrity and well-being · MARSAM",
+      "lang": "en",
+      "sha256": "d137dda119b1fa50f56b721de502db41969bf4ff5778e3fff79c00f5b86735fb"
+    },
+    {
+      "path": "/en/resource/spirituality-dimensions/",
+      "status": 200,
+      "title": "The multidimensional nature of spirituality · MARSAM",
+      "lang": "en",
+      "sha256": "0f21fb1fed360d33d7e508a436256023ed5c59ab8774d67336859aa6732da9ff"
+    },
+    {
+      "path": "/en/resource/spiritual-struggles/",
+      "status": 200,
+      "title": "Religious and spiritual struggles · MARSAM",
+      "lang": "en",
+      "sha256": "5635089b35998f1092b93b8a85ebe8a226b9f49b26b323cc5e22e43d39d215ab"
+    },
+    {
+      "path": "/en/learning/foundations/",
+      "status": 200,
+      "title": "Start with foundations · MARSAM",
+      "lang": "en",
+      "sha256": "7a35fcf593fb1f664e55cc62f104dad49c2f21f694e2bc955293a3360dd9b0c8"
+    },
+    {
+      "path": "/en/learning/professional/",
+      "status": 200,
+      "title": "Reflect on counseling · MARSAM",
+      "lang": "en",
+      "sha256": "52650f567ca57675981c5895655bc36c0c78bb868fb251d96e108d0e575cc297"
+    },
+    {
+      "path": "/en/learning/research/",
+      "status": 200,
+      "title": "Prepare for research · MARSAM",
+      "lang": "en",
+      "sha256": "2ce9ab37eb3aa1bb67edf561eb6ca10743c24d3c311e58d37d92cac111fa3e61"
+    },
+    {
+      "path": "/de/",
+      "status": 200,
+      "title": "Startseite · MARSAM",
+      "lang": "de",
+      "sha256": "53c9eec0086f509f468061452fa3ad08f6f17bd8496892790553e5d931d59e4b"
+    },
+    {
+      "path": "/de/library/",
+      "status": 200,
+      "title": "Publikationen und Ressourcen · MARSAM",
+      "lang": "de",
+      "sha256": "a756e3272ce4a07704872c36590fd55bd21784fd0d4aa4d83a8df3337f623d4c"
+    },
+    {
+      "path": "/de/concepts/",
+      "status": 200,
+      "title": "Begriffsatlas · MARSAM",
+      "lang": "de",
+      "sha256": "73ff8972105de7eb268e98343756d5d546874749c5142e161e2af66cc9cbbef7"
+    },
+    {
+      "path": "/de/approaches/",
+      "status": 200,
+      "title": "Theorien und Ansätze · MARSAM",
+      "lang": "de",
+      "sha256": "b66ac4c5062eb2dad75ed09402f063a058dcce34b968bfa1e6e70cfbb641a8e9"
+    },
+    {
+      "path": "/de/practice/",
+      "status": 200,
+      "title": "Spirituell orientierte Beratung · MARSAM",
+      "lang": "de",
+      "sha256": "26c008a00e7bab2fdbdb053104cc9dde73e8c71b05976255b13aaf83a6d23832"
+    },
+    {
+      "path": "/de/ethics/",
+      "status": 200,
+      "title": "Ethik und Kompetenz · MARSAM",
+      "lang": "de",
+      "sha256": "5e866fa1987ecf5e860945d4b8f86ff6b05328414e784deb542452fd323c5768"
+    },
+    {
+      "path": "/de/methods/",
+      "status": 200,
+      "title": "Forschungsmethoden · MARSAM",
+      "lang": "de",
+      "sha256": "c4cd382ad48b3afc4be5694d73ccc83134e5502f7814fdce86f4ffc1f6bb441a"
+    },
+    {
+      "path": "/de/measures/",
+      "status": 200,
+      "title": "Instrumentenverzeichnis · MARSAM",
+      "lang": "de",
+      "sha256": "26dfa46158d001f65f5aa78c028df5746397b6153b487830c70cfe03c61d6ba1"
+    },
+    {
+      "path": "/de/learning/",
+      "status": 200,
+      "title": "Lese- und Lernpfade · MARSAM",
+      "lang": "de",
+      "sha256": "6895cc31ed3e3fa5d8b276e4663a588aef7c0b5323379b4b0145ec5d66335391"
+    },
+    {
+      "path": "/de/media/",
+      "status": 200,
+      "title": "Video- und Seminararchiv · MARSAM",
+      "lang": "de",
+      "sha256": "c31d6e9593b8d28f0848c2d6e8e9c86b6d5de0fa6ffa71ce066380eb5f01f800"
+    },
+    {
+      "path": "/de/projects/",
+      "status": 200,
+      "title": "Forschungsprojekte · MARSAM",
+      "lang": "de",
+      "sha256": "60de16f446ba1fde244bd796f63e133448360fa6d20283520706bda646ece8e0"
+    },
+    {
+      "path": "/de/participate/",
+      "status": 200,
+      "title": "Studienteilnahme · MARSAM",
+      "lang": "de",
+      "sha256": "b65bb096a6f6134ca45b3a6fadfd4cf043afc2728645daf4adf14812d78f50bd"
+    },
+    {
+      "path": "/de/news/",
+      "status": 200,
+      "title": "Nachrichten und Mitteilungen · MARSAM",
+      "lang": "de",
+      "sha256": "c936a25726b958810c4f99301c87ed5ac1b48cd67bba230fe88c917b868b4033"
+    },
+    {
+      "path": "/de/about/",
+      "status": 200,
+      "title": "Über MARSAM · MARSAM",
+      "lang": "de",
+      "sha256": "691348d3a7eadbb22a000f16af5be442ebca49315e89408c47fd143d7629b379"
+    },
+    {
+      "path": "/de/editorial/",
+      "status": 200,
+      "title": "Publikations- und Prüfrichtlinien · MARSAM",
+      "lang": "de",
+      "sha256": "d7fbe21ebacfb1faba74c63a9b5e3cfd7c39c1dcc837b1d418f4a269bab37c7a"
+    },
+    {
+      "path": "/de/contribute/",
+      "status": 200,
+      "title": "Beitrag vorbereiten · MARSAM",
+      "lang": "de",
+      "sha256": "3d106cadfe0037811dde671549fb42810e42d222a6daa4ff37c95cdff29df4a7"
+    },
+    {
+      "path": "/de/saved/",
+      "status": 200,
+      "title": "Meine Leseliste · MARSAM",
+      "lang": "de",
+      "sha256": "f2fefa239ca8ff474381485aa41786c5e457e7b6662229b8b7165deab6846ff0"
+    },
+    {
+      "path": "/de/search/",
+      "status": 200,
+      "title": "Sammlung durchsuchen · MARSAM",
+      "lang": "de",
+      "sha256": "b912f1c01eee1ef17e254d39b8a6c54ceac4c425ade6e498a84f117d5233b2b0"
+    },
+    {
+      "path": "/de/publications/",
+      "status": 200,
+      "title": "Aktuelle Forschung · MARSAM",
+      "lang": "de",
+      "sha256": "c7cbf3f628c02c73703a212c8e51db27827ef0f82b05a973277eec4b23430b2b"
+    },
+    {
+      "path": "/de/books/",
+      "status": 200,
+      "title": "Bücher · MARSAM",
+      "lang": "de",
+      "sha256": "2042540a834bde6cbbd9168fda11b8d30f761f1fa48cab2e08821f5f96df89ee"
+    },
+    {
+      "path": "/de/collections/",
+      "status": 200,
+      "title": "Arbeitsgebiete · MARSAM",
+      "lang": "de",
+      "sha256": "cd2f14a75acaa24523ac6ccab97b583830ae265a130a08f4155bac1e504ba8c8"
+    },
+    {
+      "path": "/de/compare/",
+      "status": 200,
+      "title": "Quellen vergleichen · MARSAM",
+      "lang": "de",
+      "sha256": "c6437b990c6e9b4d2992d2a6dbf6109d9345508b8c3d4b784389d9a50687783d"
+    },
+    {
+      "path": "/de/events/",
+      "status": 200,
+      "title": "Seminare und Veranstaltungen · MARSAM",
+      "lang": "de",
+      "sha256": "2218ae48c1e738ba5244f10f741c22c88bb7134a7d1c83ffb38ca080f303fbea"
+    },
+    {
+      "path": "/de/research/",
+      "status": 200,
+      "title": "Forschung und Quellenübersicht · MARSAM",
+      "lang": "de",
+      "sha256": "464badd41d47e82d39bc1b1f07f16dba538db8c43e4da827bc141b4cdf425e0b"
+    },
+    {
+      "path": "/de/governance/",
+      "status": 200,
+      "title": "Redaktion und Zugang · MARSAM",
+      "lang": "de",
+      "sha256": "436f900d244d7a4ea1e9c15c0d7428b06e0101a2eaa1ccf19674c7126848dddd"
+    },
+    {
+      "path": "/de/research-guide/",
+      "status": 200,
+      "title": "Eine Studie anhand ihrer Evidenz lesen · MARSAM",
+      "lang": "de",
+      "sha256": "15c2adad9f9c1fbb4fc4a7fd725b3f326245af63f04c4e5d8a537f0af9a5b31f"
+    },
+    {
+      "path": "/de/measurement-guide/",
+      "status": 200,
+      "title": "Evidenzdossier für ein Messinstrument · MARSAM",
+      "lang": "de",
+      "sha256": "01a2fd1871f8cf27507f36e7366277f579ce9c25f34d05f6b0340975820a4fd5"
+    },
+    {
+      "path": "/de/data-access/",
+      "status": 200,
+      "title": "Datenzugang und Vergleiche mit der Türkei · MARSAM",
+      "lang": "de",
+      "sha256": "02ec6f27da29cfb7d16def32aee03d8bcfe0664730b484e508aa8e522573274c"
+    },
+    {
+      "path": "/de/reproducible-lab/",
+      "status": 200,
+      "title": "Labor zum Katalogbestand · MARSAM",
+      "lang": "de",
+      "sha256": "bde51c97e3dc929496455478a3bcc700d0d3ebe124d0e159418002273dedd87b"
+    },
+    {
+      "path": "/de/dossier/understanding-spiritual-experience/",
+      "status": 200,
+      "title": "Spirituelles Erleben und Beratung · MARSAM",
+      "lang": "de",
+      "sha256": "681d6ed381918f7976851b3f235f4a621ecc793e9c849b239d7a1fbf832df0d1"
+    },
+    {
+      "path": "/de/dossier/reading-evidence/",
+      "status": 200,
+      "title": "Forschungsbefunde beurteilen · MARSAM",
+      "lang": "de",
+      "sha256": "7c415257ff43d9e14f177e31cc962729e3ad1be35680e1858fabb1e09150a5f5"
+    },
+    {
+      "path": "/de/dossier/preferences-and-boundaries/",
+      "status": 200,
+      "title": "Kompetenz und Ethik in der Beratung · MARSAM",
+      "lang": "de",
+      "sha256": "d448bb749e9781e8c945dd1ce74dfe2f824e9ccf3b5e6636b8c1b596dd4b3224"
+    },
+    {
+      "path": "/de/dossier/culture-and-worldviews/",
+      "status": 200,
+      "title": "Kultureller Kontext und Weltanschauung · MARSAM",
+      "lang": "de",
+      "sha256": "a745823333faf72e44ce5c133e4716390498de81361a48e2344175867fb7590c"
+    },
+    {
+      "path": "/de/dossier/assessment-and-permission/",
+      "status": 200,
+      "title": "Erfassungsinstrumente auswählen · MARSAM",
+      "lang": "de",
+      "sha256": "d1882a81fdcafebe81c1d1cf6086415d28178577ce34680634a7bd18c51a188c"
+    },
+    {
+      "path": "/de/dossier/question-to-design/",
+      "status": 200,
+      "title": "Forschungsfragen und Methoden · MARSAM",
+      "lang": "de",
+      "sha256": "2c9dc2663ff9f93d64d78a8b11796c5dc0ae8ac1aa3bee2111bbd570adb407a3"
+    },
+    {
+      "path": "/de/dossier/theory-and-integration/",
+      "status": 200,
+      "title": "Spiritualität in Psychotherapietheorien · MARSAM",
+      "lang": "de",
+      "sha256": "4d1f12a9e34f0b73f5d835107a5bece7e439942b22d002b4b866ae058817f2a5"
+    },
+    {
+      "path": "/de/dossier/digital-tools-and-responsibility/",
+      "status": 200,
+      "title": "KI und berufliche Verantwortung · MARSAM",
+      "lang": "de",
+      "sha256": "4b6da35f13750c8a5be99846790565575dca01881af95ffd7c01126c05087f43"
+    },
+    {
+      "path": "/de/resource/aservic-principles/",
+      "status": 200,
+      "title": "Fachliche Prinzipien für Spiritualität und Religion · MARSAM",
+      "lang": "de",
+      "sha256": "a690183c11e0d24c3c8df3f757d4fe7be24621e798ad1e0f1e45c3fcbf3b46eb"
+    },
+    {
+      "path": "/de/resource/spiritual-competence/",
+      "status": 200,
+      "title": "Spirituelle und religiöse Kompetenz · MARSAM",
+      "lang": "de",
+      "sha256": "3844998fb96fae9995d9a59aff2a3b995fd4d2797c16849b68c4fa1b8edb8bb7"
+    },
+    {
+      "path": "/de/resource/integration-meta-analysis/",
+      "status": 200,
+      "title": "Metaanalytische Evidenz zu spirituellen Anpassungen · MARSAM",
+      "lang": "de",
+      "sha256": "e7cfb0b82f08296b559923c7466d9ad33421c25b56c7c01ea121a004bca371ea"
+    },
+    {
+      "path": "/de/resource/client-preference/",
+      "status": 200,
+      "title": "Präferenzen für spirituelle Integration · MARSAM",
+      "lang": "de",
+      "sha256": "f0cdf922eba2be8ef57ba0feafd0957f3a0d5da80fe395262a6d16285ea39480"
+    },
+    {
+      "path": "/de/resource/sacred-tensions/",
+      "status": 200,
+      "title": "Spiritualität, Ethik und berufliche Identität · MARSAM",
+      "lang": "de",
+      "sha256": "e37ba800e1036a0d8950041d09f784923983bbc74d32f8205ba0fb5115d1e6ad"
+    },
+    {
+      "path": "/de/resource/metaphysical-diversity/",
+      "status": 200,
+      "title": "Theoretische Diskussion metaphysischer Vielfalt · MARSAM",
+      "lang": "de",
+      "sha256": "7106fe17e009f27bc3e520b2d62b3ed09de2cdd876f4424056b8c35631b6892c"
+    },
+    {
+      "path": "/de/resource/three-waves/",
+      "status": 200,
+      "title": "Drei Wellen von Forschung zur Praxis · MARSAM",
+      "lang": "de",
+      "sha256": "fc4faf848e85a6c0be90ff8bed231baf3db14abd66db14b3bea6de2da56663c1"
+    },
+    {
+      "path": "/de/resource/theories-book/",
+      "status": 200,
+      "title": "Psychotherapie- und Beratungstheorien · MARSAM",
+      "lang": "de",
+      "sha256": "c507823318c277dab4b252af5c5d9faab35c6de9d18d5fafec63525d4cd95a5f"
+    },
+    {
+      "path": "/de/resource/toad-directory/",
+      "status": 200,
+      "title": "TOAD · Türkischsprachige Instrumente finden · MARSAM",
+      "lang": "de",
+      "sha256": "4b3e4565b87a05c4f68a78097dcff370eeb1f854d765cd660462ec3b9e05dd59"
+    },
+    {
+      "path": "/de/resource/prisma-guidance/",
+      "status": 200,
+      "title": "PRISMA · Transparente Berichterstattung · MARSAM",
+      "lang": "de",
+      "sha256": "d7f95c2aa714cb6b7f529ef9fce8420bd4ebd7dfc21ccd650ccd6f0b4455d9fc"
+    },
+    {
+      "path": "/de/resource/ai-health-ethics/",
+      "status": 200,
+      "title": "KI für Gesundheit, Ethik und Governance · MARSAM",
+      "lang": "de",
+      "sha256": "c58edc1bc9aa0fa523a1831ce4dd6e4d3905078ed079f18827a6ffb67bec4e0e"
+    },
+    {
+      "path": "/de/resource/malaysia-ukm-counselling/",
+      "status": 200,
+      "title": "Islamische Beratung und Angst. Eine Literaturstudie · MARSAM",
+      "lang": "de",
+      "sha256": "37bb2355d7359ca6b88b42086d3449122e480d8793dbcc4c1d64463f4742d5aa"
+    },
+    {
+      "path": "/de/resource/trauma-spirituality/",
+      "status": 200,
+      "title": "Spiritualität im Kontext von Trauma · MARSAM",
+      "lang": "de",
+      "sha256": "6cdd0132fe36f1da1586fc239b1879b30f23c1ebe0b1f7d361e9848d71ca079b"
+    },
+    {
+      "path": "/de/resource/spiritual-counselling-book/",
+      "status": 200,
+      "title": "Spirituell orientierte psychologische Beratung · MARSAM",
+      "lang": "de",
+      "sha256": "e4d6fa9463aaf209bd6b2483eafd680d135749dcb308ea2bdb65521dcfd99198"
+    },
+    {
+      "path": "/de/resource/discovering-spirituality/",
+      "status": 200,
+      "title": "Spiritualität entdecken · MARSAM",
+      "lang": "de",
+      "sha256": "34370e1aef41b7badb8694aea2eb3402cdfd2ab0489f2d3c9360bdad7d774d50"
+    },
+    {
+      "path": "/de/resource/spiritual-practices/",
+      "status": 200,
+      "title": "Spirituelle Lebenspraxis · MARSAM",
+      "lang": "de",
+      "sha256": "7c553cc09fa9506776d241c103224deec4362ecf0d93fff2e8d9a4cba2bab95a"
+    },
+    {
+      "path": "/de/resource/techniques-101/",
+      "status": 200,
+      "title": "101 spirituell orientierte Techniken · MARSAM",
+      "lang": "de",
+      "sha256": "6f9322c76a869d890a268b167fb3ffc70a40cc683ad26f6b71950201e8aede11"
+    },
+    {
+      "path": "/de/resource/family-spiritual/",
+      "status": 200,
+      "title": "Familientherapie · MARSAM",
+      "lang": "de",
+      "sha256": "87cbb64bcc4709552c8674de6ab0c887565d23e1875b08a0cafeeeb5944ad4e8"
+    },
+    {
+      "path": "/de/resource/group-counselling/",
+      "status": 200,
+      "title": "Praxis der Gruppenberatung · MARSAM",
+      "lang": "de",
+      "sha256": "0d631c120bbe9afac62a261f15ea441c8d0b5b94c04cd5c2149a27b5399a324a"
+    },
+    {
+      "path": "/de/resource/cbt-spiritual/",
+      "status": 200,
+      "title": "Kognitive Verhaltenstherapie · MARSAM",
+      "lang": "de",
+      "sha256": "9bc59a55d289de4b3b702bd8429c86a56ef66be65e0b14be736017f7170cdb8c"
+    },
+    {
+      "path": "/de/resource/spiritual-burnout/",
+      "status": 200,
+      "title": "Spirituelles Ausgebranntsein erfassen · MARSAM",
+      "lang": "de",
+      "sha256": "ed2fa09aee8fd4220512915e538f7ae6c1bb998968f6dbfde7bbfcb32c98715b"
+    },
+    {
+      "path": "/de/resource/sipas/",
+      "status": 200,
+      "title": "SIPAS. Spiritualität in der Beratung · MARSAM",
+      "lang": "de",
+      "sha256": "0e10c1e9516eea2e7b4a0510febab4b7faa0352a993df1b6c7ffc6445fe7950a"
+    },
+    {
+      "path": "/de/resource/loneliness-spirituality/",
+      "status": 200,
+      "title": "Spirituelles Wohlbefinden, Einsamkeit und Angst · MARSAM",
+      "lang": "de",
+      "sha256": "099f4e6ae7cf9d5c8ac22778cf1899fa642512662774fe8303ad3e3148bdccd2"
+    },
+    {
+      "path": "/de/resource/professional-training/",
+      "status": 200,
+      "title": "Professionelle Ausbildung im Umgang mit Spiritualität · MARSAM",
+      "lang": "de",
+      "sha256": "a75fbcbdc9519cdc5b13df337321f43078f2760aa3dc02e5cb25d3a9f5e1ddcd"
+    },
+    {
+      "path": "/de/resource/spiritual-integrity/",
+      "status": 200,
+      "title": "Spirituelle Integrität und Wohlbefinden · MARSAM",
+      "lang": "de",
+      "sha256": "977d71f2f8c572e0a28d9531fb158fc3abfc05e1bc729dfe5289947bcd4b760c"
+    },
+    {
+      "path": "/de/resource/spirituality-dimensions/",
+      "status": 200,
+      "title": "Die Mehrdimensionalität der Spiritualität · MARSAM",
+      "lang": "de",
+      "sha256": "5237d9ff1d6064458ce9080bdb58fa649bd37151fa5f56d249184af01ac2eeba"
+    },
+    {
+      "path": "/de/resource/spiritual-struggles/",
+      "status": 200,
+      "title": "Religiöse und spirituelle Konflikte · MARSAM",
+      "lang": "de",
+      "sha256": "975aeea2118f87a7ba47f18a93923c2c81884b4156c25701ae8f1b127a1dbd7c"
+    },
+    {
+      "path": "/de/learning/foundations/",
+      "status": 200,
+      "title": "Mit Grundlagen beginnen · MARSAM",
+      "lang": "de",
+      "sha256": "531a04d34133b49d62b8255db1002e128c8e007b0b9790cb7121d99e7b77bc6d"
+    },
+    {
+      "path": "/de/learning/professional/",
+      "status": 200,
+      "title": "Beratung reflektieren · MARSAM",
+      "lang": "de",
+      "sha256": "1372455c0405335c7ec255fb7f9ad2d88cebfd89ce6d20f78dbdb4eed61fb6b4"
+    },
+    {
+      "path": "/de/learning/research/",
+      "status": 200,
+      "title": "Forschung vorbereiten · MARSAM",
+      "lang": "de",
+      "sha256": "cc3e70a1bcc64b03b1f3dd46ad13468a2ee0fcdb74923a997864f2f3fb4fd115"
+    },
+    {
+      "path": "/zh/",
+      "status": 200,
+      "title": "首页 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "1a3c4a552ad3c04795eef6c438b3bb1a957c552c3c940ce3efb08519689c6510"
+    },
+    {
+      "path": "/zh/library/",
+      "status": 200,
+      "title": "出版物与资源 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "c8927551ac776968f2f2665960d17c9865c997616dcd48a36011730e498d712f"
+    },
+    {
+      "path": "/zh/concepts/",
+      "status": 200,
+      "title": "概念图谱 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "0ea464e548d2bd918afe16a331e6d4ce9767d80f676e47449aa7aae5a307ede0"
+    },
+    {
+      "path": "/zh/approaches/",
+      "status": 200,
+      "title": "理论与取向 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "cd6c83c7c659fa501919fb66bdf98b8b0a1e4d98314eb956fc425958ae947900"
+    },
+    {
+      "path": "/zh/practice/",
+      "status": 200,
+      "title": "灵性取向心理咨询 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "b8d7be0a4f0b33bd2ec6308f2dfde47372b5d0ef05f3c95cba27deb6b5f01df0"
+    },
+    {
+      "path": "/zh/ethics/",
+      "status": 200,
+      "title": "伦理与胜任力 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "778dc4c63731b133ccc406a4f836a2f018d2c520dcb27c3e242838eb8b35dde8"
+    },
+    {
+      "path": "/zh/methods/",
+      "status": 200,
+      "title": "研究方法 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "46d2d3a30858f8d2d2a0c1e32292a5048130823235a682b873eab495eaffa52b"
+    },
+    {
+      "path": "/zh/measures/",
+      "status": 200,
+      "title": "测量工具目录 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "a9ffe2f12d9845f4c0e0f26d9e998e30fabd59233c4c2f0c620f164db301565c"
+    },
+    {
+      "path": "/zh/learning/",
+      "status": 200,
+      "title": "阅读与学习路径 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "d769598c31701d547f58ad3665232d5c56f9141eb4021ea9ccdbf6f505030fae"
+    },
+    {
+      "path": "/zh/media/",
+      "status": 200,
+      "title": "视频与研讨会档案 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "78198c9125d250ae0e6c58b3ada23f8631398f0e628ea5c41f1e192fccb58778"
+    },
+    {
+      "path": "/zh/projects/",
+      "status": 200,
+      "title": "研究项目 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "fe46f9fdf1ff468c15671f9e409f19be73df12761c2d0a527e5d76b8f366165a"
+    },
+    {
+      "path": "/zh/participate/",
+      "status": 200,
+      "title": "参与研究 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "c4eb39810e6e70f96135c2aa7d07938968d6de2387b2c9f004796273542b0157"
+    },
+    {
+      "path": "/zh/news/",
+      "status": 200,
+      "title": "新闻与公告 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "c10b5d6e8ca5a6afb14b45565f298b97317c3aa8d8e761a11fdd025c9a8d4b20"
+    },
+    {
+      "path": "/zh/about/",
+      "status": 200,
+      "title": "关于 MARSAM · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "1ce63e158077251daa8d288aa87428750612080139dc2675bd977b4f92fb4f9c"
+    },
+    {
+      "path": "/zh/editorial/",
+      "status": 200,
+      "title": "编辑与评审原则 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "fe689958a85aaf0177c3bc73eb5abe1a438519051cd1e27ace89d5abbb19b895"
+    },
+    {
+      "path": "/zh/contribute/",
+      "status": 200,
+      "title": "准备贡献草稿 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "3b387ae6b5562bf9a2826d30f21af417003d49adc16f7a52f3783826b9576ccb"
+    },
+    {
+      "path": "/zh/saved/",
+      "status": 200,
+      "title": "我的阅读清单 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "c8dc65c74db15e2c4bda124803e723a3af9ceb02b4da6a0fb213a0b69951da7b"
+    },
+    {
+      "path": "/zh/search/",
+      "status": 200,
+      "title": "搜索内容 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "ab890a07ebdda3ef6f6448fabcaeca1aabe81c6ab88e86a11057d657b62b5345"
+    },
+    {
+      "path": "/zh/publications/",
+      "status": 200,
+      "title": "近期研究 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "5c534a00835b41223053f4bba992b7b5b1ba950cf40c3be3ab51028f341ab4c7"
+    },
+    {
+      "path": "/zh/books/",
+      "status": 200,
+      "title": "书籍 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "90a6d46685ac373702772f9b6313232ef53d34841783d8b4297b6e1f311309cd"
+    },
+    {
+      "path": "/zh/collections/",
+      "status": 200,
+      "title": "研究领域 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "74a7803f1385b26767f3926694e9f6a8c36eac45fcf66e0742ca6dfa46628c3a"
+    },
+    {
+      "path": "/zh/compare/",
+      "status": 200,
+      "title": "比较来源 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "d051f15fa09a236e4fa67dcc980a110389f4c08624e2a726bb23fbfc78580c2b"
+    },
+    {
+      "path": "/zh/events/",
+      "status": 200,
+      "title": "研讨会与活动 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "ee7156bac10cae009416a3820ed43a21673ed6e7eb1baa2796ace975962f3470"
+    },
+    {
+      "path": "/zh/research/",
+      "status": 200,
+      "title": "研究与资源概览 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "5b4025044fcfe9e5f6a36942ba9bde901e804cce8b98f3c79579652917879925"
+    },
+    {
+      "path": "/zh/governance/",
+      "status": 200,
+      "title": "编辑规范与访问 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "ce7b19a6fc0e7a427e554d6dffd9af42ac954672818b484af980e4e4ad293856"
+    },
+    {
+      "path": "/zh/research-guide/",
+      "status": 200,
+      "title": "依据证据审读研究 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "10807ef13ae4305f517b2629bc4054363dec2030ac200d554aa13497a3541d58"
+    },
+    {
+      "path": "/zh/measurement-guide/",
+      "status": 200,
+      "title": "测量工具证据档案 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "208e147d0bbd5614ac8d89ce3f4f8e285632bb0197e77f0f3c8283cf25ea8e0c"
+    },
+    {
+      "path": "/zh/data-access/",
+      "status": 200,
+      "title": "数据访问与土耳其比较研究 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "498e848391d6f2e49d47b56f5bdc0bc627d846bdd858209675f5b5811c000861"
+    },
+    {
+      "path": "/zh/reproducible-lab/",
+      "status": 200,
+      "title": "目录清单实验室 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "bdac923761b9ccd72a8c75951bc78fbef2229277c5db1de64ff5a249d66c233d"
+    },
+    {
+      "path": "/zh/dossier/understanding-spiritual-experience/",
+      "status": 200,
+      "title": "灵性经验与心理咨询 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "945ad5924c784434622ea448c2fa2cb7ef15834454ee3a55b6df1b611ab198c3"
+    },
+    {
+      "path": "/zh/dossier/reading-evidence/",
+      "status": 200,
+      "title": "评估研究结果 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "8e604d4d19c4dd2f940f43043f039540677cb13e5deb10ba1454e603cd591d5d"
+    },
+    {
+      "path": "/zh/dossier/preferences-and-boundaries/",
+      "status": 200,
+      "title": "咨询中的专业胜任力与伦理 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "dfb5b0e993020f12a4313085c9c596f43951d9b5a921b3b01b43d5d2ea9d4ca1"
+    },
+    {
+      "path": "/zh/dossier/culture-and-worldviews/",
+      "status": 200,
+      "title": "文化情境与世界观 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "d04b85f0141235f4e0f59f5610f2a68182bbdbd748ed5e22b52bcbd0774eb949"
+    },
+    {
+      "path": "/zh/dossier/assessment-and-permission/",
+      "status": 200,
+      "title": "选择评估工具 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "48d378431dd97750e091531b663a4e2e5e42149e71dedf097e4f1540ea97616a"
+    },
+    {
+      "path": "/zh/dossier/question-to-design/",
+      "status": 200,
+      "title": "研究问题与方法 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "131fa7cfcd6089179aae14d4df4591dd5398ae24eedde8ab23a16b1b075b9734"
+    },
+    {
+      "path": "/zh/dossier/theory-and-integration/",
+      "status": 200,
+      "title": "心理治疗理论中的灵性 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "a6fc29d8f7110135c46988fab5892f7881c745dc5cef994690dda45fd2ce9dad"
+    },
+    {
+      "path": "/zh/dossier/digital-tools-and-responsibility/",
+      "status": 200,
+      "title": "人工智能与专业责任 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "d3fb7fce8e3a997c6174c49c00aba11485b30986d027c00916799ada8a52a290"
+    },
+    {
+      "path": "/zh/resource/aservic-principles/",
+      "status": 200,
+      "title": "灵性与宗教领域的专业实践原则 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "7d79fa66abb444955bb331cc2d4c8bb5944f4345fbb090da15b8f1767d4bbc8a"
+    },
+    {
+      "path": "/zh/resource/spiritual-competence/",
+      "status": 200,
+      "title": "灵性与宗教胜任力 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "e0af09594d4d54e90c1389f1f247e211244e807d1dca8b2ef8b30df66df8d66d"
+    },
+    {
+      "path": "/zh/resource/integration-meta-analysis/",
+      "status": 200,
+      "title": "灵性适配的元分析证据 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "c3d229b8b3845379cd3be89e2e77dd848a3ea0b887bdc90abcce848a5518da7c"
+    },
+    {
+      "path": "/zh/resource/client-preference/",
+      "status": 200,
+      "title": "来访者对灵性整合的偏好 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "7f17730022f78ad28cf7aef43405720ec757ec7fad7e23a62f0cc5ff03e8af24"
+    },
+    {
+      "path": "/zh/resource/sacred-tensions/",
+      "status": 200,
+      "title": "灵性、伦理与专业身份 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "d8a2a108955d514abdbbeff9b1e969073bca1e5d8fb2f18d0f91292a29ef691c"
+    },
+    {
+      "path": "/zh/resource/metaphysical-diversity/",
+      "status": 200,
+      "title": "关于形而上学多样性的理论讨论 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "5d864a4585e649e136242e4bd284fdae3e170f565f98c5ae7a8fd535c2d9f914"
+    },
+    {
+      "path": "/zh/resource/three-waves/",
+      "status": 200,
+      "title": "从研究到实践的三次发展浪潮 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "d17c28318f53629ed3e59bdfe9fd0835e59037b6b025febf7f061b2eae0dba50"
+    },
+    {
+      "path": "/zh/resource/theories-book/",
+      "status": 200,
+      "title": "心理治疗与咨询理论 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "9213e2be0f7cbe1df0e71fb43e117ea6d264a966d04839c298a8b8eb5d31771b"
+    },
+    {
+      "path": "/zh/resource/toad-directory/",
+      "status": 200,
+      "title": "TOAD · 查找土耳其语测量资源 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "c926c7c5656feeb3d88a9ad46052c57af99e331cf73bcce777166572890b858e"
+    },
+    {
+      "path": "/zh/resource/prisma-guidance/",
+      "status": 200,
+      "title": "PRISMA · 透明的综述报告 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "353a2bf6ce85749c9a2d049061841f25c2d36816c3f89a146771e9d418655c2f"
+    },
+    {
+      "path": "/zh/resource/ai-health-ethics/",
+      "status": 200,
+      "title": "健康领域人工智能的伦理与治理 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "321038fd63bd34fdb11c6bdb74cbe774dd37923285ce5aa9f1ad604254a26052"
+    },
+    {
+      "path": "/zh/resource/malaysia-ukm-counselling/",
+      "status": 200,
+      "title": "伊斯兰咨询与焦虑文献研究 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "a61478a9584af48ff9a65ea6b50f6e883547700f7df1c3404d2b384933949950"
+    },
+    {
+      "path": "/zh/resource/trauma-spirituality/",
+      "status": 200,
+      "title": "创伤历程中的灵性 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "080f8ee69f995582ff8378449cf6d443938ed6e1d6c1693da06f7117eefeeb83"
+    },
+    {
+      "path": "/zh/resource/spiritual-counselling-book/",
+      "status": 200,
+      "title": "灵性取向心理咨询 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "497885e7b67fa673991c4c78ed7735d09c9392a1d368705020f7179771ecb8cb"
+    },
+    {
+      "path": "/zh/resource/discovering-spirituality/",
+      "status": 200,
+      "title": "探索灵性 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "78076e228da0e2490362867514e5c889787ecfb5882446b7f50471a2562eca19"
+    },
+    {
+      "path": "/zh/resource/spiritual-practices/",
+      "status": 200,
+      "title": "灵性生活实践 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "2e8c5202cc1a6a90e9d4cfe065e74bb11e0d370f7fe938b10a7f321e1849c05b"
+    },
+    {
+      "path": "/zh/resource/techniques-101/",
+      "status": 200,
+      "title": "101种灵性取向技术 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "71b90df8e13b8aab1249bf1bd553e2f1114dd3e6ce211eb51c2d7c3e0273008d"
+    },
+    {
+      "path": "/zh/resource/family-spiritual/",
+      "status": 200,
+      "title": "家庭治疗 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "9a476cdeca7596cb896bce00811dd80bec094d4e7d313597f2d8a0ab3a0c331e"
+    },
+    {
+      "path": "/zh/resource/group-counselling/",
+      "status": 200,
+      "title": "团体心理咨询实践 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "b960531d49b730b9dc508f3b52eecacfda966e943e36d74a41e4065413b90ca9"
+    },
+    {
+      "path": "/zh/resource/cbt-spiritual/",
+      "status": 200,
+      "title": "认知行为治疗 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "46954e0249b093b2cda993a4c4d50f4d27a60e9a1679b712d3a7cd14b9dde88a"
+    },
+    {
+      "path": "/zh/resource/spiritual-burnout/",
+      "status": 200,
+      "title": "测量灵性耗竭 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "1ec2434880f18f0ba5be621446bbbdf83db7be0fc8da2a60e25d5ad441205aa9"
+    },
+    {
+      "path": "/zh/resource/sipas/",
+      "status": 200,
+      "title": "SIPAS. 咨询中的灵性整合 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "b1e40ecdfc6877b4d74fcfc3963de18c2d9c115a91dd34eb07e66148901395ed"
+    },
+    {
+      "path": "/zh/resource/loneliness-spirituality/",
+      "status": 200,
+      "title": "灵性福祉、孤独与焦虑 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "0fed18f3988fe5b60d591cb4431355eae2e8d4ec22d6723e5cd24813c52ea491"
+    },
+    {
+      "path": "/zh/resource/professional-training/",
+      "status": 200,
+      "title": "灵性相关工作的专业培训 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "9ff511f034ec7bde852a242d83b32f7aac7c141ada5aa937fa2bd5be587aea2c"
+    },
+    {
+      "path": "/zh/resource/spiritual-integrity/",
+      "status": 200,
+      "title": "灵性整合与福祉 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "fb848e6284ed8491bec1ec26a93af0bc6b8cc0a0a88897144985351bc94fad9c"
+    },
+    {
+      "path": "/zh/resource/spirituality-dimensions/",
+      "status": 200,
+      "title": "灵性的多维结构 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "86d7b6d43c99896b27d7c562aad66b247b6b8b50a4a33673d3f0b247a09c8436"
+    },
+    {
+      "path": "/zh/resource/spiritual-struggles/",
+      "status": 200,
+      "title": "宗教与灵性挣扎 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "96ebf1b9488da1170904879a7be49a571b7125317c09a1d25eb84894172b5eb6"
+    },
+    {
+      "path": "/zh/learning/foundations/",
+      "status": 200,
+      "title": "从基础开始 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "580e5404112fdbbb3e83a6db353f0b93bad29cd95121afcee9247f7ac78de17f"
+    },
+    {
+      "path": "/zh/learning/professional/",
+      "status": 200,
+      "title": "反思咨询过程 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "7583f49c6467b2f3a530d9a1d10703c31e3754125fa5236fde4640459e38e980"
+    },
+    {
+      "path": "/zh/learning/research/",
+      "status": 200,
+      "title": "为研究做准备 · MARSAM",
+      "lang": "zh-Hans",
+      "sha256": "eef50b3b2451e4282c045e1d47ffb417c77ae88cb70ade516e8b1be15a17d112"
+    },
+    {
+      "path": "/ru/",
+      "status": 200,
+      "title": "Главная · MARSAM",
+      "lang": "ru",
+      "sha256": "43757b6ecf7e268e929214dc13c70cb354c38f6fdddbddbc5f49ba297d055329"
+    },
+    {
+      "path": "/ru/library/",
+      "status": 200,
+      "title": "Публикации и ресурсы · MARSAM",
+      "lang": "ru",
+      "sha256": "7f634ae2ebf5cd37dca6a0977cf4f8c5bce2e2ca6d9134da45f06a10f5d6bac5"
+    },
+    {
+      "path": "/ru/concepts/",
+      "status": 200,
+      "title": "Атлас понятий · MARSAM",
+      "lang": "ru",
+      "sha256": "55547a9d36e28eb8182af8ec80ba7a6fb7ae466596c9356e14c07a07b983c02b"
+    },
+    {
+      "path": "/ru/approaches/",
+      "status": 200,
+      "title": "Теории и подходы · MARSAM",
+      "lang": "ru",
+      "sha256": "af6159c33c2d487277a7ccdbf129b53435440b47c429d0dca220884a10804654"
+    },
+    {
+      "path": "/ru/practice/",
+      "status": 200,
+      "title": "Духовно ориентированное консультирование · MARSAM",
+      "lang": "ru",
+      "sha256": "8e94f2935b9977e745d6bb2eb264652bc61b4d620d8b2e8b6bb7fcf0c01343e5"
+    },
+    {
+      "path": "/ru/ethics/",
+      "status": 200,
+      "title": "Этика и компетентность · MARSAM",
+      "lang": "ru",
+      "sha256": "39f80347c915df9ce480c441b05aa9fea4cf80e58362c415ff4e9c8717090193"
+    },
+    {
+      "path": "/ru/methods/",
+      "status": 200,
+      "title": "Методы исследования · MARSAM",
+      "lang": "ru",
+      "sha256": "ef24d80c0d8a3430bdbff67e0ecd6846f43f1fe7604146895bd5558168551928"
+    },
+    {
+      "path": "/ru/measures/",
+      "status": 200,
+      "title": "Каталог инструментов · MARSAM",
+      "lang": "ru",
+      "sha256": "3e8c90c634450123c303ab02163ebba05e3da35c92ab5c612d4a2077176d0ada"
+    },
+    {
+      "path": "/ru/learning/",
+      "status": 200,
+      "title": "Маршруты чтения и обучения · MARSAM",
+      "lang": "ru",
+      "sha256": "d47f4b25b9122747169ba3c55a9d9698876c0ea742a28abbdaf92909bee5f465"
+    },
+    {
+      "path": "/ru/media/",
+      "status": 200,
+      "title": "Архив видео и семинаров · MARSAM",
+      "lang": "ru",
+      "sha256": "461a4de1b5b5b6600ad989208d6d13fce7f0c2cad75b3cff0a72d34074f23927"
+    },
+    {
+      "path": "/ru/projects/",
+      "status": 200,
+      "title": "Исследовательские проекты · MARSAM",
+      "lang": "ru",
+      "sha256": "023c2a4cd4e5a81116248d9ede8e5786b2abf0cff3e022d842678b41e8750fae"
+    },
+    {
+      "path": "/ru/participate/",
+      "status": 200,
+      "title": "Участие в исследованиях · MARSAM",
+      "lang": "ru",
+      "sha256": "9e4259c96d65edd850941d2c8b487aceb3e50d39ed0716219b7e70731fa6a8b9"
+    },
+    {
+      "path": "/ru/news/",
+      "status": 200,
+      "title": "Новости и объявления · MARSAM",
+      "lang": "ru",
+      "sha256": "8f1e7938718f5d33ec397a829c16e4a40b8a8425016c7ad38e11c23f71e7b6fb"
+    },
+    {
+      "path": "/ru/about/",
+      "status": 200,
+      "title": "О MARSAM · MARSAM",
+      "lang": "ru",
+      "sha256": "c7bedf3f9cef2bd13e4e45aba71c59432dd65aa7427476f15444041f59048658"
+    },
+    {
+      "path": "/ru/editorial/",
+      "status": 200,
+      "title": "Редакционные принципы · MARSAM",
+      "lang": "ru",
+      "sha256": "59379ed938d4d9d329419199e762c974b4f6e8c0c22872b57eec36ebafeaf5d9"
+    },
+    {
+      "path": "/ru/contribute/",
+      "status": 200,
+      "title": "Подготовить материал · MARSAM",
+      "lang": "ru",
+      "sha256": "ed63f002fdc3aca1b415001a47b45a52344cbecc61b6551196e5277841bc2b89"
+    },
+    {
+      "path": "/ru/saved/",
+      "status": 200,
+      "title": "Мой список чтения · MARSAM",
+      "lang": "ru",
+      "sha256": "f8ed243b919133adac41b69e54b49c082ac1f386740e9ac0f5cdc66f99abe5cd"
+    },
+    {
+      "path": "/ru/search/",
+      "status": 200,
+      "title": "Поиск по коллекции · MARSAM",
+      "lang": "ru",
+      "sha256": "ea29ad68f393470ef91a021090618bd77884100b48d8c1391582921075211cc3"
+    },
+    {
+      "path": "/ru/publications/",
+      "status": 200,
+      "title": "Новые исследования · MARSAM",
+      "lang": "ru",
+      "sha256": "017084d848895ec230c2e55b274dc207beeb728cea53cdceec783c5c9930d53d"
+    },
+    {
+      "path": "/ru/books/",
+      "status": 200,
+      "title": "Книги · MARSAM",
+      "lang": "ru",
+      "sha256": "c515606b37d89dacfd1617c1eb6f4c153413424638cd4b87eaa7eb6afbe00fce"
+    },
+    {
+      "path": "/ru/collections/",
+      "status": 200,
+      "title": "Направления работы · MARSAM",
+      "lang": "ru",
+      "sha256": "a393b2a7db880607f64b44fa56e3265cd778ed143147c99ea969fb8a3989b5f4"
+    },
+    {
+      "path": "/ru/compare/",
+      "status": 200,
+      "title": "Сравнить источники · MARSAM",
+      "lang": "ru",
+      "sha256": "6acdc8ea5e6fcdd87bea68e180b87f3126395b6985eeff442bc4f6b4e21e2340"
+    },
+    {
+      "path": "/ru/events/",
+      "status": 200,
+      "title": "Семинары и мероприятия · MARSAM",
+      "lang": "ru",
+      "sha256": "b6842bc21af8077b385c0d5278a30fabe316edef003c90494e594bb403a99e40"
+    },
+    {
+      "path": "/ru/research/",
+      "status": 200,
+      "title": "Исследования и обзор коллекции · MARSAM",
+      "lang": "ru",
+      "sha256": "fc071178e428f84da9432874b0db1610da69d22645bf501bdea7b47572af67bf"
+    },
+    {
+      "path": "/ru/governance/",
+      "status": 200,
+      "title": "Редакционная работа и доступ · MARSAM",
+      "lang": "ru",
+      "sha256": "ee55bb01ee7ea167e8c7030836c06af4c81e0a543278ed5d7999a25a870f4bd5"
+    },
+    {
+      "path": "/ru/research-guide/",
+      "status": 200,
+      "title": "Чтение исследования через его доказательства · MARSAM",
+      "lang": "ru",
+      "sha256": "682d1bce77154f0c5b3c2fe71e8c19b7479f92caec75830ead67317d03f506dc"
+    },
+    {
+      "path": "/ru/measurement-guide/",
+      "status": 200,
+      "title": "Досье доказательств для методики · MARSAM",
+      "lang": "ru",
+      "sha256": "401b67b0f32296ca2c5836dc117240ca3533f3a64a06deaaf0175b7c19b3d5ff"
+    },
+    {
+      "path": "/ru/data-access/",
+      "status": 200,
+      "title": "Доступ к данным и сравнения с Турцией · MARSAM",
+      "lang": "ru",
+      "sha256": "27c7e2c6d03d369963dabaffbbff0575bce69b77b8dd4fcdcd84b3a44c0c0394"
+    },
+    {
+      "path": "/ru/reproducible-lab/",
+      "status": 200,
+      "title": "Лабораторная работа с каталогом · MARSAM",
+      "lang": "ru",
+      "sha256": "6f84c649a0f5c43d16f970735a0bebe3102e10896ad82c1067a200e82567a355"
+    },
+    {
+      "path": "/ru/dossier/understanding-spiritual-experience/",
+      "status": 200,
+      "title": "Духовный опыт и консультирование · MARSAM",
+      "lang": "ru",
+      "sha256": "3d49809c14790509445257ea3556d71c4bf4f83979b9d7c2b54700b7f1174e8f"
+    },
+    {
+      "path": "/ru/dossier/reading-evidence/",
+      "status": 200,
+      "title": "Оценка результатов исследований · MARSAM",
+      "lang": "ru",
+      "sha256": "85cfe78cbb6273d6a367cdc4a8b17b073823906cdc762f9dc74bd2ae17f4a6a8"
+    },
+    {
+      "path": "/ru/dossier/preferences-and-boundaries/",
+      "status": 200,
+      "title": "Компетентность и этика в консультировании · MARSAM",
+      "lang": "ru",
+      "sha256": "ddea4ebe4f1f0d1fe6cdd76bf3f82cb8e7b5b1df829d632ba0b2984ad8fa70c9"
+    },
+    {
+      "path": "/ru/dossier/culture-and-worldviews/",
+      "status": 200,
+      "title": "Культурный контекст и мировоззрение · MARSAM",
+      "lang": "ru",
+      "sha256": "f8806e287065ac34db466ae14526e895cf18312f1afd34a6ea0abe1c2df5b968"
+    },
+    {
+      "path": "/ru/dossier/assessment-and-permission/",
+      "status": 200,
+      "title": "Выбор инструментов оценки · MARSAM",
+      "lang": "ru",
+      "sha256": "5f5676a980b4cbccad6361e75cabdc3aaf7f3677065c0e26d5881b3105fed952"
+    },
+    {
+      "path": "/ru/dossier/question-to-design/",
+      "status": 200,
+      "title": "Исследовательские вопросы и методы · MARSAM",
+      "lang": "ru",
+      "sha256": "48794b0a630cab12a9df60486f99a5cea7e173077a013456b165688afaa67f28"
+    },
+    {
+      "path": "/ru/dossier/theory-and-integration/",
+      "status": 200,
+      "title": "Духовность в теориях психотерапии · MARSAM",
+      "lang": "ru",
+      "sha256": "f51e9424482e8e7bdbb55004d719718fc593f30a5477efde120cebd0e1e4c4da"
+    },
+    {
+      "path": "/ru/dossier/digital-tools-and-responsibility/",
+      "status": 200,
+      "title": "ИИ и профессиональная ответственность · MARSAM",
+      "lang": "ru",
+      "sha256": "6a600140b390e9e57d8d09c31a30d47d0053303bfdbeb59d769cad8515cd9eab"
+    },
+    {
+      "path": "/ru/resource/aservic-principles/",
+      "status": 200,
+      "title": "Профессиональные принципы работы с духовностью и религией · MARSAM",
+      "lang": "ru",
+      "sha256": "bdb9cef45e3a37358b2b8d2517cd512449180ab9d2f841f933ed05096b1ee644"
+    },
+    {
+      "path": "/ru/resource/spiritual-competence/",
+      "status": 200,
+      "title": "Духовная и религиозная компетентность · MARSAM",
+      "lang": "ru",
+      "sha256": "d9093ad76ec1e21cdb8b45919eab45a531e1752c04cd1640fb9f292edb209eb5"
+    },
+    {
+      "path": "/ru/resource/integration-meta-analysis/",
+      "status": 200,
+      "title": "Метааналитические данные о духовной адаптации терапии · MARSAM",
+      "lang": "ru",
+      "sha256": "c728a351af74009f2bde348dc20e8927a65e1815842cfad95c4a9e8d8dcec3d4"
+    },
+    {
+      "path": "/ru/resource/client-preference/",
+      "status": 200,
+      "title": "Предпочтения клиента относительно духовной интеграции · MARSAM",
+      "lang": "ru",
+      "sha256": "823cec5b247e420214a22bf594a77b1815ea32c2d4428c01d9aa136758c0b1f7"
+    },
+    {
+      "path": "/ru/resource/sacred-tensions/",
+      "status": 200,
+      "title": "Духовность, этика и профессиональная идентичность · MARSAM",
+      "lang": "ru",
+      "sha256": "9e38e93853096c4b820202ad2affae198012ba94132cfc4fa161712dc5b2c4bc"
+    },
+    {
+      "path": "/ru/resource/metaphysical-diversity/",
+      "status": 200,
+      "title": "Теоретическое обсуждение метафизического разнообразия · MARSAM",
+      "lang": "ru",
+      "sha256": "21ac71089b665d16c124ecd85f1793216a748a2e1933b039e7c37ae2a402a9de"
+    },
+    {
+      "path": "/ru/resource/three-waves/",
+      "status": 200,
+      "title": "Три волны от исследования к практике · MARSAM",
+      "lang": "ru",
+      "sha256": "a003a76adb46f1ddc6bdc04bff3f8e8ae8118e067042023f74b8c12ac540a68f"
+    },
+    {
+      "path": "/ru/resource/theories-book/",
+      "status": 200,
+      "title": "Теории психотерапии и консультирования · MARSAM",
+      "lang": "ru",
+      "sha256": "23392dcb6dd57fcd4621bb76a349f34e33a79491cf3f3ede2c5672109e8fc691"
+    },
+    {
+      "path": "/ru/resource/toad-directory/",
+      "status": 200,
+      "title": "TOAD · Поиск инструментов на турецком языке · MARSAM",
+      "lang": "ru",
+      "sha256": "cdc11c4e40023f09b15bcae6da30c28608ffb82302555e8a5179c2afa659fedf"
+    },
+    {
+      "path": "/ru/resource/prisma-guidance/",
+      "status": 200,
+      "title": "PRISMA · Прозрачная отчётность обзоров · MARSAM",
+      "lang": "ru",
+      "sha256": "bb705a04804ad81156163d4163ee0262e6df72550fc3313445e2f16328bd976a"
+    },
+    {
+      "path": "/ru/resource/ai-health-ethics/",
+      "status": 200,
+      "title": "ИИ в здравоохранении: этика и управление · MARSAM",
+      "lang": "ru",
+      "sha256": "89e5f79109df5a624405213eb5a4a918092ac6eb6e93e3aa1c4e7427da5eb594"
+    },
+    {
+      "path": "/ru/resource/malaysia-ukm-counselling/",
+      "status": 200,
+      "title": "Исламское консультирование и тревога. Анализ литературы · MARSAM",
+      "lang": "ru",
+      "sha256": "386e2283c5bf9ec59abe60fa591768290498e29cbf5a4d257745090c70253b69"
+    },
+    {
+      "path": "/ru/resource/trauma-spirituality/",
+      "status": 200,
+      "title": "Духовность в контексте травмы · MARSAM",
+      "lang": "ru",
+      "sha256": "9569b281d9c9118e94b1ee1cf8743b5c1a573dde6f29bf3ceff6a1daa89f1a19"
+    },
+    {
+      "path": "/ru/resource/spiritual-counselling-book/",
+      "status": 200,
+      "title": "Духовно ориентированное психологическое консультирование · MARSAM",
+      "lang": "ru",
+      "sha256": "69ac31a9e3d91e79bc0c1eb7fbfc43008bbc557fbc26a34dbd39f53536735cec"
+    },
+    {
+      "path": "/ru/resource/discovering-spirituality/",
+      "status": 200,
+      "title": "Открывая духовность · MARSAM",
+      "lang": "ru",
+      "sha256": "d62ad4e83bcb527c5ae6010b3be21aaba0d8023d3caf0b5976da822d8e33ae15"
+    },
+    {
+      "path": "/ru/resource/spiritual-practices/",
+      "status": 200,
+      "title": "Практики духовной жизни · MARSAM",
+      "lang": "ru",
+      "sha256": "8b1094421bbbc9ba2df8590458d9eb054da2f412fc5cd98bd98de2463b008057"
+    },
+    {
+      "path": "/ru/resource/techniques-101/",
+      "status": 200,
+      "title": "101 духовно ориентированная техника · MARSAM",
+      "lang": "ru",
+      "sha256": "a6e408004be1be0bf90fb2766695eece95e689ba44d5299bc756f2b12fc6f19c"
+    },
+    {
+      "path": "/ru/resource/family-spiritual/",
+      "status": 200,
+      "title": "Семейная терапия · MARSAM",
+      "lang": "ru",
+      "sha256": "e946f3e6e99f325514ea755c3c10caa05374ca07f8b0c1cb09e81f25db0a4d2e"
+    },
+    {
+      "path": "/ru/resource/group-counselling/",
+      "status": 200,
+      "title": "Практика группового консультирования · MARSAM",
+      "lang": "ru",
+      "sha256": "fa41dc650fedf7508da9a068fb1a125554af58ad96a05842d322ad7f91449845"
+    },
+    {
+      "path": "/ru/resource/cbt-spiritual/",
+      "status": 200,
+      "title": "Когнитивно-поведенческая терапия · MARSAM",
+      "lang": "ru",
+      "sha256": "b69595ca334d1f3858f3a6270443e02141b75824e5f643de34f639233b488a08"
+    },
+    {
+      "path": "/ru/resource/spiritual-burnout/",
+      "status": 200,
+      "title": "Измерение духовного выгорания · MARSAM",
+      "lang": "ru",
+      "sha256": "12ed7dd1ffc68c317d679dd35ddad22fef37ef8074b464a41360759dd5d23fc9"
+    },
+    {
+      "path": "/ru/resource/sipas/",
+      "status": 200,
+      "title": "SIPAS. Интеграция духовности в консультирование · MARSAM",
+      "lang": "ru",
+      "sha256": "4576d260ed7174facd4aec25df4ede037f459be41e37bb60211ec82a70c8dc9c"
+    },
+    {
+      "path": "/ru/resource/loneliness-spirituality/",
+      "status": 200,
+      "title": "Духовное благополучие, одиночество и тревога · MARSAM",
+      "lang": "ru",
+      "sha256": "3947cb965b4ec9ef9cb75b960f106d929e067d7ff4ab9a9d303b1b83fde54fea"
+    },
+    {
+      "path": "/ru/resource/professional-training/",
+      "status": 200,
+      "title": "Профессиональное обучение работе с духовностью · MARSAM",
+      "lang": "ru",
+      "sha256": "0ac71336e8bcd2d7ba103d4e0858600b8d38b163db99bd2c2e8fb4a5eb608849"
+    },
+    {
+      "path": "/ru/resource/spiritual-integrity/",
+      "status": 200,
+      "title": "Духовная целостность и благополучие · MARSAM",
+      "lang": "ru",
+      "sha256": "78085c951adb4fe1f20cdc6998a260206aee630e85771ef7bc2da0b21b4855af"
+    },
+    {
+      "path": "/ru/resource/spirituality-dimensions/",
+      "status": 200,
+      "title": "Многомерная природа духовности · MARSAM",
+      "lang": "ru",
+      "sha256": "03c321980fdc41b328dd84151b573957ea732bba62ce884890538336d502ed6f"
+    },
+    {
+      "path": "/ru/resource/spiritual-struggles/",
+      "status": 200,
+      "title": "Религиозные и духовные трудности · MARSAM",
+      "lang": "ru",
+      "sha256": "8146bd4f8c80548be91e2fe71bda90b09d36e25467cb350f09a420db7f79d24f"
+    },
+    {
+      "path": "/ru/learning/foundations/",
+      "status": 200,
+      "title": "Начните с основ · MARSAM",
+      "lang": "ru",
+      "sha256": "eecdb863c5710f0de670f98e7f7d7deb23bfe4182c384727d77624b132b4fcb1"
+    },
+    {
+      "path": "/ru/learning/professional/",
+      "status": 200,
+      "title": "Осмыслите консультирование · MARSAM",
+      "lang": "ru",
+      "sha256": "3d1bbcd30e086af32acdb86c57d2414699fe93c38695d55039945f7144029940"
+    },
+    {
+      "path": "/ru/learning/research/",
+      "status": 200,
+      "title": "Подготовьтесь к исследованию · MARSAM",
+      "lang": "ru",
+      "sha256": "15d6fba16d2d65ad9d53236d395d54304cbe00648437f4e1d8fd390562b496e6"
+    },
+    {
+      "path": "/ar/",
+      "status": 200,
+      "title": "الرئيسية · MARSAM",
+      "lang": "ar",
+      "sha256": "aafae84c2d33933eda5568b645ceac11b8d7b99546cfc1a3174c3f3c10ad9560"
+    },
+    {
+      "path": "/ar/library/",
+      "status": 200,
+      "title": "المنشورات والموارد · MARSAM",
+      "lang": "ar",
+      "sha256": "590e1ac93e6e275b3ad783612c743f4976eead600f212a7dfcc2800f4a5f66bc"
+    },
+    {
+      "path": "/ar/concepts/",
+      "status": 200,
+      "title": "أطلس المفاهيم · MARSAM",
+      "lang": "ar",
+      "sha256": "49f96060d816a8e57bc73be162bc5af4813c8fa47064d33544d7c80eec46aee5"
+    },
+    {
+      "path": "/ar/approaches/",
+      "status": 200,
+      "title": "النظريات والمقاربات · MARSAM",
+      "lang": "ar",
+      "sha256": "aa8fa84687cccf98a81678fabd01728437056fa093645033a5130bac29e74f92"
+    },
+    {
+      "path": "/ar/practice/",
+      "status": 200,
+      "title": "الإرشاد النفسي الموجه روحانياً · MARSAM",
+      "lang": "ar",
+      "sha256": "c9d6b45ebf0902bfa5e75254f2bb5febc9347037b348b58a5d620604c7d095e6"
+    },
+    {
+      "path": "/ar/ethics/",
+      "status": 200,
+      "title": "الأخلاقيات والكفاءة · MARSAM",
+      "lang": "ar",
+      "sha256": "da884beac49ff5b648c7278470460dea0377254e2fd6163763d481c370d9a996"
+    },
+    {
+      "path": "/ar/methods/",
+      "status": 200,
+      "title": "مناهج البحث · MARSAM",
+      "lang": "ar",
+      "sha256": "753117720714c794893986d4d62b29771262b5a52eee97b9df744059379b8167"
+    },
+    {
+      "path": "/ar/measures/",
+      "status": 200,
+      "title": "دليل أدوات التقييم · MARSAM",
+      "lang": "ar",
+      "sha256": "9f4808ee1df103797dbf69d3fc58b7dc7283741a2ba443903ea36af7a8f5f321"
+    },
+    {
+      "path": "/ar/learning/",
+      "status": 200,
+      "title": "مسارات القراءة والتعلم · MARSAM",
+      "lang": "ar",
+      "sha256": "ec130f026f71349ac7ef5059f2cfe9ca23d922c82907786ffa38129df0ac69a9"
+    },
+    {
+      "path": "/ar/media/",
+      "status": 200,
+      "title": "أرشيف الفيديو والندوات · MARSAM",
+      "lang": "ar",
+      "sha256": "fb98877ac2b2833d7bfa4abe1324e3f059ebdd8d84ffafb1796d364466e8ba70"
+    },
+    {
+      "path": "/ar/projects/",
+      "status": 200,
+      "title": "المشروعات البحثية · MARSAM",
+      "lang": "ar",
+      "sha256": "eeb236871c0e9a23441d10b147f152d4562f7f1b10a1288ce3a15773adbbbcc3"
+    },
+    {
+      "path": "/ar/participate/",
+      "status": 200,
+      "title": "المشاركة في الأبحاث · MARSAM",
+      "lang": "ar",
+      "sha256": "0b18815d21b1d97a0be794cc952f86cf7adb838d0b8d595a84b4e91f70d2c031"
+    },
+    {
+      "path": "/ar/news/",
+      "status": 200,
+      "title": "الأخبار والإعلانات · MARSAM",
+      "lang": "ar",
+      "sha256": "4939827a78257cd4a96bfce403253d1948888909831d70e7c9b5d2871fad3f1f"
+    },
+    {
+      "path": "/ar/about/",
+      "status": 200,
+      "title": "عن MARSAM · MARSAM",
+      "lang": "ar",
+      "sha256": "2102ba0b987ef6247895f39de190d323ee98f3e88e9cad16d5f4a4ab8632a179"
+    },
+    {
+      "path": "/ar/editorial/",
+      "status": 200,
+      "title": "سياسة التحرير والمراجعة · MARSAM",
+      "lang": "ar",
+      "sha256": "5945d897eadfcc4f4413baab7cf8ce610412882a18221e3f88e01477f07b5d93"
+    },
+    {
+      "path": "/ar/contribute/",
+      "status": 200,
+      "title": "إعداد مساهمة · MARSAM",
+      "lang": "ar",
+      "sha256": "b9f92d86d4d374df7cbfa7286f91a97366f2259093f0c2b820548ec09decafeb"
+    },
+    {
+      "path": "/ar/saved/",
+      "status": 200,
+      "title": "قائمة قراءتي · MARSAM",
+      "lang": "ar",
+      "sha256": "f2dded538deab38f0937e84602bf0a7d592959edbbf411114b1407fbc7f6f0c2"
+    },
+    {
+      "path": "/ar/search/",
+      "status": 200,
+      "title": "البحث في المجموعة · MARSAM",
+      "lang": "ar",
+      "sha256": "2211cf62a007cde41c7482168ab0489c0e0b8da2f17f56488cb0c7a4c5e507c0"
+    },
+    {
+      "path": "/ar/publications/",
+      "status": 200,
+      "title": "الأبحاث الحديثة · MARSAM",
+      "lang": "ar",
+      "sha256": "3237a8cfdd042ca6e2ca914cf348a00c1481125667273718a90fc0ba6ece43ff"
+    },
+    {
+      "path": "/ar/books/",
+      "status": 200,
+      "title": "الكتب · MARSAM",
+      "lang": "ar",
+      "sha256": "05587cf433b4cfb367f95a5b83dafd6ff36c9a6e84f4109536743de6ad2976b6"
+    },
+    {
+      "path": "/ar/collections/",
+      "status": 200,
+      "title": "مجالات الدراسة · MARSAM",
+      "lang": "ar",
+      "sha256": "c73481bb373221505e76ab4932e25e3ed7fbdb45482790d014cea827f2caa56b"
+    },
+    {
+      "path": "/ar/compare/",
+      "status": 200,
+      "title": "مقارنة المصادر · MARSAM",
+      "lang": "ar",
+      "sha256": "3b99ffe525745f54fbd28b446064133ed7dcd4c618390d8c958cf3df18abb06d"
+    },
+    {
+      "path": "/ar/events/",
+      "status": 200,
+      "title": "الندوات والفعاليات · MARSAM",
+      "lang": "ar",
+      "sha256": "03858bc0aa956ac0e32e78e950b069119708bf58d9b543b728c1a0f387cc2f68"
+    },
+    {
+      "path": "/ar/research/",
+      "status": 200,
+      "title": "البحث وخريطة المصادر · MARSAM",
+      "lang": "ar",
+      "sha256": "78ce336b5c94729153806bba1f2eb7b5be29c911619c3071017edf5e33465780"
+    },
+    {
+      "path": "/ar/governance/",
+      "status": 200,
+      "title": "الممارسة التحريرية والوصول · MARSAM",
+      "lang": "ar",
+      "sha256": "aa4d924a7082b1189c6723eafd517442042e956213e51ef3fbdfe203969fef62"
+    },
+    {
+      "path": "/ar/research-guide/",
+      "status": 200,
+      "title": "قراءة الدراسة من خلال أدلتها · MARSAM",
+      "lang": "ar",
+      "sha256": "70bca3e9268ce7e3b5eca689c10afe78c4ab63cfa2b0ea59891978e71863ed23"
+    },
+    {
+      "path": "/ar/measurement-guide/",
+      "status": 200,
+      "title": "ملف أدلة أداة القياس · MARSAM",
+      "lang": "ar",
+      "sha256": "ed2278798bf792fae6d35429e351a2b6e484681b4181b777b0218d1c27e3c355"
+    },
+    {
+      "path": "/ar/data-access/",
+      "status": 200,
+      "title": "الوصول إلى البيانات والمقارنة مع تركيا · MARSAM",
+      "lang": "ar",
+      "sha256": "3a21bd24a0dd5eeb9b41c2227e5f434bc5d92e765ca72b549bcf9cb2e1341064"
+    },
+    {
+      "path": "/ar/reproducible-lab/",
+      "status": 200,
+      "title": "مختبر جرد الفهرس · MARSAM",
+      "lang": "ar",
+      "sha256": "b52bae72626785e5c178aaac6064f93f17dd9605713f85bcf5fd7b5785c595ba"
+    },
+    {
+      "path": "/ar/dossier/understanding-spiritual-experience/",
+      "status": 200,
+      "title": "التجربة الروحية والإرشاد النفسي · MARSAM",
+      "lang": "ar",
+      "sha256": "e551ce1c29f2441744259aa8eb898bb8dd972b0f1ad9a2dc96398628dea720af"
+    },
+    {
+      "path": "/ar/dossier/reading-evidence/",
+      "status": 200,
+      "title": "تقييم نتائج البحث · MARSAM",
+      "lang": "ar",
+      "sha256": "45c1044f73d37d858e7e1518dc198ee74623c422aba20cfaff5d327430cb2d23"
+    },
+    {
+      "path": "/ar/dossier/preferences-and-boundaries/",
+      "status": 200,
+      "title": "الكفاءة والأخلاقيات في الإرشاد · MARSAM",
+      "lang": "ar",
+      "sha256": "72cc6a82f65a08326ca61c9a8396b247bc4497275f39e6025d322ed72bf9b7d0"
+    },
+    {
+      "path": "/ar/dossier/culture-and-worldviews/",
+      "status": 200,
+      "title": "السياق الثقافي ورؤية العالم · MARSAM",
+      "lang": "ar",
+      "sha256": "5e46148f2de83a5f304e2dcfa6e20d2929e1d18d115b2f5afb8bbf79c07706f7"
+    },
+    {
+      "path": "/ar/dossier/assessment-and-permission/",
+      "status": 200,
+      "title": "اختيار أدوات التقييم · MARSAM",
+      "lang": "ar",
+      "sha256": "eb593d30bc65a295c063db53aa5a4e64157574f3847c5e63dd63128ff1523b04"
+    },
+    {
+      "path": "/ar/dossier/question-to-design/",
+      "status": 200,
+      "title": "أسئلة البحث ومناهجه · MARSAM",
+      "lang": "ar",
+      "sha256": "beff2af022d4488372e8c05b06a7100380271548828d3257310cb0f139c8f9c8"
+    },
+    {
+      "path": "/ar/dossier/theory-and-integration/",
+      "status": 200,
+      "title": "الروحانية في نظريات العلاج النفسي · MARSAM",
+      "lang": "ar",
+      "sha256": "ae9780a794112d4d0a64dcb2b43b9e046de226d21457fa357f836c2894b02706"
+    },
+    {
+      "path": "/ar/dossier/digital-tools-and-responsibility/",
+      "status": 200,
+      "title": "الذكاء الاصطناعي والمسؤولية المهنية · MARSAM",
+      "lang": "ar",
+      "sha256": "9e3fda68dff450ea0ca3c569a58908a15296916e4d3f56a9e0e231d38568cadd"
+    },
+    {
+      "path": "/ar/resource/aservic-principles/",
+      "status": 200,
+      "title": "المبادئ المهنية للتعامل مع الروحانية والدين · MARSAM",
+      "lang": "ar",
+      "sha256": "2c8188deec89ea4910f967deed7d055c6fe1719f0f8c55678720f5b6a85bf3cf"
+    },
+    {
+      "path": "/ar/resource/spiritual-competence/",
+      "status": 200,
+      "title": "الكفاءة في القضايا الروحانية والدينية · MARSAM",
+      "lang": "ar",
+      "sha256": "ad3369e9496655bd97205e1f9fc99c73d465292bd10ff51f7a8d01487a502967"
+    },
+    {
+      "path": "/ar/resource/integration-meta-analysis/",
+      "status": 200,
+      "title": "أدلة التحليل التلوي على التكييفات الروحانية · MARSAM",
+      "lang": "ar",
+      "sha256": "5830751404e9bc9dd35cd2622db07d11cb1288e082f162304c7ff7974027e7b8"
+    },
+    {
+      "path": "/ar/resource/client-preference/",
+      "status": 200,
+      "title": "تفضيلات المسترشد بشأن الدمج الروحاني · MARSAM",
+      "lang": "ar",
+      "sha256": "afb118845783490f8b5ced094bdccde3043133507a3e73f0bca867fe38dae22b"
+    },
+    {
+      "path": "/ar/resource/sacred-tensions/",
+      "status": 200,
+      "title": "الروحانية والأخلاق والهوية المهنية · MARSAM",
+      "lang": "ar",
+      "sha256": "e737e661437a32b12549dc0cb51bbf79b2a54897d8590460b23df6637151f5b0"
+    },
+    {
+      "path": "/ar/resource/metaphysical-diversity/",
+      "status": 200,
+      "title": "نقاش نظري حول التنوع الميتافيزيقي · MARSAM",
+      "lang": "ar",
+      "sha256": "1c4eca87b9c78aecc6c14a5174030fb160e6539763413838e19c7edb4e66f24d"
+    },
+    {
+      "path": "/ar/resource/three-waves/",
+      "status": 200,
+      "title": "ثلاث موجات من البحث إلى الممارسة · MARSAM",
+      "lang": "ar",
+      "sha256": "41f2ac2c6d07fd699d785e059ac0b6b7a472aa29843b79ae9338647776fae556"
+    },
+    {
+      "path": "/ar/resource/theories-book/",
+      "status": 200,
+      "title": "نظريات العلاج النفسي والإرشاد · MARSAM",
+      "lang": "ar",
+      "sha256": "dbdefa7c39b19c2b82dd3145f8e43622bfb6b6f3b3444716d02739573be59d63"
+    },
+    {
+      "path": "/ar/resource/toad-directory/",
+      "status": 200,
+      "title": "TOAD · البحث عن مصادر تقييم باللغة التركية · MARSAM",
+      "lang": "ar",
+      "sha256": "c442943f9d1e6459d217a4e8ef09ce5cc3dc82dd8cc98f663389c1387e2fdc36"
+    },
+    {
+      "path": "/ar/resource/prisma-guidance/",
+      "status": 200,
+      "title": "PRISMA · الإبلاغ الشفاف عن المراجعات · MARSAM",
+      "lang": "ar",
+      "sha256": "7bf4bad829c0192fefd2f2a562cddc6136c9639abebe8fee9be46df0fd54cb94"
+    },
+    {
+      "path": "/ar/resource/ai-health-ethics/",
+      "status": 200,
+      "title": "الذكاء الاصطناعي للصحة، الأخلاقيات والحوكمة · MARSAM",
+      "lang": "ar",
+      "sha256": "f582234e22fa1bfd3cfa27e5f586dc83a07205498b3572e772be50f88a5bf948"
+    },
+    {
+      "path": "/ar/resource/malaysia-ukm-counselling/",
+      "status": 200,
+      "title": "الإرشاد الإسلامي والقلق. دراسة أدبية · MARSAM",
+      "lang": "ar",
+      "sha256": "a2ad10d72a6bdaf6141753bfb0d8566743edb67d37e22609199ecb1f47271b04"
+    },
+    {
+      "path": "/ar/resource/trauma-spirituality/",
+      "status": 200,
+      "title": "الروحانية في سياق الصدمة · MARSAM",
+      "lang": "ar",
+      "sha256": "43f59ff278938b199a3e355ad7712fb09cc66067c2eb4d32afba6ecca8b67c3b"
+    },
+    {
+      "path": "/ar/resource/spiritual-counselling-book/",
+      "status": 200,
+      "title": "الإرشاد النفسي ذو التوجه الروحي · MARSAM",
+      "lang": "ar",
+      "sha256": "5571b54a47ac52e9e93a37c21fb4821c04554885a665795488f6d3b1b9e90cbe"
+    },
+    {
+      "path": "/ar/resource/discovering-spirituality/",
+      "status": 200,
+      "title": "اكتشاف الروحانية · MARSAM",
+      "lang": "ar",
+      "sha256": "b912ca51bfb846cad6df0aefe68968743966ec9571cce5f76b153042583673f2"
+    },
+    {
+      "path": "/ar/resource/spiritual-practices/",
+      "status": 200,
+      "title": "ممارسات الحياة الروحية · MARSAM",
+      "lang": "ar",
+      "sha256": "845f0ca4dea443c3b88868053cf7f8490bfb4a791649ad64d8e703e5ab71c869"
+    },
+    {
+      "path": "/ar/resource/techniques-101/",
+      "status": 200,
+      "title": "101 تقنية ذات توجه روحي · MARSAM",
+      "lang": "ar",
+      "sha256": "08fb90300c6d7d35ff99585bdbeb8a9cfdaa91ef0479e7710d1d64e74c023200"
+    },
+    {
+      "path": "/ar/resource/family-spiritual/",
+      "status": 200,
+      "title": "العلاج الأسري · MARSAM",
+      "lang": "ar",
+      "sha256": "20a6ffa802df9e4d6d4fe08c44aad2389a0cd76dc6365f2659535b0736a97286"
+    },
+    {
+      "path": "/ar/resource/group-counselling/",
+      "status": 200,
+      "title": "ممارسات الإرشاد النفسي الجماعي · MARSAM",
+      "lang": "ar",
+      "sha256": "85d425d3ff45ba16c74eb8455cc44815e43c1791e2ba2abae58b5c4b45bf7044"
+    },
+    {
+      "path": "/ar/resource/cbt-spiritual/",
+      "status": 200,
+      "title": "العلاج المعرفي السلوكي · MARSAM",
+      "lang": "ar",
+      "sha256": "a68250463cbaffcf8ffe068ee28c4113025fea6017da2b6427d451ff3c68f83b"
+    },
+    {
+      "path": "/ar/resource/spiritual-burnout/",
+      "status": 200,
+      "title": "قياس الاحتراق الروحي · MARSAM",
+      "lang": "ar",
+      "sha256": "fe144baffdb3a127006c398fdf915a1404efccd9d0c388dccf1e5e3fda9ae77f"
+    },
+    {
+      "path": "/ar/resource/sipas/",
+      "status": 200,
+      "title": "SIPAS. دمج الروحانية في الإرشاد · MARSAM",
+      "lang": "ar",
+      "sha256": "9011fed278b5d0ec9a7b8d79f3927755549105df8dab22659a8326a5d980721e"
+    },
+    {
+      "path": "/ar/resource/loneliness-spirituality/",
+      "status": 200,
+      "title": "الرفاه الروحي والوحدة والقلق · MARSAM",
+      "lang": "ar",
+      "sha256": "395b3c49022ce1d96bc9092afa249c69b25288bb78038f2d945a2684f901de40"
+    },
+    {
+      "path": "/ar/resource/professional-training/",
+      "status": 200,
+      "title": "التدريب المهني للعمل مع الروحانية · MARSAM",
+      "lang": "ar",
+      "sha256": "b77580c724a7033cd2911505d4825b0d92c5e04155de43808201eddf82043502"
+    },
+    {
+      "path": "/ar/resource/spiritual-integrity/",
+      "status": 200,
+      "title": "التكامل الروحي والرفاه · MARSAM",
+      "lang": "ar",
+      "sha256": "619ed7d1328c8214032b778b6c66fe8e675812a542ff7612d0e78715e9b4645e"
+    },
+    {
+      "path": "/ar/resource/spirituality-dimensions/",
+      "status": 200,
+      "title": "طبيعة الروحانية متعددة الأبعاد · MARSAM",
+      "lang": "ar",
+      "sha256": "943d79b73491a92c850c8d32f64b84812b508f66e9d883f318adbf584cc96ef2"
+    },
+    {
+      "path": "/ar/resource/spiritual-struggles/",
+      "status": 200,
+      "title": "الصراعات الدينية والروحية · MARSAM",
+      "lang": "ar",
+      "sha256": "057626c1d8cb49b6a897c17987af27b33040773e6ba6a4220f0b938d16f6e454"
+    },
+    {
+      "path": "/ar/learning/foundations/",
+      "status": 200,
+      "title": "ابدأ بالأسس · MARSAM",
+      "lang": "ar",
+      "sha256": "3ac08e41da96762461e0ee9760bb14a6fb3192cb1b320a1be2bd8aa0de70375a"
+    },
+    {
+      "path": "/ar/learning/professional/",
+      "status": 200,
+      "title": "تأمّل عملية الإرشاد · MARSAM",
+      "lang": "ar",
+      "sha256": "08e805fdf63248f39a17ef5ab08195e082ab4ce6e6c9174c84681e966a00d893"
+    },
+    {
+      "path": "/ar/learning/research/",
+      "status": 200,
+      "title": "استعدّ للبحث · MARSAM",
+      "lang": "ar",
+      "sha256": "eddf04d1e3488c1294aab36c371c3d221a4d811d4112151344605c36d5f457be"
+    },
+    {
+      "path": "/id/",
+      "status": 200,
+      "title": "Beranda · MARSAM",
+      "lang": "id",
+      "sha256": "8b9bfcbf9f4ff2df4d377b2ba94cda098fbe6b65e09c246a737b3a56ce7475fd"
+    },
+    {
+      "path": "/id/library/",
+      "status": 200,
+      "title": "Publikasi dan sumber · MARSAM",
+      "lang": "id",
+      "sha256": "857a1c297c8febd9d39974339c91f3d408d042d5f8718527ec41ea1de50a741d"
+    },
+    {
+      "path": "/id/concepts/",
+      "status": 200,
+      "title": "Atlas konsep · MARSAM",
+      "lang": "id",
+      "sha256": "34e39b37eb53c28dbdb80f4d999d9fcd325c9d52987b58924ed713c8a203ff53"
+    },
+    {
+      "path": "/id/approaches/",
+      "status": 200,
+      "title": "Teori dan pendekatan · MARSAM",
+      "lang": "id",
+      "sha256": "7994514be93d294dce81d44338b08dddfe828e24364949f99d7ec83acdcee672"
+    },
+    {
+      "path": "/id/practice/",
+      "status": 200,
+      "title": "Konseling berorientasi spiritual · MARSAM",
+      "lang": "id",
+      "sha256": "dff4e3d5f7a5a4feb06eaf8f844138f2dba80bbe2ba9d7b5e7ceef911f916b1b"
+    },
+    {
+      "path": "/id/ethics/",
+      "status": 200,
+      "title": "Etika dan kompetensi · MARSAM",
+      "lang": "id",
+      "sha256": "3b244d8414186032501f41450aa1ecf2d79d288650e25000568b53dfc35c6571"
+    },
+    {
+      "path": "/id/methods/",
+      "status": 200,
+      "title": "Metode penelitian · MARSAM",
+      "lang": "id",
+      "sha256": "99109e325762054416e27f72a36a14acd8e01f0471cba50a8c6a4fb0dc84c6de"
+    },
+    {
+      "path": "/id/measures/",
+      "status": 200,
+      "title": "Direktori asesmen · MARSAM",
+      "lang": "id",
+      "sha256": "2021423eef48c862ce15e2cbe3b77063c96c1bc80a7e37df4a79c8a689aaca7c"
+    },
+    {
+      "path": "/id/learning/",
+      "status": 200,
+      "title": "Jalur bacaan dan pembelajaran · MARSAM",
+      "lang": "id",
+      "sha256": "e9eea26045d634b70b5eb34a46b24424b35ac2682b6f2ab67e9d8802e6b8edea"
+    },
+    {
+      "path": "/id/media/",
+      "status": 200,
+      "title": "Arsip video dan seminar · MARSAM",
+      "lang": "id",
+      "sha256": "e5e67c24d2b26f816bb6182033124af58a4cff51a179711102d6333816526373"
+    },
+    {
+      "path": "/id/projects/",
+      "status": 200,
+      "title": "Proyek penelitian · MARSAM",
+      "lang": "id",
+      "sha256": "c8af66e52149319ae43b350f1d7d5bd9e72e9933a8c55cb70224035a4498932a"
+    },
+    {
+      "path": "/id/participate/",
+      "status": 200,
+      "title": "Partisipasi penelitian · MARSAM",
+      "lang": "id",
+      "sha256": "e56c5d30d1b22ad406730fbcdd2eb9839c2c194e4db3d594315b90e4cf495857"
+    },
+    {
+      "path": "/id/news/",
+      "status": 200,
+      "title": "Berita dan pengumuman · MARSAM",
+      "lang": "id",
+      "sha256": "5737aaf6d9de080214a6b007e940592437952cd833144605cbefc5efbab4bd07"
+    },
+    {
+      "path": "/id/about/",
+      "status": 200,
+      "title": "Tentang MARSAM · MARSAM",
+      "lang": "id",
+      "sha256": "7711d8a11033379f76d065769847521c9f7034e392bbb4ce39b12ddf5bf557cf"
+    },
+    {
+      "path": "/id/editorial/",
+      "status": 200,
+      "title": "Kebijakan editorial dan penelaahan · MARSAM",
+      "lang": "id",
+      "sha256": "826be31c085a250caf275a2fecb28ab271e0e0edfd25a7aaec630b74f75ab079"
+    },
+    {
+      "path": "/id/contribute/",
+      "status": 200,
+      "title": "Siapkan kontribusi · MARSAM",
+      "lang": "id",
+      "sha256": "7b6c1b972a836d50465d83836b9351f41597888a8125317883ae3dad265a1ccd"
+    },
+    {
+      "path": "/id/saved/",
+      "status": 200,
+      "title": "Daftar bacaan saya · MARSAM",
+      "lang": "id",
+      "sha256": "b95f0d173fc0a2738eb6d12e8e90ef5f08270d928ae0a8e9036a5e39c0f42a1b"
+    },
+    {
+      "path": "/id/search/",
+      "status": 200,
+      "title": "Cari dalam koleksi · MARSAM",
+      "lang": "id",
+      "sha256": "b3ac12434c1b3251073e1f3a10a7b360a6e72be2961d6c0e1a5faefa7b6af995"
+    },
+    {
+      "path": "/id/publications/",
+      "status": 200,
+      "title": "Penelitian terbaru · MARSAM",
+      "lang": "id",
+      "sha256": "aede6e0799e4dd3001591e765bce451d4100364f8f8808c8b6910e137d901b6a"
+    },
+    {
+      "path": "/id/books/",
+      "status": 200,
+      "title": "Buku · MARSAM",
+      "lang": "id",
+      "sha256": "54fe1a518513bdb3970d83b976fb2438868d45b3e0e12bd9300ba146e7f2e624"
+    },
+    {
+      "path": "/id/collections/",
+      "status": 200,
+      "title": "Bidang kajian · MARSAM",
+      "lang": "id",
+      "sha256": "67fc3ce11195cb148f55adbea14fbc5c449dbd9cbc0277d47e7d15d77bf82e02"
+    },
+    {
+      "path": "/id/compare/",
+      "status": 200,
+      "title": "Bandingkan sumber · MARSAM",
+      "lang": "id",
+      "sha256": "f82a33097c93ba05b03354d3f7ab25f77115c64e467815908ef1bf86e2cebcca"
+    },
+    {
+      "path": "/id/events/",
+      "status": 200,
+      "title": "Seminar dan kegiatan · MARSAM",
+      "lang": "id",
+      "sha256": "7a74efaed0e3f25c1c8be279dc0d8232e13effc08fb761866383b221c02f91b5"
+    },
+    {
+      "path": "/id/research/",
+      "status": 200,
+      "title": "Penelitian dan peta koleksi · MARSAM",
+      "lang": "id",
+      "sha256": "d8b301a6f8533649e31bc76db63a80e562cbb7b10c8da68984d7c65ff565dd2b"
+    },
+    {
+      "path": "/id/governance/",
+      "status": 200,
+      "title": "Praktik editorial dan akses · MARSAM",
+      "lang": "id",
+      "sha256": "0d23fb1d6bae380aeac5b4b2702ac3a0a8b426964947879240d33d6125682f92"
+    },
+    {
+      "path": "/id/research-guide/",
+      "status": 200,
+      "title": "Membaca penelitian melalui buktinya · MARSAM",
+      "lang": "id",
+      "sha256": "5697f58967e1334ace9e13692e4d6f4ba94dae8e5e215ef1e12202f6105e1e9f"
+    },
+    {
+      "path": "/id/measurement-guide/",
+      "status": 200,
+      "title": "Berkas bukti alat ukur · MARSAM",
+      "lang": "id",
+      "sha256": "b2ab67ecabc02def74bde24bb03b548a03e22671e6e8874b6b4ab20c48c1740a"
+    },
+    {
+      "path": "/id/data-access/",
+      "status": 200,
+      "title": "Akses data dan perbandingan dengan Türkiye · MARSAM",
+      "lang": "id",
+      "sha256": "61c16277cb099e47d6010a927fdd73c84ccaf62def8e97d64e50018d0f794100"
+    },
+    {
+      "path": "/id/reproducible-lab/",
+      "status": 200,
+      "title": "Laboratorium inventaris katalog · MARSAM",
+      "lang": "id",
+      "sha256": "e136194ee8da7a00256ee1d6a082a47ab3e30b7929c53cf5458f6e49c5c2fb2a"
+    },
+    {
+      "path": "/id/dossier/understanding-spiritual-experience/",
+      "status": 200,
+      "title": "Pengalaman spiritual dan konseling · MARSAM",
+      "lang": "id",
+      "sha256": "da361c7afa6c46ddd0eb76f1f12e94b44c37e7197f4dc6a8a721c6159a4ab8fd"
+    },
+    {
+      "path": "/id/dossier/reading-evidence/",
+      "status": 200,
+      "title": "Menilai temuan penelitian · MARSAM",
+      "lang": "id",
+      "sha256": "a87c95f43b33362941e0c62368d880d12029d55e2d14c1d7cd5ba1b9634536e9"
+    },
+    {
+      "path": "/id/dossier/preferences-and-boundaries/",
+      "status": 200,
+      "title": "Kompetensi dan etika dalam konseling · MARSAM",
+      "lang": "id",
+      "sha256": "7c67ec3bef273209f6a84578cf0daba3e5f96faea0f777f1edc4289b2e5a0ce6"
+    },
+    {
+      "path": "/id/dossier/culture-and-worldviews/",
+      "status": 200,
+      "title": "Konteks budaya dan pandangan hidup · MARSAM",
+      "lang": "id",
+      "sha256": "c0d4896c576ba05f0f766cb87a58f1a23c5a7045ece86087a4c784a6077c84ca"
+    },
+    {
+      "path": "/id/dossier/assessment-and-permission/",
+      "status": 200,
+      "title": "Pemilihan instrumen asesmen · MARSAM",
+      "lang": "id",
+      "sha256": "b202ca987b894d24ad6f67a5c71658ba1108128026d3ed70ee3c3a8c382f318f"
+    },
+    {
+      "path": "/id/dossier/question-to-design/",
+      "status": 200,
+      "title": "Pertanyaan dan metode penelitian · MARSAM",
+      "lang": "id",
+      "sha256": "43b416ac70cd17f3e5e52fdedb7ae2c2cdfdb70ecfc488cf5f619ba82d17ef31"
+    },
+    {
+      "path": "/id/dossier/theory-and-integration/",
+      "status": 200,
+      "title": "Spiritualitas dalam teori psikoterapi · MARSAM",
+      "lang": "id",
+      "sha256": "2aab3cf50b1da14e4b309452046dac014ba46bd1ca159eea339028c794c6c230"
+    },
+    {
+      "path": "/id/dossier/digital-tools-and-responsibility/",
+      "status": 200,
+      "title": "AI dan tanggung jawab profesional · MARSAM",
+      "lang": "id",
+      "sha256": "80914ed49c7be95d280d4437362e9f598d3d3657d3dd7653a1b76e6f12ee9b48"
+    },
+    {
+      "path": "/id/resource/aservic-principles/",
+      "status": 200,
+      "title": "Prinsip profesional tentang spiritualitas dan agama · MARSAM",
+      "lang": "id",
+      "sha256": "e0902041e7496587a206dade87c3028b0de9f3f25ba6d89ba1b5a24074726b43"
+    },
+    {
+      "path": "/id/resource/spiritual-competence/",
+      "status": 200,
+      "title": "Kompetensi spiritual dan keagamaan · MARSAM",
+      "lang": "id",
+      "sha256": "0180fea6afe4ac8e6a0abbe3a7d1aebbf59e8ed2359862a9064bc32a6edca751"
+    },
+    {
+      "path": "/id/resource/integration-meta-analysis/",
+      "status": 200,
+      "title": "Bukti meta-analitik untuk adaptasi spiritual · MARSAM",
+      "lang": "id",
+      "sha256": "dd5d0eae6a7f48297665e0a2219c53d38e484e01bb9fcf058ea18a367ce18ae4"
+    },
+    {
+      "path": "/id/resource/client-preference/",
+      "status": 200,
+      "title": "Preferensi klien untuk integrasi spiritual · MARSAM",
+      "lang": "id",
+      "sha256": "2c6cd53fbc50c216cee1bd37b27d0a058498be8c89530f77848dd811364a0065"
+    },
+    {
+      "path": "/id/resource/sacred-tensions/",
+      "status": 200,
+      "title": "Spiritualitas, etika, dan identitas profesional · MARSAM",
+      "lang": "id",
+      "sha256": "5897f8fb2755e41788e6957a7325fd3845094d7938cb73ca2d38696091c492b2"
+    },
+    {
+      "path": "/id/resource/metaphysical-diversity/",
+      "status": 200,
+      "title": "Pembahasan teoretis tentang keberagaman metafisis · MARSAM",
+      "lang": "id",
+      "sha256": "03ef8d1f55b02b5267b87a514cfc24fb3661c54d506c61328f3426827c7f93de"
+    },
+    {
+      "path": "/id/resource/three-waves/",
+      "status": 200,
+      "title": "Tiga gelombang dari riset ke praktik · MARSAM",
+      "lang": "id",
+      "sha256": "067b7ad33d3d694d43a42953cb11ef5c5adf21b4e8f8e820b6d58c7fb58693fc"
+    },
+    {
+      "path": "/id/resource/theories-book/",
+      "status": 200,
+      "title": "Teori Psikoterapi dan Konseling · MARSAM",
+      "lang": "id",
+      "sha256": "09d468ffa4507efe935e589660df67d9ef0ea4688192a879976f164c53a6c204"
+    },
+    {
+      "path": "/id/resource/toad-directory/",
+      "status": 200,
+      "title": "TOAD · Menemukan sumber asesmen berbahasa Turki · MARSAM",
+      "lang": "id",
+      "sha256": "6377f090e81b5ff74867fc0e718e11a8d2edf86f146e63598d0ed0858db824b4"
+    },
+    {
+      "path": "/id/resource/prisma-guidance/",
+      "status": 200,
+      "title": "PRISMA · Pelaporan tinjauan yang transparan · MARSAM",
+      "lang": "id",
+      "sha256": "1c1f65920a5eeed6b4e0a1fe592401b7d0fb3966c18139334099f204fb4c0673"
+    },
+    {
+      "path": "/id/resource/ai-health-ethics/",
+      "status": 200,
+      "title": "AI untuk kesehatan, etika, dan tata kelola · MARSAM",
+      "lang": "id",
+      "sha256": "e434ad48725314837e510df159b2a572e439da3eb605d1c36418d1931bd62bb0"
+    },
+    {
+      "path": "/id/resource/malaysia-ukm-counselling/",
+      "status": 200,
+      "title": "Konseling Islam dan kecemasan. Kajian literatur · MARSAM",
+      "lang": "id",
+      "sha256": "24bbaf2adcfb4740a1232859f1b3d649aa0453f9321ce3d4562f3bd08c444f17"
+    },
+    {
+      "path": "/id/resource/trauma-spirituality/",
+      "status": 200,
+      "title": "Spiritualitas dalam Jejak Trauma · MARSAM",
+      "lang": "id",
+      "sha256": "3bbb633ce47b87e1559e488f695913f6ac3e91b543dcb000a83bdbc6c876de96"
+    },
+    {
+      "path": "/id/resource/spiritual-counselling-book/",
+      "status": 200,
+      "title": "Konseling Psikologis Berorientasi Spiritual · MARSAM",
+      "lang": "id",
+      "sha256": "274d8515ca6942ed4d954c40ae61164cc869636e94309499c4fa0a1d121a35ce"
+    },
+    {
+      "path": "/id/resource/discovering-spirituality/",
+      "status": 200,
+      "title": "Menjelajahi Spiritualitas · MARSAM",
+      "lang": "id",
+      "sha256": "b011f6514bb063de0e94b2cb467cda3dbf00d5385835d73da1da86b8ba74279e"
+    },
+    {
+      "path": "/id/resource/spiritual-practices/",
+      "status": 200,
+      "title": "Praktik Kehidupan Spiritual · MARSAM",
+      "lang": "id",
+      "sha256": "fdbc5ebd1bf6a862ff3441bf016c46bc55b0d23a8361a997271afe434fd7f6ad"
+    },
+    {
+      "path": "/id/resource/techniques-101/",
+      "status": 200,
+      "title": "101 Teknik Berorientasi Spiritual · MARSAM",
+      "lang": "id",
+      "sha256": "f600f5de3297dcda1564630589301cc3a5c644d32dbe1e02aff2b7d4eda03b73"
+    },
+    {
+      "path": "/id/resource/family-spiritual/",
+      "status": 200,
+      "title": "Terapi Keluarga · MARSAM",
+      "lang": "id",
+      "sha256": "35b9a4cde87759bbe684eeb3b506ef0c0ad6015b8fa926e99636664519264aaf"
+    },
+    {
+      "path": "/id/resource/group-counselling/",
+      "status": 200,
+      "title": "Praktik Konseling Kelompok · MARSAM",
+      "lang": "id",
+      "sha256": "b9b3933ac90b55a3f467c81a63379c49357c5c838f5befdb63a4313d8d7668b2"
+    },
+    {
+      "path": "/id/resource/cbt-spiritual/",
+      "status": 200,
+      "title": "Terapi Kognitif Perilaku · MARSAM",
+      "lang": "id",
+      "sha256": "6b3d3e690f6c9057b437c7429a0480ed629455bf5b30906ac2fc4537b5fd5fff"
+    },
+    {
+      "path": "/id/resource/spiritual-burnout/",
+      "status": 200,
+      "title": "Mengukur kelelahan spiritual · MARSAM",
+      "lang": "id",
+      "sha256": "884dab2b29b276d981a5d72b72f07f8d27a599355bc510691ba56aa715855a2b"
+    },
+    {
+      "path": "/id/resource/sipas/",
+      "status": 200,
+      "title": "SIPAS. Integrasi spiritualitas dalam konseling · MARSAM",
+      "lang": "id",
+      "sha256": "6c045817f8ef3232e95a864a2a2df17d814ec20ab6a394556ce4639061599f2c"
+    },
+    {
+      "path": "/id/resource/loneliness-spirituality/",
+      "status": 200,
+      "title": "Kesejahteraan spiritual, kesepian, dan kecemasan · MARSAM",
+      "lang": "id",
+      "sha256": "eb9aa782b02be2975bfb0607902160f4d37a4676b930e3095edfe9c56438f6b9"
+    },
+    {
+      "path": "/id/resource/professional-training/",
+      "status": 200,
+      "title": "Pelatihan profesional untuk bekerja dengan spiritualitas · MARSAM",
+      "lang": "id",
+      "sha256": "34f360fc7268361be0f1631bf867ac20624962f3e7251a554cc1d0eedb38f664"
+    },
+    {
+      "path": "/id/resource/spiritual-integrity/",
+      "status": 200,
+      "title": "Integritas spiritual dan kesejahteraan · MARSAM",
+      "lang": "id",
+      "sha256": "3221914fd273cd5c5ce1b546034b416b4cfd85328381123c313b5620ada5e6d3"
+    },
+    {
+      "path": "/id/resource/spirituality-dimensions/",
+      "status": 200,
+      "title": "Sifat multidimensi spiritualitas · MARSAM",
+      "lang": "id",
+      "sha256": "a167d5e2ebe60ba48a1f6416a935122583a6801a29fa0d43ec7cc9bfae851e85"
+    },
+    {
+      "path": "/id/resource/spiritual-struggles/",
+      "status": 200,
+      "title": "Pergumulan agama dan spiritual · MARSAM",
+      "lang": "id",
+      "sha256": "f706302de4c568a2650477c6b54ed5e9f3210e718f7d1c9fe571518d9d07d61d"
+    },
+    {
+      "path": "/id/learning/foundations/",
+      "status": 200,
+      "title": "Mulai dari dasar · MARSAM",
+      "lang": "id",
+      "sha256": "99bb37770590732a99fa3764e11cdabbe5c38045bd472374756564f917fbd9ff"
+    },
+    {
+      "path": "/id/learning/professional/",
+      "status": 200,
+      "title": "Refleksikan proses konseling · MARSAM",
+      "lang": "id",
+      "sha256": "8201f877dbf5456c972eed0353d5f295d186feebe890b2887a508f74c580fbae"
+    },
+    {
+      "path": "/id/learning/research/",
+      "status": 200,
+      "title": "Bersiap untuk riset · MARSAM",
+      "lang": "id",
+      "sha256": "dcfccf9b5c424bd60bf07f293963ce42dac578f3bea8e6a9b60940786edd6648"
+    },
+    {
+      "path": "/ms/",
+      "status": 200,
+      "title": "Utama · MARSAM",
+      "lang": "ms",
+      "sha256": "0a433b304788bdd8fd3f8627a9b2fbf15e4939f018e3f57dafd8133af9b5b3d6"
+    },
+    {
+      "path": "/ms/library/",
+      "status": 200,
+      "title": "Penerbitan dan sumber · MARSAM",
+      "lang": "ms",
+      "sha256": "8febeeb18d1ffce5fff4a7aaba8be984fe51eff69fdf2e21f3ce610003bedcd5"
+    },
+    {
+      "path": "/ms/concepts/",
+      "status": 200,
+      "title": "Atlas konsep · MARSAM",
+      "lang": "ms",
+      "sha256": "a09e0871857096c005011ea166039ebe7b73ca1ec4b1a650b4f281265a63551d"
+    },
+    {
+      "path": "/ms/approaches/",
+      "status": 200,
+      "title": "Teori dan pendekatan · MARSAM",
+      "lang": "ms",
+      "sha256": "2398f54de7369c391e6bfb19d539e4b18433cf23da9cff9865e28d6c2af1ea7a"
+    },
+    {
+      "path": "/ms/practice/",
+      "status": 200,
+      "title": "Kaunseling berorientasikan kerohanian · MARSAM",
+      "lang": "ms",
+      "sha256": "1503e4c0ef3278d0dc81ea4cfc34777f281f043e31fe15540a8e0295dfb9ab04"
+    },
+    {
+      "path": "/ms/ethics/",
+      "status": 200,
+      "title": "Etika dan kompetensi · MARSAM",
+      "lang": "ms",
+      "sha256": "da1d029eec84c03fdd66d3af8da400e4324cd565e40d177eaa6319658d45f831"
+    },
+    {
+      "path": "/ms/methods/",
+      "status": 200,
+      "title": "Kaedah penyelidikan · MARSAM",
+      "lang": "ms",
+      "sha256": "a8bec69da49f63e206480125b96edaa95aee6392c1737ce668c7385a9afb966a"
+    },
+    {
+      "path": "/ms/measures/",
+      "status": 200,
+      "title": "Direktori penilaian · MARSAM",
+      "lang": "ms",
+      "sha256": "f276f7b54a18a3530a100afbca237f7116a5951c2092b9e8cf02516a826b8eea"
+    },
+    {
+      "path": "/ms/learning/",
+      "status": 200,
+      "title": "Laluan bacaan dan pembelajaran · MARSAM",
+      "lang": "ms",
+      "sha256": "043477abe8ffd24592fd548b4f5272a7b6f96411dcaf4e05592821b5be75cb0c"
+    },
+    {
+      "path": "/ms/media/",
+      "status": 200,
+      "title": "Arkib video dan seminar · MARSAM",
+      "lang": "ms",
+      "sha256": "a73ae7eec77dd1433a60ca839a204d0eac537902e48333e2df8d2463d5f22f86"
+    },
+    {
+      "path": "/ms/projects/",
+      "status": 200,
+      "title": "Projek penyelidikan · MARSAM",
+      "lang": "ms",
+      "sha256": "a7171aaa4dd0ee17f54cbc9158490f40d2ff450c2182468b567bbdf024f7aaa1"
+    },
+    {
+      "path": "/ms/participate/",
+      "status": 200,
+      "title": "Penyertaan penyelidikan · MARSAM",
+      "lang": "ms",
+      "sha256": "2058cad745ad2dc910d2d132735f7d05a04c5a1a581bd79e9b217ade76f78b76"
+    },
+    {
+      "path": "/ms/news/",
+      "status": 200,
+      "title": "Berita dan pengumuman · MARSAM",
+      "lang": "ms",
+      "sha256": "8fe2e16c8392de63fbff4beef0ac517cc82a089894a07bb91a04efa40acbe23d"
+    },
+    {
+      "path": "/ms/about/",
+      "status": 200,
+      "title": "Tentang MARSAM · MARSAM",
+      "lang": "ms",
+      "sha256": "aaf4101336fec5273ef02be432dfa4884e577d0eb4ff68e7dea3c5d7777e1744"
+    },
+    {
+      "path": "/ms/editorial/",
+      "status": 200,
+      "title": "Dasar editorial dan semakan · MARSAM",
+      "lang": "ms",
+      "sha256": "75ffa5fcc819cfd42ebbdc9e8c9be5baf3fd546c6d800474f59c8713de50cc39"
+    },
+    {
+      "path": "/ms/contribute/",
+      "status": 200,
+      "title": "Sediakan sumbangan · MARSAM",
+      "lang": "ms",
+      "sha256": "992fc98c487c3f45f4bd5e467f566c99f5699f885059cb840796453a95997a00"
+    },
+    {
+      "path": "/ms/saved/",
+      "status": 200,
+      "title": "Senarai bacaan saya · MARSAM",
+      "lang": "ms",
+      "sha256": "84a6da910fe86230bf763ee9dceba406f8e5be97d402f31493e14784358177ea"
+    },
+    {
+      "path": "/ms/search/",
+      "status": 200,
+      "title": "Cari dalam koleksi · MARSAM",
+      "lang": "ms",
+      "sha256": "b974008547b2776937fa205afd15f1e64c06a97ed7cfa6b13136414e54960d98"
+    },
+    {
+      "path": "/ms/publications/",
+      "status": 200,
+      "title": "Penyelidikan terkini · MARSAM",
+      "lang": "ms",
+      "sha256": "6a173fb3512f71e1e0d0d36a2478f7446e0b9f51a2b6d54bce127a7a3aee6519"
+    },
+    {
+      "path": "/ms/books/",
+      "status": 200,
+      "title": "Buku · MARSAM",
+      "lang": "ms",
+      "sha256": "c0448974b331ec1acb5f989a41f91908939fd3ad8c9ac06ad6ebc94b81048cbb"
+    },
+    {
+      "path": "/ms/collections/",
+      "status": 200,
+      "title": "Bidang kajian · MARSAM",
+      "lang": "ms",
+      "sha256": "da537c717f2cf999be6a347aaf3cd5fe322495cfd5c483dc23ce4526eff70858"
+    },
+    {
+      "path": "/ms/compare/",
+      "status": 200,
+      "title": "Bandingkan sumber · MARSAM",
+      "lang": "ms",
+      "sha256": "cfe74cb4be5e9bd077f388fd381187b370e4aa235c320c1344dc477ba4781559"
+    },
+    {
+      "path": "/ms/events/",
+      "status": 200,
+      "title": "Seminar dan acara · MARSAM",
+      "lang": "ms",
+      "sha256": "23dc9af75832693a1622eeeea35a575b74ca9796360551c725ddc96ecc08f5af"
+    },
+    {
+      "path": "/ms/research/",
+      "status": 200,
+      "title": "Penyelidikan dan peta koleksi · MARSAM",
+      "lang": "ms",
+      "sha256": "86248a2898bff442db05b98b62982d152b03c096b374b40fcbb815c90dab02ca"
+    },
+    {
+      "path": "/ms/governance/",
+      "status": 200,
+      "title": "Amalan editorial dan akses · MARSAM",
+      "lang": "ms",
+      "sha256": "7109686df8e3c28dce47409e27bfcd4df0d2470b246a1e5c3579f5b88bff0ea3"
+    },
+    {
+      "path": "/ms/research-guide/",
+      "status": 200,
+      "title": "Membaca kajian berdasarkan buktinya · MARSAM",
+      "lang": "ms",
+      "sha256": "bf2052fc0f7b037cfd7b1d0dc061eadd5667461f3aa9481d4f7d2d8dc9901f9a"
+    },
+    {
+      "path": "/ms/measurement-guide/",
+      "status": 200,
+      "title": "Fail bukti alat ukur · MARSAM",
+      "lang": "ms",
+      "sha256": "a5e57c24a8435601e44b6cc6826c02e94392e772dd4b6795d63bcf0df412010a"
+    },
+    {
+      "path": "/ms/data-access/",
+      "status": 200,
+      "title": "Akses data dan perbandingan dengan Türkiye · MARSAM",
+      "lang": "ms",
+      "sha256": "d08db5c582dafb0b35f820fb3ddeba474f1964316216a4200162744a4c5f49c5"
+    },
+    {
+      "path": "/ms/reproducible-lab/",
+      "status": 200,
+      "title": "Makmal inventori katalog · MARSAM",
+      "lang": "ms",
+      "sha256": "abaed9718c5eccbb96a0ae54a00b4a632bb8925875412c238dff7d486e36db0d"
+    },
+    {
+      "path": "/ms/dossier/understanding-spiritual-experience/",
+      "status": 200,
+      "title": "Pengalaman kerohanian dan kaunseling · MARSAM",
+      "lang": "ms",
+      "sha256": "53c569c2c592a5c81bb7d22e7de0c8ed1b370f69276d6310d181ecfa6db2c907"
+    },
+    {
+      "path": "/ms/dossier/reading-evidence/",
+      "status": 200,
+      "title": "Menilai dapatan penyelidikan · MARSAM",
+      "lang": "ms",
+      "sha256": "d5beca2dd8e0fcc974650649be235445bcdbf8ffc6a3a6a1ab5b3d1075dc8203"
+    },
+    {
+      "path": "/ms/dossier/preferences-and-boundaries/",
+      "status": 200,
+      "title": "Kecekapan dan etika dalam kaunseling · MARSAM",
+      "lang": "ms",
+      "sha256": "81b45cddabb8384f8fb94fa4e47a9861332970d58dd18bf3c32b854b20644dd8"
+    },
+    {
+      "path": "/ms/dossier/culture-and-worldviews/",
+      "status": 200,
+      "title": "Konteks budaya dan pandangan hidup · MARSAM",
+      "lang": "ms",
+      "sha256": "7f7494d27c8437ade4eee491b313c63093db4f32f321f1adb4cd8a42b4fc7129"
+    },
+    {
+      "path": "/ms/dossier/assessment-and-permission/",
+      "status": 200,
+      "title": "Pemilihan instrumen penilaian · MARSAM",
+      "lang": "ms",
+      "sha256": "e4bce14d5afb7b8e3b592fb1cd4070a0e6c3376275e27d32704b8df8b074c2d0"
+    },
+    {
+      "path": "/ms/dossier/question-to-design/",
+      "status": 200,
+      "title": "Soalan dan kaedah penyelidikan · MARSAM",
+      "lang": "ms",
+      "sha256": "b3ab9e28141277efedfe0d9288c1d391eaa5d87a2a167906a25e5e3a27354921"
+    },
+    {
+      "path": "/ms/dossier/theory-and-integration/",
+      "status": 200,
+      "title": "Kerohanian dalam teori psikoterapi · MARSAM",
+      "lang": "ms",
+      "sha256": "a4591b8bda5a92d3716c7f3a9a8acbfa6b88aa211395bd35587f5f930cf85fcd"
+    },
+    {
+      "path": "/ms/dossier/digital-tools-and-responsibility/",
+      "status": 200,
+      "title": "AI dan tanggungjawab profesional · MARSAM",
+      "lang": "ms",
+      "sha256": "5eea349b4edfeb3e00f24e7acb1d75cd5594e4c3df4dc3583b6a694d55d65d1f"
+    },
+    {
+      "path": "/ms/resource/aservic-principles/",
+      "status": 200,
+      "title": "Prinsip profesional bagi kerohanian dan agama · MARSAM",
+      "lang": "ms",
+      "sha256": "d5d2e3107a38355166ffac2e168b12032016b3a334a379dd7be4a1dde557a77e"
+    },
+    {
+      "path": "/ms/resource/spiritual-competence/",
+      "status": 200,
+      "title": "Kompetensi kerohanian dan keagamaan · MARSAM",
+      "lang": "ms",
+      "sha256": "5d11d35afd4853aaadcfcd1da1efa25abc23c64c9708f0bcb90f2f5e9369ab0e"
+    },
+    {
+      "path": "/ms/resource/integration-meta-analysis/",
+      "status": 200,
+      "title": "Bukti meta-analitik bagi penyesuaian kerohanian · MARSAM",
+      "lang": "ms",
+      "sha256": "204a6f2fd610aa5aaa3cb892b3b803565db770f6b004b0cea996f42cd5d3d165"
+    },
+    {
+      "path": "/ms/resource/client-preference/",
+      "status": 200,
+      "title": "Keutamaan klien bagi integrasi kerohanian · MARSAM",
+      "lang": "ms",
+      "sha256": "1ea6f3f7a77345504aa1295203a542861111e57c26a59a2aa8d4a7f2035d68dc"
+    },
+    {
+      "path": "/ms/resource/sacred-tensions/",
+      "status": 200,
+      "title": "Kerohanian, etika dan identiti profesional · MARSAM",
+      "lang": "ms",
+      "sha256": "72aac7ba2615b50060609989e69c91649896c529c0a5fd6f81ac8dda84fc2475"
+    },
+    {
+      "path": "/ms/resource/metaphysical-diversity/",
+      "status": 200,
+      "title": "Perbincangan teori tentang kepelbagaian metafizik · MARSAM",
+      "lang": "ms",
+      "sha256": "57dca4ce9e08ed797c8c945131974f4c4947c136fef4db7933928325db9f3fe6"
+    },
+    {
+      "path": "/ms/resource/three-waves/",
+      "status": 200,
+      "title": "Tiga gelombang daripada penyelidikan kepada amalan · MARSAM",
+      "lang": "ms",
+      "sha256": "ccebf6b0637b4e6db4937ec363cc5a0a455e6a5a694eb2cfce5a33df332d5428"
+    },
+    {
+      "path": "/ms/resource/theories-book/",
+      "status": 200,
+      "title": "Teori Psikoterapi dan Kaunseling · MARSAM",
+      "lang": "ms",
+      "sha256": "5ebaa6d0a6cfede8a4257f8157186746fd74d397c4835be77cd97ffcaa979e30"
+    },
+    {
+      "path": "/ms/resource/toad-directory/",
+      "status": 200,
+      "title": "TOAD · Mencari sumber penilaian bahasa Turki · MARSAM",
+      "lang": "ms",
+      "sha256": "f294966a035d2c83ed0fde8fb833887a7ea2e141a80cb374de34eab6f04dfa4b"
+    },
+    {
+      "path": "/ms/resource/prisma-guidance/",
+      "status": 200,
+      "title": "PRISMA · Pelaporan tinjauan yang telus · MARSAM",
+      "lang": "ms",
+      "sha256": "22a04cfb896ef973c7b1d08396d944d239bccd3bbb9549bb691bfa78f259a1e3"
+    },
+    {
+      "path": "/ms/resource/ai-health-ethics/",
+      "status": 200,
+      "title": "AI untuk kesihatan, etika dan tadbir urus · MARSAM",
+      "lang": "ms",
+      "sha256": "58f163bad91f0ebe306f4ce94354bc3275f25bf5ec33dc3ea6bcceaca8c8e5a9"
+    },
+    {
+      "path": "/ms/resource/malaysia-ukm-counselling/",
+      "status": 200,
+      "title": "Kaunseling Islam dan kebimbangan. Kajian literatur · MARSAM",
+      "lang": "ms",
+      "sha256": "5390bef58210728de1cc2752adbfc1788cdb6d3850db26bcaf40b09d90d8bb7d"
+    },
+    {
+      "path": "/ms/resource/trauma-spirituality/",
+      "status": 200,
+      "title": "Kerohanian dalam Jejak Trauma · MARSAM",
+      "lang": "ms",
+      "sha256": "a789bbfaf4b2f3ad4ab4e742a95e988b4c9ade2ec0fd83d19f924e86826ef539"
+    },
+    {
+      "path": "/ms/resource/spiritual-counselling-book/",
+      "status": 200,
+      "title": "Kaunseling Psikologi Berorientasikan Kerohanian · MARSAM",
+      "lang": "ms",
+      "sha256": "fc2a4395061c6c169e91d9b191e279002c8c4bd9501230be6595de212d01230f"
+    },
+    {
+      "path": "/ms/resource/discovering-spirituality/",
+      "status": 200,
+      "title": "Meneroka Kerohanian · MARSAM",
+      "lang": "ms",
+      "sha256": "7b9db62219cf02ba468c8d8dacaeedc07b5e6dbdf3964c36ff932460cf9094d3"
+    },
+    {
+      "path": "/ms/resource/spiritual-practices/",
+      "status": 200,
+      "title": "Amalan Kehidupan Rohani · MARSAM",
+      "lang": "ms",
+      "sha256": "ab5a733947d9d24ba8aaa1eb990e6ed13f8a7a6caeb49f823f96978ece126310"
+    },
+    {
+      "path": "/ms/resource/techniques-101/",
+      "status": 200,
+      "title": "101 Teknik Berorientasikan Kerohanian · MARSAM",
+      "lang": "ms",
+      "sha256": "b098636e1f4504655c4a6abdeaff61abf0678d8c650fd2ff06ba53d2960166ba"
+    },
+    {
+      "path": "/ms/resource/family-spiritual/",
+      "status": 200,
+      "title": "Terapi Keluarga · MARSAM",
+      "lang": "ms",
+      "sha256": "fb8665b91de6eef29378bcd32225a68ab1d2ef373dbfc2dcd2b967a72680f640"
+    },
+    {
+      "path": "/ms/resource/group-counselling/",
+      "status": 200,
+      "title": "Amalan Kaunseling Kelompok · MARSAM",
+      "lang": "ms",
+      "sha256": "ddeac205c95d20c470cf86b31a80ab11f31640b57fbaecdefdc58cdde08297fe"
+    },
+    {
+      "path": "/ms/resource/cbt-spiritual/",
+      "status": 200,
+      "title": "Terapi Tingkah Laku Kognitif · MARSAM",
+      "lang": "ms",
+      "sha256": "ff054c799f14f6bb08aa6b997177cf2b34e8b8fd7845eb46716b84b4f5224d43"
+    },
+    {
+      "path": "/ms/resource/spiritual-burnout/",
+      "status": 200,
+      "title": "Mengukur kelesuan rohani · MARSAM",
+      "lang": "ms",
+      "sha256": "05f385d36a982b494fd1cdf44e2253e2bdf21e85e597da9f2136b4d54d22a92e"
+    },
+    {
+      "path": "/ms/resource/sipas/",
+      "status": 200,
+      "title": "SIPAS. Integrasi kerohanian dalam kaunseling · MARSAM",
+      "lang": "ms",
+      "sha256": "d93de1d800ee9c82a4d66ec11ae5491a053dd39c9237ae4ed22ae20142c3f158"
+    },
+    {
+      "path": "/ms/resource/loneliness-spirituality/",
+      "status": 200,
+      "title": "Kesejahteraan rohani, kesunyian dan kebimbangan · MARSAM",
+      "lang": "ms",
+      "sha256": "81c3984f32be7803960d27d35a095fa9eba263af2c5e4eb6bca4a6827b8a2aa5"
+    },
+    {
+      "path": "/ms/resource/professional-training/",
+      "status": 200,
+      "title": "Latihan profesional untuk bekerja dengan kerohanian · MARSAM",
+      "lang": "ms",
+      "sha256": "a3d370fb76e2e3456d7ea3f1938a98e3c7aea925ee69c862e51906ef57a8377b"
+    },
+    {
+      "path": "/ms/resource/spiritual-integrity/",
+      "status": 200,
+      "title": "Integriti kerohanian dan kesejahteraan · MARSAM",
+      "lang": "ms",
+      "sha256": "ff8a16cd59eb92cfb8d7a5be431228615bc99b9aa3af0a58ad32514e77a11c8e"
+    },
+    {
+      "path": "/ms/resource/spirituality-dimensions/",
+      "status": 200,
+      "title": "Sifat kerohanian yang multidimensi · MARSAM",
+      "lang": "ms",
+      "sha256": "f9fb59ecf54698d639d7af81957b37d0a399993dceb7e0ad64697b015ef7c579"
+    },
+    {
+      "path": "/ms/resource/spiritual-struggles/",
+      "status": 200,
+      "title": "Pergelutan agama dan kerohanian · MARSAM",
+      "lang": "ms",
+      "sha256": "651dc769d87525434d0d144cffd50afba150b9eba8b52b273c3d96cff39f39c9"
+    },
+    {
+      "path": "/ms/learning/foundations/",
+      "status": 200,
+      "title": "Mulakan dengan asas · MARSAM",
+      "lang": "ms",
+      "sha256": "1e30e18c85df3c50641be95d23e406c6cf75124ae728149eb1746917f9f8f3c0"
+    },
+    {
+      "path": "/ms/learning/professional/",
+      "status": 200,
+      "title": "Renungkan proses kaunseling · MARSAM",
+      "lang": "ms",
+      "sha256": "064ce5a4dd33bb5c26ac6ef2091cc0d0cba70103a3384d869d9f1ba25973f318"
+    },
+    {
+      "path": "/ms/learning/research/",
+      "status": 200,
+      "title": "Bersedia untuk penyelidikan · MARSAM",
+      "lang": "ms",
+      "sha256": "4ca433d40282324830fec3d3fa918c9768b68a401f29a5b4784237d8e390be16"
+    },
+    {
+      "path": "/",
+      "status": 200,
+      "title": "Ana sayfa · MARSAM",
+      "lang": "tr",
+      "sha256": "0c078990c05e36fe8594e01bb1d9d39c56da83d1dfdbcb9763c8e6e81eabdee2"
+    }
+  ]
+}

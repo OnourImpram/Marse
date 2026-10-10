@@ -1,0 +1,80 @@
+name: Verify preview
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: preview-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    container: mcr.microsoft.com/playwright/python:v1.61.0-noble
+    timeout-minutes: 15
+    env:
+      BROWSERS: chromium,firefox,webkit
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Verify content contracts and both deployment roots
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p verification
+          BASE_PATH=/ npm run check | tee verification/reading-room-root.log
+          BASE_PATH=/MARSAM/ PAGES_PREVIEW=true npm run check | tee verification/reading-room-pages.log
+          node scripts/budget.mjs
+      - name: Prepare matching browser and script coverage
+        run: |
+          python -m pip install --timeout 25 -q playwright==1.61.0
+          python scripts/test-fonts.py
+          python -m pip install --timeout 25 -q nbclient==0.10.2 nbformat==5.10.4 ipykernel==6.30.1
+      - name: Execute catalogue script, actual notebook and tampering checks
+        run: python tests/research_artifacts.py
+      - name: Verify native interactions, institutional boundaries and responsive layouts
+        shell: bash
+        run: |
+          set -euo pipefail
+          python tests/browser_e2e.py & core=$!
+          python tests/scope_e2e.py & scope=$!
+          python tests/heritage_e2e.py & layout=$!
+          timeout 420 python -u tests/research_e2e.py & research=$!
+          python tests/cini_e2e.py & cini=$!
+          python tests/scholarship_e2e.py & scholarship=$!
+          python tests/evidence_cycle_e2e.py & cycle=$!
+          python tests/portal_pixels.py & portal=$!
+          status=0
+          wait "$core" || status=1
+          wait "$scope" || status=1
+          wait "$layout" || status=1
+          wait "$research" || status=1
+          wait "$cini" || status=1
+          wait "$scholarship" || status=1
+          wait "$cycle" || status=1
+          wait "$portal" || status=1
+          exit "$status"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: reading-room-verification
+          path: |
+            verification/reading-room-*
+            verification/research-*
+            verification/cini-*
+            verification/scholarship-*
+            verification/evidence-cycle-*
+            verification/portal-continuity/
+            .browser-results/cini/
+            .browser-results/scholarship/
+            .browser-results/evidence-cycle/
+            .browser-results/research/
+            .browser-results/reading-room/
+          include-hidden-files: true
+          retention-days: 14

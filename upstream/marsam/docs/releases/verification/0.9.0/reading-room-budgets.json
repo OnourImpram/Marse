@@ -1,0 +1,130 @@
+{
+  "version": "0.9.0",
+  "limits": {
+    "css": 18000,
+    "js": 22000,
+    "home": 16000,
+    "index": 80000
+  },
+  "gzipEstimates": true,
+  "measuredNetworkPerformance": false,
+  "coreCSS": 13652,
+  "coreJS": 9660,
+  "assets": [
+    {
+      "path": "site.css",
+      "bytes": 64694,
+      "gzipBytes": 13652
+    },
+    {
+      "path": "app.js",
+      "bytes": 11905,
+      "gzipBytes": 4172
+    },
+    {
+      "path": "campus.js",
+      "bytes": 6322,
+      "gzipBytes": 2331
+    },
+    {
+      "path": "campus-core.js",
+      "bytes": 550,
+      "gzipBytes": 379
+    },
+    {
+      "path": "heritage.js",
+      "bytes": 2928,
+      "gzipBytes": 1158
+    },
+    {
+      "path": "search-core.js",
+      "bytes": 2844,
+      "gzipBytes": 1256
+    },
+    {
+      "path": "url-state.js",
+      "bytes": 575,
+      "gzipBytes": 364
+    },
+    {
+      "path": "tr/index.html",
+      "bytes": 66733,
+      "gzipBytes": 11979
+    },
+    {
+      "path": "data/search-tr.json",
+      "bytes": 112852,
+      "gzipBytes": 27028
+    },
+    {
+      "path": "en/index.html",
+      "bytes": 64998,
+      "gzipBytes": 11141
+    },
+    {
+      "path": "data/search-en.json",
+      "bytes": 109215,
+      "gzipBytes": 20627
+    },
+    {
+      "path": "de/index.html",
+      "bytes": 66409,
+      "gzipBytes": 11886
+    },
+    {
+      "path": "data/search-de.json",
+      "bytes": 110507,
+      "gzipBytes": 25275
+    },
+    {
+      "path": "zh/index.html",
+      "bytes": 61343,
+      "gzipBytes": 12023
+    },
+    {
+      "path": "data/search-zh.json",
+      "bytes": 94859,
+      "gzipBytes": 20993
+    },
+    {
+      "path": "ru/index.html",
+      "bytes": 83640,
+      "gzipBytes": 13529
+    },
+    {
+      "path": "data/search-ru.json",
+      "bytes": 159764,
+      "gzipBytes": 25093
+    },
+    {
+      "path": "ar/index.html",
+      "bytes": 75435,
+      "gzipBytes": 12601
+    },
+    {
+      "path": "data/search-ar.json",
+      "bytes": 135111,
+      "gzipBytes": 23819
+    },
+    {
+      "path": "id/index.html",
+      "bytes": 65276,
+      "gzipBytes": 11333
+    },
+    {
+      "path": "data/search-id.json",
+      "bytes": 108060,
+      "gzipBytes": 20802
+    },
+    {
+      "path": "ms/index.html",
+      "bytes": 65410,
+      "gzipBytes": 11262
+    },
+    {
+      "path": "data/search-ms.json",
+      "bytes": 108762,
+      "gzipBytes": 20750
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "version": "0.8.0",
+  "status": "verified-candidate-not-yet-published",
+  "verifiedRecipeCommit": "7151df194285820aae41fc8461b0e9ae04326eda",
+  "verificationRun": 37004288759,
+  "verificationArtifact": 11224694062,
+  "runConclusion": "failure only at GITHUB_TOKEN workflow-file push, all test steps succeeded",
+  "applicationChangeSinceVerification": false,
+  "originalBibliographyChanged": false,
+  "formalApproval": false,
+  "humanLanguageReview": false,
+  "notebookActuallyExecuted": true,
+  "quartoRendererExecuted": false,
+  "reports": {
+    "reading-room-core": {
+      "success": true,
+      "passed": 818,
+      "browsers": {
+        "chromium": "149.0.7827.55",
+        "firefox": "151.0",
+        "webkit": "26.5"
+      }
+    },
+    "reading-room-scope": {
+      "success": true,
+      "passed": 899,
+      "browsers": {
+        "chromium": "149.0.7827.55",
+        "firefox": "151.0",
+        "webkit": "26.5"
+      }
+    },
+    "reading-room-layout": {
+      "success": true,
+      "passed": 2627,
+      "browsers": {
+        "chromium": "149.0.7827.55",
+        "firefox": "151.0",
+        "webkit": "26.5"
+      }
+    },
+    "research-browser": {
+      "success": true,
+      "passed": 2324,
+      "browsers": [
+        "chromium",
+        "firefox",
+        "webkit"
+      ]
+    },
+    "research-artifacts": {
+      "success": true,
+      "passed": 0,
+      "browsers": null
+    }
+  }
+}

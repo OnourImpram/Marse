@@ -1,0 +1,38 @@
+{
+  "version": "0.7.0",
+  "sourceCommit": "0e8a30477876b7b8e910348bbf46b50cf3df8934",
+  "runId": 36969983821,
+  "url": "https://onourimpram.github.io/MARSAM/en/",
+  "passed": true,
+  "engines": {"chromium": "149.0.7827.55", "firefox": "151.0", "webkit": "26.5"},
+  "suites": {
+    "core": {"passed": 818, "total": 818, "mode": "REAL_HTTP_NATIVE_BROWSER", "origin": "https://onourimpram.github.io", "mockedIO": false},
+    "scope": {"passed": 899, "total": 899, "mode": "REAL_HTTP_NATIVE_BROWSER", "origin": "https://onourimpram.github.io", "mockedIO": false},
+    "layout": {"passed": 2243, "total": 2243, "mode": "REAL_HTTP_NATIVE_BROWSER", "origin": "https://onourimpram.github.io", "mockedIO": false}
+  },
+  "host": {
+    "verifiedFiles": 599,
+    "unqueriedEntryAssetsMatch": true,
+    "responseHeaders": {
+      "Server": "GitHub.com",
+      "Content-Type": "text/html; charset=utf-8",
+      "Strict-Transport-Security": "max-age=31556952",
+      "Cache-Control": "max-age=600",
+      "Last-Modified": "Fri, 02 Oct 2026 05:42:32 GMT"
+    },
+    "missingRouteStatus": 404,
+    "hostDefault404": true,
+    "responseCSPHeaderObserved": false,
+    "responseXFrameOptionsObserved": false
+  },
+  "sourceChecks": {"contracts": 62, "buildAndLinks": 11, "roots": ["/", "/MARSAM/"]},
+  "limits": [
+    "Response headers listed here are a selected measured subset. A meta CSP is not a response-header policy.",
+    "The shared host default 404 and root robots were not modified. noindex is not access control.",
+    "Not an independent accessibility audit, screen-reader assessment, real-device test, human usability study, scientific approval or native-language review.",
+    "The text enlargement test uses root font sizing, not a claim about every browser zoom configuration."
+  ],
+  "formalApproval": false,
+  "scientificApproval": false,
+  "humanLanguageReview": false
+}

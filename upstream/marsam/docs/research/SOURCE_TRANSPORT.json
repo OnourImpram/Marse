@@ -1,0 +1,168 @@
+{
+  "checkedAt": "2026-10-03",
+  "note": "Transport observations only. HTTP success does not imply full-text inspection. Cookie walls, anti-bot responses and inaccessible publishers are not scientific verification failures. Retained earlier source dates are not silently refreshed.",
+  "records": [
+    {
+      "id": "s-aservic",
+      "status": null,
+      "url": null,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "s-vieten",
+      "status": 203,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34264695/",
+      "error": null
+    },
+    {
+      "id": "s-captari",
+      "status": null,
+      "url": null,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "s-swift",
+      "status": 203,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34553982/",
+      "error": null
+    },
+    {
+      "id": "s-tunc",
+      "status": 200,
+      "url": "https://link.springer.com/article/10.1007/s11089-025-01244-0?error=cookies_not_supported&code=35f66f36-627d-4143-97a0-7646bb2bab5a",
+      "error": null
+    },
+    {
+      "id": "s-hodge",
+      "status": 200,
+      "url": "https://dergipark.org.tr/en/pub/spiritualpc/article/1023248",
+      "error": null
+    },
+    {
+      "id": "s-pargament",
+      "status": 200,
+      "url": "https://dergipark.org.tr/en/pub/spiritualpc/article/1370904",
+      "error": null
+    },
+    {
+      "id": "s-eksi",
+      "status": 200,
+      "url": "https://www.kaknus.com.tr/urun/psikoterapi-ve-psikolojik-danisma-kuramlari/",
+      "error": null
+    },
+    {
+      "id": "s-toad",
+      "status": 200,
+      "url": "https://toad.halileksi.net/",
+      "error": null
+    },
+    {
+      "id": "s-prisma",
+      "status": 200,
+      "url": "https://www.prisma-statement.org/",
+      "error": null
+    },
+    {
+      "id": "s-who-ai",
+      "status": null,
+      "url": null,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "s-ukm-counselling",
+      "status": 200,
+      "url": "https://spaj.ukm.my/jalhikmah/index.php/jalhikmah/article/view/514",
+      "error": null
+    },
+    {
+      "id": "s-trauma-spirituality",
+      "status": 200,
+      "url": "https://www.nobelyayin.com/travmanin-izinde-maneviyat-butuncul-bir-psikoterapi-rehberi-23386.html",
+      "error": null
+    },
+    {
+      "id": "s-spiritual-counselling-book",
+      "status": 200,
+      "url": "https://www.nobelyayin.com/manevi-yonelimli-psikolojik-danisma-15894.html",
+      "error": null
+    },
+    {
+      "id": "s-discovering-spirituality",
+      "status": 200,
+      "url": "https://www.nobelyayin.com/maneviyatin-kesfi-21-boyutta-kendi-kendine-yardim-kilavuzu-21519.html",
+      "error": null
+    },
+    {
+      "id": "s-spiritual-practices",
+      "status": 200,
+      "url": "https://www.nobelyayin.com/manevi-yasam-pratikleri-21520.html",
+      "error": null
+    },
+    {
+      "id": "s-techniques-101",
+      "status": 200,
+      "url": "https://www.nobelyayin.com/psikoterapi-ve-psikolojik-danismada-manevi-yonelimli-101-teknik-18476.html",
+      "error": null
+    },
+    {
+      "id": "s-family-spiritual",
+      "status": 200,
+      "url": "https://www.nobelyayin.com/aile-terapisi-manevi-yonelimli-bir-perspektif-16429.html",
+      "error": null
+    },
+    {
+      "id": "s-group-counselling",
+      "status": 200,
+      "url": "https://www.nobelyayin.com/grupla-psikolojik-danisma-uygulamalari-psikospirituel-gelisim-kilavuzu-17677.html",
+      "error": null
+    },
+    {
+      "id": "s-cbt-spiritual",
+      "status": 200,
+      "url": "https://www.nobelyayin.com/bilissel-davranisci-terapi-manevi-perspektifli-teori-ve-uygulamalar-18795.html",
+      "error": null
+    },
+    {
+      "id": "s-spiritual-burnout",
+      "status": 203,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42766252/",
+      "error": null
+    },
+    {
+      "id": "s-sipas",
+      "status": 200,
+      "url": "https://dergipark.org.tr/en/pub/spiritualpc/article/1793082",
+      "error": null
+    },
+    {
+      "id": "s-loneliness-spirituality",
+      "status": 200,
+      "url": "https://dergipark.org.tr/en/pub/spiritualpc/article/1603809",
+      "error": null
+    },
+    {
+      "id": "s-professional-training",
+      "status": 200,
+      "url": "https://link.springer.com/article/10.1007/s10943-025-02551-9?error=cookies_not_supported&code=4485e982-5dd3-460e-a4ea-9c9ce4f91123",
+      "error": null
+    },
+    {
+      "id": "s-spiritual-integrity",
+      "status": 200,
+      "url": "https://link.springer.com/article/10.1007/s10943-025-02329-z?error=cookies_not_supported&code=f4499269-8b21-44c3-b21e-804926562b3b",
+      "error": null
+    },
+    {
+      "id": "s-spirituality-dimensions",
+      "status": 203,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40274690/",
+      "error": null
+    },
+    {
+      "id": "s-spiritual-struggles",
+      "status": 200,
+      "url": "https://dergipark.org.tr/tr/pub/ilted/article/1564927",
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "MARSAM research extraction template",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "objectType",
+    "identity",
+    "provenance",
+    "study",
+    "review",
+    "rights"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "objectType": {
+      "enum": [
+        "template",
+        "research-summary",
+        "measurement-evidence"
+      ]
+    },
+    "study": {
+      "type": "object",
+      "properties": {
+        "sampleSize": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "effectSize": {
+          "type": [
+            "number",
+            "null"
+          ]
+        }
+      }
+    },
+    "review": {
+      "type": "object",
+      "required": [
+        "approved"
+      ],
+      "properties": {
+        "approved": {
+          "type": "boolean"
+        }
+      }
+    },
+    "rights": {
+      "type": "object",
+      "required": [
+        "redistributionAllowed"
+      ],
+      "properties": {
+        "redistributionAllowed": {
+          "type": [
+            "boolean",
+            "null"
+          ]
+        }
+      }
+    }
+  },
+  "description": "Structural shape only. Validation does not establish scientific review, institutional approval, rights or correctness."
+}

@@ -1,0 +1,136 @@
+TAP version 13
+# Subtest: a changed edition cannot retain a fresh evidence status merely by preserving its brief hash
+not ok 1 - a changed edition cannot retain a fresh evidence status merely by preserving its brief hash
+  ---
+  duration_ms: 2.951101
+  type: 'test'
+  location: '/mnt/data/marsam-work/tests/evidence-continuity.test.mjs:9:1'
+  failureType: 'testCodeFailure'
+  error: 'tr'
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: true
+  actual: false
+  operator: '=='
+  stack: |-
+    TestContext.<anonymous> (file:///mnt/data/marsam-work/tests/evidence-continuity.test.mjs:11:9)
+    Test.runInAsyncScope (node:async_hooks:214:14)
+    Test.run (node:internal/test_runner/test:1047:25)
+    Test.start (node:internal/test_runner/test:944:17)
+    startSubtestAfterBootstrap (node:internal/test_runner/harness:296:17)
+  ...
+# Subtest: changed author order and bibliographic metadata require renewed evidence continuity
+not ok 2 - changed author order and bibliographic metadata require renewed evidence continuity
+  ---
+  duration_ms: 7.384363
+  type: 'test'
+  location: '/mnt/data/marsam-work/tests/evidence-continuity.test.mjs:13:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    The expression evaluated to a falsy value:
+    
+      assert.ok(s.validateScholarship(records).some(e=>e.includes('source draft')))
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: true
+  actual: false
+  operator: '=='
+  stack: |-
+    TestContext.<anonymous> (file:///mnt/data/marsam-work/tests/evidence-continuity.test.mjs:15:9)
+    Test.runInAsyncScope (node:async_hooks:214:14)
+    Test.run (node:internal/test_runner/test:1047:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:744:18)
+    Test.postRun (node:internal/test_runner/test:1173:19)
+    Test.run (node:internal/test_runner/test:1101:12)
+    async startSubtestAfterBootstrap (node:internal/test_runner/harness:296:3)
+  ...
+# Subtest: case variants of the same DOI cannot become two scholarly records
+not ok 3 - case variants of the same DOI cannot become two scholarly records
+  ---
+  duration_ms: 1.235215
+  type: 'test'
+  location: '/mnt/data/marsam-work/tests/evidence-continuity.test.mjs:17:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    The expression evaluated to a falsy value:
+    
+      assert.ok(s.validateScholarship(records).some(e=>e.includes('Duplicate scholarly identity')))
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: true
+  actual: false
+  operator: '=='
+  stack: |-
+    TestContext.<anonymous> (file:///mnt/data/marsam-work/tests/evidence-continuity.test.mjs:21:9)
+    Test.runInAsyncScope (node:async_hooks:214:14)
+    Test.run (node:internal/test_runner/test:1047:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:744:18)
+    Test.postRun (node:internal/test_runner/test:1173:19)
+    Test.run (node:internal/test_runner/test:1101:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:744:7)
+  ...
+# Subtest: an OUT_OF_SCOPE decision blocks public inclusion even when its action says retain
+not ok 4 - an OUT_OF_SCOPE decision blocks public inclusion even when its action says retain
+  ---
+  duration_ms: 1.764998
+  type: 'test'
+  location: '/mnt/data/marsam-work/tests/evidence-continuity.test.mjs:23:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    The expression evaluated to a falsy value:
+    
+      assert.ok(s.validateScope(sources).some(e=>e.includes('OUT_OF_SCOPE')))
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: true
+  actual: false
+  operator: '=='
+  stack: |-
+    TestContext.<anonymous> (file:///mnt/data/marsam-work/tests/evidence-continuity.test.mjs:25:45)
+    Test.runInAsyncScope (node:async_hooks:214:14)
+    Test.run (node:internal/test_runner/test:1047:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:744:18)
+    Test.postRun (node:internal/test_runner/test:1173:19)
+    Test.run (node:internal/test_runner/test:1101:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:744:7)
+  ...
+# Subtest: continuity matrix makes technical presence distinct from semantic and human review
+not ok 5 - continuity matrix makes technical presence distinct from semantic and human review
+  ---
+  duration_ms: 0.557174
+  type: 'test'
+  location: '/mnt/data/marsam-work/tests/evidence-continuity.test.mjs:27:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    Expected values to be strictly equal:
+    + actual - expected
+    
+    + 'undefined'
+    - 'function'
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: 'function'
+  actual: 'undefined'
+  operator: 'strictEqual'
+  stack: |-
+    TestContext.<anonymous> (file:///mnt/data/marsam-work/tests/evidence-continuity.test.mjs:28:9)
+    Test.runInAsyncScope (node:async_hooks:214:14)
+    Test.run (node:internal/test_runner/test:1047:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:744:18)
+    Test.postRun (node:internal/test_runner/test:1173:19)
+    Test.run (node:internal/test_runner/test:1101:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:744:7)
+  ...
+1..5
+# tests 5
+# suites 0
+# pass 0
+# fail 5
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 100.03124

@@ -1,0 +1,229 @@
+{
+  "version": "0.9.0",
+  "status": "superseded-by-verified-live-review-preview",
+  "date": "2026-10-03",
+  "baseSourceCommit": "90a2e98ecf2c7ed94ae20ffb22236b977c0a685b",
+  "sourceTests": 93,
+  "generatedSiteTests": 11,
+  "roots": [
+    "/",
+    "/MARSAM/"
+  ],
+  "publicRoutes": 649,
+  "sourceRecords": 36,
+  "newSources": 11,
+  "archivedSources": 2,
+  "localBrowserPackage": "Playwright 1.55.0",
+  "engines": {
+    "chromium": "140.0.7339.16",
+    "firefox": "141.0",
+    "webkit": "26.0"
+  },
+  "suites": [
+    {
+      "suite": "reading-room-core",
+      "success": true,
+      "assertions": 818,
+      "passed": 818,
+      "receiptSha256": "04d248cf03e7ec6407bdbc47f3d0094fee15e3ac7144793c6a21e888b796861a"
+    },
+    {
+      "suite": "reading-room-scope",
+      "success": true,
+      "assertions": 899,
+      "passed": 899,
+      "receiptSha256": "2c4e31becb647d38c0c9f8652e957646840344490d8784a59fc0d0cb21c2694d"
+    },
+    {
+      "suite": "reading-room-layout",
+      "success": true,
+      "assertions": 2723,
+      "passed": 2723,
+      "receiptSha256": "91189750a67b2a91fff47404dfc255c7fab03ca4217ac04e169e5954b276a5cf"
+    },
+    {
+      "suite": "research-browser",
+      "success": true,
+      "assertions": 2324,
+      "passed": 2324,
+      "receiptSha256": "c2765aa9b7b8ee526662eb5c9c6f0d3febd6174740a2dd87882e64816b774621"
+    },
+    {
+      "suite": "cini-browser",
+      "success": true,
+      "assertions": 1393,
+      "passed": 1393,
+      "receiptSha256": "0af7b2ca2a152c67abfd059f2c2269fcea955de59d1ef42826838e976d9c4267"
+    },
+    {
+      "suite": "scholarship-browser",
+      "success": true,
+      "assertions": 367,
+      "passed": 367,
+      "receiptSha256": "0adc24f70192821b1d7367d956ae8ac9c0abc5017cea680834bdbbd703a8c2df"
+    }
+  ],
+  "researchArtifactTests": 5,
+  "budgets": {
+    "version": "0.9.0",
+    "limits": {
+      "css": 18000,
+      "js": 22000,
+      "home": 16000,
+      "index": 80000
+    },
+    "gzipEstimates": true,
+    "measuredNetworkPerformance": false,
+    "coreCSS": 13652,
+    "coreJS": 9660,
+    "assets": [
+      {
+        "path": "site.css",
+        "bytes": 64694,
+        "gzipBytes": 13652
+      },
+      {
+        "path": "app.js",
+        "bytes": 11905,
+        "gzipBytes": 4172
+      },
+      {
+        "path": "campus.js",
+        "bytes": 6322,
+        "gzipBytes": 2331
+      },
+      {
+        "path": "campus-core.js",
+        "bytes": 550,
+        "gzipBytes": 379
+      },
+      {
+        "path": "heritage.js",
+        "bytes": 2928,
+        "gzipBytes": 1158
+      },
+      {
+        "path": "search-core.js",
+        "bytes": 2844,
+        "gzipBytes": 1256
+      },
+      {
+        "path": "url-state.js",
+        "bytes": 575,
+        "gzipBytes": 364
+      },
+      {
+        "path": "tr/index.html",
+        "bytes": 66733,
+        "gzipBytes": 11979
+      },
+      {
+        "path": "data/search-tr.json",
+        "bytes": 111891,
+        "gzipBytes": 26918
+      },
+      {
+        "path": "en/index.html",
+        "bytes": 64998,
+        "gzipBytes": 11141
+      },
+      {
+        "path": "data/search-en.json",
+        "bytes": 108254,
+        "gzipBytes": 20517
+      },
+      {
+        "path": "de/index.html",
+        "bytes": 66409,
+        "gzipBytes": 11886
+      },
+      {
+        "path": "data/search-de.json",
+        "bytes": 109546,
+        "gzipBytes": 25142
+      },
+      {
+        "path": "zh/index.html",
+        "bytes": 61343,
+        "gzipBytes": 12023
+      },
+      {
+        "path": "data/search-zh.json",
+        "bytes": 93898,
+        "gzipBytes": 20882
+      },
+      {
+        "path": "ru/index.html",
+        "bytes": 83640,
+        "gzipBytes": 13529
+      },
+      {
+        "path": "data/search-ru.json",
+        "bytes": 158803,
+        "gzipBytes": 24954
+      },
+      {
+        "path": "ar/index.html",
+        "bytes": 75435,
+        "gzipBytes": 12601
+      },
+      {
+        "path": "data/search-ar.json",
+        "bytes": 134150,
+        "gzipBytes": 23707
+      },
+      {
+        "path": "id/index.html",
+        "bytes": 65276,
+        "gzipBytes": 11333
+      },
+      {
+        "path": "data/search-id.json",
+        "bytes": 107099,
+        "gzipBytes": 20687
+      },
+      {
+        "path": "ms/index.html",
+        "bytes": 65410,
+        "gzipBytes": 11262
+      },
+      {
+        "path": "data/search-ms.json",
+        "bytes": 107801,
+        "gzipBytes": 20643
+      }
+    ]
+  },
+  "independentAICodeReview": "Initial 9/9 suite followed by independent final review. Four further material findings reproduced and resolved, final scholarship suite 13/13.",
+  "scientificApproval": false,
+  "humanLanguageApproval": false,
+  "formalInstitutionalApproval": false,
+  "publicationAuthorized": false,
+  "ownerAuthorizedReviewPreview": true,
+  "limitations": [
+    "Automated technical checks, not human scientific or native-language review.",
+    "Some summaries rely on abstracts or official instrument descriptions.",
+    "No comprehensive correction/retraction surveillance or reuse-rights clearance.",
+    "The older-adults source count discrepancy is disclosed, not resolved.",
+    "Shared-brief freshness covers 88 record editions, not all prose or legacy locale files.",
+    "No screen-reader user study, independent accessibility certification or field performance measurements.",
+    "Historical local candidate receipts. Exact final CI and public results are in the separate live record."
+  ],
+  "deviations": [
+    "Preserve approved portal, palette and static architecture.",
+    "Consolidate six themes into one evidence experience.",
+    "Retain explicitly spiritual professional books despite generic main titles.",
+    "Archive two self-help works without deleting source history.",
+    "Use concise instrument profiles linked to the existing methods guide rather than duplicate the toolkit.",
+    "Preserve useful legacy dossiers and explicitly label their older translation provenance."
+  ],
+  "postReviewScholarshipTests": 13,
+  "reviewFixes": [
+    "source identity agreement",
+    "valid scope action enum",
+    "Arabic scientific token isolation",
+    "original RSS name retrieval"
+  ],
+  "suitesDescribe": "Prior local candidate receipts. Final post-fix CI and public receipts are recorded separately in the live release record.",
+  "liveRecord": "scholarly-evidence-0.9.0-live.json"
+}

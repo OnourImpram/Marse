@@ -1,0 +1,2424 @@
+{
+  "checked": "2026-10-01",
+  "scope": "A dated editorial selection, not an exhaustive publication list or a centre staff roster.",
+  "books": [
+    {
+      "id": "trauma-spirituality",
+      "sourceId": "s-trauma-spirituality",
+      "title": "Travmanın İzinde Maneviyat: Bütüncül Bir Psikoterapi Rehberi",
+      "year": 2026,
+      "url": "https://www.nobelyayin.com/travmanin-izinde-maneviyat-butuncul-bir-psikoterapi-rehberi-23386.html",
+      "display": {
+        "tr": "Travmanın İzinde Maneviyat",
+        "en": "Spirituality in the Wake of Trauma",
+        "de": "Spiritualität im Kontext von Trauma",
+        "zh": "创伤历程中的灵性",
+        "ru": "Духовность в контексте травмы",
+        "ar": "الروحانية في سياق الصدمة",
+        "id": "Spiritualitas dalam Jejak Trauma",
+        "ms": "Kerohanian dalam Jejak Trauma"
+      },
+      "summary": {
+        "tr": "Travma ve maneviyatı psikoterapi bağlamında ele alan, Eylül 2026 tarihli derleme kitap.",
+        "en": "A September 2026 edited volume addressing trauma and spirituality in psychotherapy.",
+        "de": "Ein im September 2026 erschienener Sammelband über Trauma und Spiritualität in der Psychotherapie.",
+        "zh": "2026年9月出版的编著，在心理治疗情境中讨论创伤与灵性。",
+        "ru": "Коллективная книга сентября 2026 года о травме и духовности в психотерапии.",
+        "ar": "كتاب جماعي صدر في سبتمبر 2026 يتناول الصدمة والروحانية في العلاج النفسي.",
+        "id": "Buku suntingan September 2026 tentang trauma dan spiritualitas dalam psikoterapi.",
+        "ms": "Buku suntingan September 2026 tentang trauma dan kerohanian dalam psikoterapi."
+      },
+      "topic": "theory",
+      "sections": [
+        "library",
+        "books",
+        "learning"
+      ],
+      "kind": "book",
+      "language": "tr",
+      "bibliography": {
+        "type": "book",
+        "collection": "books",
+        "date": "2026-09",
+        "isbn": "978-625-8804-58-4",
+        "pages": "384",
+        "edition": "1",
+        "authors": [],
+        "editors": [
+          "Halil Ekşi"
+        ],
+        "contributors": [
+          "Cemile Edibe Okur",
+          "Fatma Sevim",
+          "Halil Ekşi",
+          "Hatice Selman",
+          "Okan Tiring"
+        ],
+        "publisher": "Nobel Akademik Yayıncılık",
+        "identityVerified": true,
+        "identitySources": [
+          "https://www.nobelyayin.com/travmanin-izinde-maneviyat-butuncul-bir-psikoterapi-rehberi-23386.html"
+        ],
+        "note": {
+          "tr": "Baskı bilgisi yayınevi kaydına dayanır. Tanıtım özeti, etkililik değerlendirmesi veya tam metin incelemesi değildir.",
+          "en": "Edition details follow the publisher. This catalogue summary is not an efficacy assessment or full-text review.",
+          "de": "Die Auflage folgt dem Verlag. Die Katalogbeschreibung ist keine Wirksamkeitsbewertung oder Volltextprüfung.",
+          "zh": "版次信息依据出版社记录。此目录简介并非疗效评价或全文审读。",
+          "ru": "Сведения об издании взяты у издателя. Описание не является оценкой эффективности или анализом полного текста.",
+          "ar": "تفاصيل الطبعة وفق سجل الناشر. الملخص الفهرسي ليس تقييماً للفعالية أو مراجعة للنص الكامل.",
+          "id": "Rincian edisi mengikuti penerbit. Ringkasan katalog bukan penilaian efektivitas atau telaah teks lengkap.",
+          "ms": "Butiran edisi mengikut penerbit. Ringkasan katalog bukan penilaian keberkesanan atau ulasan teks penuh."
+        },
+        "cover": "assets/heritage/trauma-spirituality.webp"
+      },
+      "citation": "Halil Ekşi (Ed.). (2026). Travmanın İzinde Maneviyat: Bütüncül Bir Psikoterapi Rehberi. Nobel Akademik Yayıncılık. ISBN 978-625-8804-58-4."
+    },
+    {
+      "id": "spiritual-counselling-book",
+      "sourceId": "s-spiritual-counselling-book",
+      "title": "Manevi Yönelimli Psikolojik Danışma",
+      "year": 2024,
+      "url": "https://www.nobelyayin.com/manevi-yonelimli-psikolojik-danisma-15894.html",
+      "display": {
+        "tr": "Manevi Yönelimli Psikolojik Danışma",
+        "en": "Spiritually Oriented Psychological Counselling",
+        "de": "Spirituell orientierte psychologische Beratung",
+        "zh": "灵性取向心理咨询",
+        "ru": "Духовно ориентированное психологическое консультирование",
+        "ar": "الإرشاد النفسي ذو التوجه الروحي",
+        "id": "Konseling Psikologis Berorientasi Spiritual",
+        "ms": "Kaunseling Psikologi Berorientasikan Kerohanian"
+      },
+      "summary": {
+        "tr": "Kavramsal temelleri, kültürü, ölçmeyi, uygulamayı ve etiği ele alan kitabın güncellenmiş üçüncü baskısı.",
+        "en": "Conceptual foundations, culture, assessment, practice and ethics. Updated third edition.",
+        "de": "Grundlagen, Kultur, Diagnostik, Praxis und Ethik. Aktualisierte dritte Auflage.",
+        "zh": "涵盖概念基础、文化、评估、实践与伦理。修订第三版。",
+        "ru": "Основы, культура, оценка, практика и этика. Обновлённое третье издание.",
+        "ar": "الأسس المفاهيمية والثقافة والتقييم والممارسة والأخلاق. الطبعة الثالثة المحدثة.",
+        "id": "Landasan konseptual, budaya, asesmen, praktik, dan etika. Edisi ketiga yang diperbarui.",
+        "ms": "Asas konsep, budaya, penilaian, amalan dan etika. Edisi ketiga yang dikemas kini."
+      },
+      "topic": "theory",
+      "sections": [
+        "library",
+        "books",
+        "learning"
+      ],
+      "kind": "book",
+      "language": "tr",
+      "bibliography": {
+        "type": "book",
+        "collection": "books",
+        "date": "2024-10",
+        "isbn": "978-605-033-256-8",
+        "pages": "384",
+        "edition": "3",
+        "authors": [],
+        "editors": [
+          "Halil Ekşi"
+        ],
+        "contributors": [
+          "Ayşenur Yabanigül",
+          "Berra Keçeci",
+          "Beyza Kırca",
+          "Bilge Nuran Aydoğdu",
+          "Çınar Kaya",
+          "Çiğdem Demir Çelebi",
+          "Dilek Akça Koca",
+          "Figen Kasapoğlu",
+          "Gökhan Özcan",
+          "Gülşen Özgen",
+          "Halil Ekşi",
+          "Hatun Sevgi Yalin",
+          "Kübra Kaplaner",
+          "M. Şerif Keskinoğlu",
+          "Neslihan Yaman",
+          "Nesrullah Okan",
+          "Özge Erduran Tekin",
+          "Tuğba Türk",
+          "Vildan Saruhan",
+          "Yahya Şahin",
+          "Yakup İme",
+          "Zehra Eminoğlu"
+        ],
+        "publisher": "Nobel Akademik Yayıncılık",
+        "identityVerified": true,
+        "identitySources": [
+          "https://www.nobelyayin.com/manevi-yonelimli-psikolojik-danisma-15894.html"
+        ],
+        "note": {
+          "tr": "Baskı bilgisi yayınevi kaydına dayanır. Tanıtım özeti, etkililik değerlendirmesi veya tam metin incelemesi değildir.",
+          "en": "Edition details follow the publisher. This catalogue summary is not an efficacy assessment or full-text review.",
+          "de": "Die Auflage folgt dem Verlag. Die Katalogbeschreibung ist keine Wirksamkeitsbewertung oder Volltextprüfung.",
+          "zh": "版次信息依据出版社记录。此目录简介并非疗效评价或全文审读。",
+          "ru": "Сведения об издании взяты у издателя. Описание не является оценкой эффективности или анализом полного текста.",
+          "ar": "تفاصيل الطبعة وفق سجل الناشر. الملخص الفهرسي ليس تقييماً للفعالية أو مراجعة للنص الكامل.",
+          "id": "Rincian edisi mengikuti penerbit. Ringkasan katalog bukan penilaian efektivitas atau telaah teks lengkap.",
+          "ms": "Butiran edisi mengikut penerbit. Ringkasan katalog bukan penilaian keberkesanan atau ulasan teks penuh."
+        },
+        "cover": "assets/heritage/spiritual-counselling-book.webp",
+        "editionUpdated": true
+      },
+      "citation": "Halil Ekşi (Ed.). (2024). Manevi Yönelimli Psikolojik Danışma. Nobel Akademik Yayıncılık. ISBN 978-605-033-256-8."
+    },
+    {
+      "id": "discovering-spirituality",
+      "sourceId": "s-discovering-spirituality",
+      "title": "Maneviyatın Keşfi: 21 Boyutta Kendi Kendine Yardım Kılavuzu",
+      "year": 2024,
+      "url": "https://www.nobelyayin.com/maneviyatin-kesfi-21-boyutta-kendi-kendine-yardim-kilavuzu-21519.html",
+      "display": {
+        "tr": "Maneviyatın Keşfi",
+        "en": "Exploring Spirituality",
+        "de": "Spiritualität entdecken",
+        "zh": "探索灵性",
+        "ru": "Открывая духовность",
+        "ar": "اكتشاف الروحانية",
+        "id": "Menjelajahi Spiritualitas",
+        "ms": "Meneroka Kerohanian"
+      },
+      "summary": {
+        "tr": "Maneviyatı 21 boyut üzerinden ele alan, kendi kendine yardım odaklı bir kitap.",
+        "en": "A self-help-oriented book exploring spirituality through 21 dimensions.",
+        "de": "Ein Selbsthilfebuch über 21 Dimensionen der Spiritualität.",
+        "zh": "从21个维度探索灵性的自助类书籍。",
+        "ru": "Книга самопомощи, рассматривающая 21 измерение духовности.",
+        "ar": "كتاب للمساعدة الذاتية يستكشف الروحانية عبر واحد وعشرين بُعداً.",
+        "id": "Buku bantuan diri yang membahas spiritualitas melalui 21 dimensi.",
+        "ms": "Buku bantuan kendiri yang membincangkan kerohanian melalui 21 dimensi."
+      },
+      "topic": "theory",
+      "sections": [
+        "library",
+        "books",
+        "learning"
+      ],
+      "kind": "book",
+      "language": "tr",
+      "bibliography": {
+        "type": "book",
+        "collection": "books",
+        "date": "2024-10",
+        "isbn": "978-625-371-703-2",
+        "pages": "374",
+        "edition": "1",
+        "authors": [
+          "Halil Ekşi",
+          "Dilek Günel",
+          "Ece Yağcı Akgündüz",
+          "Emre Gürkan",
+          "Fadile Zeynep Çavuş",
+          "Yasemin Altıntaş"
+        ],
+        "editors": [],
+        "contributors": [],
+        "publisher": "Nobel Akademik Yayıncılık",
+        "identityVerified": true,
+        "identitySources": [
+          "https://www.nobelyayin.com/maneviyatin-kesfi-21-boyutta-kendi-kendine-yardim-kilavuzu-21519.html"
+        ],
+        "note": {
+          "tr": "Baskı bilgisi yayınevi kaydına dayanır. Tanıtım özeti, etkililik değerlendirmesi veya tam metin incelemesi değildir.",
+          "en": "Edition details follow the publisher. This catalogue summary is not an efficacy assessment or full-text review.",
+          "de": "Die Auflage folgt dem Verlag. Die Katalogbeschreibung ist keine Wirksamkeitsbewertung oder Volltextprüfung.",
+          "zh": "版次信息依据出版社记录。此目录简介并非疗效评价或全文审读。",
+          "ru": "Сведения об издании взяты у издателя. Описание не является оценкой эффективности или анализом полного текста.",
+          "ar": "تفاصيل الطبعة وفق سجل الناشر. الملخص الفهرسي ليس تقييماً للفعالية أو مراجعة للنص الكامل.",
+          "id": "Rincian edisi mengikuti penerbit. Ringkasan katalog bukan penilaian efektivitas atau telaah teks lengkap.",
+          "ms": "Butiran edisi mengikut penerbit. Ringkasan katalog bukan penilaian keberkesanan atau ulasan teks penuh."
+        },
+        "cover": "assets/heritage/discovering-spirituality.webp"
+      },
+      "citation": "Halil Ekşi, Dilek Günel, Ece Yağcı Akgündüz, Emre Gürkan, Fadile Zeynep Çavuş, Yasemin Altıntaş. (2024). Maneviyatın Keşfi: 21 Boyutta Kendi Kendine Yardım Kılavuzu. Nobel Akademik Yayıncılık. ISBN 978-625-371-703-2."
+    },
+    {
+      "id": "spiritual-practices",
+      "sourceId": "s-spiritual-practices",
+      "title": "Manevi Yaşam Pratikleri",
+      "year": 2024,
+      "url": "https://www.nobelyayin.com/manevi-yasam-pratikleri-21520.html",
+      "display": {
+        "tr": "Manevi Yaşam Pratikleri",
+        "en": "Practices for Spiritual Living",
+        "de": "Spirituelle Lebenspraxis",
+        "zh": "灵性生活实践",
+        "ru": "Практики духовной жизни",
+        "ar": "ممارسات الحياة الروحية",
+        "id": "Praktik Kehidupan Spiritual",
+        "ms": "Amalan Kehidupan Rohani"
+      },
+      "summary": {
+        "tr": "Manevi yaşamı günlük pratikler ve kendi kendine yardım çerçevesinde ele alan kitap.",
+        "en": "A book on spiritual living through everyday practices and self-help.",
+        "de": "Ein Buch über spirituelles Leben, Alltagspraxis und Selbsthilfe.",
+        "zh": "以日常实践和自助为视角讨论灵性生活的书籍。",
+        "ru": "Книга о духовной жизни, повседневных практиках и самопомощи.",
+        "ar": "كتاب يتناول الحياة الروحية عبر الممارسات اليومية والمساعدة الذاتية.",
+        "id": "Buku tentang kehidupan spiritual melalui praktik sehari-hari dan bantuan diri.",
+        "ms": "Buku tentang kehidupan rohani melalui amalan harian dan bantuan kendiri."
+      },
+      "topic": "theory",
+      "sections": [
+        "library",
+        "books",
+        "learning"
+      ],
+      "kind": "book",
+      "language": "tr",
+      "bibliography": {
+        "type": "book",
+        "collection": "books",
+        "date": "2024-10",
+        "isbn": "978-625-371-699-8",
+        "pages": "184",
+        "edition": "1",
+        "authors": [],
+        "editors": [
+          "Halil Ekşi"
+        ],
+        "contributors": [],
+        "publisher": "Nobel Akademik Yayıncılık",
+        "identityVerified": true,
+        "identitySources": [
+          "https://www.nobelyayin.com/manevi-yasam-pratikleri-21520.html",
+          "https://www.researchgate.net/publication/386370581_Manevi_Yasam_Pratikleri"
+        ],
+        "note": {
+          "tr": "Yayınevi sayfası Halil Ekşi’yi yazar, kendisinin paylaştığı iç kapak ise editör olarak belirtir. Editör kaydı iç kapağı izler.",
+          "en": "The publisher page lists Halil Ekşi as author, while his shared title page says editor. The editor field follows the title page.",
+          "de": "Der Verlag nennt Halil Ekşi als Autor, sein geteiltes Titelblatt als Herausgeber. Das Herausgeberfeld folgt dem Titelblatt.",
+          "zh": "出版社页面列Halil Ekşi为作者，他分享的内封则列为主编。此处主编字段依据内封。",
+          "ru": "Издатель указывает Halil Ekşi как автора, опубликованный им титульный лист как редактора. Поле редактора следует титульному листу.",
+          "ar": "يسجّل الناشر Halil Ekşi مؤلفاً، بينما تذكر صفحة العنوان التي نشرها أنه محرر. حقل المحرر يتبع صفحة العنوان.",
+          "id": "Penerbit mencantumkan Halil Ekşi sebagai penulis, tetapi halaman judul yang ia bagikan menyebut editor. Kolom editor mengikuti halaman judul.",
+          "ms": "Penerbit menyenaraikan Halil Ekşi sebagai penulis, tetapi halaman judul yang dikongsinya menyebut editor. Ruangan editor mengikut halaman judul."
+        },
+        "cover": "assets/heritage/spiritual-practices.webp",
+        "creditConflict": true
+      },
+      "citation": "Halil Ekşi (Ed.). (2024). Manevi Yaşam Pratikleri. Nobel Akademik Yayıncılık. ISBN 978-625-371-699-8."
+    },
+    {
+      "id": "theories-book",
+      "sourceId": "s-eksi",
+      "title": "Psikoterapi ve Psikolojik Danışma Kuramları: Manevi Boyutlarıyla",
+      "year": 2024,
+      "url": "https://www.kaknus.com.tr/urun/psikoterapi-ve-psikolojik-danisma-kuramlari/",
+      "display": {
+        "tr": "Psikoterapi ve Psikolojik Danışma Kuramları",
+        "en": "Psychotherapy and Counselling Theories",
+        "de": "Psychotherapie- und Beratungstheorien",
+        "zh": "心理治疗与咨询理论",
+        "ru": "Теории психотерапии и консультирования",
+        "ar": "نظريات العلاج النفسي والإرشاد",
+        "id": "Teori Psikoterapi dan Konseling",
+        "ms": "Teori Psikoterapi dan Kaunseling"
+      },
+      "summary": {
+        "tr": "Farklı psikoterapi kuramlarının manevi boyutlarını inceleyen, Halil Ekşi editörlüğündeki çok yazarlı eser.",
+        "en": "An edited collection examining the spiritual dimensions of different psychotherapy theories.",
+        "de": "Ein Sammelband über die spirituellen Dimensionen unterschiedlicher Psychotherapietheorien.",
+        "zh": "探讨不同心理治疗理论之灵性维度的多作者编著。",
+        "ru": "Коллективная книга о духовных измерениях различных теорий психотерапии.",
+        "ar": "كتاب جماعي يستكشف الأبعاد الروحية لنظريات مختلفة في العلاج النفسي.",
+        "id": "Kumpulan tulisan yang mengkaji dimensi spiritual berbagai teori psikoterapi.",
+        "ms": "Himpunan tulisan yang meneliti dimensi kerohanian pelbagai teori psikoterapi."
+      },
+      "topic": "theory",
+      "sections": [
+        "library",
+        "books",
+        "learning"
+      ],
+      "kind": "book",
+      "language": "tr",
+      "bibliography": {
+        "type": "book",
+        "collection": "books",
+        "date": "2024",
+        "isbn": "978-975-256-715-3",
+        "pages": "784",
+        "edition": "1",
+        "authors": [],
+        "editors": [
+          "Halil Ekşi"
+        ],
+        "contributors": [
+          "Ayfer Summermatter",
+          "Betül Gülcan Çakmak",
+          "Bülent Dilmaç",
+          "Büşra Ünverdi Demir",
+          "Cem Boyalı",
+          "Erdem Sevim",
+          "Gökhan Özcan",
+          "Gülşen Topal Özgen",
+          "Hale Nur Kılıç Memur",
+          "Halil Ekşi",
+          "Hatice Hilal Saçar",
+          "Hatun Sevgi Yalın",
+          "Merve Baysal",
+          "Merve Nur Çınar",
+          "Nesrullah Okan",
+          "Oğuzhan Yavuz",
+          "Pınar Özdemir",
+          "Selami Kardaş",
+          "Tuğba Turgut",
+          "Tuğba Türk Kurtça",
+          "Vedat Bakır",
+          "Yakup Özkapu",
+          "Zeynep Şimşir Gökalp"
+        ],
+        "publisher": "Kaknüs Yayınları",
+        "identityVerified": true,
+        "identitySources": [
+          "https://www.kaknus.com.tr/urun/psikoterapi-ve-psikolojik-danisma-kuramlari/"
+        ],
+        "note": {
+          "tr": "Baskı bilgisi yayınevi kaydına dayanır. Tanıtım özeti, etkililik değerlendirmesi veya tam metin incelemesi değildir.",
+          "en": "Edition details follow the publisher. This catalogue summary is not an efficacy assessment or full-text review.",
+          "de": "Die Auflage folgt dem Verlag. Die Katalogbeschreibung ist keine Wirksamkeitsbewertung oder Volltextprüfung.",
+          "zh": "版次信息依据出版社记录。此目录简介并非疗效评价或全文审读。",
+          "ru": "Сведения об издании взяты у издателя. Описание не является оценкой эффективности или анализом полного текста.",
+          "ar": "تفاصيل الطبعة وفق سجل الناشر. الملخص الفهرسي ليس تقييماً للفعالية أو مراجعة للنص الكامل.",
+          "id": "Rincian edisi mengikuti penerbit. Ringkasan katalog bukan penilaian efektivitas atau telaah teks lengkap.",
+          "ms": "Butiran edisi mengikut penerbit. Ringkasan katalog bukan penilaian keberkesanan atau ulasan teks penuh."
+        },
+        "cover": "assets/heritage/theories-book.webp"
+      },
+      "citation": "Halil Ekşi (Ed.). (2024). Psikoterapi ve Psikolojik Danışma Kuramları: Manevi Boyutlarıyla. Kaknüs Yayınları. ISBN 978-975-256-715-3."
+    },
+    {
+      "id": "techniques-101",
+      "sourceId": "s-techniques-101",
+      "title": "Psikoterapi ve Psikolojik Danışmada Manevi Yönelimli 101 Teknik",
+      "year": 2024,
+      "url": "https://www.nobelyayin.com/psikoterapi-ve-psikolojik-danismada-manevi-yonelimli-101-teknik-18476.html",
+      "display": {
+        "tr": "Manevi Yönelimli 101 Teknik",
+        "en": "101 Spiritually Oriented Techniques",
+        "de": "101 spirituell orientierte Techniken",
+        "zh": "101种灵性取向技术",
+        "ru": "101 духовно ориентированная техника",
+        "ar": "101 تقنية ذات توجه روحي",
+        "id": "101 Teknik Berorientasi Spiritual",
+        "ms": "101 Teknik Berorientasikan Kerohanian"
+      },
+      "summary": {
+        "tr": "Psikolojik danışma ve psikoterapide manevi yönelimli teknikleri bir araya getiren başvuru kitabı.",
+        "en": "A reference volume bringing together spiritually oriented techniques for counselling and psychotherapy.",
+        "de": "Ein Nachschlagewerk über spirituell orientierte Techniken in Beratung und Psychotherapie.",
+        "zh": "汇集心理咨询与心理治疗中灵性取向技术的参考书。",
+        "ru": "Справочное издание о духовно ориентированных техниках консультирования и психотерапии.",
+        "ar": "مرجع يجمع تقنيات ذات توجه روحي للإرشاد والعلاج النفسي.",
+        "id": "Buku referensi yang menghimpun teknik berorientasi spiritual untuk konseling dan psikoterapi.",
+        "ms": "Buku rujukan yang menghimpunkan teknik berorientasikan kerohanian untuk kaunseling dan psikoterapi."
+      },
+      "topic": "theory",
+      "sections": [
+        "library",
+        "books",
+        "learning"
+      ],
+      "kind": "book",
+      "language": "tr",
+      "bibliography": {
+        "type": "book",
+        "collection": "books",
+        "date": "2024-01",
+        "isbn": "978-625-417-915-0",
+        "pages": "610",
+        "edition": "2",
+        "authors": [],
+        "editors": [
+          "Halil Ekşi"
+        ],
+        "contributors": [
+          "Betül Gülcan Çakmak",
+          "Büşra Ünverdi",
+          "Cem Boyalı",
+          "Halil Ekşi",
+          "Hatice Hilal Saçar",
+          "M. Şerif Keskinoğlu",
+          "Merve Emre",
+          "Merve Nur Çınar",
+          "Oğuzhan Yavuz",
+          "Yakup Özkapu"
+        ],
+        "publisher": "Nobel Akademik Yayıncılık",
+        "identityVerified": true,
+        "identitySources": [
+          "https://www.nobelyayin.com/psikoterapi-ve-psikolojik-danismada-manevi-yonelimli-101-teknik-18476.html"
+        ],
+        "note": {
+          "tr": "Baskı bilgisi yayınevi kaydına dayanır. Tanıtım özeti, etkililik değerlendirmesi veya tam metin incelemesi değildir.",
+          "en": "Edition details follow the publisher. This catalogue summary is not an efficacy assessment or full-text review.",
+          "de": "Die Auflage folgt dem Verlag. Die Katalogbeschreibung ist keine Wirksamkeitsbewertung oder Volltextprüfung.",
+          "zh": "版次信息依据出版社记录。此目录简介并非疗效评价或全文审读。",
+          "ru": "Сведения об издании взяты у издателя. Описание не является оценкой эффективности или анализом полного текста.",
+          "ar": "تفاصيل الطبعة وفق سجل الناشر. الملخص الفهرسي ليس تقييماً للفعالية أو مراجعة للنص الكامل.",
+          "id": "Rincian edisi mengikuti penerbit. Ringkasan katalog bukan penilaian efektivitas atau telaah teks lengkap.",
+          "ms": "Butiran edisi mengikut penerbit. Ringkasan katalog bukan penilaian keberkesanan atau ulasan teks penuh."
+        },
+        "cover": "assets/heritage/techniques-101.webp"
+      },
+      "citation": "Halil Ekşi (Ed.). (2024). Psikoterapi ve Psikolojik Danışmada Manevi Yönelimli 101 Teknik. Nobel Akademik Yayıncılık. ISBN 978-625-417-915-0."
+    },
+    {
+      "id": "family-spiritual",
+      "sourceId": "s-family-spiritual",
+      "title": "Aile Terapisi: Manevi Yönelimli Bir Perspektif",
+      "year": 2023,
+      "url": "https://www.nobelyayin.com/aile-terapisi-manevi-yonelimli-bir-perspektif-16429.html",
+      "display": {
+        "tr": "Aile Terapisi",
+        "en": "Family Therapy",
+        "de": "Familientherapie",
+        "zh": "家庭治疗",
+        "ru": "Семейная терапия",
+        "ar": "العلاج الأسري",
+        "id": "Terapi Keluarga",
+        "ms": "Terapi Keluarga"
+      },
+      "summary": {
+        "tr": "Aile terapisi ile maneviyat arasındaki ilişkiyi manevi yönelimli bir bakış açısıyla ele alan derleme.",
+        "en": "An edited volume examining family therapy and spirituality from a spiritually oriented perspective.",
+        "de": "Ein Sammelband über Familientherapie und Spiritualität aus spirituell orientierter Perspektive.",
+        "zh": "从灵性取向视角探讨家庭治疗与灵性关系的编著。",
+        "ru": "Коллективная книга о семейной терапии и духовности с духовно ориентированной перспективы.",
+        "ar": "كتاب جماعي يدرس العلاقة بين العلاج الأسري والروحانية من منظور ذي توجه روحي.",
+        "id": "Buku suntingan tentang terapi keluarga dan spiritualitas dari perspektif berorientasi spiritual.",
+        "ms": "Buku suntingan tentang terapi keluarga dan kerohanian daripada perspektif berorientasikan kerohanian."
+      },
+      "topic": "theory",
+      "sections": [
+        "library",
+        "books",
+        "learning"
+      ],
+      "kind": "book",
+      "language": "tr",
+      "bibliography": {
+        "type": "book",
+        "collection": "books",
+        "date": "2023-05",
+        "isbn": "978-625-406-392-3",
+        "pages": "338",
+        "edition": "2",
+        "authors": [],
+        "editors": [
+          "Halil Ekşi"
+        ],
+        "contributors": [],
+        "publisher": "Nobel Akademik Yayıncılık",
+        "identityVerified": true,
+        "identitySources": [
+          "https://www.nobelyayin.com/aile-terapisi-manevi-yonelimli-bir-perspektif-16429.html"
+        ],
+        "note": {
+          "tr": "Baskı bilgisi yayınevi kaydına dayanır. Tanıtım özeti, etkililik değerlendirmesi veya tam metin incelemesi değildir.",
+          "en": "Edition details follow the publisher. This catalogue summary is not an efficacy assessment or full-text review.",
+          "de": "Die Auflage folgt dem Verlag. Die Katalogbeschreibung ist keine Wirksamkeitsbewertung oder Volltextprüfung.",
+          "zh": "版次信息依据出版社记录。此目录简介并非疗效评价或全文审读。",
+          "ru": "Сведения об издании взяты у издателя. Описание не является оценкой эффективности или анализом полного текста.",
+          "ar": "تفاصيل الطبعة وفق سجل الناشر. الملخص الفهرسي ليس تقييماً للفعالية أو مراجعة للنص الكامل.",
+          "id": "Rincian edisi mengikuti penerbit. Ringkasan katalog bukan penilaian efektivitas atau telaah teks lengkap.",
+          "ms": "Butiran edisi mengikut penerbit. Ringkasan katalog bukan penilaian keberkesanan atau ulasan teks penuh."
+        },
+        "cover": "assets/heritage/family-spiritual.webp"
+      },
+      "citation": "Halil Ekşi (Ed.). (2023). Aile Terapisi: Manevi Yönelimli Bir Perspektif. Nobel Akademik Yayıncılık. ISBN 978-625-406-392-3."
+    },
+    {
+      "id": "group-counselling",
+      "sourceId": "s-group-counselling",
+      "title": "Grupla Psikolojik Danışma Uygulamaları: Psikospiritüel Gelişim Kılavuzu",
+      "year": 2023,
+      "url": "https://www.nobelyayin.com/grupla-psikolojik-danisma-uygulamalari-psikospirituel-gelisim-kilavuzu-17677.html",
+      "display": {
+        "tr": "Grupla Psikolojik Danışma Uygulamaları",
+        "en": "Group Counselling Practices",
+        "de": "Praxis der Gruppenberatung",
+        "zh": "团体心理咨询实践",
+        "ru": "Практика группового консультирования",
+        "ar": "ممارسات الإرشاد النفسي الجماعي",
+        "id": "Praktik Konseling Kelompok",
+        "ms": "Amalan Kaunseling Kelompok"
+      },
+      "summary": {
+        "tr": "Ergenler ve yetişkinler için psikospiritüel gelişim temalarını grup çalışmalarıyla ele alan kılavuz.",
+        "en": "A guide addressing psychospiritual development through group work with adolescents and adults.",
+        "de": "Ein Leitfaden zur psychospirituellen Entwicklung in Gruppen mit Jugendlichen und Erwachsenen.",
+        "zh": "通过青少年与成人团体工作讨论心理灵性发展的指南。",
+        "ru": "Руководство по психодуховному развитию в групповой работе с подростками и взрослыми.",
+        "ar": "دليل للتطور النفسي الروحي عبر العمل الجماعي مع المراهقين والبالغين.",
+        "id": "Panduan perkembangan psikospiritual melalui kerja kelompok bersama remaja dan orang dewasa.",
+        "ms": "Panduan perkembangan psikokerohanian melalui kerja kelompok bersama remaja dan orang dewasa."
+      },
+      "topic": "theory",
+      "sections": [
+        "library",
+        "books",
+        "learning"
+      ],
+      "kind": "book",
+      "language": "tr",
+      "bibliography": {
+        "type": "book",
+        "collection": "books",
+        "date": "2023-03",
+        "isbn": "978-625-417-005-8",
+        "pages": "450",
+        "edition": "2",
+        "authors": [],
+        "editors": [
+          "Halil Ekşi",
+          "Osman Hatun"
+        ],
+        "contributors": [
+          "Beyza Kırca",
+          "Halil Ekşi",
+          "Kübra Kaplaner",
+          "Osman Hatun",
+          "Serra Dinç"
+        ],
+        "publisher": "Nobel Akademik Yayıncılık",
+        "identityVerified": true,
+        "identitySources": [
+          "https://www.nobelyayin.com/grupla-psikolojik-danisma-uygulamalari-psikospirituel-gelisim-kilavuzu-17677.html"
+        ],
+        "note": {
+          "tr": "Baskı bilgisi yayınevi kaydına dayanır. Tanıtım özeti, etkililik değerlendirmesi veya tam metin incelemesi değildir.",
+          "en": "Edition details follow the publisher. This catalogue summary is not an efficacy assessment or full-text review.",
+          "de": "Die Auflage folgt dem Verlag. Die Katalogbeschreibung ist keine Wirksamkeitsbewertung oder Volltextprüfung.",
+          "zh": "版次信息依据出版社记录。此目录简介并非疗效评价或全文审读。",
+          "ru": "Сведения об издании взяты у издателя. Описание не является оценкой эффективности или анализом полного текста.",
+          "ar": "تفاصيل الطبعة وفق سجل الناشر. الملخص الفهرسي ليس تقييماً للفعالية أو مراجعة للنص الكامل.",
+          "id": "Rincian edisi mengikuti penerbit. Ringkasan katalog bukan penilaian efektivitas atau telaah teks lengkap.",
+          "ms": "Butiran edisi mengikut penerbit. Ringkasan katalog bukan penilaian keberkesanan atau ulasan teks penuh."
+        },
+        "cover": "assets/heritage/group-counselling.webp"
+      },
+      "citation": "Halil Ekşi, Osman Hatun (Eds.). (2023). Grupla Psikolojik Danışma Uygulamaları: Psikospiritüel Gelişim Kılavuzu. Nobel Akademik Yayıncılık. ISBN 978-625-417-005-8."
+    },
+    {
+      "id": "cbt-spiritual",
+      "sourceId": "s-cbt-spiritual",
+      "title": "Bilişsel Davranışçı Terapi: Manevi Perspektifli Teori ve Uygulamalar",
+      "year": 2022,
+      "url": "https://www.nobelyayin.com/bilissel-davranisci-terapi-manevi-perspektifli-teori-ve-uygulamalar-18795.html",
+      "display": {
+        "tr": "Bilişsel Davranışçı Terapi",
+        "en": "Cognitive Behavioural Therapy",
+        "de": "Kognitive Verhaltenstherapie",
+        "zh": "认知行为治疗",
+        "ru": "Когнитивно-поведенческая терапия",
+        "ar": "العلاج المعرفي السلوكي",
+        "id": "Terapi Kognitif Perilaku",
+        "ms": "Terapi Tingkah Laku Kognitif"
+      },
+      "summary": {
+        "tr": "Bilişsel davranışçı terapinin kuram ve uygulamalarını manevi bir bakış açısıyla tartışan kitap.",
+        "en": "A book discussing cognitive behavioural theory and practice from a spiritual perspective.",
+        "de": "Ein Buch über Theorie und Praxis der kognitiven Verhaltenstherapie aus spiritueller Perspektive.",
+        "zh": "从灵性视角讨论认知行为治疗理论与实践的书籍。",
+        "ru": "Книга о теории и практике когнитивно-поведенческой терапии с духовной перспективы.",
+        "ar": "كتاب يناقش نظرية العلاج المعرفي السلوكي وممارسته من منظور روحي.",
+        "id": "Buku yang membahas teori dan praktik terapi kognitif perilaku dari perspektif spiritual.",
+        "ms": "Buku yang membincangkan teori dan amalan terapi tingkah laku kognitif daripada perspektif kerohanian."
+      },
+      "topic": "theory",
+      "sections": [
+        "library",
+        "books",
+        "learning"
+      ],
+      "kind": "book",
+      "language": "tr",
+      "bibliography": {
+        "type": "book",
+        "collection": "books",
+        "date": "2022-09",
+        "isbn": "978-625-427-158-8",
+        "pages": "224",
+        "edition": "1",
+        "authors": [
+          "Tuğba Turgut",
+          "Halil Ekşi"
+        ],
+        "editors": [],
+        "contributors": [],
+        "publisher": "Nobel Akademik Yayıncılık",
+        "identityVerified": true,
+        "identitySources": [
+          "https://www.nobelyayin.com/bilissel-davranisci-terapi-manevi-perspektifli-teori-ve-uygulamalar-18795.html"
+        ],
+        "note": {
+          "tr": "Baskı bilgisi yayınevi kaydına dayanır. Tanıtım özeti, etkililik değerlendirmesi veya tam metin incelemesi değildir.",
+          "en": "Edition details follow the publisher. This catalogue summary is not an efficacy assessment or full-text review.",
+          "de": "Die Auflage folgt dem Verlag. Die Katalogbeschreibung ist keine Wirksamkeitsbewertung oder Volltextprüfung.",
+          "zh": "版次信息依据出版社记录。此目录简介并非疗效评价或全文审读。",
+          "ru": "Сведения об издании взяты у издателя. Описание не является оценкой эффективности или анализом полного текста.",
+          "ar": "تفاصيل الطبعة وفق سجل الناشر. الملخص الفهرسي ليس تقييماً للفعالية أو مراجعة للنص الكامل.",
+          "id": "Rincian edisi mengikuti penerbit. Ringkasan katalog bukan penilaian efektivitas atau telaah teks lengkap.",
+          "ms": "Butiran edisi mengikut penerbit. Ringkasan katalog bukan penilaian keberkesanan atau ulasan teks penuh."
+        },
+        "cover": "assets/heritage/cbt-spiritual.webp"
+      },
+      "citation": "Tuğba Turgut, Halil Ekşi. (2022). Bilişsel Davranışçı Terapi: Manevi Perspektifli Teori ve Uygulamalar. Nobel Akademik Yayıncılık. ISBN 978-625-427-158-8."
+    }
+  ],
+  "papers": [
+    {
+      "id": "spiritual-burnout",
+      "sourceId": "s-spiritual-burnout",
+      "title": "The Spiritual Burnout Scale: Development and Psychometric Validation of a Measure of Spiritual Resource Depletion in Türkiye",
+      "year": 2026,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42766252/",
+      "display": {
+        "tr": "Manevi tükenmişliğin ölçülmesi",
+        "en": "Measuring spiritual burnout",
+        "de": "Spirituelles Ausgebranntsein erfassen",
+        "zh": "测量灵性耗竭",
+        "ru": "Измерение духовного выгорания",
+        "ar": "قياس الاحتراق الروحي",
+        "id": "Mengukur kelelahan spiritual",
+        "ms": "Mengukur kelesuan rohani"
+      },
+      "summary": {
+        "tr": "Türkiye’de üniversite öğrencilerinde manevi kaynakların tükenmesini ölçmek amacıyla geliştirilen ölçek ve ilk psikometrik değerlendirmesi.",
+        "en": "Scale development and initial psychometric evaluation of spiritual resource depletion among university students in Türkiye.",
+        "de": "Skalenentwicklung und erste psychometrische Prüfung spiritueller Erschöpfung bei Studierenden in der Türkei.",
+        "zh": "在土耳其大学生中开展灵性资源耗竭量表开发与初步心理测量评价。",
+        "ru": "Разработка и первичная психометрическая оценка шкалы истощения духовных ресурсов у студентов в Турции.",
+        "ar": "تطوير مقياس وتقييم سيكومتري أولي لاستنزاف الموارد الروحية لدى طلبة الجامعات في تركيا.",
+        "id": "Pengembangan skala dan evaluasi psikometrik awal penipisan sumber daya spiritual pada mahasiswa di Türkiye.",
+        "ms": "Pembangunan skala dan penilaian psikometrik awal penyusutan sumber kerohanian dalam kalangan mahasiswa di Türkiye."
+      },
+      "topic": "assessment",
+      "sections": [
+        "library",
+        "publications",
+        "measures"
+      ],
+      "kind": "study",
+      "language": "en",
+      "bibliography": {
+        "type": "article",
+        "collection": "recent-research",
+        "date": "2026-09-21",
+        "authors": [
+          "Nesrullah Okan",
+          "Osman Hatun",
+          "Füsun Ekşi",
+          "Halil Ekşi",
+          "Nihat Köse"
+        ],
+        "editors": [],
+        "journal": "Journal of Religion and Health",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1007/s10943-026-02801-4",
+        "identityVerified": true,
+        "identitySources": [
+          "https://pubmed.ncbi.nlm.nih.gov/42766252/"
+        ],
+        "note": {
+          "tr": "Psikometrik çalışma. Araştırma örneklemindeki ölçme kanıtı, klinik tanı yetkisi veya kullanım izni anlamına gelmez.",
+          "en": "Psychometric study. Measurement evidence in the research sample does not establish diagnostic authority or reuse permission.",
+          "de": "Psychometrische Studie. Messbefunde in der Stichprobe begründen weder diagnostische Befugnis noch Nutzungsrechte.",
+          "zh": "心理测量研究。研究样本中的测量证据不等于临床诊断资格或使用许可。",
+          "ru": "Психометрическое исследование. Данные выборки не означают права на диагностику или разрешения использовать шкалу.",
+          "ar": "دراسة سيكومترية. أدلة القياس في العينة لا تمنح صلاحية التشخيص أو إذن استخدام المقياس.",
+          "id": "Studi psikometrik. Bukti pengukuran pada sampel bukan kewenangan diagnosis atau izin penggunaan instrumen.",
+          "ms": "Kajian psikometrik. Bukti pengukuran dalam sampel bukan kuasa diagnosis atau kebenaran menggunakan instrumen."
+        },
+        "publicationState": "online-first"
+      },
+      "citation": "Nesrullah Okan, Osman Hatun, Füsun Ekşi, Halil Ekşi, Nihat Köse. (2026). The Spiritual Burnout Scale: Development and Psychometric Validation of a Measure of Spiritual Resource Depletion in Türkiye. Journal of Religion and Health. https://doi.org/10.1007/s10943-026-02801-4"
+    },
+    {
+      "id": "sipas",
+      "sourceId": "s-sipas",
+      "title": "Spiritually Integrated Process Assessment Scale (SIPAS): Validity and Reliability Study",
+      "year": 2026,
+      "url": "https://dergipark.org.tr/en/pub/spiritualpc/article/1793082",
+      "display": {
+        "tr": "SIPAS. Maneviyatın danışma sürecine bütünleştirilmesi",
+        "en": "SIPAS. Integrating spirituality into counselling",
+        "de": "SIPAS. Spiritualität in der Beratung",
+        "zh": "SIPAS. 咨询中的灵性整合",
+        "ru": "SIPAS. Интеграция духовности в консультирование",
+        "ar": "SIPAS. دمج الروحانية في الإرشاد",
+        "id": "SIPAS. Integrasi spiritualitas dalam konseling",
+        "ms": "SIPAS. Integrasi kerohanian dalam kaunseling"
+      },
+      "summary": {
+        "tr": "Ruh sağlığı profesyonellerinin maneviyatı danışma sürecine katmaya ilişkin tutumlarını, öz yeterliklerini ve uygulamalarını değerlendiren ölçeğin Türkçe uyarlaması.",
+        "en": "Turkish adaptation assessing professionals’ attitudes, self-efficacy and practice concerning spiritual integration.",
+        "de": "Türkische Adaptation zur Erfassung professioneller Einstellungen, Selbstwirksamkeit und spiritueller Integrationspraxis.",
+        "zh": "评估专业人员灵性整合态度、自我效能与实践的土耳其语适配研究。",
+        "ru": "Турецкая адаптация оценки установок, самоэффективности и практики специалистов в духовной интеграции.",
+        "ar": "دراسة تكييف تركي لتقييم اتجاهات المهنيين وكفاءتهم الذاتية وممارساتهم المتعلقة بالدمج الروحي.",
+        "id": "Adaptasi Turki untuk menilai sikap, efikasi diri, dan praktik profesional terkait integrasi spiritual.",
+        "ms": "Adaptasi Turki untuk menilai sikap, efikasi kendiri dan amalan profesional berkaitan integrasi kerohanian."
+      },
+      "topic": "assessment",
+      "sections": [
+        "library",
+        "publications",
+        "measures"
+      ],
+      "kind": "study",
+      "language": "en",
+      "bibliography": {
+        "type": "article",
+        "collection": "recent-research",
+        "date": "2026-06-30",
+        "authors": [
+          "Halil Eksi",
+          "Havvanur Akyol",
+          "Neslihan Aydın",
+          "Fatma Betül Karalı",
+          "Mehmet Özalp",
+          "M. Furkan Tunç",
+          "Ebru Talibe Turgut"
+        ],
+        "editors": [],
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "11",
+        "issue": "2",
+        "pages": "211–232",
+        "doi": "10.37898/spiritualpc.1793082",
+        "identityVerified": true,
+        "identitySources": [
+          "https://dergipark.org.tr/en/pub/spiritualpc/article/1793082"
+        ],
+        "note": {
+          "tr": "Psikometrik çalışma. Araştırma örneklemindeki ölçme kanıtı, klinik tanı yetkisi veya kullanım izni anlamına gelmez.",
+          "en": "Psychometric study. Measurement evidence in the research sample does not establish diagnostic authority or reuse permission.",
+          "de": "Psychometrische Studie. Messbefunde in der Stichprobe begründen weder diagnostische Befugnis noch Nutzungsrechte.",
+          "zh": "心理测量研究。研究样本中的测量证据不等于临床诊断资格或使用许可。",
+          "ru": "Психометрическое исследование. Данные выборки не означают права на диагностику или разрешения использовать шкалу.",
+          "ar": "دراسة سيكومترية. أدلة القياس في العينة لا تمنح صلاحية التشخيص أو إذن استخدام المقياس.",
+          "id": "Studi psikometrik. Bukti pengukuran pada sampel bukan kewenangan diagnosis atau izin penggunaan instrumen.",
+          "ms": "Kajian psikometrik. Bukti pengukuran dalam sampel bukan kuasa diagnosis atau kebenaran menggunakan instrumen."
+        }
+      },
+      "citation": "Halil Eksi, Havvanur Akyol, Neslihan Aydın, Fatma Betül Karalı, Mehmet Özalp, M. Furkan Tunç, Ebru Talibe Turgut. (2026). Spiritually Integrated Process Assessment Scale (SIPAS): Validity and Reliability Study. Spiritual Psychology and Counseling, 11(2), 211–232. https://doi.org/10.37898/spiritualpc.1793082"
+    },
+    {
+      "id": "loneliness-spirituality",
+      "sourceId": "s-loneliness-spirituality",
+      "title": "The Mediating Role of Loneliness in the Relationship Between Spirituality and Anxiety Levels Among University Students in Turkiye",
+      "year": 2026,
+      "url": "https://dergipark.org.tr/en/pub/spiritualpc/article/1603809",
+      "display": {
+        "tr": "Manevi iyi oluş, yalnızlık ve kaygı",
+        "en": "Spiritual well-being, loneliness and anxiety",
+        "de": "Spirituelles Wohlbefinden, Einsamkeit und Angst",
+        "zh": "灵性福祉、孤独与焦虑",
+        "ru": "Духовное благополучие, одиночество и тревога",
+        "ar": "الرفاه الروحي والوحدة والقلق",
+        "id": "Kesejahteraan spiritual, kesepian, dan kecemasan",
+        "ms": "Kesejahteraan rohani, kesunyian dan kebimbangan"
+      },
+      "summary": {
+        "tr": "Türkiye’de üniversite öğrencilerinde manevi iyi oluş, yalnızlık ve kaygı arasındaki ilişkileri inceleyen araştırma.",
+        "en": "A study of associations between spiritual well-being, loneliness and anxiety among university students in Türkiye.",
+        "de": "Eine Studie zu Zusammenhängen zwischen spirituellem Wohlbefinden, Einsamkeit und Angst bei Studierenden in der Türkei.",
+        "zh": "考察土耳其大学生灵性福祉、孤独与焦虑之间关联的研究。",
+        "ru": "Исследование связей духовного благополучия, одиночества и тревоги у студентов в Турции.",
+        "ar": "دراسة للعلاقات بين الرفاه الروحي والوحدة والقلق لدى طلبة الجامعات في تركيا.",
+        "id": "Studi hubungan kesejahteraan spiritual, kesepian, dan kecemasan pada mahasiswa di Türkiye.",
+        "ms": "Kajian hubungan kesejahteraan rohani, kesunyian dan kebimbangan dalam kalangan mahasiswa di Türkiye."
+      },
+      "topic": "practice",
+      "sections": [
+        "library",
+        "publications",
+        "practice"
+      ],
+      "kind": "study",
+      "language": "en",
+      "bibliography": {
+        "type": "article",
+        "collection": "recent-research",
+        "date": "2026-06-30",
+        "authors": [
+          "Yasemin Ekici",
+          "Figen Kasapoğlu"
+        ],
+        "editors": [],
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "11",
+        "issue": "2",
+        "pages": "195–210",
+        "doi": "10.37898/spiritualpc.1603809",
+        "identityVerified": true,
+        "identitySources": [
+          "https://dergipark.org.tr/en/pub/spiritualpc/article/1603809"
+        ],
+        "note": {
+          "tr": "İlişkisel araştırma. Aracılık analizi, bu gözlemsel tasarımda nedensel mekanizma veya müdahale etkisi göstermez.",
+          "en": "Correlational research. Mediation in this observational design does not establish a causal mechanism or intervention effect.",
+          "de": "Korrelative Forschung. Die Mediation im Beobachtungsdesign belegt weder einen kausalen Mechanismus noch einen Interventionseffekt.",
+          "zh": "相关研究。此观察性设计中的中介分析不能证明因果机制或干预效果。",
+          "ru": "Корреляционное исследование. Анализ медиации не устанавливает причинный механизм или эффект вмешательства.",
+          "ar": "بحث ارتباطي. تحليل الوساطة في هذا التصميم الرصدي لا يثبت آلية سببية أو أثر تدخل.",
+          "id": "Penelitian korelasional. Mediasi pada desain observasional tidak membuktikan mekanisme sebab akibat atau efek intervensi.",
+          "ms": "Penyelidikan korelasi. Mediasi dalam reka bentuk pemerhatian tidak membuktikan mekanisme sebab akibat atau kesan intervensi."
+        }
+      },
+      "citation": "Yasemin Ekici, Figen Kasapoğlu. (2026). The Mediating Role of Loneliness in the Relationship Between Spirituality and Anxiety Levels Among University Students in Turkiye. Spiritual Psychology and Counseling, 11(2), 195–210. https://doi.org/10.37898/spiritualpc.1603809"
+    },
+    {
+      "id": "professional-training",
+      "sourceId": "s-professional-training",
+      "title": "Addressing Spirituality in Counseling: Turkish Mental Health Professionals’ Views on a Training Program for Professional Competencies",
+      "year": 2026,
+      "url": "https://link.springer.com/article/10.1007/s10943-025-02551-9",
+      "display": {
+        "tr": "Maneviyatla çalışmak için mesleki eğitim",
+        "en": "Professional training for working with spirituality",
+        "de": "Professionelle Ausbildung im Umgang mit Spiritualität",
+        "zh": "灵性相关工作的专业培训",
+        "ru": "Профессиональное обучение работе с духовностью",
+        "ar": "التدريب المهني للعمل مع الروحانية",
+        "id": "Pelatihan profesional untuk bekerja dengan spiritualitas",
+        "ms": "Latihan profesional untuk bekerja dengan kerohanian"
+      },
+      "summary": {
+        "tr": "Türkiye’de ruh sağlığı profesyonellerinin manevi yönelimli psikolojik danışmaya ilişkin yeterliklerini geliştirmek için duydukları eğitim ihtiyacını inceleyen nitel çalışma.",
+        "en": "Qualitative research on Turkish mental health professionals’ training needs for spiritual counselling competencies.",
+        "de": "Qualitative Forschung zum Ausbildungsbedarf türkischer Fachkräfte für spirituelle Beratungskompetenzen.",
+        "zh": "关于土耳其心理健康专业人员灵性咨询胜任力培训需求的质性研究。",
+        "ru": "Качественное исследование потребностей специалистов Турции в обучении духовному консультированию.",
+        "ar": "بحث نوعي عن احتياجات تدريب مهنيي الصحة النفسية في تركيا على كفايات الإرشاد الروحي.",
+        "id": "Penelitian kualitatif tentang kebutuhan pelatihan profesional kesehatan mental Turki dalam kompetensi konseling spiritual.",
+        "ms": "Penyelidikan kualitatif tentang keperluan latihan profesional kesihatan mental Turki dalam kompetensi kaunseling rohani."
+      },
+      "topic": "ethics",
+      "sections": [
+        "library",
+        "publications",
+        "practice"
+      ],
+      "kind": "study",
+      "language": "en",
+      "bibliography": {
+        "type": "article",
+        "collection": "recent-research",
+        "date": "2026-01-19",
+        "authors": [
+          "Halil Ekşi",
+          "Ebru Talibe Turgut",
+          "Fatma Betül Karalı",
+          "Hale Şen",
+          "Havvanur Akyol",
+          "Neslihan Aydın",
+          "Yusuf Ziya Koç"
+        ],
+        "editors": [],
+        "journal": "Journal of Religion and Health",
+        "volume": "65",
+        "issue": "3",
+        "pages": "2796–2824",
+        "doi": "10.1007/s10943-025-02551-9",
+        "identityVerified": true,
+        "identitySources": [
+          "https://link.springer.com/article/10.1007/s10943-025-02551-9"
+        ],
+        "note": {
+          "tr": "Nitel araştırma. Katılımcı görüşleri bağlam içinde okunmalıdır. Bulgular bir eğitim veya müdahalenin etkililiğini sınamaz.",
+          "en": "Qualitative research. Read participants’ accounts in context. Findings do not test training or intervention efficacy.",
+          "de": "Qualitative Forschung. Aussagen sind kontextgebunden. Die Wirksamkeit einer Ausbildung oder Intervention wird nicht geprüft.",
+          "zh": "质性研究。应结合情境理解参与者陈述。研究未检验培训或干预效果。",
+          "ru": "Качественное исследование. Высказывания участников контекстуальны. Эффективность обучения или вмешательства не проверяется.",
+          "ar": "بحث نوعي. تُقرأ روايات المشاركين ضمن سياقها. النتائج لا تختبر فعالية التدريب أو التدخل.",
+          "id": "Penelitian kualitatif. Pengalaman peserta dibaca dalam konteks. Temuan tidak menguji efektivitas pelatihan atau intervensi.",
+          "ms": "Penyelidikan kualitatif. Pengalaman peserta dibaca dalam konteks. Dapatan tidak menguji keberkesanan latihan atau intervensi."
+        },
+        "issueDate": "2026-06"
+      },
+      "citation": "Halil Ekşi, Ebru Talibe Turgut, Fatma Betül Karalı, Hale Şen, Havvanur Akyol, Neslihan Aydın, Yusuf Ziya Koç. (2026). Addressing Spirituality in Counseling: Turkish Mental Health Professionals’ Views on a Training Program for Professional Competencies. Journal of Religion and Health, 65(3), 2796–2824. https://doi.org/10.1007/s10943-025-02551-9"
+    },
+    {
+      "id": "sacred-tensions",
+      "sourceId": "s-tunc",
+      "title": "Sacred Tensions: How Mental Health Professionals Navigate Spirituality, Ethics, and Professional Identity",
+      "year": 2025,
+      "url": "https://link.springer.com/article/10.1007/s11089-025-01244-0",
+      "display": {
+        "tr": "Maneviyat, etik ve mesleki kimlik",
+        "en": "Spirituality, ethics and professional identity",
+        "de": "Spiritualität, Ethik und berufliche Identität",
+        "zh": "灵性、伦理与专业身份",
+        "ru": "Духовность, этика и профессиональная идентичность",
+        "ar": "الروحانية والأخلاق والهوية المهنية",
+        "id": "Spiritualitas, etika, dan identitas profesional",
+        "ms": "Kerohanian, etika dan identiti profesional"
+      },
+      "summary": {
+        "tr": "Sekiz uygulayıcının deneyimlerinden yola çıkarak manevi değerleri, mesleki sınırları ve kültürel duyarlılığı inceleyen nitel bir araştırma.",
+        "en": "Qualitative research on spiritual values, professional boundaries and cultural sensitivity through eight practitioners’ experiences.",
+        "de": "Qualitative Forschung zu spirituellen Werten, beruflichen Grenzen und Kultursensibilität anhand der Erfahrungen von acht Praktizierenden.",
+        "zh": "通过八位实践者的经验考察灵性价值、专业边界与文化敏感性的质性研究。",
+        "ru": "Качественное исследование духовных ценностей, профессиональных границ и культурной чувствительности на опыте восьми практиков.",
+        "ar": "بحث نوعي عن القيم الروحية والحدود المهنية والحساسية الثقافية من تجارب ثمانية ممارسين.",
+        "id": "Penelitian kualitatif tentang nilai spiritual, batas profesional, dan kepekaan budaya melalui pengalaman delapan praktisi.",
+        "ms": "Penyelidikan kualitatif tentang nilai kerohanian, batas profesional dan kepekaan budaya melalui pengalaman lapan pengamal."
+      },
+      "topic": "ethics",
+      "sections": [
+        "library",
+        "publications",
+        "practice"
+      ],
+      "kind": "study",
+      "language": "en",
+      "bibliography": {
+        "type": "article",
+        "collection": "recent-research",
+        "date": "2025-08-21",
+        "authors": [
+          "M. Furkan Tunç",
+          "Halil Ekşi"
+        ],
+        "editors": [],
+        "journal": "Pastoral Psychology",
+        "volume": "74",
+        "issue": "6",
+        "pages": "937–958",
+        "doi": "10.1007/s11089-025-01244-0",
+        "identityVerified": true,
+        "identitySources": [
+          "https://link.springer.com/article/10.1007/s11089-025-01244-0"
+        ],
+        "note": {
+          "tr": "Nitel araştırma. Katılımcı görüşleri bağlam içinde okunmalıdır. Bulgular bir eğitim veya müdahalenin etkililiğini sınamaz.",
+          "en": "Qualitative research. Read participants’ accounts in context. Findings do not test training or intervention efficacy.",
+          "de": "Qualitative Forschung. Aussagen sind kontextgebunden. Die Wirksamkeit einer Ausbildung oder Intervention wird nicht geprüft.",
+          "zh": "质性研究。应结合情境理解参与者陈述。研究未检验培训或干预效果。",
+          "ru": "Качественное исследование. Высказывания участников контекстуальны. Эффективность обучения или вмешательства не проверяется.",
+          "ar": "بحث نوعي. تُقرأ روايات المشاركين ضمن سياقها. النتائج لا تختبر فعالية التدريب أو التدخل.",
+          "id": "Penelitian kualitatif. Pengalaman peserta dibaca dalam konteks. Temuan tidak menguji efektivitas pelatihan atau intervensi.",
+          "ms": "Penyelidikan kualitatif. Pengalaman peserta dibaca dalam konteks. Dapatan tidak menguji keberkesanan latihan atau intervensi."
+        }
+      },
+      "citation": "M. Furkan Tunç, Halil Ekşi. (2025). Sacred Tensions: How Mental Health Professionals Navigate Spirituality, Ethics, and Professional Identity. Pastoral Psychology, 74(6), 937–958. https://doi.org/10.1007/s11089-025-01244-0"
+    },
+    {
+      "id": "spiritual-integrity",
+      "sourceId": "s-spiritual-integrity",
+      "title": "Measuring Spiritual Integrity in Turkish Culture: A Psychometric Approach to Understanding the Relationship Between Spirituality and Well-Being",
+      "year": 2025,
+      "url": "https://link.springer.com/article/10.1007/s10943-025-02329-z",
+      "display": {
+        "tr": "Manevi bütünlük ve iyi oluş",
+        "en": "Spiritual integrity and well-being",
+        "de": "Spirituelle Integrität und Wohlbefinden",
+        "zh": "灵性整合与福祉",
+        "ru": "Духовная целостность и благополучие",
+        "ar": "التكامل الروحي والرفاه",
+        "id": "Integritas spiritual dan kesejahteraan",
+        "ms": "Integriti kerohanian dan kesejahteraan"
+      },
+      "summary": {
+        "tr": "Türk kültüründe manevi bütünlüğün ölçülmesini ve iyi oluşla ilişkisini inceleyen psikometrik araştırma.",
+        "en": "Psychometric research on measuring spiritual integrity and its association with well-being in Turkish culture.",
+        "de": "Psychometrische Forschung zur spirituellen Integrität und ihrem Zusammenhang mit Wohlbefinden in der türkischen Kultur.",
+        "zh": "关于土耳其文化中灵性整合测量及其与福祉关联的心理测量研究。",
+        "ru": "Психометрическое исследование духовной целостности и её связи с благополучием в турецкой культуре.",
+        "ar": "بحث سيكومتري في قياس التكامل الروحي وعلاقته بالرفاه في الثقافة التركية.",
+        "id": "Penelitian psikometrik tentang pengukuran integritas spiritual dan hubungannya dengan kesejahteraan dalam budaya Turki.",
+        "ms": "Penyelidikan psikometrik tentang pengukuran integriti kerohanian dan hubungannya dengan kesejahteraan dalam budaya Turki."
+      },
+      "topic": "assessment",
+      "sections": [
+        "library",
+        "publications",
+        "measures"
+      ],
+      "kind": "study",
+      "language": "en",
+      "bibliography": {
+        "type": "article",
+        "collection": "recent-research",
+        "date": "2025-05-23",
+        "authors": [
+          "Nesrullah Okan",
+          "Füsun Ekşi",
+          "Erdal Zengin",
+          "Halil Ekşi"
+        ],
+        "editors": [],
+        "journal": "Journal of Religion and Health",
+        "volume": "64",
+        "issue": "4",
+        "pages": "3209–3235",
+        "doi": "10.1007/s10943-025-02329-z",
+        "identityVerified": true,
+        "identitySources": [
+          "https://link.springer.com/article/10.1007/s10943-025-02329-z"
+        ],
+        "note": {
+          "tr": "Psikometrik çalışma. Araştırma örneklemindeki ölçme kanıtı, klinik tanı yetkisi veya kullanım izni anlamına gelmez.",
+          "en": "Psychometric study. Measurement evidence in the research sample does not establish diagnostic authority or reuse permission.",
+          "de": "Psychometrische Studie. Messbefunde in der Stichprobe begründen weder diagnostische Befugnis noch Nutzungsrechte.",
+          "zh": "心理测量研究。研究样本中的测量证据不等于临床诊断资格或使用许可。",
+          "ru": "Психометрическое исследование. Данные выборки не означают права на диагностику или разрешения использовать шкалу.",
+          "ar": "دراسة سيكومترية. أدلة القياس في العينة لا تمنح صلاحية التشخيص أو إذن استخدام المقياس.",
+          "id": "Studi psikometrik. Bukti pengukuran pada sampel bukan kewenangan diagnosis atau izin penggunaan instrumen.",
+          "ms": "Kajian psikometrik. Bukti pengukuran dalam sampel bukan kuasa diagnosis atau kebenaran menggunakan instrumen."
+        }
+      },
+      "citation": "Nesrullah Okan, Füsun Ekşi, Erdal Zengin, Halil Ekşi. (2025). Measuring Spiritual Integrity in Turkish Culture: A Psychometric Approach to Understanding the Relationship Between Spirituality and Well-Being. Journal of Religion and Health, 64(4), 3209–3235. https://doi.org/10.1007/s10943-025-02329-z"
+    },
+    {
+      "id": "spirituality-dimensions",
+      "sourceId": "s-spirituality-dimensions",
+      "title": "Unveiling the Multifaceted Nature of Spirituality: Assessing the Dimensions of the Spirituality Inventory in the Turkish Context—A Preliminary Adaptation and Validity Reliability Study",
+      "year": 2025,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40274690/",
+      "display": {
+        "tr": "Maneviyatın çok boyutlu yapısı",
+        "en": "The multidimensional nature of spirituality",
+        "de": "Die Mehrdimensionalität der Spiritualität",
+        "zh": "灵性的多维结构",
+        "ru": "Многомерная природа духовности",
+        "ar": "طبيعة الروحانية متعددة الأبعاد",
+        "id": "Sifat multidimensi spiritualitas",
+        "ms": "Sifat kerohanian yang multidimensi"
+      },
+      "summary": {
+        "tr": "Maneviyatın Boyutları Envanteri’nin Türkçeye uyarlanması ve ön psikometrik değerlendirmesi.",
+        "en": "A Turkish adaptation and preliminary psychometric evaluation of the Dimensions of Spirituality Inventory.",
+        "de": "Türkische Adaptation und vorläufige psychometrische Prüfung des Dimensions of Spirituality Inventory.",
+        "zh": "灵性维度量表的土耳其语适配与初步心理测量评价。",
+        "ru": "Турецкая адаптация и предварительная психометрическая оценка опросника измерений духовности.",
+        "ar": "تكييف تركي وتقييم سيكومتري أولي لقائمة أبعاد الروحانية.",
+        "id": "Adaptasi Turki dan evaluasi psikometrik awal Inventori Dimensi Spiritualitas.",
+        "ms": "Adaptasi Turki dan penilaian psikometrik awal Inventori Dimensi Kerohanian."
+      },
+      "topic": "assessment",
+      "sections": [
+        "library",
+        "publications",
+        "measures"
+      ],
+      "kind": "study",
+      "language": "en",
+      "bibliography": {
+        "type": "article",
+        "collection": "recent-research",
+        "date": "2025-04-24",
+        "authors": [
+          "Halil Ekşi",
+          "Dilek Günel",
+          "Ece Yağcı Akgündüz",
+          "Emre Gürkan",
+          "Fadile Zeynep Çavuş",
+          "Yasemin Altıntaş"
+        ],
+        "editors": [],
+        "journal": "Journal of Religion and Health",
+        "volume": "64",
+        "issue": "4",
+        "pages": "3105–3127",
+        "doi": "10.1007/s10943-025-02313-7",
+        "identityVerified": true,
+        "identitySources": [
+          "https://pubmed.ncbi.nlm.nih.gov/40274690/"
+        ],
+        "note": {
+          "tr": "Psikometrik çalışma. Araştırma örneklemindeki ölçme kanıtı, klinik tanı yetkisi veya kullanım izni anlamına gelmez.",
+          "en": "Psychometric study. Measurement evidence in the research sample does not establish diagnostic authority or reuse permission.",
+          "de": "Psychometrische Studie. Messbefunde in der Stichprobe begründen weder diagnostische Befugnis noch Nutzungsrechte.",
+          "zh": "心理测量研究。研究样本中的测量证据不等于临床诊断资格或使用许可。",
+          "ru": "Психометрическое исследование. Данные выборки не означают права на диагностику или разрешения использовать шкалу.",
+          "ar": "دراسة سيكومترية. أدلة القياس في العينة لا تمنح صلاحية التشخيص أو إذن استخدام المقياس.",
+          "id": "Studi psikometrik. Bukti pengukuran pada sampel bukan kewenangan diagnosis atau izin penggunaan instrumen.",
+          "ms": "Kajian psikometrik. Bukti pengukuran dalam sampel bukan kuasa diagnosis atau kebenaran menggunakan instrumen."
+        }
+      },
+      "citation": "Halil Ekşi, Dilek Günel, Ece Yağcı Akgündüz, Emre Gürkan, Fadile Zeynep Çavuş, Yasemin Altıntaş. (2025). Unveiling the Multifaceted Nature of Spirituality: Assessing the Dimensions of the Spirituality Inventory in the Turkish Context—A Preliminary Adaptation and Validity Reliability Study. Journal of Religion and Health, 64(4), 3105–3127. https://doi.org/10.1007/s10943-025-02313-7"
+    },
+    {
+      "id": "spiritual-struggles",
+      "sourceId": "s-spiritual-struggles",
+      "title": "Dini ve Manevi Mücadele Ölçeği’nin Türkçe Uyarlaması: Geçerlik ve Güvenirlik Çalışması",
+      "year": 2025,
+      "url": "https://dergipark.org.tr/tr/pub/ilted/article/1564927",
+      "display": {
+        "tr": "Dini ve manevi mücadele",
+        "en": "Religious and spiritual strugglesss",
+        "de": "Religiöse und spirituelle Konflikte",
+        "zh": "宗教与灵性挣扎",
+        "ru": "Религиозные и духовные трудности",
+        "ar": "الصراعات الدينية والروحية",
+        "id": "Pergumulan agama dan spiritual",
+        "ms": "Pergelutan agama dan kerohanian"
+      },
+      "summary": {
+        "tr": "Dini ve manevi mücadeleyi ölçen RSS-14’ün yetişkinlerle Türkçeye uyarlanması.",
+        "en": "Turkish adaptation of the RSS-14 measure of religious and spiritual struggles in an adult sample.",
+        "de": "Türkische Adaptation der RSS-14 zu religiösen und spirituellen Konflikten in einer Erwachsenenstichprobe.",
+        "zh": "在成人样本中开展宗教与灵性挣扎测量工具RSS-14的土耳其语适配。",
+        "ru": "Турецкая адаптация RSS-14 для измерения религиозных и духовных трудностей у взрослых.",
+        "ar": "تكييف تركي لمقياس RSS-14 للصراعات الدينية والروحية لدى عينة من البالغين.",
+        "id": "Adaptasi Turki RSS-14 untuk mengukur pergumulan agama dan spiritual pada sampel dewasa.",
+        "ms": "Adaptasi Turki RSS-14 untuk mengukur pergelutan agama dan kerohanian dalam sampel dewasa."
+      },
+      "topic": "assessment",
+      "sections": [
+        "library",
+        "publications",
+        "measures"
+      ],
+      "kind": "study",
+      "language": "tr",
+      "bibliography": {
+        "type": "article",
+        "collection": "recent-research",
+        "date": "2025-04-30",
+        "authors": [
+          "Dilanur Rehber",
+          "Muhammet Enes Vural",
+          "Halil Ekşi"
+        ],
+        "editors": [],
+        "journal": "İlahiyat Tetkikleri Dergisi",
+        "volume": "",
+        "issue": "63",
+        "pages": "45–54",
+        "doi": "10.29288/ilted.1564927",
+        "identityVerified": true,
+        "identitySources": [
+          "https://dergipark.org.tr/tr/pub/ilted/article/1564927"
+        ],
+        "note": {
+          "tr": "Psikometrik çalışma. Araştırma örneklemindeki ölçme kanıtı, klinik tanı yetkisi veya kullanım izni anlamına gelmez.",
+          "en": "Psychometric study. Measurement evidence in the research sample does not establish diagnostic authority or reuse permission.",
+          "de": "Psychometrische Studie. Messbefunde in der Stichprobe begründen weder diagnostische Befugnis noch Nutzungsrechte.",
+          "zh": "心理测量研究。研究样本中的测量证据不等于临床诊断资格或使用许可。",
+          "ru": "Психометрическое исследование. Данные выборки не означают права на диагностику или разрешения использовать шкалу.",
+          "ar": "دراسة سيكومترية. أدلة القياس في العينة لا تمنح صلاحية التشخيص أو إذن استخدام المقياس.",
+          "id": "Studi psikometrik. Bukti pengukuran pada sampel bukan kewenangan diagnosis atau izin penggunaan instrumen.",
+          "ms": "Kajian psikometrik. Bukti pengukuran dalam sampel bukan kuasa diagnosis atau kebenaran menggunakan instrumen."
+        },
+        "onlineDate": "2025-03-06"
+      },
+      "citation": "Dilanur Rehber, Muhammet Enes Vural, Halil Ekşi. (2025). Dini ve Manevi Mücadele Ölçeği’nin Türkçe Uyarlaması: Geçerlik ve Güvenirlik Çalışması. İlahiyat Tetkikleri Dergisi(63), 45–54. https://doi.org/10.29288/ilted.1564927"
+    },
+    {
+      "id": "eksi-adaptation-of-the-decision-to-forgive",
+      "sourceId": "s-eksi-adaptation-of-the-decision-to-forgive",
+      "title": "Adaptation of the Decision to Forgive Scale to Turkish Culture: Validity and Reliability Study",
+      "year": 2024,
+      "url": "https://doi.org/10.52380/ijpes.2024.11.4.1371",
+      "display": {
+        "tr": "Affetme Kararı Ölçeği: Türk Kültürüne Uyarlama",
+        "en": "Decision to Forgive Scale: Turkish Adaptation",
+        "de": "Decision to Forgive Scale: türkische Adaptation",
+        "zh": "宽恕决定量表：土耳其文化修订版",
+        "ru": "Шкала решения простить: турецкая адаптация",
+        "ar": "مقياس قرار التسامح: التكييف للثقافة التركية",
+        "id": "Skala Keputusan untuk Memaafkan: Adaptasi Budaya Turki",
+        "ms": "Skala Keputusan untuk Memaafkan: Adaptasi Budaya Turki"
+      },
+      "summary": {
+        "tr": "Davis ve arkadaşlarının (2015) geliştirdiği Affetme Kararı Ölçeği’nin Türk kültürüne uyarlandığı bu çalışmada, 297 katılımcıyla yapılan doğrulayıcı faktör analizi tek boyutlu yapıyı desteklemiş, Cronbach alfa .91 bulunmuş ve Heartland Affetme Ölçeği’nin Başkalarını Affetme alt ölçeğiyle anlamlı pozitif bir ilişki (r = .527) saptanmıştır.",
+        "en": "This study adapts the Decision to Forgive Scale (Davis et al., 2015) to Turkish culture: confirmatory factor analysis with 297 participants supported a one-dimensional structure, Cronbach's alpha was .91, and scores correlated significantly and positively with the Forgiveness of Others subscale of the Heartland Forgiveness Scale (r = .527).",
+        "de": "Die Studie adaptiert die Decision to Forgive Scale (Davis et al., 2015) für den türkischen Kulturraum: Eine konfirmatorische Faktorenanalyse mit 297 Teilnehmenden stützte eine eindimensionale Struktur, Cronbachs Alpha lag bei .91, und es zeigte sich ein signifikanter positiver Zusammenhang mit der Subskala „Vergebung anderer“ der Heartland Forgiveness Scale (r = .527).",
+        "zh": "本研究将Davis等人（2015）编制的宽恕决定量表修订为适用于土耳其文化的版本，基于297名参与者的验证性因子分析支持单维结构，Cronbach's α为.91，且与Heartland宽恕量表“宽恕他人”分量表呈显著正相关（r = .527）。",
+        "ru": "В исследовании шкала решения простить (Davis et al., 2015) адаптирована к турецкой культуре: конфирматорный факторный анализ на выборке из 297 участников подтвердил однофакторную структуру, α Кронбаха составила .91, выявлена значимая положительная связь с субшкалой «Прощение других» Хартлендской шкалы прощения (r = .527).",
+        "ar": "تكيّف هذه الدراسة مقياس قرار التسامح الذي طوّره ديفيس وزملاؤه (2015) للثقافة التركية، إذ دعم التحليل العاملي التوكيدي على عينة من 297 مشاركًا بنيةً أحادية البعد، وبلغ معامل ألفا كرونباخ .91، وظهر ارتباط موجب دال (r = .527) مع المقياس الفرعي «التسامح مع الآخرين» من مقياس هارتلاند للتسامح.",
+        "id": "Studi ini mengadaptasi Skala Keputusan untuk Memaafkan (Davis dkk., 2015) ke dalam budaya Turki; analisis faktor konfirmatori pada 297 partisipan mendukung struktur satu dimensi, koefisien alfa Cronbach sebesar .91, dan skor skala berkorelasi positif secara signifikan dengan subskala Forgiveness of Others dari Heartland Forgiveness Scale (r = .527).",
+        "ms": "Kajian ini mengadaptasi Skala Keputusan untuk Memaafkan (Davis et al., 2015) ke dalam budaya Turki; analisis faktor pengesahan ke atas 297 peserta menyokong struktur satu dimensi, nilai alfa Cronbach ialah .91, dan skor skala berkorelasi positif secara signifikan dengan subskala Memaafkan Orang Lain dalam Heartland Forgiveness Scale (r = .527)."
+      },
+      "topic": "assessment",
+      "sections": [
+        "library",
+        "publications",
+        "measures"
+      ],
+      "kind": "study",
+      "language": "en",
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2024-08-16",
+        "authors": [
+          "Ece Yağcı Akgündüz",
+          "Gülbin Demir Celayir",
+          "Simel Parlak",
+          "Halil Ekşi"
+        ],
+        "editors": [],
+        "journal": "International Journal of Psychology and Educational Studies",
+        "volume": "11",
+        "issue": "4",
+        "pages": "331-340",
+        "doi": "10.52380/ijpes.2024.11.4.1371",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.52380/ijpes.2024.11.4.1371",
+          "https://ijpes.com/index.php/ijpes/article/view/1371"
+        ],
+        "note": {
+          "tr": "Psikometrik çalışma. Araştırma örneklemindeki ölçme kanıtı, klinik tanı yetkisi veya kullanım izni anlamına gelmez.",
+          "en": "Psychometric study. Measurement evidence in the research sample does not establish diagnostic authority or reuse permission.",
+          "de": "Psychometrische Studie. Messbefunde in der Stichprobe begründen weder diagnostische Befugnis noch Nutzungsrechte.",
+          "zh": "心理测量研究。研究样本中的测量证据不等于临床诊断资格或使用许可。",
+          "ru": "Психометрическое исследование. Данные выборки не означают права на диагностику или разрешения использовать шкалу.",
+          "ar": "دراسة سيكومترية. أدلة القياس في العينة لا تمنح صلاحية التشخيص أو إذن استخدام المقياس.",
+          "id": "Studi psikometrik. Bukti pengukuran pada sampel bukan kewenangan diagnosis atau izin penggunaan instrumen.",
+          "ms": "Kajian psikometrik. Bukti pengukuran dalam sampel bukan kuasa diagnosis atau kebenaran menggunakan instrumen."
+        },
+        "publicationState": "published"
+      },
+      "citation": "Ece Yağcı Akgündüz, Gülbin Demir Celayir, Simel Parlak, Halil Ekşi. (2024). Adaptation of the Decision to Forgive Scale to Turkish Culture: Validity and Reliability Study. International Journal of Psychology and Educational Studies, 11(4), 331-340. https://doi.org/10.52380/ijpes.2024.11.4.1371"
+    },
+    {
+      "id": "eksi-the-intersection-of-faith-and-pornography",
+      "sourceId": "s-eksi-the-intersection-of-faith-and-pornography",
+      "title": "The Intersection of Faith and Pornography: A Turkish Moral Disapproval of Pornography Scale",
+      "year": 2024,
+      "url": "https://doi.org/10.37898/spiritualpc.1461103",
+      "display": {
+        "tr": "İnanç ve Pornografi: Pornografiye Ahlaki Onaylamama Ölçeği",
+        "en": "Faith and Pornography: Moral Disapproval of Pornography Scale",
+        "de": "Skala zur moralischen Missbilligung von Pornografie",
+        "zh": "信仰与色情：色情内容道德不认同量表",
+        "ru": "Вера и порнография: шкала морального неодобрения порнографии",
+        "ar": "الإيمان والإباحية: مقياس الرفض الأخلاقي للمواد الإباحية",
+        "id": "Iman dan Pornografi: Skala Ketidaksetujuan Moral terhadap Pornografi",
+        "ms": "Iman dan Pornografi: Skala Penolakan Moral terhadap Pornografi"
+      },
+      "summary": {
+        "tr": "Bu ölçek, pornografi kullanımının kişinin bu konudaki ahlaki inançlarıyla çelişmesinden doğan psikolojik sıkıntıyı ele almakta ve farklı dini inanç ve pratiklere sahip kişilerin yanıtlayabileceği biçimde Türkiye koşullarına göre yapılandırılmıştır. Geliştirme sürecinde, 634 katılımcıyla yapılan açımlayıcı faktör analizi toplam varyansın %71’ini açıklayan tek faktörlü bir yapı ortaya koymuş, 580 kişilik ikinci örneklemde doğrulayıcı faktör analizi kabul edilebilir uyum göstermiş ve Cronbach alfa .862 bulunmuştur.",
+        "en": "This study develops a scale of moral disapproval of pornography, i.e. the psychological strain that arises when one's pornography use conflicts with one's moral beliefs, adapted to Turkish conditions so that people of differing religious beliefs and practices can answer it; exploratory factor analysis with 634 participants yielded a single factor explaining 71% of the total variance, confirmatory factor analysis in a second sample of 580 showed acceptable fit, and Cronbach's alpha was .862.",
+        "de": "Die Studie entwickelt eine an türkische Verhältnisse angepasste Skala zur moralischen Missbilligung von Pornografie, also zur psychischen Belastung, die entsteht, wenn der eigene Pornografiekonsum den eigenen moralischen Überzeugungen widerspricht, die von Menschen unterschiedlicher religiöser Überzeugungen und Praktiken beantwortet werden kann; eine exploratorische Faktorenanalyse mit 634 Teilnehmenden ergab einen einzigen Faktor, der 71 % der Gesamtvarianz erklärt, eine konfirmatorische Faktorenanalyse an einer zweiten Stichprobe von 580 Personen zeigte eine akzeptable Modellpassung, und Cronbachs Alpha betrug .862.",
+        "zh": "本研究编制了适用于土耳其情境、可供不同宗教信仰与实践者作答的色情内容道德不认同量表（该构念指个体的色情内容使用与其道德信念相冲突所带来的心理困扰），基于634名参与者的探索性因子分析得到解释总方差71%的单因子结构，580人第二样本的验证性因子分析显示拟合可接受，Cronbach's α为.862。",
+        "ru": "В исследовании разработана адаптированная к турецким условиям шкала морального неодобрения порнографии (психологического напряжения, возникающего, когда использование порнографии противоречит моральным убеждениям человека), пригодная для людей с разными религиозными убеждениями и практиками; эксплораторный факторный анализ на 634 участниках выявил однофакторную структуру, объясняющую 71 % общей дисперсии, конфирматорный факторный анализ на второй выборке из 580 человек показал приемлемое соответствие модели, а α Кронбаха составила .862.",
+        "ar": "تطوّر هذه الدراسة مقياسًا للرفض الأخلاقي للمواد الإباحية، أي الضيق النفسي الناجم عن تعارض استخدام الفرد لها مع معتقداته الأخلاقية، صيغ بما يلائم الظروف التركية ويتيح لأصحاب المعتقدات والممارسات الدينية المختلفة الإجابة عنه؛ وقد أسفر التحليل العاملي الاستكشافي على 634 مشاركًا عن بنية أحادية العامل تفسّر 71% من التباين الكلي، وأظهر التحليل العاملي التوكيدي على عينة ثانية من 580 فردًا مؤشرات مطابقة مقبولة، وبلغ معامل ألفا كرونباخ .862.",
+        "id": "Studi ini mengembangkan skala ketidaksetujuan moral terhadap pornografi, yakni tekanan psikologis yang muncul ketika penggunaan pornografi bertentangan dengan keyakinan moral individu, yang disesuaikan dengan konteks Turki agar dapat dijawab oleh orang dengan keyakinan dan praktik keagamaan yang beragam; analisis faktor eksploratori pada 634 partisipan menghasilkan satu faktor yang menjelaskan 71% varians total, analisis faktor konfirmatori pada sampel kedua sebanyak 580 orang menunjukkan kecocokan model yang dapat diterima, dan alfa Cronbach sebesar .862.",
+        "ms": "Kajian ini membangunkan skala penolakan moral terhadap pornografi, iaitu tekanan psikologi yang timbul apabila penggunaan pornografi bercanggah dengan kepercayaan moral individu, yang disesuaikan dengan konteks Turki supaya dapat dijawab oleh individu daripada pelbagai kepercayaan dan amalan agama; analisis faktor penerokaan ke atas 634 peserta menghasilkan satu faktor yang menerangkan 71% varians keseluruhan, analisis faktor pengesahan ke atas sampel kedua seramai 580 orang menunjukkan padanan model yang boleh diterima, dan nilai alfa Cronbach ialah .862."
+      },
+      "topic": "assessment",
+      "sections": [
+        "library",
+        "publications",
+        "measures"
+      ],
+      "kind": "study",
+      "language": "en",
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2024-06-01",
+        "authors": [
+          "Eren Murat Dinçer",
+          "Halil Eksi"
+        ],
+        "editors": [],
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "9",
+        "issue": "2",
+        "pages": "203-214",
+        "doi": "10.37898/spiritualpc.1461103",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.37898/spiritualpc.1461103",
+          "https://dergipark.org.tr/en/pub/spiritualpc/article/1461103"
+        ],
+        "note": {
+          "tr": "Psikometrik çalışma. Araştırma örneklemindeki ölçme kanıtı, klinik tanı yetkisi veya kullanım izni anlamına gelmez.",
+          "en": "Psychometric study. Measurement evidence in the research sample does not establish diagnostic authority or reuse permission.",
+          "de": "Psychometrische Studie. Messbefunde in der Stichprobe begründen weder diagnostische Befugnis noch Nutzungsrechte.",
+          "zh": "心理测量研究。研究样本中的测量证据不等于临床诊断资格或使用许可。",
+          "ru": "Психометрическое исследование. Данные выборки не означают права на диагностику или разрешения использовать шкалу.",
+          "ar": "دراسة سيكومترية. أدلة القياس في العينة لا تمنح صلاحية التشخيص أو إذن استخدام المقياس.",
+          "id": "Studi psikometrik. Bukti pengukuran pada sampel bukan kewenangan diagnosis atau izin penggunaan instrumen.",
+          "ms": "Kajian psikometrik. Bukti pengukuran dalam sampel bukan kuasa diagnosis atau kebenaran menggunakan instrumen."
+        },
+        "publicationState": "published"
+      },
+      "citation": "Eren Murat Dinçer, Halil Eksi. (2024). The Intersection of Faith and Pornography: A Turkish Moral Disapproval of Pornography Scale. Spiritual Psychology and Counseling, 9(2), 203-214. https://doi.org/10.37898/spiritualpc.1461103"
+    },
+    {
+      "id": "eksi-a-spiritual-touch-on-family-resilience",
+      "sourceId": "s-eksi-a-spiritual-touch-on-family-resilience",
+      "title": "A Spiritual Touch on Family Resilience: A Positive Psychology Based Group Study From Burnout To Hope",
+      "year": 2023,
+      "url": "https://doi.org/10.37898/spc.2023.8.1.185",
+      "display": {
+        "tr": "Aile Yılmazlığına Manevi Dokunuş: Tükenmişlikten Umuda Grup Çalışması",
+        "en": "A Spiritual Touch on Family Resilience: From Burnout to Hope",
+        "de": "Spiritueller Impuls für familiäre Resilienz: von Burnout zur Hoffnung",
+        "zh": "以灵性助力家庭复原力：从倦怠走向希望的团体研究",
+        "ru": "Духовное измерение семейной устойчивости: от выгорания к надежде",
+        "ar": "لمسة روحية في الصمود الأسري: من الاحتراق النفسي إلى الأمل",
+        "id": "Sentuhan Spiritual bagi Resiliensi Keluarga: Dari Burnout ke Harapan",
+        "ms": "Sentuhan Kerohanian bagi Daya Tahan Keluarga: Dari Kelesuan ke Harapan"
+      },
+      "summary": {
+        "tr": "Yakınsayan paralel karma desenli bu çalışmada, aile yılmazlığına yönelik maneviyat odaklı, pozitif psikoloji temelli sekiz oturumluk (90’ar dakika) bir grup psikolojik danışma programı ilkokul çağında çocuğu olan on anneye uygulanmış; tek gruplu ön test–son test karşılaştırmasında aile yılmazlığı ve manevi kaynak kullanımı puanlarında anlamlı artış bildirilmiş, tematik analizde ise umut, tevekkül, sabır, sosyal destek, değişim adımları ve yılmaz tutum olmak üzere altı tema belirlenmiştir.",
+        "en": "In this convergent parallel mixed-methods study, an eight-session (90 minutes each) spiritually oriented, positive psychology-based group counseling program on family resilience was implemented with ten mothers of primary school children; the one-group pretest–posttest comparison reported significant score increases in family resilience and use of spiritual resources, and thematic analysis identified six themes: hope, reliance (tawakkul), patience, social support, steps to change, and resilient attitude.",
+        "de": "In dieser Mixed-Methods-Studie mit konvergentem Paralleldesign wurde ein spirituell orientiertes, auf der Positiven Psychologie basierendes Gruppenberatungsprogramm zur familiären Resilienz mit acht Sitzungen à 90 Minuten bei zehn Müttern von Grundschulkindern durchgeführt; im Prä-Post-Vergleich einer Einzelgruppe wurden signifikante Anstiege der Werte für familiäre Resilienz und die Nutzung spiritueller Ressourcen berichtet, und die thematische Analyse ergab sechs Themen: Hoffnung, Gottvertrauen (Tawakkul), Geduld, soziale Unterstützung, Schritte zur Veränderung und resiliente Haltung.",
+        "zh": "本研究采用聚敛式平行混合设计，对十名育有小学生的母亲实施了以灵性为导向、基于积极心理学的八次（每次90分钟）家庭复原力团体咨询方案，单组前后测比较报告家庭复原力与灵性资源使用得分显著提高，主题分析归纳出希望、托靠（tawakkul）、耐心、社会支持、改变步骤与复原态度六个主题。",
+        "ru": "В этом смешанном исследовании с конвергентным параллельным дизайном духовно ориентированная программа групповой психологической консультации на основе позитивной психологии, направленная на семейную устойчивость и включавшая восемь занятий по 90 минут, проведена с десятью матерями детей младшего школьного возраста; при сравнении до и после в одной группе сообщается о значимом росте показателей семейной устойчивости и использования духовных ресурсов, а тематический анализ выявил шесть тем: надежда, упование на Бога (таваккуль), терпение, социальная поддержка, шаги к изменениям и устойчивая позиция.",
+        "ar": "في هذه الدراسة ذات التصميم المختلط المتوازي المتقارب، طُبّق برنامج إرشاد جمعي ذو توجه روحي قائم على علم النفس الإيجابي لتعزيز الصمود الأسري، يتألف من ثماني جلسات مدة كل منها 90 دقيقة، مع عشر أمهات لأطفال في المرحلة الابتدائية؛ وأشارت المقارنة القبلية-البعدية لمجموعة واحدة إلى ارتفاع دال في درجات الصمود الأسري واستخدام الموارد الروحية، وكشف التحليل الموضوعاتي عن ستة محاور هي: الأمل، والتوكل، والصبر، والدعم الاجتماعي، وخطوات التغيير، والموقف الصامد.",
+        "id": "Dalam studi metode campuran dengan desain paralel konvergen ini, program konseling kelompok berorientasi spiritual berbasis psikologi positif untuk resiliensi keluarga yang terdiri atas delapan sesi (masing-masing 90 menit) diterapkan pada sepuluh ibu yang memiliki anak usia sekolah dasar; perbandingan prates–pascates satu kelompok melaporkan peningkatan signifikan skor resiliensi keluarga dan penggunaan sumber daya spiritual, dan analisis tematik menghasilkan enam tema: harapan, tawakal, kesabaran, dukungan sosial, langkah perubahan, dan sikap resilien.",
+        "ms": "Dalam kajian kaedah campuran berreka bentuk selari konvergen ini, program kaunseling kelompok berorientasikan kerohanian berasaskan psikologi positif bagi daya tahan keluarga yang merangkumi lapan sesi (90 minit setiap satu) dilaksanakan bersama sepuluh orang ibu yang mempunyai anak di sekolah rendah; perbandingan praujian–pascaujian satu kumpulan melaporkan peningkatan signifikan skor daya tahan keluarga dan penggunaan sumber kerohanian, manakala analisis tematik menghasilkan enam tema: harapan, tawakal, sabar, sokongan sosial, langkah perubahan dan sikap berdaya tahan."
+      },
+      "topic": "practice",
+      "sections": [
+        "library",
+        "publications",
+        "practice"
+      ],
+      "kind": "study",
+      "language": "en",
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2023-02-15",
+        "authors": [
+          "Halil Ekşi",
+          "Deniz Erök Özkapu"
+        ],
+        "editors": [],
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "8",
+        "issue": "1",
+        "pages": "47-66",
+        "doi": "10.37898/spc.2023.8.1.185",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.37898/spc.2023.8.1.185",
+          "https://dergipark.org.tr/en/pub/spiritualpc/article/1264619"
+        ],
+        "note": {
+          "tr": "Müdahale çalışması. Sınırlı bir örneklemde elde edilen sonuçlar genellenebilir etkililik kanıtı sayılmaz.",
+          "en": "Intervention study. Results obtained in a limited sample do not constitute generalizable evidence of effectiveness.",
+          "de": "Interventionsstudie. Ergebnisse aus einer begrenzten Stichprobe gelten nicht als verallgemeinerbarer Wirksamkeitsnachweis.",
+          "zh": "干预研究。基于有限样本的结果不能视为可推广的有效性证据。",
+          "ru": "Интервенционное исследование. Результаты, полученные на ограниченной выборке, не являются обобщаемым доказательством эффективности.",
+          "ar": "دراسة تدخلية. لا تُعدّ النتائج المستخلصة من عينة محدودة دليلًا قابلًا للتعميم على الفعالية.",
+          "id": "Studi intervensi. Hasil yang diperoleh dari sampel terbatas tidak dapat dianggap sebagai bukti efektivitas yang dapat digeneralisasi.",
+          "ms": "Kajian intervensi. Dapatan daripada sampel yang terhad tidak boleh dianggap sebagai bukti keberkesanan yang boleh digeneralisasikan."
+        },
+        "publicationState": "published"
+      },
+      "citation": "Halil Ekşi, Deniz Erök Özkapu. (2023). A Spiritual Touch on Family Resilience: A Positive Psychology Based Group Study From Burnout To Hope. Spiritual Psychology and Counseling, 8(1), 47-66. https://doi.org/10.37898/spc.2023.8.1.185"
+    },
+    {
+      "id": "eksi-through-the-inner-world-development-of",
+      "sourceId": "s-eksi-through-the-inner-world-development-of",
+      "title": "Through the Inner World: Development of Reclusion Tendency Scale",
+      "year": 2023,
+      "url": "https://doi.org/10.37898/spc.2023.8.1.186",
+      "display": {
+        "tr": "İç Dünyaya Doğru: İnziva Eğilimi Ölçeği'nin Geliştirilmesi",
+        "en": "Through the Inner World: Reclusion Tendency Scale",
+        "de": "Skala der Neigung zur Zurückgezogenheit: Entwicklung",
+        "zh": "走进内心世界：隐居倾向量表的编制",
+        "ru": "Через внутренний мир: шкала склонности к уединению",
+        "ar": "نحو العالم الداخلي: تطوير مقياس الميل إلى الخلوة",
+        "id": "Menyelami Dunia Batin: Skala Kecenderungan Menyepi (Uzlah)",
+        "ms": "Menyelami Dunia Dalaman: Skala Kecenderungan Beruzlah"
+      },
+      "summary": {
+        "tr": "Yetişkinlerde inziva eğilimini ölçmek amacıyla geliştirilen bu ölçeğin açımlayıcı faktör analizi, içsel gözlem, maneviyat, üretkenlik ve özerklik alt boyutlarından oluşan ve toplam varyansın %58,51’ini açıklayan 22 maddelik bir yapı ortaya koymuş; toplam güvenirlik katsayısı .92 bulunmuş ve genç yetişkin örnekleminde Yalnızlık Tercihi Ölçeği ile anlamlı pozitif bir ilişki (r = .49) saptanmıştır.",
+        "en": "This study develops a scale to assess reclusion tendency in adults; exploratory factor analysis yielded a 22-item structure with four sub-dimensions (internal observation, spirituality, productivity, and autonomy) explaining 58.51% of the total variance, total reliability was .92, and in a young adult sample scores correlated significantly and positively with the Preference for Solitude scale (r = .49).",
+        "de": "Die Studie entwickelt eine Skala zur Erfassung der Neigung zur Zurückgezogenheit bei Erwachsenen; die exploratorische Faktorenanalyse ergab eine Struktur aus 22 Items mit vier Subdimensionen (innere Beobachtung, Spiritualität, Produktivität und Autonomie), die 58,51 % der Gesamtvarianz erklären, die Gesamtreliabilität lag bei .92, und in einer Stichprobe junger Erwachsener zeigte sich eine signifikante positive Korrelation mit der Preference for Solitude Scale (r = .49).",
+        "zh": "本研究编制用于评估成年人隐居倾向的量表，探索性因子分析得到包含内在观照、灵性、生产性与自主性四个维度、共22个条目的结构，解释总方差的58.51%，总信度系数为.92，并在青年成人样本中与独处偏好量表呈显著正相关（r = .49）。",
+        "ru": "В исследовании разработана шкала для оценки склонности к уединению у взрослых: эксплораторный факторный анализ выявил структуру из 22 пунктов с четырьмя субшкалами (внутреннее наблюдение, духовность, продуктивность и автономия), объясняющую 58,51 % общей дисперсии, общий коэффициент надёжности составил .92, а на выборке молодых взрослых выявлена значимая положительная связь со шкалой предпочтения одиночества (r = .49).",
+        "ar": "تطوّر هذه الدراسة مقياسًا لتقدير الميل إلى الخلوة لدى الراشدين، وقد أسفر التحليل العاملي الاستكشافي عن بنية من 22 بندًا موزعة على أربعة أبعاد فرعية هي الملاحظة الداخلية والروحانية والإنتاجية والاستقلالية، تفسّر 58.51% من التباين الكلي، وبلغ معامل الثبات الكلي .92، وظهر لدى عينة من الراشدين الشباب ارتباط موجب دال مع مقياس تفضيل العزلة (r = .49).",
+        "id": "Studi ini mengembangkan skala untuk mengukur kecenderungan menyepi (uzlah) pada orang dewasa; analisis faktor eksploratori menghasilkan struktur 22 butir dengan empat subdimensi (pengamatan batin, spiritualitas, produktivitas, dan otonomi) yang menjelaskan 58,51% varians total, koefisien reliabilitas total sebesar .92, dan pada sampel dewasa muda skor skala berkorelasi positif secara signifikan dengan skala Preference for Solitude (r = .49).",
+        "ms": "Kajian ini membangunkan skala untuk mengukur kecenderungan beruzlah dalam kalangan orang dewasa; analisis faktor penerokaan menghasilkan struktur 22 item dengan empat subdimensi (pemerhatian dalaman, kerohanian, produktiviti dan autonomi) yang menerangkan 58.51% varians keseluruhan, pekali kebolehpercayaan keseluruhan ialah .92, dan dalam sampel dewasa muda skor skala berkorelasi positif secara signifikan dengan skala Preference for Solitude (r = .49)."
+      },
+      "topic": "assessment",
+      "sections": [
+        "library",
+        "publications",
+        "measures"
+      ],
+      "kind": "study",
+      "language": "en",
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2023-02-15",
+        "authors": [
+          "Betül Kürüm Yıldırım",
+          "Halil Ekşi",
+          "Selami Kardaş",
+          "Füsun Ekşi"
+        ],
+        "editors": [],
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "8",
+        "issue": "1",
+        "pages": "67-81",
+        "doi": "10.37898/spc.2023.8.1.186",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.37898/spc.2023.8.1.186",
+          "https://dergipark.org.tr/en/pub/spiritualpc/article/1264632"
+        ],
+        "note": {
+          "tr": "Psikometrik çalışma. Araştırma örneklemindeki ölçme kanıtı, klinik tanı yetkisi veya kullanım izni anlamına gelmez.",
+          "en": "Psychometric study. Measurement evidence in the research sample does not establish diagnostic authority or reuse permission.",
+          "de": "Psychometrische Studie. Messbefunde in der Stichprobe begründen weder diagnostische Befugnis noch Nutzungsrechte.",
+          "zh": "心理测量研究。研究样本中的测量证据不等于临床诊断资格或使用许可。",
+          "ru": "Психометрическое исследование. Данные выборки не означают права на диагностику или разрешения использовать шкалу.",
+          "ar": "دراسة سيكومترية. أدلة القياس في العينة لا تمنح صلاحية التشخيص أو إذن استخدام المقياس.",
+          "id": "Studi psikometrik. Bukti pengukuran pada sampel bukan kewenangan diagnosis atau izin penggunaan instrumen.",
+          "ms": "Kajian psikometrik. Bukti pengukuran dalam sampel bukan kuasa diagnosis atau kebenaran menggunakan instrumen."
+        },
+        "publicationState": "published"
+      },
+      "citation": "Betül Kürüm Yıldırım, Halil Ekşi, Selami Kardaş, Füsun Ekşi. (2023). Through the Inner World: Development of Reclusion Tendency Scale. Spiritual Psychology and Counseling, 8(1), 67-81. https://doi.org/10.37898/spc.2023.8.1.186"
+    },
+    {
+      "id": "eksi-well-being-and-spiritual-intelligence-predict",
+      "sourceId": "s-eksi-well-being-and-spiritual-intelligence-predict",
+      "title": "Well-Being and Spiritual Intelligence Predict Attitudes of Adolescents’ Towards Violence",
+      "year": 2022,
+      "url": "https://doi.org/10.37898/spc.2022.7.3.181",
+      "display": {
+        "tr": "İyi Oluş, Manevi Zekâ ve Ergenlerin Şiddete Yönelik Tutumları",
+        "en": "Well-Being, Spiritual Intelligence and Adolescent Attitudes to Violence",
+        "de": "Wohlbefinden, spirituelle Intelligenz und Gewalteinstellungen Jugendlicher",
+        "zh": "幸福感、灵性智力与青少年暴力态度",
+        "ru": "Благополучие, духовный интеллект и отношение подростков к насилию",
+        "ar": "الرفاه والذكاء الروحي واتجاهات المراهقين نحو العنف",
+        "id": "Kesejahteraan, Kecerdasan Spiritual, dan Sikap Remaja terhadap Kekerasan",
+        "ms": "Kesejahteraan, Kecerdasan Rohani dan Sikap Remaja terhadap Keganasan"
+      },
+      "summary": {
+        "tr": "Uygun örnekleme yöntemiyle seçilen 14–19 yaş arası 466 lise öğrencisiyle yürütülen bu ilişkisel çalışmada, şiddete yönelik tutumun iyi oluşla orta, manevi zekâyla düşük düzeyde negatif yönde ve anlamlı biçimde ilişkili olduğu; hiyerarşik regresyonda iyi oluşun varyansın %32’sini açıkladığı, manevi zekânın buna %2 katkı sağladığı ve iki değişkenin birlikte %34’ünü açıkladığı bulunmuştur.",
+        "en": "In this correlational study of 466 high school students aged 14–19 selected by convenience sampling, attitudes toward violence were moderately and negatively related to well-being and weakly and negatively related to spiritual intelligence; in hierarchical regression, well-being explained 32% of the variance, spiritual intelligence added 2%, and together they accounted for 34%.",
+        "de": "In dieser korrelativen Studie mit 466 Schülerinnen und Schülern der Sekundarstufe im Alter von 14 bis 19 Jahren (Gelegenheitsstichprobe) hingen Einstellungen zu Gewalt mäßig negativ mit Wohlbefinden und schwach negativ mit spiritueller Intelligenz zusammen; in der hierarchischen Regression erklärte Wohlbefinden 32 % der Varianz, spirituelle Intelligenz trug weitere 2 % bei, und gemeinsam erklärten beide 34 %.",
+        "zh": "这项相关研究以方便抽样选取的466名14至19岁高中生为样本，发现暴力态度与幸福感呈中等程度显著负相关、与灵性智力呈低程度显著负相关，层次回归中幸福感解释了32%的方差，灵性智力额外贡献2%，二者共同解释34%。",
+        "ru": "В этом корреляционном исследовании на удобной выборке из 466 старшеклассников 14–19 лет отношение к насилию было умеренно отрицательно связано с благополучием и слабо отрицательно — с духовным интеллектом; в иерархической регрессии благополучие объяснило 32 % дисперсии, духовный интеллект добавил 2 %, а вместе они объяснили 34 %.",
+        "ar": "في هذه الدراسة الارتباطية على عينة متاحة من 466 طالبًا وطالبة في المرحلة الثانوية تتراوح أعمارهم بين 14 و19 عامًا، ارتبطت الاتجاهات نحو العنف ارتباطًا سالبًا دالًا متوسطًا بالرفاه ومنخفضًا بالذكاء الروحي، وفي الانحدار الهرمي فسّر الرفاه 32% من التباين، وأضاف الذكاء الروحي 2%، ليفسّرا معًا 34%.",
+        "id": "Dalam studi korelasional terhadap 466 siswa SMA berusia 14–19 tahun yang dipilih melalui convenience sampling ini, sikap terhadap kekerasan berhubungan negatif secara signifikan dengan kesejahteraan (tingkat sedang) dan dengan kecerdasan spiritual (tingkat rendah); dalam regresi hierarkis, kesejahteraan menjelaskan 32% varians, kecerdasan spiritual menambah 2%, dan keduanya bersama-sama menjelaskan 34%.",
+        "ms": "Dalam kajian korelasi ke atas 466 pelajar sekolah menengah berumur 14–19 tahun yang dipilih melalui persampelan mudah ini, sikap terhadap keganasan berhubung secara negatif dan signifikan dengan kesejahteraan (tahap sederhana) dan kecerdasan rohani (tahap rendah); dalam regresi hierarki, kesejahteraan menerangkan 32% varians, kecerdasan rohani menambah 2%, dan kedua-duanya bersama menerangkan 34%."
+      },
+      "topic": "theory",
+      "sections": [
+        "library",
+        "publications"
+      ],
+      "kind": "study",
+      "language": "en",
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2022-10-15",
+        "authors": [
+          "Özge ERDURAN TEKİN",
+          "Halil EKŞİ"
+        ],
+        "editors": [],
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "7",
+        "issue": "3",
+        "pages": "301-314",
+        "doi": "10.37898/spc.2022.7.3.181",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.37898/spc.2022.7.3.181",
+          "https://dergipark.org.tr/en/pub/spiritualpc/article/1208702"
+        ],
+        "note": {
+          "tr": "İlişkisel araştırma. Aracılık analizi, bu gözlemsel tasarımda nedensel mekanizma veya müdahale etkisi göstermez.",
+          "en": "Correlational research. Mediation in this observational design does not establish a causal mechanism or intervention effect.",
+          "de": "Korrelative Forschung. Die Mediation im Beobachtungsdesign belegt weder einen kausalen Mechanismus noch einen Interventionseffekt.",
+          "zh": "相关研究。此观察性设计中的中介分析不能证明因果机制或干预效果。",
+          "ru": "Корреляционное исследование. Анализ медиации не устанавливает причинный механизм или эффект вмешательства.",
+          "ar": "بحث ارتباطي. تحليل الوساطة في هذا التصميم الرصدي لا يثبت آلية سببية أو أثر تدخل.",
+          "id": "Penelitian korelasional. Mediasi pada desain observasional tidak membuktikan mekanisme sebab akibat atau efek intervensi.",
+          "ms": "Penyelidikan korelasi. Mediasi dalam reka bentuk pemerhatian tidak membuktikan mekanisme sebab akibat atau kesan intervensi."
+        },
+        "publicationState": "published"
+      },
+      "citation": "Özge ERDURAN TEKİN, Halil EKŞİ. (2022). Well-Being and Spiritual Intelligence Predict Attitudes of Adolescents’ Towards Violence. Spiritual Psychology and Counseling, 7(3), 301-314. https://doi.org/10.37898/spc.2022.7.3.181"
+    },
+    {
+      "id": "eksi-the-mediator-role-of-forgiveness-between",
+      "sourceId": "s-eksi-the-mediator-role-of-forgiveness-between",
+      "title": "The Mediator Role of Forgiveness between The Interpersonal Relationships and The Level of Cognitive Distortions in Young Adults",
+      "year": 2021,
+      "url": "https://doi.org/10.54535/rep.1025099",
+      "display": {
+        "tr": "Genç Yetişkinlerde Affetmenin Aracı Rolü: İlişkiler ve Bilişsel Çarpıtmalar",
+        "en": "Forgiveness Mediating Interpersonal Relations and Cognitive Distortions",
+        "de": "Vergebung als Mediator: Beziehungen und kognitive Verzerrungen",
+        "zh": "宽恕在青年人际关系与认知扭曲之间的中介作用",
+        "ru": "Прощение как медиатор связи отношений и когнитивных искажений",
+        "ar": "الدور الوسيط للتسامح بين العلاقات البينشخصية والتشوهات المعرفية",
+        "id": "Pemaafan sebagai Mediator Relasi Interpersonal dan Distorsi Kognitif",
+        "ms": "Kemaafan sebagai Pengantara Hubungan Interpersonal dan Herotan Kognitif"
+      },
+      "summary": {
+        "tr": "İstanbul’da yaşayan 448 genç yetişkinle yürütülen bu ilişkisel tarama çalışması, yapısal eşitlik modellemesiyle kişilerarası ilişkiler ile bilişsel çarpıtmalar arasında affetmenin kısmi aracı rol üstlendiğini bildirmektedir.",
+        "en": "This relational survey study of 448 young adults living in Istanbul used structural equation modeling and reports that forgiveness plays a partial mediating role in the relationship between interpersonal relationships and cognitive distortions.",
+        "de": "Diese korrelative Studie mit 448 jungen Erwachsenen aus Istanbul berichtet auf Basis von Strukturgleichungsmodellen, dass Vergebung im Zusammenhang zwischen zwischenmenschlichen Beziehungen und kognitiven Verzerrungen eine partielle Mediatorrolle einnimmt.",
+        "zh": "这项关系型调查研究以居住在伊斯坦布尔的448名青年为样本，运用结构方程模型，报告宽恕在人际关系与认知扭曲之间的关系中起部分中介作用。",
+        "ru": "В этом корреляционном исследовании с участием 448 молодых взрослых из Стамбула на основе моделирования структурными уравнениями сообщается, что прощение выполняет роль частичного медиатора в связи между межличностными отношениями и когнитивными искажениями.",
+        "ar": "تُفيد هذه الدراسة الارتباطية التي أُجريت على 448 من الراشدين الشباب المقيمين في إسطنبول، باستخدام نمذجة المعادلات البنائية، بأن للتسامح دورًا وسيطًا جزئيًا في العلاقة بين العلاقات البينشخصية والتشوهات المعرفية.",
+        "id": "Studi survei korelasional terhadap 448 dewasa muda yang tinggal di Istanbul ini menggunakan pemodelan persamaan struktural dan melaporkan bahwa pemaafan berperan sebagai mediator parsial dalam hubungan antara relasi interpersonal dan distorsi kognitif.",
+        "ms": "Kajian tinjauan korelasi yang melibatkan 448 orang dewasa muda di Istanbul ini menggunakan pemodelan persamaan berstruktur dan melaporkan bahawa kemaafan memainkan peranan pengantara separa dalam perkaitan antara hubungan interpersonal dengan herotan kognitif."
+      },
+      "topic": "theory",
+      "sections": [
+        "library",
+        "publications"
+      ],
+      "kind": "study",
+      "language": "en",
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2021-12-31",
+        "authors": [
+          "Hatice Vildan YILDIZ",
+          "Halil EKŞİ"
+        ],
+        "editors": [],
+        "journal": "Research on Education and Psychology",
+        "volume": "5",
+        "issue": "2",
+        "pages": "397-413",
+        "doi": "10.54535/rep.1025099",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.54535/rep.1025099",
+          "https://dergipark.org.tr/en/pub/rep/article/1025099"
+        ],
+        "note": {
+          "tr": "İlişkisel araştırma. Aracılık analizi, bu gözlemsel tasarımda nedensel mekanizma veya müdahale etkisi göstermez.",
+          "en": "Correlational research. Mediation in this observational design does not establish a causal mechanism or intervention effect.",
+          "de": "Korrelative Forschung. Die Mediation im Beobachtungsdesign belegt weder einen kausalen Mechanismus noch einen Interventionseffekt.",
+          "zh": "相关研究。此观察性设计中的中介分析不能证明因果机制或干预效果。",
+          "ru": "Корреляционное исследование. Анализ медиации не устанавливает причинный механизм или эффект вмешательства.",
+          "ar": "بحث ارتباطي. تحليل الوساطة في هذا التصميم الرصدي لا يثبت آلية سببية أو أثر تدخل.",
+          "id": "Penelitian korelasional. Mediasi pada desain observasional tidak membuktikan mekanisme sebab akibat atau efek intervensi.",
+          "ms": "Penyelidikan korelasi. Mediasi dalam reka bentuk pemerhatian tidak membuktikan mekanisme sebab akibat atau kesan intervensi."
+        },
+        "publicationState": "published"
+      },
+      "citation": "Hatice Vildan YILDIZ, Halil EKŞİ. (2021). The Mediator Role of Forgiveness between The Interpersonal Relationships and The Level of Cognitive Distortions in Young Adults. Research on Education and Psychology, 5(2), 397-413. https://doi.org/10.54535/rep.1025099"
+    },
+    {
+      "id": "eksi-genclerde-maneviyat-ve-siddet-egilimi-arasindaki",
+      "sourceId": "s-eksi-genclerde-maneviyat-ve-siddet-egilimi-arasindaki",
+      "title": "Gençlerde maneviyat ve şiddet eğilimi arasındaki ilişkide erken dönem uyum bozucu şemaların moderatör etkisi",
+      "year": 2021,
+      "url": "https://doi.org/10.28949/bilimname.845575",
+      "display": {
+        "tr": "Gençlerde Maneviyat, Şiddet Eğilimi ve Erken Dönem Uyum Bozucu Şemalar",
+        "en": "Spirituality, Violence Tendency and Early Maladaptive Schemas in Youth",
+        "de": "Spiritualität, Gewaltneigung und frühe maladaptive Schemata bei Jugendlichen",
+        "zh": "青少年灵性与暴力倾向：早期适应不良图式的调节作用",
+        "ru": "Духовность, склонность к насилию и ранние дезадаптивные схемы у молодёжи",
+        "ar": "الروحانية والميل إلى العنف والمخططات المبكرة غير التكيفية لدى الشباب",
+        "id": "Spiritualitas, Kecenderungan Kekerasan, dan Skema Maladaptif Dini Remaja",
+        "ms": "Kerohanian, Kecenderungan Keganasan dan Skema Maladaptif Awal Remaja"
+      },
+      "summary": {
+        "tr": "İstanbul Anadolu Yakası’ndaki 5 lisede öğrenim gören 446 öğrenciyle yürütülen bu ilişkisel çalışma, maneviyat ile şiddet eğilimi arasındaki ilişkide erken dönem uyum bozucu şemalardan bağımlılık ve cezalandırıcılık şemalarının düzenleyici (moderatör) rol oynadığını bildirmektedir.",
+        "en": "This relational study of 446 students at 5 high schools on the Anatolian side of Istanbul reports that, among early maladaptive schemas, the dependence and punitiveness schemas play a moderating role in the relationship between spirituality and violence tendency.",
+        "de": "Diese korrelative Studie mit 446 Schülerinnen und Schülern aus 5 weiterführenden Schulen auf der anatolischen Seite Istanbuls berichtet, dass unter den frühen maladaptiven Schemata die Schemata Abhängigkeit und Bestrafungsneigung den Zusammenhang zwischen Spiritualität und Gewaltneigung moderieren.",
+        "zh": "这项关系型研究以伊斯坦布尔亚洲一侧5所高中的446名学生为样本，报告早期适应不良图式中的依赖图式和惩罚图式在灵性与暴力倾向的关系中具有调节作用。",
+        "ru": "В этом корреляционном исследовании с участием 446 учащихся 5 старших школ азиатской части Стамбула сообщается, что из ранних дезадаптивных схем схемы зависимости и пунитивности выполняют модерирующую роль в связи между духовностью и склонностью к насилию.",
+        "ar": "تُفيد هذه الدراسة الارتباطية التي شملت 446 طالبًا في 5 مدارس ثانوية بالجانب الآسيوي من إسطنبول بأن مخططَي الاعتمادية والعقابية، من بين المخططات المبكرة غير التكيفية، يؤديان دورًا معدِّلًا في العلاقة بين الروحانية والميل إلى العنف.",
+        "id": "Studi korelasional terhadap 446 siswa dari 5 SMA di sisi Anatolia Istanbul ini melaporkan bahwa, di antara skema maladaptif dini, skema ketergantungan dan skema punitif berperan sebagai moderator dalam hubungan antara spiritualitas dan kecenderungan kekerasan.",
+        "ms": "Kajian korelasi yang melibatkan 446 pelajar dari 5 sekolah menengah di sebelah Anatolia, Istanbul ini melaporkan bahawa, antara skema maladaptif awal, skema kebergantungan dan skema punitif memainkan peranan penyederhana dalam perkaitan antara kerohanian dengan kecenderungan keganasan."
+      },
+      "topic": "theory",
+      "sections": [
+        "library",
+        "publications"
+      ],
+      "kind": "study",
+      "language": "tr",
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2021-04-30",
+        "authors": [
+          "Halil EKSİ",
+          "Nesrullah OKAN"
+        ],
+        "editors": [],
+        "journal": "Bilimname",
+        "volume": "2021",
+        "issue": "44",
+        "pages": "521-546",
+        "doi": "10.28949/bilimname.845575",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.28949/bilimname.845575",
+          "https://dergipark.org.tr/tr/pub/bilimname/article/845575"
+        ],
+        "note": {
+          "tr": "İlişkisel araştırma. Aracılık analizi, bu gözlemsel tasarımda nedensel mekanizma veya müdahale etkisi göstermez.",
+          "en": "Correlational research. Mediation in this observational design does not establish a causal mechanism or intervention effect.",
+          "de": "Korrelative Forschung. Die Mediation im Beobachtungsdesign belegt weder einen kausalen Mechanismus noch einen Interventionseffekt.",
+          "zh": "相关研究。此观察性设计中的中介分析不能证明因果机制或干预效果。",
+          "ru": "Корреляционное исследование. Анализ медиации не устанавливает причинный механизм или эффект вмешательства.",
+          "ar": "بحث ارتباطي. تحليل الوساطة في هذا التصميم الرصدي لا يثبت آلية سببية أو أثر تدخل.",
+          "id": "Penelitian korelasional. Mediasi pada desain observasional tidak membuktikan mekanisme sebab akibat atau efek intervensi.",
+          "ms": "Penyelidikan korelasi. Mediasi dalam reka bentuk pemerhatian tidak membuktikan mekanisme sebab akibat atau kesan intervensi."
+        },
+        "publicationState": "published"
+      },
+      "citation": "Halil EKSİ, Nesrullah OKAN. (2021). Gençlerde maneviyat ve şiddet eğilimi arasındaki ilişkide erken dönem uyum bozucu şemaların moderatör etkisi. Bilimname, 2021(44), 521-546. https://doi.org/10.28949/bilimname.845575"
+    },
+    {
+      "id": "eksi-spiritually-oriented-couple-marriage-and-family",
+      "sourceId": "s-eksi-spiritually-oriented-couple-marriage-and-family",
+      "title": "Spiritually Oriented Couple, Marriage and Family Therapies",
+      "year": 2020,
+      "url": "https://doi.org/10.37898/spc.2020.5.1.096",
+      "display": {
+        "tr": "Manevi Yönelimli Çift, Evlilik ve Aile Terapileri",
+        "en": "Spiritually Oriented Couple, Marriage and Family Therapies",
+        "de": "Spirituell orientierte Paar-, Ehe- und Familientherapien",
+        "zh": "灵性取向的伴侣、婚姻与家庭治疗",
+        "ru": "Духовно ориентированная парная, супружеская и семейная терапия",
+        "ar": "العلاجات الزوجية والأسرية ذات التوجه الروحي",
+        "id": "Terapi Pasangan, Perkawinan, dan Keluarga Berorientasi Spiritual",
+        "ms": "Terapi Pasangan, Perkahwinan dan Keluarga Berorientasikan Kerohanian"
+      },
+      "summary": {
+        "tr": "Maneviyatın çift, evlilik ve aile odaklı psikolojik yardım süreçlerine katılmasını, aile ilişkilerinde hem sorun hem de çözüm kaynağı olabilmesini ve bu süreçteki etik konuları ele alan kuramsal derleme.",
+        "en": "A theoretical review of the integration of spirituality into couple-, marriage- and family-focused psychological help, addressing its paradoxical role as both a source of problems and a resource for solutions in family relationships, as well as related ethical issues.",
+        "de": "Ein theoretischer Übersichtsbeitrag zur Integration von Spiritualität in paar-, ehe- und familienbezogene psychologische Hilfe, der ihre paradoxe Rolle als Problemquelle wie auch als Lösungsressource in Familienbeziehungen sowie damit verbundene ethische Fragen behandelt.",
+        "zh": "一篇理论综述，探讨将灵性整合到以伴侣、婚姻和家庭为焦点的心理援助过程中，论及灵性在家庭关系中既可能是问题来源、又可能是解决资源的矛盾性质及相关伦理问题。",
+        "ru": "Теоретический обзор, посвящённый интеграции духовности в психологическую помощь парам, супругам и семьям и рассматривающий её парадоксальную роль в семейных отношениях — как источника проблем и как ресурса для их решения, — а также связанные с этим этические вопросы.",
+        "ar": "مراجعة نظرية تتناول دمج الروحانية في عمليات المساعدة النفسية المتمحورة حول الأزواج والزواج والأسرة، وتناقش طبيعتها المتناقضة في العلاقات الأسرية بوصفها مصدرًا للمشكلات وموردًا للحلول في آنٍ معًا، إلى جانب القضايا الأخلاقية ذات الصلة.",
+        "id": "Kajian teoretis tentang integrasi spiritualitas ke dalam proses bantuan psikologis yang berfokus pada pasangan, perkawinan, dan keluarga, yang membahas sifat paradoks spiritualitas dalam relasi keluarga sebagai sumber masalah sekaligus sumber solusi, serta isu-isu etis terkait.",
+        "ms": "Kajian teoretikal tentang integrasi kerohanian ke dalam proses bantuan psikologi yang berfokuskan pasangan, perkahwinan dan keluarga, yang membincangkan sifat paradoks kerohanian dalam hubungan kekeluargaan sebagai punca masalah dan juga sumber penyelesaian, serta isu etika yang berkaitan."
+      },
+      "topic": "theory",
+      "sections": [
+        "library",
+        "publications"
+      ],
+      "kind": "study",
+      "language": "en",
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2020-02-15",
+        "authors": [
+          "Şeyda Çetintaş",
+          "Halil Ekşi"
+        ],
+        "editors": [],
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "5",
+        "issue": "1",
+        "pages": "7-24",
+        "doi": "10.37898/spc.2020.5.1.096",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.37898/spc.2020.5.1.096",
+          "https://spiritualpc.net/article/spiritually-oriented-couple-marriage-and-family-therapies/"
+        ],
+        "note": {
+          "tr": "Kuramsal derleme. Uygulamaya yönelik öneriler ampirik etkililik kanıtı yerine geçmez.",
+          "en": "Theoretical review. Practice recommendations are not a substitute for empirical evidence of effectiveness.",
+          "de": "Theoretischer Übersichtsbeitrag. Praxisempfehlungen ersetzen keine empirischen Wirksamkeitsnachweise.",
+          "zh": "理论综述。文中的实践建议不能替代有效性的实证证据。",
+          "ru": "Теоретический обзор. Практические рекомендации не заменяют эмпирических доказательств эффективности.",
+          "ar": "مراجعة نظرية. لا تُغني التوصيات التطبيقية عن الأدلة التجريبية على الفعالية.",
+          "id": "Kajian teoretis. Rekomendasi praktik tidak dapat menggantikan bukti empiris tentang efektivitas.",
+          "ms": "Kajian teoretikal. Cadangan amalan tidak menggantikan bukti empirikal tentang keberkesanan."
+        },
+        "publicationState": "published"
+      },
+      "citation": "Şeyda Çetintaş, Halil Ekşi. (2020). Spiritually Oriented Couple, Marriage and Family Therapies. Spiritual Psychology and Counseling, 5(1), 7-24. https://doi.org/10.37898/spc.2020.5.1.096"
+    },
+    {
+      "id": "eksi-manevi-sukran-olcegi-nin-turkce-uyarlamasi",
+      "sourceId": "s-eksi-manevi-sukran-olcegi-nin-turkce-uyarlamasi",
+      "title": "Manevi Şükran Ölçeği'nin Türkçe Uyarlaması Geçerlik Ve Güvenirlik Çalışması",
+      "year": 2020,
+      "url": "https://doi.org/10.37217/tebd.583207",
+      "display": {
+        "tr": "Manevi Şükran Ölçeği: Türkçe Uyarlama",
+        "en": "Spiritual Gratitude Scale: Turkish Adaptation",
+        "de": "Skala spiritueller Dankbarkeit: türkische Adaptation",
+        "zh": "灵性感恩量表：土耳其语修订版",
+        "ru": "Шкала духовной благодарности: турецкая адаптация",
+        "ar": "مقياس الامتنان الروحي: التكييف التركي",
+        "id": "Skala Kebersyukuran Spiritual: Adaptasi Bahasa Turki",
+        "ms": "Skala Kesyukuran Kerohanian: Adaptasi Bahasa Turki"
+      },
+      "summary": {
+        "tr": "Hlava, Elfers ve Offringa (2014) tarafından geliştirilen Manevi Şükran Ölçeği'nin Türkçe uyarlama çalışması olan bu araştırmada, toplam 430 katılımcıdan oluşan üç örneklemde 16 maddeli ve 4 alt boyutlu yapının doğrulayıcı faktör analizinde kabul edilebilir uyum gösterdiği ve Cronbach alfa katsayısının .77 olduğu bildirilmektedir.",
+        "en": "This Turkish adaptation of the Spiritual Gratitude Scale developed by Hlava, Elfers and Offringa (2014), conducted with three samples totaling 430 participants, reports that the 16-item, 4-dimension structure showed acceptable fit in confirmatory factor analysis, with a Cronbach's alpha of .77.",
+        "de": "Diese türkische Adaptation der von Hlava, Elfers und Offringa (2014) entwickelten Skala spiritueller Dankbarkeit (Spiritual Gratitude Scale) berichtet auf Basis von drei Stichproben mit insgesamt 430 Teilnehmenden, dass die Struktur mit 16 Items und 4 Subdimensionen in der konfirmatorischen Faktorenanalyse eine akzeptable Passung aufweist und Cronbachs Alpha .77 beträgt.",
+        "zh": "本研究对Hlava、Elfers和Offringa（2014）编制的灵性感恩量表进行土耳其语修订，基于共430名参与者的三个样本，报告该量表16个条目、4个维度的结构在验证性因子分析中拟合可接受，Cronbach's α系数为.77。",
+        "ru": "В исследовании, посвящённом турецкой адаптации Шкалы духовной благодарности (Hlava, Elfers, Offringa, 2014), на трёх выборках общей численностью 430 участников сообщается, что 16-пунктовая структура из 4 субшкал демонстрирует приемлемое соответствие данным по результатам конфирматорного факторного анализа, а коэффициент альфа Кронбаха составляет .77.",
+        "ar": "تعرض هذه الدراسة التكييف التركي لمقياس الامتنان الروحي الذي طوّره هلافا وإلفرز وأوفرينغا (2014)، وتُفيد، استنادًا إلى ثلاث عينات بلغ مجموع أفرادها 430 مشاركًا، بأن البنية المكوّنة من 16 بندًا و4 أبعاد فرعية أظهرت مطابقة مقبولة في التحليل العاملي التوكيدي، وأن معامل ألفا كرونباخ بلغ .77.",
+        "id": "Studi adaptasi bahasa Turki atas Skala Kebersyukuran Spiritual (Spiritual Gratitude Scale) karya Hlava, Elfers, dan Offringa (2014) ini, yang melibatkan tiga sampel dengan total 430 partisipan, melaporkan bahwa struktur 16 butir dengan 4 subdimensi menunjukkan kecocokan yang dapat diterima dalam analisis faktor konfirmatori, dengan koefisien alfa Cronbach sebesar .77.",
+        "ms": "Kajian adaptasi bahasa Turki bagi Skala Kesyukuran Kerohanian (Spiritual Gratitude Scale) yang dibangunkan oleh Hlava, Elfers dan Offringa (2014) ini, yang melibatkan tiga sampel dengan jumlah 430 peserta, melaporkan bahawa struktur 16 item dan 4 subdimensi menunjukkan kesepadanan yang boleh diterima dalam analisis faktor pengesahan, dengan pekali alfa Cronbach sebanyak .77."
+      },
+      "topic": "assessment",
+      "sections": [
+        "library",
+        "publications",
+        "measures"
+      ],
+      "kind": "study",
+      "language": "tr",
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2020-06-26",
+        "authors": [
+          "Kübra KAPLANER",
+          "Halil EKŞİ"
+        ],
+        "editors": [],
+        "journal": "Türk Eğitim Bilimleri Dergisi",
+        "volume": "18",
+        "issue": "1",
+        "pages": "1-16",
+        "doi": "10.37217/tebd.583207",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.37217/tebd.583207",
+          "https://dergipark.org.tr/tr/pub/tebd/article/583207"
+        ],
+        "note": {
+          "tr": "Psikometrik çalışma. Araştırma örneklemindeki ölçme kanıtı, klinik tanı yetkisi veya kullanım izni anlamına gelmez.",
+          "en": "Psychometric study. Measurement evidence in the research sample does not establish diagnostic authority or reuse permission.",
+          "de": "Psychometrische Studie. Messbefunde in der Stichprobe begründen weder diagnostische Befugnis noch Nutzungsrechte.",
+          "zh": "心理测量研究。研究样本中的测量证据不等于临床诊断资格或使用许可。",
+          "ru": "Психометрическое исследование. Данные выборки не означают права на диагностику или разрешения использовать шкалу.",
+          "ar": "دراسة سيكومترية. أدلة القياس في العينة لا تمنح صلاحية التشخيص أو إذن استخدام المقياس.",
+          "id": "Studi psikometrik. Bukti pengukuran pada sampel bukan kewenangan diagnosis atau izin penggunaan instrumen.",
+          "ms": "Kajian psikometrik. Bukti pengukuran dalam sampel bukan kuasa diagnosis atau kebenaran menggunakan instrumen."
+        },
+        "publicationState": "published"
+      },
+      "citation": "Kübra KAPLANER, Halil EKŞİ. (2020). Manevi Şükran Ölçeği'nin Türkçe Uyarlaması Geçerlik Ve Güvenirlik Çalışması. Türk Eğitim Bilimleri Dergisi, 18(1), 1-16. https://doi.org/10.37217/tebd.583207"
+    },
+    {
+      "id": "eksi-manevi-askinlik-olcegi-nin-turkceye-uyarlanmasi",
+      "sourceId": "s-eksi-manevi-askinlik-olcegi-nin-turkceye-uyarlanmasi",
+      "title": "Manevi Aşkınlık Ölçeği’nin Türkçeye Uyarlanması: Geçerlik ve Güvenirlik Çalışması",
+      "year": 2019,
+      "url": "https://doi.org/10.17679/inuefd.562410",
+      "display": {
+        "tr": "Manevi Aşkınlık Ölçeği: Türkçe Uyarlama",
+        "en": "Spiritual Transcendence Scale: Turkish Adaptation",
+        "de": "Skala zur spirituellen Transzendenz: türkische Adaptation",
+        "zh": "灵性超越量表：土耳其语版修订",
+        "ru": "Шкала духовной трансцендентности: турецкая адаптация",
+        "ar": "مقياس التسامي الروحي: التكييف التركي",
+        "id": "Skala Transendensi Spiritual: Adaptasi Bahasa Turki",
+        "ms": "Skala Transendensi Kerohanian: Adaptasi Bahasa Turki"
+      },
+      "summary": {
+        "tr": "Piedmont (1999) tarafından geliştirilen Manevi Aşkınlık Ölçeği’ni 534 üniversite öğrencisiyle (277 kadın, 257 erkek) Türkçeye uyarlayan bu geçerlik ve güvenirlik çalışmasında doğrulayıcı faktör analizi üç boyutlu yapıyı doğrulamış, Cronbach alfa katsayısı ölçeğin geneli için .90 olarak hesaplanmıştır.",
+        "en": "A validity and reliability study adapting Piedmont's (1999) Spiritual Transcendence Scale into Turkish with 534 university students (277 women, 257 men), in which confirmatory factor analysis supported the three-factor structure and Cronbach's alpha for the full scale was .90.",
+        "de": "Validitäts- und Reliabilitätsstudie zur türkischen Adaptation der von Piedmont (1999) entwickelten Skala zur spirituellen Transzendenz an 534 Studierenden (277 Frauen, 257 Männer), in der die konfirmatorische Faktorenanalyse die dreifaktorielle Struktur bestätigte und Cronbachs Alpha für die Gesamtskala bei .90 lag.",
+        "zh": "本研究以534名大学生（女性277名，男性257名）为样本，将Piedmont（1999）编制的灵性超越量表修订为土耳其语版并检验其信效度，验证性因素分析支持三因素结构，总量表Cronbach's α系数为.90。",
+        "ru": "Исследование валидности и надёжности турецкой адаптации Шкалы духовной трансцендентности Пьемонта (1999) на выборке из 534 студентов (277 женщин и 257 мужчин), в котором конфирматорный факторный анализ подтвердил трёхфакторную структуру, а коэффициент α Кронбаха для шкалы в целом составил .90.",
+        "ar": "دراسة صدق وثبات لتكييف مقياس التسامي الروحي الذي طوّره بيدمونت (1999) إلى اللغة التركية على عينة من 534 طالبًا جامعيًا (277 طالبة و257 طالبًا)، أكّد فيها التحليل العاملي التوكيدي البنية الثلاثية، وبلغ معامل ألفا كرونباخ للمقياس ككل .90.",
+        "id": "Studi validitas dan reliabilitas yang mengadaptasi Skala Transendensi Spiritual karya Piedmont (1999) ke dalam bahasa Turki pada 534 mahasiswa (277 perempuan, 257 laki-laki); analisis faktor konfirmatori mendukung struktur tiga faktor dan koefisien alfa Cronbach untuk skala keseluruhan sebesar .90.",
+        "ms": "Kajian kesahan dan kebolehpercayaan yang mengadaptasi Skala Transendensi Kerohanian oleh Piedmont (1999) ke dalam bahasa Turki dengan 534 pelajar universiti (277 wanita, 257 lelaki); analisis faktor pengesahan menyokong struktur tiga faktor dan pekali alfa Cronbach bagi keseluruhan skala ialah .90."
+      },
+      "topic": "assessment",
+      "sections": [
+        "library",
+        "publications",
+        "measures"
+      ],
+      "kind": "study",
+      "language": "tr",
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2019-12-31",
+        "authors": [
+          "Yakup İme",
+          "Halil Ekşi",
+          "Füsun Ekşi"
+        ],
+        "editors": [],
+        "journal": "İnönü Üniversitesi Eğitim Fakültesi Dergisi",
+        "volume": "20",
+        "issue": "3",
+        "pages": "1008-1020",
+        "doi": "10.17679/inuefd.562410",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.17679/inuefd.562410",
+          "https://dergipark.org.tr/en/pub/inuefd/article/562410"
+        ],
+        "note": {
+          "tr": "Psikometrik çalışma. Araştırma örneklemindeki ölçme kanıtı, klinik tanı yetkisi veya kullanım izni anlamına gelmez.",
+          "en": "Psychometric study. Measurement evidence in the research sample does not establish diagnostic authority or reuse permission.",
+          "de": "Psychometrische Studie. Messbefunde in der Stichprobe begründen weder diagnostische Befugnis noch Nutzungsrechte.",
+          "zh": "心理测量研究。研究样本中的测量证据不等于临床诊断资格或使用许可。",
+          "ru": "Психометрическое исследование. Данные выборки не означают права на диагностику или разрешения использовать шкалу.",
+          "ar": "دراسة سيكومترية. أدلة القياس في العينة لا تمنح صلاحية التشخيص أو إذن استخدام المقياس.",
+          "id": "Studi psikometrik. Bukti pengukuran pada sampel bukan kewenangan diagnosis atau izin penggunaan instrumen.",
+          "ms": "Kajian psikometrik. Bukti pengukuran dalam sampel bukan kuasa diagnosis atau kebenaran menggunakan instrumen."
+        },
+        "publicationState": "published"
+      },
+      "citation": "Yakup İme, Halil Ekşi, Füsun Ekşi. (2019). Manevi Aşkınlık Ölçeği’nin Türkçeye Uyarlanması: Geçerlik ve Güvenirlik Çalışması. İnönü Üniversitesi Eğitim Fakültesi Dergisi, 20(3), 1008-1020. https://doi.org/10.17679/inuefd.562410"
+    },
+    {
+      "id": "eksi-a-psychological-counseling-study-on-fear",
+      "sourceId": "s-eksi-a-psychological-counseling-study-on-fear",
+      "title": "A Psychological Counseling Study on Fear of Failure and Academic Procrastination with a Spiritually Oriented Cognitive Behavioral Group",
+      "year": 2019,
+      "url": "https://doi.org/10.37898/spc.2019.4.3.85",
+      "display": {
+        "tr": "Manevi Yönelimli BDT Grubu: Başarısızlık Korkusu ve Erteleme",
+        "en": "Spiritually Oriented CBT Group: Fear of Failure and Procrastination",
+        "de": "Spirituell orientierte KVT-Gruppe: Versagensangst und Prokrastination",
+        "zh": "灵性取向认知行为团体咨询：失败恐惧与学业拖延",
+        "ru": "Духовно ориентированная КПТ-группа: страх неудачи и прокрастинация",
+        "ar": "إرشاد جمعي معرفي سلوكي ذو توجه روحي: الخوف من الفشل والتسويف",
+        "id": "Kelompok CBT Berorientasi Spiritual: Takut Gagal dan Prokrastinasi",
+        "ms": "Kumpulan CBT Berorientasikan Kerohanian: Takut Gagal dan Prokrastinasi"
+      },
+      "summary": {
+        "tr": "İstanbul’daki bir İmam Hatip Lisesinde 11. sınıfa devam eden 20 kız öğrenciyle (10 deney, 10 kontrol) ön test–son test kontrol gruplu deneysel desende yürütülen ve sekiz oturumluk manevi yönelimli bilişsel davranışçı grupla psikolojik danışmanın başarısızlık korkusu ve akademik erteleme üzerindeki etkisini inceleyen bir müdahale çalışması.",
+        "en": "An intervention study using a pretest-posttest control group design with 20 female 11th-grade students (10 experimental, 10 control) at an Imam Hatip High School in Istanbul, examining an eight-session spiritually oriented cognitive behavioral group counseling programme in relation to fear of failure and academic procrastination.",
+        "de": "Interventionsstudie mit Prä-Post-Kontrollgruppendesign an 20 Schülerinnen der 11. Klasse (10 Experimental-, 10 Kontrollgruppe) eines Imam-Hatip-Gymnasiums in Istanbul, die ein achtsitziges, spirituell orientiertes kognitiv-behaviorales Gruppenberatungsprogramm im Hinblick auf Versagensangst und akademische Prokrastination untersucht.",
+        "zh": "本干预研究采用前测—后测对照组实验设计，以伊斯坦布尔一所伊玛目-哈提普高中的20名十一年级女生（实验组10名、对照组10名）为对象，考察为期八次的灵性取向认知行为团体心理咨询对失败恐惧和学业拖延的影响。",
+        "ru": "Интервенционное исследование с дизайном «претест–посттест с контрольной группой» на 20 ученицах 11-го класса (10 в экспериментальной и 10 в контрольной группе) одного из лицеев имам-хатип в Стамбуле, посвящённое восьмисессионному духовно ориентированному когнитивно-поведенческому групповому консультированию применительно к страху неудачи и академической прокрастинации.",
+        "ar": "دراسة تدخلية بتصميم تجريبي قائم على القياس القبلي والبعدي مع مجموعة ضابطة، أُجريت على 20 طالبة في الصف الحادي عشر (10 في المجموعة التجريبية و10 في المجموعة الضابطة) بإحدى ثانويات الأئمة والخطباء في إسطنبول، وتتناول برنامجًا للإرشاد النفسي الجمعي المعرفي السلوكي ذي التوجه الروحي من ثماني جلسات في علاقته بالخوف من الفشل والتسويف الأكاديمي.",
+        "id": "Studi intervensi dengan desain eksperimen pretes-postes dengan kelompok kontrol pada 20 siswi kelas 11 (10 kelompok eksperimen, 10 kelompok kontrol) di sebuah SMA Imam Hatip di Istanbul, yang mengkaji konseling kelompok kognitif-perilaku berorientasi spiritual sebanyak delapan sesi dalam kaitannya dengan rasa takut gagal dan prokrastinasi akademik.",
+        "ms": "Kajian intervensi berreka bentuk ujian pra-ujian pasca dengan kumpulan kawalan melibatkan 20 pelajar perempuan gred 11 (10 kumpulan eksperimen, 10 kumpulan kawalan) di sebuah Sekolah Menengah Imam Hatip di Istanbul, yang meneliti kaunseling kelompok kognitif tingkah laku berorientasikan kerohanian selama lapan sesi berhubung dengan ketakutan terhadap kegagalan dan penangguhan akademik."
+      },
+      "topic": "practice",
+      "sections": [
+        "library",
+        "publications",
+        "practice"
+      ],
+      "kind": "study",
+      "language": "en",
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2019-10-15",
+        "authors": [
+          "Serra Dinç",
+          "Halil Ekşi"
+        ],
+        "editors": [],
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "4",
+        "issue": "3",
+        "pages": "219-235",
+        "doi": "10.37898/spc.2019.4.3.85",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.37898/spc.2019.4.3.85",
+          "https://spiritualpc.net/article/a-psychological-counseling-study-on-fear-of-failure-and-academic-procrastination-with-a-spiritually-oriented-cognitive-behavioral-group/"
+        ],
+        "note": {
+          "tr": "Müdahale çalışması. Sınırlı bir örneklemde elde edilen sonuçlar genellenebilir etkililik kanıtı sayılmaz.",
+          "en": "Intervention study. Results obtained in a limited sample do not constitute generalizable evidence of effectiveness.",
+          "de": "Interventionsstudie. Ergebnisse aus einer begrenzten Stichprobe gelten nicht als verallgemeinerbarer Wirksamkeitsnachweis.",
+          "zh": "干预研究。基于有限样本的结果不能视为可推广的有效性证据。",
+          "ru": "Интервенционное исследование. Результаты, полученные на ограниченной выборке, не являются обобщаемым доказательством эффективности.",
+          "ar": "دراسة تدخلية. لا تُعدّ النتائج المستخلصة من عينة محدودة دليلًا قابلًا للتعميم على الفعالية.",
+          "id": "Studi intervensi. Hasil yang diperoleh dari sampel terbatas tidak dapat dianggap sebagai bukti efektivitas yang dapat digeneralisasi.",
+          "ms": "Kajian intervensi. Dapatan daripada sampel yang terhad tidak boleh dianggap sebagai bukti keberkesanan yang boleh digeneralisasikan."
+        },
+        "publicationState": "published"
+      },
+      "citation": "Serra Dinç, Halil Ekşi. (2019). A Psychological Counseling Study on Fear of Failure and Academic Procrastination with a Spiritually Oriented Cognitive Behavioral Group. Spiritual Psychology and Counseling, 4(3), 219-235. https://doi.org/10.37898/spc.2019.4.3.85"
+    },
+    {
+      "id": "eksi-multi-cultural-counseling-and-spiritual-interventions",
+      "sourceId": "s-eksi-multi-cultural-counseling-and-spiritual-interventions",
+      "title": "Multi-Cultural Counseling and Spiritual Interventions",
+      "year": 2019,
+      "url": "https://doi.org/10.37898/spc.2019.4.2.0066",
+      "display": {
+        "tr": "Çok Kültürlü Psikolojik Danışma ve Manevi Müdahaleler",
+        "en": "Multicultural Counseling and Spiritual Interventions",
+        "de": "Multikulturelle Beratung und spirituelle Interventionen",
+        "zh": "多元文化咨询与灵性干预",
+        "ru": "Мультикультурное консультирование и духовные интервенции",
+        "ar": "الإرشاد متعدد الثقافات والتدخلات الروحية",
+        "id": "Konseling Multikultural dan Intervensi Spiritual",
+        "ms": "Kaunseling Pelbagai Budaya dan Intervensi Kerohanian"
+      },
+      "summary": {
+        "tr": "Psikoloji ve psikolojik danışma alanyazınında din ve maneviyatın nasıl ele alındığını özetleyen; çok kültürlü psikolojik danışmayı maneviyat ve geleneksel yaklaşımlar açısından inceleyen kuramsal derleme.",
+        "en": "A theoretical review that summarizes perspectives on addressing religion and spirituality in the psychology and counseling literature and examines multiculturalism and multicultural counseling in terms of spirituality and traditional approaches.",
+        "de": "Theoretischer Überblicksbeitrag, der Perspektiven zum Umgang mit Religion und Spiritualität in der psychologischen und beraterischen Literatur zusammenfasst und Multikulturalismus sowie multikulturelle Beratung im Hinblick auf Spiritualität und traditionelle Ansätze betrachtet.",
+        "zh": "本文为一篇理论综述，概述了心理学与心理咨询文献中处理宗教与灵性问题的各种观点，并从灵性及传统取向的角度探讨多元文化主义与多元文化咨询的过程。",
+        "ru": "Теоретический обзор, обобщающий подходы к работе с религией и духовностью в литературе по психологии и консультированию и рассматривающий мультикультурализм и мультикультурное консультирование с точки зрения духовности и традиционных подходов.",
+        "ar": "مراجعة نظرية تلخّص وجهات النظر المتعلقة بتناول الدين والروحانية في أدبيات علم النفس والإرشاد، وتبحث في التعددية الثقافية والإرشاد متعدد الثقافات من منظور الروحانية والمقاربات التقليدية.",
+        "id": "Kajian teoretis yang merangkum berbagai perspektif tentang penanganan agama dan spiritualitas dalam literatur psikologi dan konseling, serta menelaah multikulturalisme dan konseling multikultural dari sudut pandang spiritualitas dan pendekatan tradisional.",
+        "ms": "Ulasan teoretikal yang merumuskan pelbagai perspektif tentang pengendalian agama dan kerohanian dalam literatur psikologi dan kaunseling, serta meneliti kepelbagaian budaya dan kaunseling pelbagai budaya dari sudut kerohanian dan pendekatan tradisional."
+      },
+      "topic": "theory",
+      "sections": [
+        "library",
+        "publications"
+      ],
+      "kind": "study",
+      "language": "en",
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2019-06-15",
+        "authors": [
+          "Berra Keçeci",
+          "Halil Ekşi"
+        ],
+        "editors": [],
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "4",
+        "issue": "2",
+        "pages": "163-180",
+        "doi": "10.37898/spc.2019.4.2.0066",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.37898/spc.2019.4.2.0066",
+          "https://spiritualpc.net/article/multi-cultural-counseling-and-spiritual-interventions/"
+        ],
+        "note": {
+          "tr": "Kuramsal derleme. Uygulamaya yönelik öneriler ampirik etkililik kanıtı yerine geçmez.",
+          "en": "Theoretical review. Practice recommendations are not a substitute for empirical evidence of effectiveness.",
+          "de": "Theoretischer Übersichtsbeitrag. Praxisempfehlungen ersetzen keine empirischen Wirksamkeitsnachweise.",
+          "zh": "理论综述。文中的实践建议不能替代有效性的实证证据。",
+          "ru": "Теоретический обзор. Практические рекомендации не заменяют эмпирических доказательств эффективности.",
+          "ar": "مراجعة نظرية. لا تُغني التوصيات التطبيقية عن الأدلة التجريبية على الفعالية.",
+          "id": "Kajian teoretis. Rekomendasi praktik tidak dapat menggantikan bukti empiris tentang efektivitas.",
+          "ms": "Kajian teoretikal. Cadangan amalan tidak menggantikan bukti empirikal tentang keberkesanan."
+        },
+        "publicationState": "published"
+      },
+      "citation": "Berra Keçeci, Halil Ekşi. (2019). Multi-Cultural Counseling and Spiritual Interventions. Spiritual Psychology and Counseling, 4(2), 163-180. https://doi.org/10.37898/spc.2019.4.2.0066"
+    },
+    {
+      "id": "eksi-islamic-spiritual-counseling-techniques",
+      "sourceId": "s-eksi-islamic-spiritual-counseling-techniques",
+      "title": "Islamic Spiritual Counseling Techniques",
+      "year": 2019,
+      "url": "https://doi.org/10.37898/spc.2019.4.3.069",
+      "display": {
+        "tr": "İslami Manevi Psikolojik Danışma Teknikleri",
+        "en": "Islamic Spiritual Counseling Techniques",
+        "de": "Techniken islamischer spiritueller Beratung",
+        "zh": "伊斯兰灵性咨询技术",
+        "ru": "Техники исламского духовного консультирования",
+        "ar": "تقنيات الإرشاد الروحي الإسلامي",
+        "id": "Teknik Konseling Spiritual Islam",
+        "ms": "Teknik Kaunseling Kerohanian Islam"
+      },
+      "summary": {
+        "tr": "Kutsal metinlerin kullanımı, dua, ibadet, tefekkür, sabır, şükür ve ilahi dinleme gibi İslam temelli tekniklerin, kültürel duyarlılık gözetilerek manevi psikolojik danışma sürecinde nasıl kullanılabileceğini kuramsal ve etik boyutlarıyla ele alan çalışma.",
+        "en": "A theoretical paper discussing how Islam-based techniques such as the use of sacred texts, prayer, worship, contemplation, patience, gratitude and listening to hymns can be integrated into the spiritual counseling process in a culturally sensitive way, together with related theoretical and ethical issues.",
+        "de": "Theoretischer Beitrag, der erörtert, wie islamisch fundierte Techniken wie die Arbeit mit heiligen Texten, Gebet, ritueller Gottesdienst, Kontemplation, Geduld, Dankbarkeit und das Hören religiöser Hymnen kultursensibel in den spirituellen Beratungsprozess integriert werden können, einschließlich damit verbundener theoretischer und ethischer Fragen.",
+        "zh": "本文为理论性论述，探讨如何在文化敏感的框架下，将运用经典文本、祈祷、礼拜、沉思、忍耐、感恩及聆听宗教颂歌等伊斯兰取向技术融入灵性咨询过程，并讨论相关的理论与伦理问题。",
+        "ru": "Теоретическая работа, рассматривающая, как исламские техники — обращение к священным текстам, молитва, богослужение, созерцание, терпение, благодарность и слушание духовных песнопений — могут быть с учётом культурной специфики интегрированы в процесс духовного консультирования, а также связанные с этим теоретические и этические вопросы.",
+        "ar": "ورقة نظرية تناقش كيفية دمج تقنيات قائمة على الإسلام، مثل توظيف النصوص المقدسة والدعاء والعبادة والتأمل والصبر والشكر والاستماع إلى الأناشيد الدينية، في عملية الإرشاد الروحي بما يراعي الحساسية الثقافية، مع تناول القضايا النظرية والأخلاقية ذات الصلة.",
+        "id": "Tulisan teoretis yang membahas bagaimana teknik berbasis Islam, seperti penggunaan teks suci, doa, ibadah, kontemplasi, sabar, syukur, dan mendengarkan senandung religi, dapat diintegrasikan ke dalam proses konseling spiritual secara peka budaya, termasuk isu-isu teoretis dan etis yang terkait.",
+        "ms": "Makalah teoretikal yang membincangkan cara teknik berasaskan Islam, seperti penggunaan teks suci, doa, ibadah, tafakur, sabar, syukur dan mendengar nasyid, dapat diintegrasikan ke dalam proses kaunseling kerohanian secara peka budaya, termasuk isu teoretikal dan etika yang berkaitan."
+      },
+      "topic": "practice",
+      "sections": [
+        "library",
+        "publications",
+        "practice"
+      ],
+      "kind": "study",
+      "language": "en",
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2019-10-15",
+        "authors": [
+          "Muhammet Şerif KESKİNOĞLU",
+          "Halil EKŞİ"
+        ],
+        "editors": [],
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "4",
+        "issue": "3",
+        "pages": "333-350",
+        "doi": "10.37898/spc.2019.4.3.069",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.37898/spc.2019.4.3.069",
+          "https://spiritualpc.net/article/islamic-spiritual-counseling-techniques/"
+        ],
+        "note": {
+          "tr": "Kuramsal derleme. Uygulamaya yönelik öneriler ampirik etkililik kanıtı yerine geçmez.",
+          "en": "Theoretical review. Practice recommendations are not a substitute for empirical evidence of effectiveness.",
+          "de": "Theoretischer Übersichtsbeitrag. Praxisempfehlungen ersetzen keine empirischen Wirksamkeitsnachweise.",
+          "zh": "理论综述。文中的实践建议不能替代有效性的实证证据。",
+          "ru": "Теоретический обзор. Практические рекомендации не заменяют эмпирических доказательств эффективности.",
+          "ar": "مراجعة نظرية. لا تُغني التوصيات التطبيقية عن الأدلة التجريبية على الفعالية.",
+          "id": "Kajian teoretis. Rekomendasi praktik tidak dapat menggantikan bukti empiris tentang efektivitas.",
+          "ms": "Kajian teoretikal. Cadangan amalan tidak menggantikan bukti empirikal tentang keberkesanan."
+        },
+        "publicationState": "published"
+      },
+      "citation": "Muhammet Şerif KESKİNOĞLU, Halil EKŞİ. (2019). Islamic Spiritual Counseling Techniques. Spiritual Psychology and Counseling, 4(3), 333-350. https://doi.org/10.37898/spc.2019.4.3.069"
+    },
+    {
+      "id": "eksi-adapting-the-scale-for-spiritual-intelligence",
+      "sourceId": "s-eksi-adapting-the-scale-for-spiritual-intelligence",
+      "title": "Adapting the Scale for Spiritual Intelligence to Turkish",
+      "year": 2019,
+      "url": "https://doi.org/10.37898/spc.2019.4.2.0062",
+      "display": {
+        "tr": "Manevi Zekâ Ölçeği: Türkçe Uyarlama",
+        "en": "Scale for Spiritual Intelligence: Turkish Adaptation",
+        "de": "Skala zur spirituellen Intelligenz: türkische Adaptation",
+        "zh": "灵性智力量表：土耳其语版修订",
+        "ru": "Шкала духовного интеллекта: турецкая адаптация",
+        "ar": "مقياس الذكاء الروحي: التكييف التركي",
+        "id": "Skala Kecerdasan Spiritual: Adaptasi Bahasa Turki",
+        "ms": "Skala Kecerdasan Kerohanian: Adaptasi Bahasa Turki"
+      },
+      "summary": {
+        "tr": "Kumar ve Mehta (2011) tarafından geliştirilen Manevi Zekâ Ölçeği’ni dört çalışma grubundaki toplam 1.098 lise öğrencisiyle (440 kız, 658 erkek) Türkçeye uyarlayan bu geçerlik ve güvenirlik çalışmasında doğrulayıcı faktör analizi, ölçüt geçerliği ve dil eşdeğerliği incelenmiş, iç tutarlık katsayıları iki örneklemde .86 ve .85 olarak hesaplanmıştır.",
+        "en": "A validity and reliability study adapting Kumar and Mehta's (2011) Scale for Spiritual Intelligence into Turkish with four study groups totalling 1,098 high school students (440 female, 658 male), examining confirmatory factor analysis, criterion validity and linguistic equivalence, with Cronbach's alphas of .86 and .85 in two samples.",
+        "de": "Validitäts- und Reliabilitätsstudie zur türkischen Adaptation der von Kumar und Mehta (2011) entwickelten Skala zur spirituellen Intelligenz an vier Stichproben mit insgesamt 1.098 Schülerinnen und Schülern (440 weiblich, 658 männlich), die konfirmatorische Faktorenanalyse, Kriteriumsvalidität und sprachliche Äquivalenz prüft und in zwei Stichproben Cronbachs Alpha von .86 bzw. .85 berichtet.",
+        "zh": "本研究在四个研究组共1098名高中生（女生440名，男生658名）中，将Kumar与Mehta（2011）编制的灵性智力量表修订为土耳其语版，考察了验证性因素分析、效标效度与语言等值性，两个样本的Cronbach's α系数分别为.86和.85。",
+        "ru": "Исследование валидности и надёжности турецкой адаптации Шкалы духовного интеллекта Кумара и Мехты (2011) на четырёх выборках общей численностью 1098 старшеклассников (440 девушек и 658 юношей), включающее конфирматорный факторный анализ, проверку критериальной валидности и языковой эквивалентности; коэффициенты α Кронбаха в двух выборках составили .86 и .85.",
+        "ar": "دراسة صدق وثبات لتكييف مقياس الذكاء الروحي الذي طوّره كومار وميهتا (2011) إلى اللغة التركية على أربع مجموعات دراسية ضمّت 1098 طالبًا وطالبة في المرحلة الثانوية (440 طالبة و658 طالبًا)، تناولت التحليل العاملي التوكيدي وصدق المحك والتكافؤ اللغوي، وبلغ معاملا ألفا كرونباخ .86 و.85 في عينتين.",
+        "id": "Studi validitas dan reliabilitas yang mengadaptasi Skala Kecerdasan Spiritual karya Kumar dan Mehta (2011) ke dalam bahasa Turki pada empat kelompok studi dengan total 1.098 siswa SMA (440 perempuan, 658 laki-laki), mencakup analisis faktor konfirmatori, validitas kriteria, dan kesetaraan bahasa, dengan koefisien alfa Cronbach sebesar .86 dan .85 pada dua sampel.",
+        "ms": "Kajian kesahan dan kebolehpercayaan yang mengadaptasi Skala Kecerdasan Kerohanian oleh Kumar dan Mehta (2011) ke dalam bahasa Turki melibatkan empat kumpulan kajian dengan jumlah 1,098 pelajar sekolah menengah (440 perempuan, 658 lelaki), merangkumi analisis faktor pengesahan, kesahan kriteria dan kesetaraan bahasa, dengan pekali alfa Cronbach .86 dan .85 bagi dua sampel."
+      },
+      "topic": "assessment",
+      "sections": [
+        "library",
+        "publications",
+        "measures"
+      ],
+      "kind": "study",
+      "language": "en",
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2019-06-15",
+        "authors": [
+          "Özge Erduran-Tekin",
+          "Halil Ekşi"
+        ],
+        "editors": [],
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "4",
+        "issue": "2",
+        "pages": "123-141",
+        "doi": "10.37898/spc.2019.4.2.0062",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.37898/spc.2019.4.2.0062",
+          "https://spiritualpc.net/article/adapting-the-scale-for-spiritual-intelligence-to-turkish/"
+        ],
+        "note": {
+          "tr": "Psikometrik çalışma. Araştırma örneklemindeki ölçme kanıtı, klinik tanı yetkisi veya kullanım izni anlamına gelmez.",
+          "en": "Psychometric study. Measurement evidence in the research sample does not establish diagnostic authority or reuse permission.",
+          "de": "Psychometrische Studie. Messbefunde in der Stichprobe begründen weder diagnostische Befugnis noch Nutzungsrechte.",
+          "zh": "心理测量研究。研究样本中的测量证据不等于临床诊断资格或使用许可。",
+          "ru": "Психометрическое исследование. Данные выборки не означают права на диагностику или разрешения использовать шкалу.",
+          "ar": "دراسة سيكومترية. أدلة القياس في العينة لا تمنح صلاحية التشخيص أو إذن استخدام المقياس.",
+          "id": "Studi psikometrik. Bukti pengukuran pada sampel bukan kewenangan diagnosis atau izin penggunaan instrumen.",
+          "ms": "Kajian psikometrik. Bukti pengukuran dalam sampel bukan kuasa diagnosis atau kebenaran menggunakan instrumen."
+        },
+        "publicationState": "published"
+      },
+      "citation": "Özge Erduran-Tekin, Halil Ekşi. (2019). Adapting the Scale for Spiritual Intelligence to Turkish. Spiritual Psychology and Counseling, 4(2), 123-141. https://doi.org/10.37898/spc.2019.4.2.0062"
+    },
+    {
+      "id": "eksi-ogretmen-adaylarinin-spirituel-i-yi-olus",
+      "sourceId": "s-eksi-ogretmen-adaylarinin-spirituel-i-yi-olus",
+      "title": "Öğretmen Adaylarının Spiritüel İyi Oluş İle Yaşamda Anlam Değişkenlerinin Psikolojik Dayanıklılığı Yordaması: Bir Yapısal Eşitlik Modeli (YEM) Denemesi",
+      "year": 2019,
+      "url": "https://doi.org/10.24106/kefdergi.3256",
+      "display": {
+        "tr": "Öğretmen Adaylarında Spiritüel İyi Oluş, Yaşamda Anlam ve Dayanıklılık",
+        "en": "Spiritual Well-Being, Meaning in Life and Resilience: An SEM Study",
+        "de": "Spirituelles Wohlbefinden, Lebenssinn und Resilienz: ein SEM-Modell",
+        "zh": "师范生的灵性幸福感、生命意义与心理韧性：结构方程模型",
+        "ru": "Духовное благополучие, смысл жизни и резилиентность будущих учителей",
+        "ar": "الرفاه الروحي ومعنى الحياة والمرونة النفسية لدى المعلمين قبل الخدمة",
+        "id": "Kesejahteraan Spiritual, Makna Hidup, dan Resiliensi Calon Guru",
+        "ms": "Kesejahteraan Kerohanian, Makna Hidup dan Daya Tahan Bakal Guru"
+      },
+      "summary": {
+        "tr": "Marmara Üniversitesinde pedagojik formasyon eğitimi alan 338 öğretmen adayıyla (276 kadın, 62 erkek) yürütülen ve spiritüel iyi oluş ile yaşamda anlamın psikolojik dayanıklılığı yordamadaki rolünü yapısal eşitlik modeliyle inceleyen ilişkisel bir araştırma.",
+        "en": "A correlational study of 338 pre-service teachers (276 women, 62 men) in a pedagogical formation programme at Marmara University, using structural equation modelling to examine the role of spiritual well-being and meaning in life in predicting psychological resilience.",
+        "de": "Korrelative Studie mit 338 Lehramtsanwärterinnen und Lehramtsanwärtern (276 Frauen, 62 Männer) im pädagogischen Formationsprogramm der Marmara-Universität, die mittels Strukturgleichungsmodellierung die prädiktive Rolle von spirituellem Wohlbefinden und Lebenssinn für psychologische Resilienz untersucht.",
+        "zh": "本相关研究以马尔马拉大学教育学资格培训项目的338名师范生（女性276名，男性62名）为样本，运用结构方程模型考察灵性幸福感与生命意义对心理韧性的预测作用。",
+        "ru": "Корреляционное исследование на выборке из 338 будущих учителей (276 женщин и 62 мужчины), проходящих педагогическую подготовку в Университете Мармара, в котором с помощью моделирования структурными уравнениями изучается прогностическая роль духовного благополучия и смысла жизни в отношении психологической резилиентности.",
+        "ar": "دراسة ارتباطية على 338 معلمًا قبل الخدمة (276 امرأة و62 رجلًا) ملتحقين ببرنامج التأهيل التربوي في جامعة مرمرة، تستخدم نمذجة المعادلات البنائية لفحص الدور التنبؤي للرفاه الروحي ومعنى الحياة في المرونة النفسية.",
+        "id": "Penelitian korelasional terhadap 338 calon guru (276 perempuan, 62 laki-laki) dalam program formasi pedagogis di Universitas Marmara yang menggunakan pemodelan persamaan struktural untuk mengkaji peran kesejahteraan spiritual dan makna hidup dalam memprediksi resiliensi psikologis.",
+        "ms": "Kajian korelasi melibatkan 338 bakal guru (276 wanita, 62 lelaki) dalam program formasi pedagogi di Universiti Marmara yang menggunakan pemodelan persamaan struktur untuk meneliti peranan kesejahteraan kerohanian dan makna hidup dalam meramalkan daya tahan psikologi."
+      },
+      "topic": "theory",
+      "sections": [
+        "library",
+        "publications"
+      ],
+      "kind": "study",
+      "language": "tr",
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2019-07-15",
+        "authors": [
+          "Halil EKŞİ",
+          "Cem BOYALI",
+          "Durmuş ÜMMET"
+        ],
+        "editors": [],
+        "journal": "Kastamonu Eğitim Dergisi",
+        "volume": "27",
+        "issue": "4",
+        "pages": "1695-1704",
+        "doi": "10.24106/kefdergi.3256",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.24106/kefdergi.3256",
+          "https://dergipark.org.tr/tr/pub/kefdergi/article/585640"
+        ],
+        "note": {
+          "tr": "İlişkisel araştırma. Aracılık analizi, bu gözlemsel tasarımda nedensel mekanizma veya müdahale etkisi göstermez.",
+          "en": "Correlational research. Mediation in this observational design does not establish a causal mechanism or intervention effect.",
+          "de": "Korrelative Forschung. Die Mediation im Beobachtungsdesign belegt weder einen kausalen Mechanismus noch einen Interventionseffekt.",
+          "zh": "相关研究。此观察性设计中的中介分析不能证明因果机制或干预效果。",
+          "ru": "Корреляционное исследование. Анализ медиации не устанавливает причинный механизм или эффект вмешательства.",
+          "ar": "بحث ارتباطي. تحليل الوساطة في هذا التصميم الرصدي لا يثبت آلية سببية أو أثر تدخل.",
+          "id": "Penelitian korelasional. Mediasi pada desain observasional tidak membuktikan mekanisme sebab akibat atau efek intervensi.",
+          "ms": "Penyelidikan korelasi. Mediasi dalam reka bentuk pemerhatian tidak membuktikan mekanisme sebab akibat atau kesan intervensi."
+        },
+        "publicationState": "published"
+      },
+      "citation": "Halil EKŞİ, Cem BOYALI, Durmuş ÜMMET. (2019). Öğretmen Adaylarının Spiritüel İyi Oluş İle Yaşamda Anlam Değişkenlerinin Psikolojik Dayanıklılığı Yordaması: Bir Yapısal Eşitlik Modeli (YEM) Denemesi. Kastamonu Eğitim Dergisi, 27(4), 1695-1704. https://doi.org/10.24106/kefdergi.3256"
+    },
+    {
+      "id": "eksi-maternal-spiritual-coping-scale-development-and",
+      "sourceId": "s-eksi-maternal-spiritual-coping-scale-development-and",
+      "title": "Maternal Spiritual Coping Scale: Development and Validation",
+      "year": 2018,
+      "url": "https://doi.org/10.12738/spc.2018.1.0042",
+      "display": {
+        "tr": "Anne Manevi Başa Çıkma Ölçeği: Geliştirme ve Geçerlik",
+        "en": "Maternal Spiritual Coping Scale: Development and Validation",
+        "de": "Skala mütterlicher spiritueller Bewältigung: Entwicklung und Validierung",
+        "zh": "母亲灵性应对量表：编制与效度验证",
+        "ru": "Шкала духовного копинга матерей: разработка и валидизация",
+        "ar": "مقياس المواجهة الروحية لدى الأمهات: البناء والتحقق من الصدق",
+        "id": "Skala Koping Spiritual Ibu: Pengembangan dan Validasi",
+        "ms": "Skala Daya Tindak Kerohanian Ibu: Pembangunan dan Pengesahan"
+      },
+      "summary": {
+        "tr": "Annelerin manevi başa çıkma biçimlerini ölçmek amacıyla geliştirilen ölçeğin geliştirme ve geçerlik çalışması.",
+        "en": "A scale development study on constructing and validating a measure of maternal spiritual coping.",
+        "de": "Skalenentwicklungsstudie zur Konstruktion und Validierung eines Instruments zur Erfassung mütterlicher spiritueller Bewältigung.",
+        "zh": "一项关于编制并验证母亲灵性应对测量工具的量表编制研究。",
+        "ru": "Исследование по разработке и валидизации инструмента для измерения духовного копинга матерей.",
+        "ar": "دراسة لبناء مقياس للمواجهة الروحية لدى الأمهات والتحقق من صدقه.",
+        "id": "Studi pengembangan skala yang membahas penyusunan dan validasi alat ukur koping spiritual ibu.",
+        "ms": "Kajian pembangunan skala tentang pembinaan dan pengesahan alat ukur daya tindak kerohanian ibu."
+      },
+      "topic": "assessment",
+      "sections": [
+        "library",
+        "publications",
+        "measures"
+      ],
+      "kind": "study",
+      "language": "en",
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2018-02-28",
+        "authors": [
+          "A. Nilgün Canel",
+          "Halil Eksi",
+          "Hatice Sanver Gürsoy",
+          "K. Gamze Yaman"
+        ],
+        "editors": [],
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "3",
+        "issue": "1",
+        "pages": "",
+        "doi": "10.12738/spc.2018.1.0042",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.12738/spc.2018.1.0042",
+          "https://spiritualpc.net/article/maternal-spiritual-coping-scale-development-and-validation/"
+        ],
+        "note": {
+          "tr": "Psikometrik çalışma. Araştırma örneklemindeki ölçme kanıtı, klinik tanı yetkisi veya kullanım izni anlamına gelmez.",
+          "en": "Psychometric study. Measurement evidence in the research sample does not establish diagnostic authority or reuse permission.",
+          "de": "Psychometrische Studie. Messbefunde in der Stichprobe begründen weder diagnostische Befugnis noch Nutzungsrechte.",
+          "zh": "心理测量研究。研究样本中的测量证据不等于临床诊断资格或使用许可。",
+          "ru": "Психометрическое исследование. Данные выборки не означают права на диагностику или разрешения использовать шкалу.",
+          "ar": "دراسة سيكومترية. أدلة القياس في العينة لا تمنح صلاحية التشخيص أو إذن استخدام المقياس.",
+          "id": "Studi psikometrik. Bukti pengukuran pada sampel bukan kewenangan diagnosis atau izin penggunaan instrumen.",
+          "ms": "Kajian psikometrik. Bukti pengukuran dalam sampel bukan kuasa diagnosis atau kebenaran menggunakan instrumen."
+        },
+        "publicationState": "published"
+      },
+      "citation": "A. Nilgün Canel, Halil Eksi, Hatice Sanver Gürsoy, K. Gamze Yaman. (2018). Maternal Spiritual Coping Scale: Development and Validation. Spiritual Psychology and Counseling, 3(1). https://doi.org/10.12738/spc.2018.1.0042"
+    },
+    {
+      "id": "eksi-spirituality-in-logotherapy",
+      "sourceId": "s-eksi-spirituality-in-logotherapy",
+      "title": "Spirituality in Logotherapy",
+      "year": 2017,
+      "url": "https://doi.org/10.12738/spc.2017.2.0028",
+      "display": {
+        "tr": "Logoterapide Maneviyat",
+        "en": "Spirituality in Logotherapy",
+        "de": "Spiritualität in der Logotherapie",
+        "zh": "意义疗法中的灵性",
+        "ru": "Духовность в логотерапии",
+        "ar": "الروحانية في العلاج بالمعنى",
+        "id": "Spiritualitas dalam Logoterapi",
+        "ms": "Kerohanian dalam Logoterapi"
+      },
+      "summary": {
+        "tr": "Logoterapide maneviyatın yeri üzerine kuramsal bir derleme.",
+        "en": "A theoretical review on the place of spirituality in logotherapy.",
+        "de": "Theoretischer Überblicksbeitrag zur Stellung der Spiritualität in der Logotherapie.",
+        "zh": "一篇关于灵性在意义疗法中地位的理论综述。",
+        "ru": "Теоретический обзор, посвящённый месту духовности в логотерапии.",
+        "ar": "مراجعة نظرية حول مكانة الروحانية في العلاج بالمعنى.",
+        "id": "Kajian teoretis tentang kedudukan spiritualitas dalam logoterapi.",
+        "ms": "Ulasan teoretikal tentang kedudukan kerohanian dalam logoterapi."
+      },
+      "topic": "theory",
+      "sections": [
+        "library",
+        "publications"
+      ],
+      "kind": "study",
+      "language": "en",
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2017-08-15",
+        "authors": [
+          "Nesrullah Okan",
+          "Halil Eksi"
+        ],
+        "editors": [],
+        "journal": "SPIRITUAL PSYCHOLOGY AND COUNSELING",
+        "volume": "2",
+        "issue": "2",
+        "pages": "",
+        "doi": "10.12738/spc.2017.2.0028",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.12738/spc.2017.2.0028",
+          "https://spiritualpc.net/article/spirituality-in-logotherapy/"
+        ],
+        "note": {
+          "tr": "Kuramsal derleme. Uygulamaya yönelik öneriler ampirik etkililik kanıtı yerine geçmez.",
+          "en": "Theoretical review. Practice recommendations are not a substitute for empirical evidence of effectiveness.",
+          "de": "Theoretischer Übersichtsbeitrag. Praxisempfehlungen ersetzen keine empirischen Wirksamkeitsnachweise.",
+          "zh": "理论综述。文中的实践建议不能替代有效性的实证证据。",
+          "ru": "Теоретический обзор. Практические рекомендации не заменяют эмпирических доказательств эффективности.",
+          "ar": "مراجعة نظرية. لا تُغني التوصيات التطبيقية عن الأدلة التجريبية على الفعالية.",
+          "id": "Kajian teoretis. Rekomendasi praktik tidak dapat menggantikan bukti empiris tentang efektivitas.",
+          "ms": "Kajian teoretikal. Cadangan amalan tidak menggantikan bukti empirikal tentang keberkesanan."
+        },
+        "publicationState": "published"
+      },
+      "citation": "Nesrullah Okan, Halil Eksi. (2017). Spirituality in Logotherapy. SPIRITUAL PSYCHOLOGY AND COUNSELING, 2(2). https://doi.org/10.12738/spc.2017.2.0028"
+    },
+    {
+      "id": "eksi-spirituality-in-psychotherapy-settings-a-phenomenological",
+      "sourceId": "s-eksi-spirituality-in-psychotherapy-settings-a-phenomenological",
+      "title": "Spirituality in Psychotherapy Settings: A Phenomenological Inquiry into the Experiences of Turkish Health Professionals",
+      "year": 2016,
+      "url": "https://doi.org/10.12738/spc.2016.1.0005",
+      "display": {
+        "tr": "Psikoterapide Maneviyat: Türk Sağlık Profesyonellerinin Deneyimleri",
+        "en": "Spirituality in Psychotherapy: Turkish Health Professionals' Experiences",
+        "de": "Spiritualität in der Psychotherapie: Erfahrungen türkischer Fachkräfte",
+        "zh": "心理治疗情境中的灵性：土耳其卫生专业人员的经验",
+        "ru": "Духовность в психотерапии: опыт турецких специалистов здравоохранения",
+        "ar": "الروحانية في سياقات العلاج النفسي: خبرات المهنيين الصحيين الأتراك",
+        "id": "Spiritualitas dalam Psikoterapi: Pengalaman Tenaga Kesehatan Turki",
+        "ms": "Kerohanian dalam Psikoterapi: Pengalaman Profesional Kesihatan Turki"
+      },
+      "summary": {
+        "tr": "Türk sağlık profesyonellerinin psikoterapi ortamlarında maneviyata ilişkin deneyimlerini fenomenolojik yaklaşımla inceleyen nitel bir araştırma.",
+        "en": "A qualitative phenomenological study exploring the experiences of Turkish health professionals with spirituality in psychotherapy settings.",
+        "de": "Qualitative phänomenologische Studie zu den Erfahrungen türkischer Gesundheitsfachkräfte mit Spiritualität im psychotherapeutischen Setting.",
+        "zh": "一项质性现象学研究，探讨土耳其卫生专业人员在心理治疗情境中与灵性相关的经验。",
+        "ru": "Качественное феноменологическое исследование опыта турецких специалистов здравоохранения, связанного с духовностью в психотерапевтической практике.",
+        "ar": "دراسة نوعية فينومينولوجية تستكشف خبرات المهنيين الصحيين الأتراك المتعلقة بالروحانية في سياقات العلاج النفسي.",
+        "id": "Penelitian kualitatif fenomenologis yang menelusuri pengalaman tenaga kesehatan Turki terkait spiritualitas dalam setting psikoterapi.",
+        "ms": "Kajian kualitatif fenomenologi yang meneroka pengalaman profesional kesihatan Turki berkaitan kerohanian dalam konteks psikoterapi."
+      },
+      "topic": "practice",
+      "sections": [
+        "library",
+        "publications",
+        "practice"
+      ],
+      "kind": "study",
+      "language": "en",
+      "bibliography": {
+        "type": "article",
+        "collection": "foundational-research",
+        "date": "2016-02-15",
+        "authors": [
+          "Halil Eksi",
+          "Zeynep Takmaz",
+          "Selami Kardas"
+        ],
+        "editors": [],
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "1",
+        "issue": "1",
+        "pages": "",
+        "doi": "10.12738/spc.2016.1.0005",
+        "identityVerified": true,
+        "identitySources": [
+          "https://api.crossref.org/works/10.12738/spc.2016.1.0005",
+          "https://spiritualpc.net/article/spirituality-in-psychotherapy-settings-a-phenomenological-inquiry-into-the-experiences-of-turkish-health-professionals/"
+        ],
+        "note": {
+          "tr": "Nitel araştırma. Katılımcı görüşleri bağlam içinde okunmalıdır. Bulgular bir eğitim veya müdahalenin etkililiğini sınamaz.",
+          "en": "Qualitative research. Read participants’ accounts in context. Findings do not test training or intervention efficacy.",
+          "de": "Qualitative Forschung. Aussagen sind kontextgebunden. Die Wirksamkeit einer Ausbildung oder Intervention wird nicht geprüft.",
+          "zh": "质性研究。应结合情境理解参与者陈述。研究未检验培训或干预效果。",
+          "ru": "Качественное исследование. Высказывания участников контекстуальны. Эффективность обучения или вмешательства не проверяется.",
+          "ar": "بحث نوعي. تُقرأ روايات المشاركين ضمن سياقها. النتائج لا تختبر فعالية التدريب أو التدخل.",
+          "id": "Penelitian kualitatif. Pengalaman peserta dibaca dalam konteks. Temuan tidak menguji efektivitas pelatihan atau intervensi.",
+          "ms": "Penyelidikan kualitatif. Pengalaman peserta dibaca dalam konteks. Dapatan tidak menguji keberkesanan latihan atau intervensi."
+        },
+        "publicationState": "published"
+      },
+      "citation": "Halil Eksi, Zeynep Takmaz, Selami Kardas. (2016). Spirituality in Psychotherapy Settings: A Phenomenological Inquiry into the Experiences of Turkish Health Professionals. Spiritual Psychology and Counseling, 1(1). https://doi.org/10.12738/spc.2016.1.0005"
+    }
+  ]
+}

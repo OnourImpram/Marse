@@ -1,0 +1,21 @@
+{
+  "version": "0.8.3",
+  "status": "published",
+  "publishedAt": "2026-10-03",
+  "sourceCommit": "4ecce9f3f3be90e532890f1f071e4301bd035bd3",
+  "hostCommit": "1245e91a67b2de15ca6846820b48612a496f6437",
+  "siteTree": "ff558e3279001baefccc6e020ad1ec4b9d9fc541",
+  "candidateVerificationRun": 37103211071,
+  "hostStageRun": 37104882349,
+  "pagesDeploymentRun": 37104944002,
+  "approvedPortalDesktopSha256": "00a058dc8f737d73d9bfbd49ef9e541fe54defb2f8d0015efa3ad77cfaa6c66b",
+  "approvedPortalMobileSha256": "9c5ddeceaea1b1e76a127cd38281ce07205f55bebac19c9aaaab7ec3f8268f9d",
+  "publicFileCount": 652,
+  "academicContentChanged": false,
+  "paletteChanged": false,
+  "backgroundCiniReceded": true,
+  "otherHostSubtreesPreservedByTreeReplacement": true,
+  "formalInstitutionalApproval": false,
+  "scientificEditorialApproval": false,
+  "humanLanguageApproval": false
+}

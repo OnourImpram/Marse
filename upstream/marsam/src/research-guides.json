@@ -1,0 +1,655 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-02",
+  "locales": [
+    "tr",
+    "en",
+    "de",
+    "zh",
+    "ru",
+    "ar",
+    "id",
+    "ms"
+  ],
+  "copy": {
+    "title": {
+      "tr": "Açık bilim çalışma masası",
+      "en": "Open science workbench",
+      "de": "Werkstatt für offene Wissenschaft",
+      "zh": "开放科学工作台",
+      "ru": "Практикум открытой науки",
+      "ar": "مساحة عمل العلم المفتوح",
+      "id": "Ruang kerja sains terbuka",
+      "ms": "Ruang kerja sains terbuka"
+    },
+    "lead": {
+      "tr": "Bir yayını incelemekten bir ölçme aracını değerlendirmeye ve analizi yeniden yapmaya kadar uzanan bir çalışma alanı. Burada kaynaklara bağlı rehberler, boş çalışma şablonları ve sitedeki katalog üzerinde çalışan bir uygulama bulunmaktadır.",
+      "en": "From examining a publication to assessing a measure and reproducing an analysis. Source-linked guides, blank working templates and a laboratory using the existing catalogue.",
+      "de": "Von der Prüfung einer Publikation über die Bewertung eines Instruments bis zur Reproduktion einer Analyse. Quellenbezogene Leitfäden, leere Vorlagen und ein Labor mit dem bestehenden Katalog.",
+      "zh": "从审读文献、评价测量工具到复现分析。这里提供附有来源的指南、空白工作模板，以及基于现有目录的练习。",
+      "ru": "От разбора публикации и оценки методики до воспроизведения анализа. Руководства со ссылками, незаполненные шаблоны и лабораторная работа с имеющимся каталогом.",
+      "ar": "من فحص المنشور وتقييم أداة القياس إلى إعادة تنفيذ التحليل. أدلة مرتبطة بالمصادر وقوالب عمل فارغة وتمرين يعتمد على الفهرس الحالي.",
+      "id": "Dari menelaah publikasi dan menilai alat ukur hingga menjalankan ulang analisis. Panduan bersumber, templat kosong, dan latihan dengan katalog yang tersedia.",
+      "ms": "Daripada meneliti penerbitan dan menilai alat ukur kepada menjalankan semula analisis. Panduan bersumber, templat kosong dan latihan menggunakan katalog sedia ada."
+    },
+    "downloads": {
+      "tr": "Çalışma dosyaları",
+      "en": "Working files",
+      "de": "Arbeitsdateien",
+      "zh": "工作文件",
+      "ru": "Рабочие файлы",
+      "ar": "ملفات العمل",
+      "id": "Berkas kerja",
+      "ms": "Fail kerja"
+    },
+    "references": {
+      "tr": "Yöntem kaynakları",
+      "en": "Methodological sources",
+      "de": "Methodische Quellen",
+      "zh": "方法来源",
+      "ru": "Методические источники",
+      "ar": "المصادر المنهجية",
+      "id": "Sumber metodologis",
+      "ms": "Sumber metodologi"
+    },
+    "prompt": {
+      "tr": "Uygulama sorusu",
+      "en": "Practice question",
+      "de": "Übungsfrage",
+      "zh": "练习问题",
+      "ru": "Вопрос для практики",
+      "ar": "سؤال تطبيقي",
+      "id": "Pertanyaan latihan",
+      "ms": "Soalan latihan"
+    },
+    "related": {
+      "tr": "İlgili katalog kayıtları",
+      "en": "Related catalogue records",
+      "de": "Verwandte Katalogeinträge",
+      "zh": "相关目录记录",
+      "ru": "Связанные записи каталога",
+      "ar": "سجلات الفهرس ذات الصلة",
+      "id": "Entri katalog terkait",
+      "ms": "Rekod katalog berkaitan"
+    },
+    "review": {
+      "tr": "Yöntem ve öğretim notu. Çeviriler yapay zekâ desteğiyle hazırlanmıştır. Bu metin, herhangi bir akreditasyon ya da uygulama yetkisi sağlamaz.",
+      "en": "Methods and teaching note. Translations were prepared with AI assistance. This does not confer accreditation or authorization to practise.",
+      "de": "Methodischer Lehrtext. Die Übersetzungen wurden mit KI-Unterstützung erstellt. Keine Akkreditierung oder Befugnis zur Berufsausübung.",
+      "zh": "方法与教学说明。译文在人工智能辅助下完成。不提供资质认证或执业授权。",
+      "ru": "Методический учебный материал. Переводы подготовлены с помощью искусственного интеллекта. Материал не даёт аккредитации или права на практику.",
+      "ar": "ملاحظة منهجية وتعليمية. أُعدّت الترجمات بمساعدة الذكاء الاصطناعي. لا تمنح اعتماداً أو ترخيصاً للممارسة.",
+      "id": "Catatan metode dan pembelajaran. Terjemahan disiapkan dengan bantuan AI. Tidak memberikan akreditasi atau izin praktik.",
+      "ms": "Nota kaedah dan pembelajaran. Terjemahan disediakan dengan bantuan AI. Tidak memberikan akreditasi atau kebenaran amalan."
+    },
+    "templateNote": {
+      "tr": "Şablonlar boş olarak indirilir. Şablondaki null değeri, bilginin henüz kaynaktan çıkarılmadığını gösterir; sıfır ya da “kaynakta bildirilmedi” anlamına gelmez. Alan adları başka yazılımlarla uyumlu olması için İngilizce bırakılmıştır. Doldurduğunuz dosya siteye gönderilmez.",
+      "en": "Templates download empty. null means not yet extracted, not zero or not reported by the source. Field names use English for interoperability. Completed files are not sent to this site.",
+      "de": "Vorlagen werden leer heruntergeladen. null bedeutet noch nicht extrahiert, nicht null als Messwert oder nicht berichtet. Feldnamen sind für Interoperabilität englisch. Ausgefüllte Dateien werden nicht an diese Website gesendet.",
+      "zh": "模板下载后为空白。null 表示尚未提取，不表示零或原文未报告。字段名使用英语以便互操作。填写后的文件不会提交到本站。",
+      "ru": "Шаблоны скачиваются незаполненными. null означает «ещё не извлечено», а не ноль или отсутствие сведений в источнике. Имена полей даны на английском для совместимости. Заполненные файлы не отправляются на сайт.",
+      "ar": "تُنزل القوالب فارغة. تعني null أن المعلومة لم تُستخرج بعد، لا أنها صفر أو غير مذكورة في المصدر. أسماء الحقول بالإنجليزية للتوافق التقني. لا تُرسل الملفات المكتملة إلى الموقع.",
+      "id": "Templat diunduh kosong. null berarti belum diekstrak, bukan nol atau tidak dilaporkan oleh sumber. Nama kolom memakai bahasa Inggris untuk interoperabilitas. Berkas yang diisi tidak dikirim ke situs ini.",
+      "ms": "Templat dimuat turun kosong. null bermaksud belum diekstrak, bukan sifar atau tidak dilaporkan oleh sumber. Nama medan menggunakan bahasa Inggeris untuk kesalingoperasian. Fail yang diisi tidak dihantar ke laman ini."
+    },
+    "inventoryNote": {
+      "tr": "Bu çıktı yalnızca MARSAM’ın seçtiği kaynakları betimlemektedir. Alanın kapsamlı bir bibliyografyası, klinik bir veri seti ya da sistematik bir kanıt haritası değildir. Kaynakların son inceleme tarihleri korunmaktadır.",
+      "en": "This output describes only MARSAM’s selected catalogue. It is not a comprehensive bibliography, clinical dataset or systematic evidence map. Previous source inspection dates are preserved.",
+      "de": "Diese Ausgabe beschreibt nur den ausgewählten MARSAM-Katalog. Sie ist keine vollständige Bibliografie, kein klinischer Datensatz und keine systematische Evidenzkarte. Frühere Quellenprüfdaten bleiben erhalten.",
+      "zh": "此输出仅描述 MARSAM 的精选目录，不是完整文献库、临床数据集或系统性证据图谱。保留各来源原有的审读日期。",
+      "ru": "Результат описывает только отобранный каталог MARSAM. Это не полная библиография, клинические данные или систематическая карта доказательств. Прежние даты проверки источников сохранены.",
+      "ar": "تصف النتيجة فهرس MARSAM المختار فقط. ليست ببليوغرافيا شاملة أو بيانات سريرية أو خريطة أدلة منهجية. تُحفظ تواريخ فحص المصادر السابقة.",
+      "id": "Keluaran hanya menggambarkan katalog pilihan MARSAM. Bukan bibliografi lengkap, data klinis, atau peta bukti sistematis. Tanggal penelaahan sumber sebelumnya dipertahankan.",
+      "ms": "Output hanya menggambarkan katalog pilihan MARSAM. Bukan bibliografi lengkap, data klinikal atau peta bukti sistematik. Tarikh semakan sumber terdahulu dikekalkan."
+    },
+    "run": {
+      "tr": "CSV dosyasını, denetim kaydını ve Python dosyasını aynı klasöre indirin. Aşağıdaki komut yalnızca bu dosyaları okur ve hiçbir dosyayı değiştirmez. Jupyter ve Quarto biçimlerini kullanmak isteğe bağlıdır.",
+      "en": "Download the CSV, manifest and Python file into one folder. The command below reads only those files. Jupyter and Quarto formats are optional.",
+      "de": "CSV, Manifest und Python-Datei in denselben Ordner herunterladen. Der folgende Befehl liest nur diese Dateien. Jupyter und Quarto sind optional.",
+      "zh": "将 CSV、清单和 Python 文件下载到同一文件夹。下方命令仅读取这些文件。Jupyter 和 Quarto 格式为可选项。",
+      "ru": "Скачайте CSV, манифест и Python-файл в одну папку. Команда ниже читает только эти файлы. Форматы Jupyter и Quarto необязательны.",
+      "ar": "نزّل CSV وملف التحقق وملف Python في مجلد واحد. يقرأ الأمر أدناه هذه الملفات فقط. صيغتا Jupyter وQuarto اختياريتان.",
+      "id": "Unduh CSV, manifes, dan berkas Python ke satu folder. Perintah berikut hanya membaca berkas tersebut. Format Jupyter dan Quarto bersifat opsional.",
+      "ms": "Muat turun CSV, manifes dan fail Python ke satu folder. Arahan berikut hanya membaca fail tersebut. Format Jupyter dan Quarto adalah pilihan."
+    },
+    "code": {
+      "tr": "Analiz kodunu göster",
+      "en": "Show analysis code",
+      "de": "Analysecode anzeigen",
+      "zh": "显示分析代码",
+      "ru": "Показать код анализа",
+      "ar": "عرض شيفرة التحليل",
+      "id": "Tampilkan kode analisis",
+      "ms": "Paparkan kod analisis"
+    }
+  },
+  "guides": [
+    {
+      "id": "research-guide",
+      "title": {
+        "tr": "Bir araştırmayı kanıtıyla okumak",
+        "en": "Reading a study through its evidence",
+        "de": "Eine Studie anhand ihrer Evidenz lesen",
+        "zh": "依据证据审读研究",
+        "ru": "Чтение исследования через его доказательства",
+        "ar": "قراءة الدراسة من خلال أدلتها",
+        "id": "Membaca penelitian melalui buktinya",
+        "ms": "Membaca kajian berdasarkan buktinya"
+      },
+      "summary": {
+        "tr": "Bir araştırmanın sorusunu, desenini, örneklemini, ölçümlerini ve bulgularını birlikte incelemek için hazırlanmış bir rehber.",
+        "en": "A working guide to connect the question, design, sample, measurement and findings in one record.",
+        "de": "Leitfaden zur gemeinsamen Prüfung von Frage, Design, Stichprobe, Messung und Befunden.",
+        "zh": "将研究问题、设计、样本、测量和结果放在同一记录中审读的指南。",
+        "ru": "Руководство, объединяющее вопрос, дизайн, выборку, измерение и результаты в одной записи.",
+        "ar": "دليل يربط السؤال والتصميم والعينة والقياس والنتائج في سجل واحد.",
+        "id": "Panduan untuk menghubungkan pertanyaan, desain, sampel, pengukuran, dan temuan dalam satu catatan.",
+        "ms": "Panduan menghubungkan soalan, reka bentuk, sampel, pengukuran dan dapatan dalam satu rekod."
+      },
+      "blocks": [
+        {
+          "heading": {
+            "tr": "Önce araştırmanın neyi sınadığını belirleyin",
+            "en": "Start with what the study tests",
+            "de": "Zuerst die geprüfte Frage bestimmen",
+            "zh": "先明确研究检验的内容",
+            "ru": "Сначала определите, что проверяет исследование",
+            "ar": "ابدأ بما تختبره الدراسة",
+            "id": "Mulai dari hal yang diuji",
+            "ms": "Mulakan dengan perkara yang diuji"
+          },
+          "text": {
+            "tr": "Araştırma sorusunu, çalışmanın desenini, örneklemi, ülkeyi, ortamı ve izlem süresini ayrı ayrı not edin. Maneviyat, dindarlık, dini başa çıkma, maneviyatı danışmaya katma tercihi ve uygulama farklı kavramlardır; birbirinin yerine kullanılmamalıdır. Her değişkenin hangi araçla, kimden ve ne zaman ölçüldüğünü belirtin.",
+            "en": "Record the question, design, sample, country, setting and follow-up separately. Spirituality, religiosity, religious coping, integration preference and practice should not be entered as interchangeable constructs. Identify the instrument, respondent and measurement time for each variable.",
+            "de": "Frage, Design, Stichprobe, Land, Setting und Nachbeobachtung getrennt erfassen. Spiritualität, Religiosität, religiöses Coping, Integrationspräferenz und Praxis nicht gleichsetzen. Für jede Variable Instrument, auskunftgebende Person und Messzeitpunkt angeben.",
+            "zh": "分别记录问题、设计、样本、国家、场景和随访。灵性、宗教性、宗教应对、整合偏好和实践不可互换。注明每个变量的工具、报告者与测量时间。",
+            "ru": "Отдельно запишите вопрос, дизайн, выборку, страну, условия и наблюдение. Духовность, религиозность, религиозное совладание, предпочтение интеграции и практика не взаимозаменяемы. Укажите инструмент, респондента и время измерения каждой переменной.",
+            "ar": "سجّل السؤال والتصميم والعينة والبلد والسياق والمتابعة منفصلة. لا تساوِ بين الروحانية والتدين والتكيف الديني وتفضيل الدمج والممارسة. حدّد أداة كل متغير ومن يجيب ومتى يُقاس.",
+            "id": "Catat pertanyaan, desain, sampel, negara, konteks, dan tindak lanjut secara terpisah. Spiritualitas, religiositas, koping religius, preferensi integrasi, dan praktik tidak dapat dipertukarkan. Nyatakan instrumen, responden, dan waktu pengukuran setiap variabel.",
+            "ms": "Catat soalan, reka bentuk, sampel, negara, konteks dan susulan secara berasingan. Kerohanian, religiositi, daya tindak keagamaan, keutamaan integrasi dan amalan tidak boleh disamakan. Nyatakan instrumen, responden dan masa pengukuran setiap pemboleh ubah."
+          }
+        },
+        {
+          "heading": {
+            "tr": "Bulguyu, ondan çıkarılabilecek sonucun sınırıyla birlikte kaydedin",
+            "en": "Record findings with their limits",
+            "de": "Befunde mit ihren Grenzen dokumentieren",
+            "zh": "记录结果及其推论边界",
+            "ru": "Запишите результаты вместе с ограничениями",
+            "ar": "سجّل النتائج وحدود الاستدلال",
+            "id": "Catat temuan beserta batasnya",
+            "ms": "Catat dapatan bersama batasnya"
+          },
+          "text": {
+            "tr": "Karşılaştırılan grupları, temel sonucu, bildirilen etki büyüklüğünü ve güven aralığını kaydedin. Yalnızca özete ulaşabildiyseniz eksik yöntem bilgilerini tahminle tamamlamayın. Kesitsel bir çalışmada bulunan ilişkiyi neden-sonuç ilişkisi olarak yorumlamayın. Seçim yanlılığı, kayıp veri, kültürel bağlam, finansman ve çıkar çatışması ayrıca değerlendirilmelidir.",
+            "en": "Record the comparator, main outcome, reported effect size and confidence interval. When only an abstract is available, do not infer missing methods. Do not label a cross-sectional association a causal effect. Examine selection bias, missing data, cultural context, funding and conflicts of interest separately.",
+            "de": "Vergleich, Hauptergebnis, berichtete Effektgröße und Konfidenzintervall erfassen. Fehlende Methoden bei reinem Abstract-Zugang nicht ergänzen. Querschnittliche Zusammenhänge nicht als Kausaleffekte bezeichnen. Selektion, fehlende Daten, Kultur, Finanzierung und Interessenkonflikte gesondert prüfen.",
+            "zh": "记录比较条件、主要结局、已报告的效应量与置信区间。只有摘要时，不猜测缺失的方法信息。不要把横断面关联称为因果效应。另行审查选择偏倚、缺失数据、文化背景、资助与利益冲突。",
+            "ru": "Укажите сравнение, основной исход, сообщённый размер эффекта и доверительный интервал. При доступе только к аннотации не додумывайте методы. Поперечная связь не должна называться причинным эффектом. Отдельно оцените отбор, пропуски, культурный контекст, финансирование и конфликты интересов.",
+            "ar": "سجّل المقارنة والنتيجة الأساسية وحجم الأثر وفاصل الثقة المبلغ عنهما. لا تخمّن تفاصيل المنهج عند توفر الملخص فقط. لا تسمِّ العلاقة المقطعية أثراً سببياً. افحص تحيز الاختيار والبيانات المفقودة والسياق الثقافي والتمويل وتعارض المصالح.",
+            "id": "Catat pembanding, luaran utama, ukuran efek, dan interval kepercayaan yang dilaporkan. Jangan mengisi metode yang hilang dengan dugaan saat hanya abstrak tersedia. Jangan menyebut hubungan potong lintang sebagai efek kausal. Periksa bias seleksi, data hilang, konteks budaya, pendanaan, dan konflik kepentingan.",
+            "ms": "Catat pembanding, hasil utama, saiz kesan dan selang keyakinan yang dilaporkan. Jangan meneka kaedah yang tidak dinyatakan apabila hanya abstrak tersedia. Jangan menamakan hubungan keratan rentas sebagai kesan sebab akibat. Semak bias pemilihan, data hilang, konteks budaya, pembiayaan dan konflik kepentingan."
+          }
+        },
+        {
+          "heading": {
+            "tr": "Tek bir çalışma ile derlemeyi birbirinden ayırın",
+            "en": "Separate a study from a synthesis",
+            "de": "Einzelstudie und Synthese unterscheiden",
+            "zh": "区分单项研究与证据综合",
+            "ru": "Различайте исследование и синтез",
+            "ar": "ميّز الدراسة عن تركيب الأدلة",
+            "id": "Bedakan studi dan sintesis",
+            "ms": "Bezakan kajian dengan sintesis"
+          },
+          "text": {
+            "tr": "Bir derlemede kapsam, tarama tarihi, taranan veri tabanları, dahil etme ölçütleri ve çalışmaların seçimine ilişkin kararlar ayrıca belgelenmelidir. PRISMA, derlemenin nasıl raporlanacağına yol gösterir; çalışmaların kalitesini tek başına değerlendirmez. Bu sayfadaki şablon, çalışmalardan bilgi çıkarmaya yardımcı bir araçtır; tamamlanmış bir derleme ya da yanlılık riski değerlendirme aracı değildir.",
+            "en": "A review additionally needs its scope, search date, information sources, eligibility criteria and selection decisions documented. PRISMA guides reporting, not a standalone quality score. The template here supports extraction. It is not a completed review or a risk-of-bias instrument.",
+            "de": "Eine Übersicht erfordert zusätzlich dokumentierten Umfang, Suchdatum, Informationsquellen, Kriterien und Auswahlentscheidungen. PRISMA unterstützt Berichterstattung, nicht einen eigenständigen Qualitätsscore. Diese Extraktionsvorlage ist weder fertige Übersicht noch Instrument zur Biasbewertung.",
+            "zh": "综述还需记录范围、检索日期、信息来源、纳入标准和筛选决定。PRISMA 指导报告，不是独立质量评分。此模板辅助数据提取，不是已完成的综述或偏倚风险工具。",
+            "ru": "Для обзора дополнительно документируются охват, дата поиска, источники, критерии и решения отбора. PRISMA направляет отчётность, а не даёт самостоятельную оценку качества. Шаблон помогает извлекать данные, но не является готовым обзором или инструментом оценки риска смещения.",
+            "ar": "تحتاج المراجعة أيضاً إلى توثيق النطاق وتاريخ البحث والمصادر ومعايير الأهلية وقرارات الاختيار. يوجّه PRISMA الإبلاغ ولا يعطي بمفرده درجة للجودة. القالب مساعد للاستخراج وليس مراجعة مكتملة أو أداة لتقييم خطر التحيز.",
+            "id": "Tinjauan juga memerlukan dokumentasi cakupan, tanggal pencarian, sumber, kriteria kelayakan, dan keputusan seleksi. PRISMA memandu pelaporan, bukan skor mutu tersendiri. Templat ini membantu ekstraksi, bukan tinjauan lengkap atau alat penilaian risiko bias.",
+            "ms": "Ulasan juga memerlukan dokumentasi skop, tarikh carian, sumber, kriteria kelayakan dan keputusan pemilihan. PRISMA membimbing pelaporan, bukan skor mutu tersendiri. Templat membantu pengekstrakan, bukan ulasan lengkap atau alat penilaian risiko bias."
+          }
+        }
+      ],
+      "prompt": {
+        "tr": "Bir makale seçin. Kaynaktan doğruladığınız üç bilgiyi, henüz doğrulayamadığınız üç bilgiden ayrı yazın. Her bilgi için kaynağın hangi sayfasında, tablosunda ya da bölümünde yer aldığını not edin.",
+        "en": "Choose a paper. Separate three verified details from three not yet extracted. Record the page, table or section for each detail.",
+        "de": "Eine Publikation wählen. Drei bestätigte Angaben von drei noch nicht extrahierten trennen. Seite, Tabelle oder Abschnitt festhalten.",
+        "zh": "选一篇论文，区分三项已核实信息和三项尚未提取信息，并记录页码、表格或章节。",
+        "ru": "Выберите статью. Отделите три проверенных сведения от трёх ещё не извлечённых. Укажите страницу, таблицу или раздел.",
+        "ar": "اختر مقالة وميّز ثلاث معلومات تحققت منها عن ثلاث لم تستخرجها بعد. سجّل الصفحة أو الجدول أو القسم.",
+        "id": "Pilih artikel. Pisahkan tiga rincian terverifikasi dari tiga yang belum diekstrak. Catat halaman, tabel, atau bagian.",
+        "ms": "Pilih makalah. Bezakan tiga butiran disahkan daripada tiga yang belum diekstrak. Catat halaman, jadual atau bahagian."
+      },
+      "references": [
+        "prisma"
+      ],
+      "downloads": [
+        "research-summary.json",
+        "research-summary.csv"
+      ],
+      "related": [
+        "three-waves",
+        "sipas"
+      ],
+      "objectType": "teaching-guide",
+      "review": {
+        "scientific": "draft",
+        "method": "draft",
+        "humanLanguageReviewed": false
+      },
+      "sourceBasis": "MARSAM academic-content development report supplied by the owner, 2 October 2026"
+    },
+    {
+      "id": "measurement-guide",
+      "title": {
+        "tr": "Ölçme aracı kanıt dosyası",
+        "en": "An evidence file for a measure",
+        "de": "Evidenzdossier für ein Messinstrument",
+        "zh": "测量工具证据档案",
+        "ru": "Досье доказательств для методики",
+        "ar": "ملف أدلة أداة القياس",
+        "id": "Berkas bukti alat ukur",
+        "ms": "Fail bukti alat ukur"
+      },
+      "summary": {
+        "tr": "Bir ölçeğin adından, kullanılıp kullanılmayacağı kararına kadar izlenecek inceleme çerçevesi: ölçülen yapı, örneklem, kültürel uyarlama, psikometrik kanıt ve kullanım hakları.",
+        "en": "From an instrument name to a use decision. Examine construct, population, cultural adaptation, psychometric evidence and rights together.",
+        "de": "Vom Instrumentennamen zur Nutzungsentscheidung. Konstrukt, Population, Anpassung, Psychometrie und Rechte gemeinsam prüfen.",
+        "zh": "从工具名称走向使用决策，共同审查构念、样本、文化适配、心理测量证据和权利。",
+        "ru": "От названия методики к решению об использовании. Конструкт, выборка, адаптация, психометрические данные и права.",
+        "ar": "من اسم المقياس إلى قرار استخدامه. فحص البناء والعينة والتكييف الثقافي والأدلة السيكومترية والحقوق معاً.",
+        "id": "Dari nama instrumen menuju keputusan penggunaan. Tinjau konstruk, populasi, adaptasi budaya, bukti psikometri, dan hak.",
+        "ms": "Daripada nama instrumen kepada keputusan penggunaan. Teliti konstruk, populasi, penyesuaian budaya, bukti psikometrik dan hak."
+      },
+      "blocks": [
+        {
+          "heading": {
+            "tr": "Kavram ile ölçümü eşleştirin",
+            "en": "Match the construct and the measurement",
+            "de": "Konstrukt und Messung abgleichen",
+            "zh": "对应构念与测量",
+            "ru": "Сопоставьте конструкт и измерение",
+            "ar": "طابق البناء مع القياس",
+            "id": "Cocokkan konstruk dan pengukuran",
+            "ms": "Padankan konstruk dan pengukuran"
+          },
+          "text": {
+            "tr": "Ölçmek istediğiniz yapıyı, hedef grubu, ölçeği kimin yanıtlayacağını ve kullanım amacını tanımlayın. Tutum, öz yeterlik, davranış, danışan tercihi ve manevi iyi oluş birbirinden farklı yapılardır. Aynı konu başlığı altında yer alan iki ölçeğin aynı şeyi ölçtüğü varsayılmamalıdır. Ölçeğin sürümünü ve dilini özgün geliştirme çalışmasıyla karşılaştırın.",
+            "en": "Define the construct, target population, respondent and intended use. Attitudes, self-efficacy, behaviour, client preference and spiritual well-being are distinct. Two instruments under one topic need not measure the same construct. Match the instrument version and language to its development record.",
+            "de": "Konstrukt, Zielgruppe, befragte Person und Zweck bestimmen. Einstellungen, Selbstwirksamkeit, Verhalten, Klientenpräferenz und spirituelles Wohlbefinden unterscheiden. Ein gemeinsames Thema macht Instrumente nicht gleichwertig. Version und Sprache dem Entwicklungsbericht zuordnen.",
+            "zh": "界定构念、目标人群、答题者和使用目的。态度、自我效能、行为、来访者偏好与灵性幸福感并不相同。同一主题下的两个工具未必测量同一构念。将版本和语言与开发记录对应。",
+            "ru": "Определите конструкт, целевую группу, респондента и цель. Установки, самоэффективность, поведение, предпочтения клиента и духовное благополучие различны. Одна тема не делает инструменты взаимозаменяемыми. Сопоставьте версию и язык с публикацией о разработке.",
+            "ar": "حدّد البناء والفئة المستهدفة والمجيب والغرض. الاتجاهات والكفاءة الذاتية والسلوك وتفضيل المسترشد والرفاه الروحي أبنية مختلفة. اشتراك مقياسين في الموضوع لا يعني قياس الشيء نفسه. طابق الإصدار واللغة مع سجل التطوير.",
+            "id": "Tentukan konstruk, populasi sasaran, responden, dan tujuan. Sikap, efikasi diri, perilaku, preferensi klien, dan kesejahteraan spiritual berbeda. Kesamaan topik tidak menjadikan dua instrumen setara. Cocokkan versi dan bahasa dengan publikasi pengembangannya.",
+            "ms": "Tentukan konstruk, populasi sasaran, responden dan tujuan. Sikap, efikasi kendiri, tingkah laku, keutamaan klien dan kesejahteraan kerohanian berbeza. Kesamaan topik tidak menjadikan dua instrumen setara. Padankan versi dan bahasa dengan rekod pembangunan."
+          }
+        },
+        {
+          "heading": {
+            "tr": "Psikometrik bulgular, elde edildikleri örneklemle birlikte okunmalıdır",
+            "en": "Bind psychometric evidence to its sample",
+            "de": "Psychometrische Evidenz an die Stichprobe binden",
+            "zh": "将心理测量证据与样本绑定",
+            "ru": "Свяжите психометрику с выборкой",
+            "ar": "اربط الأدلة السيكومترية بالعينة",
+            "id": "Hubungkan bukti psikometri dengan sampelnya",
+            "ms": "Hubungkan bukti psikometrik dengan sampelnya"
+          },
+          "text": {
+            "tr": "İçerik geçerliği, yapı geçerliği, faktör yapısı, iç tutarlılık, test-tekrar test güvenirliği, ölçme hatası ve gruplar arası değişmezlik ayrı ayrı kanıt gerektirmektedir. Yüksek bir güvenirlik katsayısı, ölçeğin her amaçla kullanılabileceğini göstermez. Bir ölçeğin Türkçe çevirisinin bulunması da Türkçe formun geçerli olduğu ya da gruplar arasında karşılaştırılabilir sonuçlar verdiği anlamına gelmez.",
+            "en": "Use separate evidence fields for content and structural validity, factor structure, internal consistency, test–retest reliability, measurement error and invariance across groups. One reliability coefficient does not validate every use. A Turkish translation is not evidence of Turkish psychometric performance or comparability between groups.",
+            "de": "Inhaltsvalidität, strukturelle Validität, Faktorenstruktur, interne Konsistenz, Retestreliabilität, Messfehler und Invarianz getrennt erfassen. Ein Reliabilitätswert validiert nicht jede Nutzung. Eine türkische Übersetzung belegt weder türkische Psychometrie noch Gruppenvergleichbarkeit.",
+            "zh": "分别记录内容效度、结构效度、因素结构、内部一致性、重测信度、测量误差和跨组不变性的证据。一个信度系数不能验证所有用途。存在土耳其语翻译，不等于存在相应的心理测量或跨组可比性证据。",
+            "ru": "Раздельно фиксируйте содержательную и структурную валидность, факторную структуру, внутреннюю согласованность, ретестовую надёжность, ошибку и инвариантность. Один коэффициент надёжности не подтверждает любое применение. Перевод на турецкий не доказывает психометрические свойства или сопоставимость групп.",
+            "ar": "افصل أدلة صدق المحتوى والبناء والعوامل والاتساق الداخلي والثبات بإعادة الاختبار وخطأ القياس والتكافؤ بين المجموعات. معامل ثبات واحد لا يثبت صلاحية كل استخدام. وجود ترجمة تركية لا يثبت الخصائص السيكومترية أو قابلية مقارنة المجموعات.",
+            "id": "Pisahkan bukti validitas isi dan struktur, struktur faktor, konsistensi internal, reliabilitas tes ulang, galat pengukuran, dan invariansi. Satu koefisien reliabilitas tidak memvalidasi semua penggunaan. Terjemahan Turki tidak membuktikan psikometri versi Turki atau kesetaraan antarkelompok.",
+            "ms": "Asingkan bukti kesahan kandungan dan struktur, struktur faktor, ketekalan dalaman, kebolehpercayaan uji semula, ralat pengukuran dan invarians. Satu pekali kebolehpercayaan tidak mengesahkan semua penggunaan. Terjemahan Turki tidak membuktikan psikometrik versi Turki atau kesetaraan antara kumpulan."
+          }
+        },
+        {
+          "heading": {
+            "tr": "Uyarlama çalışması ile kullanım hakkı ayrı konulardır",
+            "en": "Assess adaptation and permission separately",
+            "de": "Anpassung und Nutzungsrechte getrennt prüfen",
+            "zh": "分别评价适配与使用许可",
+            "ru": "Раздельно оцените адаптацию и разрешения",
+            "ar": "افصل التكييف عن إذن الاستخدام",
+            "id": "Pisahkan adaptasi dan izin",
+            "ms": "Asingkan penyesuaian dan kebenaran"
+          },
+          "text": {
+            "tr": "Çeviri süreci, bilişsel görüşmeler, uyarlama örneklemi ve puanlama koşulları kayıt altına alınmalıdır. Ölçüm özelliklerinin değerlendirilmesinde COSMIN’in ilgili rehberinden yararlanılması önerilmektedir. Bu sayfa COSMIN formunun bir kopyası değildir; ölçek maddeleri, puanlama anahtarı ya da izinli bir uygulama da burada sunulmamaktadır.",
+            "en": "Document translation procedures, cognitive interviews, adaptation sample and scoring conditions. Consult COSMIN guidance appropriate to the measure type. This page does not reproduce a COSMIN form. It provides no instrument items, scoring key or authorized administration.",
+            "de": "Übersetzung, kognitive Interviews, Anpassungsstichprobe und Auswertungsbedingungen dokumentieren. Passende COSMIN-Leitlinie zum Instrumententyp konsultieren. Diese Seite kopiert kein COSMIN-Formular und stellt weder Items noch Auswertungsschlüssel oder autorisierte Anwendung bereit.",
+            "zh": "记录翻译流程、认知访谈、适配样本和计分条件。查阅适用于该测量类型的 COSMIN 指南。本页不是 COSMIN 表格的复制，不提供题项、计分键或获授权的施测。",
+            "ru": "Документируйте перевод, когнитивные интервью, выборку адаптации и условия подсчёта. Используйте подходящее типу измерения руководство COSMIN. Страница не копирует его формы и не содержит пунктов методики, ключа или разрешённого тестирования.",
+            "ar": "وثّق الترجمة والمقابلات المعرفية وعينة التكييف وشروط التصحيح. ارجع إلى دليل COSMIN المناسب لنوع القياس. الصفحة ليست نسخة من استمارته ولا تتضمن بنود المقياس أو مفتاح التصحيح أو تطبيقاً مرخصاً.",
+            "id": "Dokumentasikan penerjemahan, wawancara kognitif, sampel adaptasi, dan ketentuan penskoran. Gunakan panduan COSMIN yang sesuai jenis pengukuran. Halaman ini tidak menyalin formulir COSMIN atau menyediakan butir, kunci skor, maupun administrasi berizin.",
+            "ms": "Dokumentasikan penterjemahan, temu bual kognitif, sampel penyesuaian dan syarat pemarkahan. Rujuk panduan COSMIN yang sesuai dengan jenis pengukuran. Halaman ini tidak menyalin borang COSMIN atau menyediakan item, kunci skor atau pentadbiran berizin."
+          }
+        }
+      ],
+      "prompt": {
+        "tr": "Bir araç seçin. Özgün geliştirme çalışmasını, Türkçe uyarlamayı ve kullanım koşullarını ayrı kayıtlar olarak tutun. Kaynakta bulunmayan bir bilgiyi tahminle tamamlamayın; eksik olduğunu belirtin.",
+        "en": "Choose a measure. Create separate source records for development, Turkish adaptation and terms of use. Leave missing evidence unresolved.",
+        "de": "Ein Instrument wählen. Entwicklung, türkische Anpassung und Nutzungsbedingungen separat belegen. Fehlende Evidenz offenlassen.",
+        "zh": "选一种工具，分别记录开发研究、土耳其语适配与使用条件的来源。缺失证据保持未解决状态。",
+        "ru": "Выберите методику. Отдельно укажите разработку, турецкую адаптацию и условия использования. Не додумывайте недостающие данные.",
+        "ar": "اختر أداة ووثّق التطوير والتكييف التركي وشروط الاستخدام بمصادر مستقلة. اترك الأدلة الناقصة دون تخمين.",
+        "id": "Pilih alat ukur. Buat catatan sumber terpisah untuk pengembangan, adaptasi Turki, dan ketentuan penggunaan. Jangan menebak bukti yang hilang.",
+        "ms": "Pilih alat ukur. Sediakan rekod sumber berasingan bagi pembangunan, penyesuaian Turki dan syarat penggunaan. Jangan meneka bukti yang hilang."
+      },
+      "references": [
+        "cosmin"
+      ],
+      "downloads": [
+        "measurement-evidence.json",
+        "measurement-evidence.csv"
+      ],
+      "related": [
+        "sipas"
+      ],
+      "objectType": "teaching-guide",
+      "review": {
+        "scientific": "draft",
+        "method": "draft",
+        "humanLanguageReviewed": false
+      },
+      "sourceBasis": "MARSAM academic-content development report supplied by the owner, 2 October 2026"
+    },
+    {
+      "id": "data-access",
+      "title": {
+        "tr": "Veri erişimi ve Türkiye karşılaştırmaları",
+        "en": "Data access and comparisons with Türkiye",
+        "de": "Datenzugang und Vergleiche mit der Türkei",
+        "zh": "数据访问与土耳其比较研究",
+        "ru": "Доступ к данным и сравнения с Турцией",
+        "ar": "الوصول إلى البيانات والمقارنة مع تركيا",
+        "id": "Akses data dan perbandingan dengan Türkiye",
+        "ms": "Akses data dan perbandingan dengan Türkiye"
+      },
+      "summary": {
+        "tr": "Veriyi indirmeden önce sürümü, örneklemi, değişken eşlemesini, ağırlıkları ve paylaşım koşullarını incelemeniz için hazırlanmış bir rehber.",
+        "en": "Examine versions, sampling, variable crosswalks, weights and sharing conditions before downloading data.",
+        "de": "Version, Stichprobe, Variablenabgleich, Gewichte und Weitergabebedingungen vor dem Download prüfen.",
+        "zh": "下载数据前审查版本、抽样、变量对应、权重与共享条件。",
+        "ru": "Проверяйте версии, выборку, соответствие переменных, веса и условия обмена до скачивания данных.",
+        "ar": "افحص الإصدار والعينة وتطابق المتغيرات والأوزان وشروط المشاركة قبل تنزيل البيانات.",
+        "id": "Periksa versi, sampel, pemetaan variabel, bobot, dan ketentuan berbagi sebelum mengunduh data.",
+        "ms": "Semak versi, sampel, pemetaan pemboleh ubah, pemberat dan syarat perkongsian sebelum memuat turun data."
+      },
+      "blocks": [
+        {
+          "heading": {
+            "tr": "Soruya uygun dalgayı seçin",
+            "en": "Choose the wave for the question",
+            "de": "Die zur Frage passende Welle wählen",
+            "zh": "选择符合研究问题的调查波次",
+            "ru": "Выберите волну под исследовательский вопрос",
+            "ar": "اختر الموجة الملائمة للسؤال",
+            "id": "Pilih gelombang sesuai pertanyaan",
+            "ms": "Pilih gelombang mengikut soalan"
+          },
+          "text": {
+            "tr": "WVS ve EVS, din, değerler ve iyi oluşla ilgili karşılaştırmalar için başlangıç kaynaklarıdır. Seçtiğiniz dalgada Türkiye’nin, kullanmak istediğiniz değişkenin ve hedef yaş grubunun bulunduğunu veri belgelerinden kontrol edin. Aynı ülkeden farklı dalgalara katılan kişiler, zaman içinde izlenen aynı kişiler değildir.",
+            "en": "The report proposes WVS and EVS as starting points for comparisons of religion, values and well-being. Check documentation for Türkiye, the required variable and target age group in the selected wave. Respondents from different waves in one country do not automatically form a longitudinal panel.",
+            "de": "Der Bericht schlägt WVS und EVS für Vergleiche zu Religion, Werten und Wohlbefinden vor. Teilnahme der Türkiye, Variable und Altersgruppe in der gewählten Welle dokumentieren. Verschiedene Wellen eines Landes sind nicht automatisch ein Panel derselben Personen.",
+            "zh": "报告建议从 WVS 和 EVS 入手比较宗教、价值观与幸福感。查阅文档，确认所选波次包含土耳其、所需变量及目标年龄组。同一国家不同波次的受访者不自动构成追踪同一人的面板。",
+            "ru": "В отчёте WVS и EVS предложены для сравнений религии, ценностей и благополучия. Проверьте наличие Турции, переменной и нужного возраста в выбранной волне. Разные волны одной страны не означают наблюдение за теми же людьми.",
+            "ar": "يقترح التقرير WVS وEVS للمقارنة في الدين والقيم والرفاه. تحقّق من وجود تركيا والمتغير والفئة العمرية في الموجة المختارة. عينات البلد عبر موجات مختلفة ليست تلقائياً متابعة للأشخاص أنفسهم.",
+            "id": "Laporan mengusulkan WVS dan EVS untuk perbandingan agama, nilai, dan kesejahteraan. Periksa keberadaan Türkiye, variabel, dan usia sasaran pada gelombang pilihan. Responden dari gelombang berbeda tidak otomatis menjadi panel orang yang sama.",
+            "ms": "Laporan mencadangkan WVS dan EVS bagi perbandingan agama, nilai dan kesejahteraan. Semak penyertaan Türkiye, pemboleh ubah dan umur sasaran dalam gelombang pilihan. Responden daripada gelombang berbeza bukan secara automatik panel orang yang sama."
+          }
+        },
+        {
+          "heading": {
+            "tr": "Aynı adı taşıyan iki değişken aynı şeyi ölçmeyebilir",
+            "en": "A shared label may not mean the same measure",
+            "de": "Gleiche Bezeichnung ist nicht gleiche Messung",
+            "zh": "相同标签未必表示相同测量",
+            "ru": "Одинаковая подпись не гарантирует одно измерение",
+            "ar": "تشابه الاسم لا يضمن تطابق القياس",
+            "id": "Label sama belum tentu ukuran sama",
+            "ms": "Label sama tidak semestinya ukuran sama"
+          },
+          "text": {
+            "tr": "Özgün soru metnini, yanıt kategorilerini, eksik veri kodlarını, dil sürümünü, evreni ve ağırlık değişkenini eşleştirin. Mutluluk, yaşam doyumu ve öznel sağlık tek bir ruh sağlığı göstergesinde birleştirilmemelidir. Örneklem tasarımı ve ölçümlerin karşılaştırılabilirliği incelenmeden ülkeler arasında sıralama yapılmamalıdır.",
+            "en": "Cross-check question wording, response categories, missing-value codes, language version, target population and weight variable. Happiness, life satisfaction and self-rated health should not be merged into one mental-health indicator without justification. Examine sampling and measurement comparability before ranking countries.",
+            "de": "Fragetext, Antwortkategorien, Fehlwertcodes, Sprache, Grundgesamtheit und Gewicht abgleichen. Glück, Lebenszufriedenheit und subjektive Gesundheit nicht unbegründet zu einem psychischen Gesundheitsindikator zusammenfassen. Vor Länderranglisten Stichprobe und Messvergleichbarkeit prüfen.",
+            "zh": "核对题目措辞、选项、缺失值编码、语言版本、目标总体与权重。没有理由时，不要将幸福、生活满意度和自评健康合并成一个心理健康指标。国家排名前先审查抽样与测量可比性。",
+            "ru": "Сопоставьте формулировки, ответы, коды пропусков, язык, генеральную совокупность и веса. Не объединяйте счастье, удовлетворённость жизнью и самооценку здоровья в один показатель психического здоровья без обоснования. До ранжирования стран проверьте сопоставимость выборки и измерений.",
+            "ar": "قارن نص السؤال وفئات الإجابة ورموز المفقود واللغة والمجتمع المستهدف ومتغير الوزن. لا تدمج السعادة والرضا عن الحياة والصحة الذاتية في مؤشر واحد للصحة النفسية دون تبرير. افحص قابلية مقارنة العينات والقياس قبل ترتيب البلدان.",
+            "id": "Cocokkan redaksi, kategori jawaban, kode data hilang, versi bahasa, populasi, dan bobot. Jangan menggabungkan kebahagiaan, kepuasan hidup, dan kesehatan subjektif menjadi satu indikator kesehatan mental tanpa alasan. Periksa kesetaraan sampel dan pengukuran sebelum memeringkat negara.",
+            "ms": "Padankan ayat soalan, kategori jawapan, kod data hilang, versi bahasa, populasi dan pemberat. Jangan gabungkan kebahagiaan, kepuasan hidup dan kesihatan kendiri menjadi satu penunjuk kesihatan mental tanpa alasan. Semak kesetaraan sampel dan pengukuran sebelum menyusun kedudukan negara."
+          }
+        },
+        {
+          "heading": {
+            "tr": "Veriye erişmek ile veriyi yeniden paylaşmak ayrı konulardır",
+            "en": "Separate access from redistribution",
+            "de": "Zugang und Weitergabe unterscheiden",
+            "zh": "区分访问与再分发",
+            "ru": "Различайте доступ и распространение",
+            "ar": "افصل الوصول عن إعادة التوزيع",
+            "id": "Bedakan akses dan distribusi ulang",
+            "ms": "Bezakan akses dan pengedaran semula"
+          },
+          "text": {
+            "tr": "WVS kullanım koşulları veri dosyalarının yeniden dağıtılmasına izin vermez. MIDUS da verilerin yeniden dağıtılmasını ve kamuya açık yapay zekâ hizmetlerine yüklenmesini kısıtlar. Bu nedenle sitede ham veri barındırılmaz. Verinin özgün sağlayıcısına gidin; sürümü ve kullanım koşullarını analizinizden önce doğrulayın. FAIR ilkeleri, bütün verilerin koşulsuz olarak açık olduğu anlamına gelmez.",
+            "en": "WVS terms prohibit redistribution of data files. MIDUS also restricts redistribution and uploading data to public AI services. No raw data are hosted here. Users obtain data from the original provider and verify versions and terms before analysis. FAIR does not mean all data are unconditionally open.",
+            "de": "WVS untersagt die Weiterverteilung von Datendateien. MIDUS beschränkt ebenfalls Weitergabe und Uploads an öffentliche KI-Dienste. Hier werden keine Rohdaten gehostet. Daten beim Originalanbieter beziehen und Version sowie Bedingungen prüfen. FAIR bedeutet nicht bedingungslos offene Daten.",
+            "zh": "WVS 条款禁止再次分发数据文件。MIDUS 也限制再分发和上传至公共人工智能服务。本站不托管原始数据。使用者应从原始提供方获取数据，分析前核实版本和条款。FAIR 不等于所有数据无条件开放。",
+            "ru": "WVS запрещает повторное распространение файлов данных. MIDUS также ограничивает распространение и загрузку в публичные ИИ-сервисы. Здесь нет исходных данных. Получайте их у поставщика и проверяйте версию и условия до анализа. FAIR не означает безусловную открытость всех данных.",
+            "ar": "تحظر شروط WVS إعادة توزيع ملفات البيانات. ويقيّد MIDUS كذلك إعادة التوزيع والرفع إلى خدمات الذكاء الاصطناعي العامة. لا يستضيف الموقع بيانات خاماً. احصل عليها من الجهة الأصلية وتحقّق من الإصدار والشروط قبل التحليل. لا يعني FAIR انفتاح كل البيانات بلا شروط.",
+            "id": "WVS melarang distribusi ulang berkas data. MIDUS juga membatasi distribusi ulang dan pengunggahan ke layanan AI publik. Tidak ada data mentah yang dihosting di sini. Dapatkan data dari penyedia asli dan periksa versi serta syaratnya sebelum analisis. FAIR tidak berarti semua data terbuka tanpa syarat.",
+            "ms": "WVS melarang pengedaran semula fail data. MIDUS juga mengehadkan pengedaran semula dan muat naik ke perkhidmatan AI awam. Tiada data mentah dihoskan di sini. Dapatkan data daripada penyedia asal dan semak versi serta syarat sebelum analisis. FAIR tidak bermaksud semua data terbuka tanpa syarat."
+          }
+        }
+      ],
+      "prompt": {
+        "tr": "Türkiye’yi içeren bir karşılaştırma için ülkeyi, dalgayı, soru metnini, ağırlığı ve verinin yeniden kullanım koşullarını değişken eşleme şablonuna kaydedin.",
+        "en": "For a comparison involving Türkiye, record country, wave, question wording, weight and reuse terms in the crosswalk template.",
+        "de": "Für einen Vergleich mit der Türkei Land, Welle, Fragetext, Gewicht und Nutzungsbedingungen im Abgleich festhalten.",
+        "zh": "为涉及土耳其的比较记录国家、波次、题目措辞、权重和使用条件。",
+        "ru": "Для сравнения с Турцией запишите страну, волну, вопрос, вес и условия использования.",
+        "ar": "للمقارنة مع تركيا سجّل البلد والموجة ونص السؤال والوزن وشروط الاستخدام.",
+        "id": "Untuk perbandingan Türkiye, catat negara, gelombang, redaksi, bobot, dan syarat penggunaan.",
+        "ms": "Bagi perbandingan Türkiye, catat negara, gelombang, ayat soalan, pemberat dan syarat penggunaan."
+      },
+      "references": [
+        "wvs",
+        "evs",
+        "ess",
+        "midus",
+        "fair"
+      ],
+      "downloads": [
+        "variable-crosswalk.csv",
+        "data-access-manifest.json"
+      ],
+      "related": [],
+      "objectType": "teaching-guide",
+      "review": {
+        "scientific": "draft",
+        "method": "draft",
+        "humanLanguageReviewed": false
+      },
+      "sourceBasis": "MARSAM academic-content development report supplied by the owner, 2 October 2026"
+    },
+    {
+      "id": "reproducible-lab",
+      "title": {
+        "tr": "Katalog envanteri laboratuvarı",
+        "en": "Catalogue inventory laboratory",
+        "de": "Labor zum Katalogbestand",
+        "zh": "目录清单实验室",
+        "ru": "Лабораторная работа с каталогом",
+        "ar": "مختبر جرد الفهرس",
+        "id": "Laboratorium inventaris katalog",
+        "ms": "Makmal inventori katalog"
+      },
+      "summary": {
+        "tr": "Sitedeki katalogdan bir CSV dosyası oluşturun, dosyanın eksiksiz olduğunu doğrulayın ve kaynak türlerinin dağılımını aynı kodla yeniden hesaplayın.",
+        "en": "Export the published catalogue, verify file integrity and reproduce its source-type counts with the same code.",
+        "de": "Den veröffentlichten Katalog exportieren, Dateiintegrität prüfen und Quellentypen mit demselben Code erneut zählen.",
+        "zh": "导出已发布目录、验证文件完整性，并用相同代码复现来源类型计数。",
+        "ru": "Выгрузите опубликованный каталог, проверьте целостность файла и воспроизведите подсчёт типов источников.",
+        "ar": "صدّر الفهرس المنشور وتحقّق من سلامة الملف وأعد حساب أنواع المصادر بالشيفرة نفسها.",
+        "id": "Ekspor katalog terbitan, verifikasi integritas berkas, dan hitung ulang jenis sumber dengan kode yang sama.",
+        "ms": "Eksport katalog diterbitkan, sahkan integriti fail dan kira semula jenis sumber menggunakan kod yang sama."
+      },
+      "blocks": [
+        {
+          "heading": {
+            "tr": "Veri ve sonuç aynı sürüme bağlanmalıdır",
+            "en": "Bind data and output to one version",
+            "de": "Daten und Ausgabe an eine Version binden",
+            "zh": "将数据与结果绑定到同一版本",
+            "ru": "Свяжите данные и результат с одной версией",
+            "ar": "اربط البيانات والنتيجة بإصدار واحد",
+            "id": "Ikat data dan keluaran ke satu versi",
+            "ms": "Ikat data dan output pada satu versi"
+          },
+          "text": {
+            "tr": "Bu uygulamada katalogdaki her kaynağın kimlik numarası, özgün başlığı, türü, yılı, bağlantısı ve son inceleme kapsamı bir CSV dosyasında sunulmaktadır. Dosyadaki her satır bir kaynağı gösterir; katılımcı verisi içermez. Dosyanın değişmediğini doğrulamak için SHA256 özeti kaydedilmiştir. Python kodu önce bu özeti ve kimlik numaralarının tekrarlanmadığını denetler, ardından kaynak türlerinin dağılımını hesaplar.",
+            "en": "This exercise exports source ID, original title, type, year, URL and previous inspection scope as CSV. One record represents a source, not a participant. A SHA256 checksum identifies the file. Python first checks the checksum and unique IDs, then calculates counts by type.",
+            "de": "Die Übung exportiert Quellen-ID, Originaltitel, Typ, Jahr, URL und früheren Prüfumfang als CSV. Ein Eintrag ist eine Quelle, keine Person. SHA256 identifiziert die Datei. Python prüft Hash und eindeutige IDs, dann zählt es die Typen.",
+            "zh": "练习将来源编号、原始标题、类型、年份、网址和先前审读范围导出为 CSV。一条记录是一项来源，不是一位参与者。SHA256 校验和标识文件。Python 先验证校验和与唯一编号，再计算类型分布。",
+            "ru": "В CSV экспортируются ID, исходное название, тип, год, URL и прежний охват проверки. Запись означает источник, не участника. Файл определяется контрольной суммой SHA256. Python проверяет её и уникальность ID, затем подсчитывает типы.",
+            "ar": "يصدّر التمرين معرّف المصدر وعنوانه الأصلي ونوعه وسنته ورابطه ونطاق فحصه السابق إلى CSV. يمثل السجل مصدراً لا مشاركاً. يحدد SHA256 الملف. يفحص Python البصمة والمعرّفات الفريدة ثم يحسب الأنواع.",
+            "id": "Latihan mengekspor ID, judul asli, jenis, tahun, URL, dan cakupan telaah sebelumnya ke CSV. Satu baris adalah sumber, bukan peserta. SHA256 mengidentifikasi berkas. Python memeriksa checksum dan ID unik sebelum menghitung jenis.",
+            "ms": "Latihan mengeksport ID, tajuk asal, jenis, tahun, URL dan skop semakan terdahulu ke CSV. Satu rekod ialah sumber, bukan peserta. SHA256 mengenal pasti fail. Python menyemak checksum dan ID unik sebelum mengira jenis."
+          }
+        },
+        {
+          "heading": {
+            "tr": "Sayfadaki sonucu kendiniz yeniden hesaplayın",
+            "en": "Recompute the visible result",
+            "de": "Das sichtbare Ergebnis erneut berechnen",
+            "zh": "重新计算页面所示结果",
+            "ru": "Пересчитайте показанный результат",
+            "ar": "أعد حساب النتيجة المعروضة",
+            "id": "Hitung ulang hasil yang ditampilkan",
+            "ms": "Kira semula hasil yang dipaparkan"
+          },
+          "text": {
+            "tr": "Aşağıdaki tablo, site her güncellendiğinde mevcut katalogdan yeniden hesaplanmaktadır. İndirdiğiniz Python betiği aynı sonucu bağımsız olarak hesaplar ve kayıtlı sonuçla karşılaştırır. Betik yalnızca Python’un standart kütüphanesini kullanır. Aynı kod isteğe bağlı olarak bir Jupyter not defterinde ve bir Quarto dosyasında da sunulmaktadır.",
+            "en": "The table below is computed from the catalogue during the build. The downloaded Python script independently recomputes the result and compares it with the manifest. It uses the Python standard library. The optional notebook contains the same code. The Quarto file is configured to execute that script.",
+            "de": "Die Tabelle wird beim Build aus dem Katalog berechnet. Das Python-Skript berechnet das Ergebnis unabhängig erneut und vergleicht es mit dem Manifest. Es nutzt die Standardbibliothek. Das optionale Notebook enthält denselben Code. Die Quarto-Datei führt das Skript aus.",
+            "zh": "下表在构建时由目录计算。下载的 Python 脚本独立重算并与清单核对，仅使用标准库。可选 notebook 包含同样的代码，Quarto 文件配置为执行该脚本。",
+            "ru": "Таблица рассчитывается из каталога при сборке. Скачанный Python-скрипт независимо пересчитывает её и сравнивает с манифестом, используя стандартную библиотеку. Необязательный notebook содержит тот же код, а файл Quarto настроен на запуск скрипта.",
+            "ar": "يُحسب الجدول من الفهرس عند البناء. يعيد سكربت Python حسابه مستقلاً ويقارنه بملف التحقق مستخدماً المكتبة القياسية. يتضمن دفتر Jupyter الاختياري الشيفرة نفسها، ويُعدّ ملف Quarto لتشغيل السكربت.",
+            "id": "Tabel dihitung dari katalog saat build. Skrip Python menghitung ulang secara independen dan membandingkannya dengan manifes memakai pustaka standar. Notebook opsional memuat kode yang sama. Berkas Quarto dikonfigurasi menjalankan skrip tersebut.",
+            "ms": "Jadual dikira daripada katalog semasa binaan. Skrip Python mengira semula secara bebas dan membandingkannya dengan manifes menggunakan pustaka standard. Notebook pilihan mengandungi kod yang sama. Fail Quarto dikonfigurasi menjalankan skrip itu."
+          }
+        },
+        {
+          "heading": {
+            "tr": "Sonucun neyi göstermediği de açıkça belirtilmelidir",
+            "en": "Keep the interpretation bounded",
+            "de": "Die Interpretation begrenzen",
+            "zh": "明确结果不能说明什么",
+            "ru": "Ограничьте интерпретацию",
+            "ar": "وضّح حدود تفسير النتيجة",
+            "id": "Batasi penafsiran",
+            "ms": "Hadkan tafsiran"
+          },
+          "text": {
+            "tr": "Kaynak sayısı, bir müdahalenin etkililiğini ya da alanın büyüklüğünü göstermez. Katalogda yer almayan bir konuda araştırma yapılmadığı da söylenemez. Bu ilk uygulama, bir veri dosyasının bütünlüğünün nasıl denetleneceğini ve bir sonucun nasıl yeniden hesaplanacağını öğretmeyi amaçlamaktadır. Katılımcı verisi, klinik etki büyüklüğü ya da tamamlanmış bir meta-analiz içermemektedir.",
+            "en": "Source counts do not measure intervention efficacy or the size of the field. Absence from this catalogue is not absence of research. This first laboratory teaches metadata integrity and reproducible computation. It contains no participant data, clinical effect estimates or completed meta-analysis.",
+            "de": "Quellenzahlen messen weder Wirksamkeit noch Feldgröße. Fehlende Katalogeinträge belegen keine Forschungslücke. Dieses erste Labor lehrt Metadatenintegrität und reproduzierbares Rechnen. Es enthält keine Teilnehmerdaten, klinischen Effektschätzer oder fertige Metaanalyse.",
+            "zh": "来源数量不能衡量干预疗效或整个领域的规模。目录中缺少某主题，不等于没有相关研究。此练习教授元数据完整性与可复现计算，不含参与者数据、临床效应估计或已完成的荟萃分析。",
+            "ru": "Число источников не измеряет эффективность вмешательства или масштаб области. Отсутствие записи не доказывает отсутствие исследований. Лабораторная работа учит целостности метаданных и воспроизводимым вычислениям. В ней нет данных участников, клинических эффектов или готового метаанализа.",
+            "ar": "عدد المصادر ليس مقياساً للفعالية أو لحجم المجال. غياب موضوع من الفهرس لا يعني غياب البحث عنه. يعلّم المختبر سلامة البيانات الوصفية وإعادة الحساب. لا يحتوي على بيانات مشاركين أو تقديرات أثر سريري أو تحليل تلوي مكتمل.",
+            "id": "Jumlah sumber bukan ukuran efektivitas intervensi atau besar bidang. Tidak ada di katalog bukan berarti tidak ada penelitian. Laboratorium awal ini mengajarkan integritas metadata dan komputasi yang dapat diulang. Tidak memuat data peserta, efek klinis, atau meta-analisis lengkap.",
+            "ms": "Bilangan sumber bukan ukuran keberkesanan intervensi atau saiz bidang. Ketiadaan dalam katalog tidak membuktikan ketiadaan kajian. Makmal awal ini mengajar integriti metadata dan pengiraan boleh ulang. Tiada data peserta, anggaran kesan klinikal atau meta-analisis lengkap."
+          }
+        }
+      ],
+      "prompt": {
+        "tr": "Betiği önce dosyalarda değişiklik yapmadan çalıştırın. Ardından dosyanın bir kopyasında tek bir kaynağın başlığını değiştirip yeniden çalıştırın ve denetimin neden durduğunu açıklayın.",
+        "en": "Run the unchanged files first. Then change one title in a copy. Explain why the integrity check stops.",
+        "de": "Zuerst unveränderte Dateien ausführen. Dann in einer Kopie einen Titel ändern und den Abbruch erklären.",
+        "zh": "先运行未改动文件，再在副本中修改一个标题，说明完整性检查为何停止。",
+        "ru": "Сначала запустите неизменённые файлы. Затем измените один заголовок в копии и объясните остановку проверки.",
+        "ar": "شغّل الملفات دون تعديل ثم غيّر عنواناً في نسخة. فسّر سبب توقف فحص السلامة.",
+        "id": "Jalankan berkas asli, lalu ubah satu judul pada salinan. Jelaskan mengapa pemeriksaan integritas berhenti.",
+        "ms": "Jalankan fail asal, kemudian ubah satu tajuk pada salinan. Jelaskan sebab semakan integriti berhenti."
+      },
+      "references": [
+        "jupyter",
+        "quarto",
+        "fair"
+      ],
+      "downloads": [
+        "catalogue.csv",
+        "lab-manifest.json",
+        "catalogue_lab.py",
+        "catalogue.ipynb",
+        "catalogue.qmd",
+        "catalogue.csl.json"
+      ],
+      "related": [],
+      "objectType": "teaching-guide",
+      "review": {
+        "scientific": "draft",
+        "method": "draft",
+        "humanLanguageReviewed": false
+      },
+      "sourceBasis": "MARSAM academic-content development report supplied by the owner, 2 October 2026"
+    }
+  ],
+  "references": {
+    "prisma": {
+      "title": "PRISMA 2020 statement",
+      "url": "https://www.prisma-statement.org/prisma-2020",
+      "role": "reporting-guidance"
+    },
+    "cosmin": {
+      "title": "COSMIN. Guideline for systematic reviews of outcome measurement instruments",
+      "url": "https://www.cosmin.nl/tools/guideline-conducting-systematic-review-outcome-measures/",
+      "role": "measurement-methods"
+    },
+    "wvs": {
+      "title": "World Values Survey. Data documentation and conditions of use",
+      "url": "https://www.worldvaluessurvey.org/WVSContents.jsp?CMSID=Documentation",
+      "terms": "https://www.worldvaluessurvey.org/AJDownloadLicense.jsp",
+      "role": "external-data-provider"
+    },
+    "evs": {
+      "title": "European Values Study. Data and documentation",
+      "url": "https://europeanvaluesstudy.eu/surveys/integrated-values-surveys/data-and-documentation/",
+      "role": "external-data-provider"
+    },
+    "ess": {
+      "title": "European Social Survey. Data Portal",
+      "url": "https://www.europeansocialsurvey.org/data-portal",
+      "role": "external-data-provider"
+    },
+    "midus": {
+      "title": "MIDUS. Data access and conditions of use",
+      "url": "https://midus.wisc.edu/data-access/",
+      "role": "external-data-provider"
+    },
+    "fair": {
+      "title": "Wilkinson et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship",
+      "url": "https://doi.org/10.1038/sdata.2016.18",
+      "role": "research-data-principles"
+    },
+    "jupyter": {
+      "title": "Jupyter nbconvert. Using as a command line tool",
+      "url": "https://nbconvert.readthedocs.io/en/latest/usage.html",
+      "role": "technical-documentation"
+    },
+    "quarto": {
+      "title": "Quarto. Using Python",
+      "url": "https://quarto.org/docs/computations/python.html",
+      "role": "technical-documentation"
+    }
+  }
+}

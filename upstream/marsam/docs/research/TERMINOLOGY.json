@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 1,
+  "status": "AI_ASSISTED_EDITORIAL_DRAFT",
+  "languageAuthority": null,
+  "records": [
+    {
+      "id": "spirituality",
+      "terms": {
+        "tr": "Maneviyat",
+        "en": "Spirituality",
+        "de": "Spiritualität",
+        "zh": "灵性",
+        "ru": "Духовность",
+        "ar": "الروحانية",
+        "id": "Spiritualitas",
+        "ms": "Kerohanian"
+      },
+      "editorialBoundary": "Do not assume institutional religious affiliation, a universal definition, or clinical benefit.",
+      "humanReviewed": false
+    },
+    {
+      "id": "religiosity",
+      "terms": {
+        "tr": "Dindarlık",
+        "en": "Religiosity",
+        "de": "Religiosität",
+        "zh": "宗教性",
+        "ru": "Религиозность",
+        "ar": "التدين",
+        "id": "Religiositas",
+        "ms": "Religiositi"
+      },
+      "editorialBoundary": "Specify behavioural, motivational or belief dimensions. Do not use as a synonym for spirituality.",
+      "humanReviewed": false
+    },
+    {
+      "id": "meaning",
+      "terms": {
+        "tr": "Yaşamda anlam",
+        "en": "Meaning in life",
+        "de": "Sinn im Leben",
+        "zh": "生命意义",
+        "ru": "Смысл жизни",
+        "ar": "معنى الحياة",
+        "id": "Makna hidup",
+        "ms": "Makna hidup"
+      },
+      "editorialBoundary": "Presence and search are distinct. Meaning can be religious or nonreligious.",
+      "humanReviewed": false
+    },
+    {
+      "id": "wellbeing",
+      "terms": {
+        "tr": "İyi oluş",
+        "en": "Wellbeing",
+        "de": "Wohlbefinden",
+        "zh": "福祉",
+        "ru": "Благополучие",
+        "ar": "الرفاه",
+        "id": "Kesejahteraan",
+        "ms": "Kesejahteraan"
+      },
+      "editorialBoundary": "Define outcome domain. Do not infer absence of disorder from positive wellbeing.",
+      "humanReviewed": false
+    },
+    {
+      "id": "spiritual-wellbeing",
+      "terms": {
+        "tr": "Manevi iyi oluş",
+        "en": "Spiritual wellbeing",
+        "de": "Spirituelles Wohlbefinden",
+        "zh": "灵性福祉",
+        "ru": "Духовное благополучие",
+        "ar": "الرفاه الروحاني",
+        "id": "Kesejahteraan spiritual",
+        "ms": "Kesejahteraan rohani"
+      },
+      "editorialBoundary": "Inspect conceptual overlap with mental health before interpreting associations.",
+      "humanReviewed": false
+    },
+    {
+      "id": "religious-coping",
+      "terms": {
+        "tr": "Dini başa çıkma",
+        "en": "Religious coping",
+        "de": "Religiöse Bewältigung",
+        "zh": "宗教应对",
+        "ru": "Религиозное совладание",
+        "ar": "التكيف الديني",
+        "id": "Koping religius",
+        "ms": "Daya tindak beragama"
+      },
+      "editorialBoundary": "Positive and negative dimensions are not a single continuum by default.",
+      "humanReviewed": false
+    },
+    {
+      "id": "spiritual-struggles",
+      "terms": {
+        "tr": "Manevi mücadele",
+        "en": "Spiritual struggles",
+        "de": "Spirituelle Konflikte",
+        "zh": "灵性挣扎",
+        "ru": "Духовные трудности",
+        "ar": "الصراعات الروحانية",
+        "id": "Pergumulan spiritual",
+        "ms": "Pergolakan kerohanian"
+      },
+      "editorialBoundary": "Tension, conflict and distress are not automatically a psychiatric disorder.",
+      "humanReviewed": false
+    },
+    {
+      "id": "association",
+      "terms": {
+        "tr": "İlişki",
+        "en": "Association",
+        "de": "Zusammenhang",
+        "zh": "关联",
+        "ru": "Связь",
+        "ar": "ارتباط",
+        "id": "Hubungan",
+        "ms": "Perkaitan"
+      },
+      "editorialBoundary": "Use association language for observational designs, not treatment effects.",
+      "humanReviewed": false
+    },
+    {
+      "id": "causation",
+      "terms": {
+        "tr": "Nedensellik",
+        "en": "Causation",
+        "de": "Kausalität",
+        "zh": "因果关系",
+        "ru": "Причинность",
+        "ar": "السببية",
+        "id": "Hubungan sebab akibat",
+        "ms": "Hubungan sebab akibat"
+      },
+      "editorialBoundary": "Needs a justified identification strategy, not temporal order alone.",
+      "humanReviewed": false
+    },
+    {
+      "id": "measurement-invariance",
+      "terms": {
+        "tr": "Ölçüm değişmezliği",
+        "en": "Measurement invariance",
+        "de": "Messinvarianz",
+        "zh": "测量不变性",
+        "ru": "Измерительная инвариантность",
+        "ar": "ثبات القياس عبر المجموعات",
+        "id": "Invariansi pengukuran",
+        "ms": "Invarians pengukuran"
+      },
+      "editorialBoundary": "Translation or internal consistency alone does not establish group comparability.",
+      "humanReviewed": false
+    },
+    {
+      "id": "informed-consent",
+      "terms": {
+        "tr": "Aydınlatılmış onam",
+        "en": "Informed consent",
+        "de": "Informierte Einwilligung",
+        "zh": "知情同意",
+        "ru": "Информированное согласие",
+        "ar": "الموافقة المستنيرة",
+        "id": "Persetujuan berdasarkan informasi",
+        "ms": "Persetujuan termaklum"
+      },
+      "editorialBoundary": "Never imply consent from religious identity or therapist preference.",
+      "humanReviewed": false
+    },
+    {
+      "id": "nonreligious",
+      "terms": {
+        "tr": "Dini inancı olmayan",
+        "en": "Nonreligious",
+        "de": "Nichtreligiös",
+        "zh": "无宗教信仰",
+        "ru": "Нерелигиозный",
+        "ar": "غير متدين",
+        "id": "Nonreligius",
+        "ms": "Tanpa pegangan agama"
+      },
+      "editorialBoundary": "Not interchangeable with atheist, agnostic or spiritual-but-not-religious identities.",
+      "humanReviewed": false
+    },
+    {
+      "id": "validity",
+      "terms": {
+        "tr": "Geçerlik",
+        "en": "Validity",
+        "de": "Validität",
+        "zh": "效度",
+        "ru": "Валидность",
+        "ar": "الصلاحية",
+        "id": "Validitas",
+        "ms": "Kesahan"
+      },
+      "editorialBoundary": "A property of supported score interpretations and uses in context, not a universal badge.",
+      "humanReviewed": false
+    },
+    {
+      "id": "reliability",
+      "terms": {
+        "tr": "Güvenirlik",
+        "en": "Reliability",
+        "de": "Reliabilität",
+        "zh": "信度",
+        "ru": "Надёжность",
+        "ar": "الثبات",
+        "id": "Reliabilitas",
+        "ms": "Kebolehpercayaan"
+      },
+      "editorialBoundary": "Internal consistency is one form of reliability, not validity or clinical accuracy.",
+      "humanReviewed": false
+    }
+  ]
+}

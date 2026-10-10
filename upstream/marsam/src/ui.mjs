@@ -1,0 +1,7 @@
+import {route,escapeHTML as e} from './lib.mjs';
+const iconPaths={arrow:'M5 12h14m-6-6 6 6-6 6',search:'m21 21-4.3-4.3M19 10.5a8.5 8.5 0 1 1-17 0 8.5 8.5 0 0 1 17 0',book:'M4 3h6a3 3 0 0 1 3 3v15a4 4 0 0 0-4-2H4V3Zm16 0h-4a3 3 0 0 0-3 3v15a4 4 0 0 1 4-2h3V3Z',bookmark:'M6 3h12v18l-6-4-6 4V3Z',globe:'M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0ZM3 12h18M12 3c4 5 4 13 0 18M12 3c-4 5-4 13 0 18',close:'m6 6 12 12M6 18 18 6',check:'m5 12 4 4L19 6',external:'M14 3h7v7m0-7L10 14M10 3H4v17h17v-6',circle:'M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0ZM12 8v4m0 4v.1',layers:'m12 3 10 5-10 5L2 8l10-5ZM2 12l10 5 10-5M2 16l10 5 10-5',leaf:'M5 19C2 10 9 3 21 3c0 12-7 19-16 16Zm0 0L16 8',file:'M14 2H5v20h14V7l-5-5Zm0 0v5h5M8 12h8m-8 4h6'};
+export const icon=(name,cls='')=>`<svg class="icon ${name==='arrow'?'direction-arrow':''} ${cls}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="${iconPaths[name]||iconPaths.file}"/></svg>`;
+
+export const articleURL=(locale,id,base)=>route(locale,`dossier/${id}`,base);
+export const resourceURL=(locale,id,base)=>route(locale,`resource/${id}`,base);
+export function compareButton(id,l,copy){return `<button type="button" class="compare-toggle" data-compare-id="${e(id)}" aria-pressed="false" aria-label="${e(copy.compareAdd)}">${icon('layers')}<span>${e(copy.compareAdd)}</span></button>`;}

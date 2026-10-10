@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "objectType": "template",
+  "status": "not-completed",
+  "dataset": null,
+  "providerURL": null,
+  "version": null,
+  "termsURL": null,
+  "termsCheckedAt": null,
+  "redistributionAllowed": null,
+  "publicAIUploadAllowed": null,
+  "participantDataIncluded": false,
+  "downloadPerformed": false,
+  "reviewer": null
+}

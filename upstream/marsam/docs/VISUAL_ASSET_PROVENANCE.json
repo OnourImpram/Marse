@@ -1,0 +1,19 @@
+{
+  "creator": "Engin Akyurt",
+  "source": "https://www.pexels.com/photo/blue-water-in-close-up-photography-12987590/",
+  "license": "https://www.pexels.com/license/",
+  "role": "Decorative water texture, not a photograph of MARSAM, a campus, research, staff or a therapeutic intervention.",
+  "checked": "2026-10-01",
+  "originalSHA256": "78a94f77777a54cdae404f4e2ad6a601049e1c8324f8d7e6314fc194414db919",
+  "derivatives": {
+    "water-1440.webp": {
+      "sha256": "c1bac343f7580a01b83be17be528701fb32cf176a04958458454ea28691a09fd",
+      "bytes": 251854
+    },
+    "water-640.webp": {
+      "sha256": "0212a47e77d66b00c5d097c25e10a8e95dbcf632647b1030fe2d9e60a0e648b8",
+      "bytes": 74110
+    }
+  },
+  "presentation": "Decorative backdrop with CSS tint and nonrepresentational orbital linework. No therapeutic or institutional claim."
+}

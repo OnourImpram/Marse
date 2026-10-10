@@ -1,0 +1,34 @@
+import {mkdir,readFile,writeFile,cp} from 'node:fs/promises';
+import {createHash} from 'node:crypto';
+import {join} from 'node:path';
+import {sources} from '../src/catalogue.mjs';
+import {RELEASE} from '../src/release.mjs';
+import {researchGuides,researchCopy,researchReferences} from '../src/research-data.mjs';
+import {translationRecord,digest} from '../src/messages.mjs';
+import {locales} from '../src/languages.mjs';
+const csvCell=v=>'"'+String(v??'').replaceAll('"','""')+'"';
+export async function emitResearchArtifacts(root,dist){
+ const dir=join(dist,'research-downloads');await mkdir(dir,{recursive:true});
+ await mkdir(join(dist,'data'),{recursive:true});
+ await cp(join(root,'research/templates'),dir,{recursive:true});
+ const keys=['source_id','original_title','kind','year','url','inspection','checked'];
+ const records=sources.map(s=>({source_id:s.id,original_title:s.title,kind:s.kind,year:s.year??'',url:s.url,inspection:s.inspection,checked:s.checked}));
+ const csv=keys.join(',')+'\n'+records.map(r=>keys.map(k=>csvCell(r[k])).join(',')).join('\n')+'\n';
+ await writeFile(join(dir,'catalogue.csv'),csv);
+ const counts={};for(const r of records)counts[r.kind]=(counts[r.kind]||0)+1;
+ const result={records:records.length,by_type:Object.fromEntries(Object.entries(counts).sort())};
+ const code=await readFile(join(root,'research/lab/catalogue_lab.py'),'utf8');
+ const manifest={schemaVersion:1,objectType:'catalogue-inventory-teaching-example',version:RELEASE.version,sourceModule:'src/catalogue.mjs',sourceRecordHash:digest(records),scope:'Selected catalogue only. Not a field census, systematic evidence map or clinical dataset.',dataFile:'catalogue.csv',dataSHA256:createHash('sha256').update(csv).digest('hex'),codeSHA256:createHash('sha256').update(code).digest('hex'),expectedResult:result,participantData:false,scientificApproval:false,humanLanguageReview:false,rights:'No new licence is granted to underlying sources. Bibliographic export does not grant full-text, instrument or image reuse.'};
+ await writeFile(join(dir,'lab-manifest.json'),JSON.stringify(manifest,null,2)+'\n');
+ await writeFile(join(dir,'catalogue_lab.py'),code);
+ const markdown='Catalogue inventory exercise. Selected public bibliographic metadata only, not participant data or a systematic evidence map. Keep catalogue.csv and lab-manifest.json in the working directory. Run all cells to recompute, rather than relying on stored output. Python 3.10 or later. No third-party Python package is needed by the analysis code.';
+ const notebook={nbformat:4,nbformat_minor:5,metadata:{kernelspec:{display_name:'Python 3',language:'python',name:'python3'},language_info:{name:'python'}},cells:[{id:'scope',cell_type:'markdown',metadata:{},source:[markdown]},{id:'inventory',cell_type:'code',metadata:{},execution_count:null,outputs:[],source:[code]}]};
+ await writeFile(join(dir,'catalogue.ipynb'),JSON.stringify(notebook,null,2)+'\n');
+ await writeFile(join(dir,'catalogue.qmd'),'---\ntitle: "MARSAM catalogue inventory"\nformat: html\njupyter: python3\n---\n\n'+markdown+'\n\n```{python}\nfrom catalogue_lab import analyze\nfrom pathlib import Path\nimport json\nprint(json.dumps(analyze(Path.cwd()), ensure_ascii=False, indent=2))\n```\n');
+ const csl=sources.map(s=>{const b=s.bibliography||{};const out={id:s.id,type:b.type==='book'?'book':b.type==='article'?'article-journal':'webpage',title:s.title,URL:s.url,note:s.citation};if(s.year&&Number.isFinite(Number(s.year)))out.issued={'date-parts':[[Number(s.year)]]};for(const [from,to]of [['doi','DOI'],['isbn','ISBN'],['journal','container-title'],['publisher','publisher'],['volume','volume'],['issue','issue'],['pages','page'],['edition','edition']])if(b[from])out[to]=String(b[from]);for(const [from,to]of [['authors','author'],['editors','editor']])if(b[from]?.length)out[to]=b[from].map(name=>({literal:name}));return out;});
+ await writeFile(join(dir,'catalogue.csl.json'),JSON.stringify(csl,null,2)+'\n');
+ await cp(join(root,'schemas/research-object.schema.json'),join(dir,'research-object.schema.json'));
+ const translations=researchGuides.flatMap(g=>locales.map(l=>translationRecord(g.id,l,{title:g.title.tr,summary:g.summary.tr,blocks:g.blocks.map(x=>({heading:x.heading.tr,text:x.text.tr})),prompt:g.prompt.tr},{title:g.title[l],summary:g.summary[l],blocks:g.blocks.map(x=>({heading:x.heading[l],text:x.text[l]})),prompt:g.prompt[l]})));
+ const guideLedger={schemaVersion:1,date:RELEASE.date,version:RELEASE.version,sourceReports:[{title:'MARSAM için Akademik İçerik, Açık Bilim ve Araştırma Altyapısı Geliştirme Raporu',date:'2026-10-02',role:'owner-supplied development recommendations, not completed study evidence'},{title:'MARSAM design and UX research report',date:'2026-10-01',role:'design reference, superseded by later annotated owner instructions where conflicting'}],objects:researchGuides.map(g=>({id:g.id,objectType:g.objectType,version:'1.0.0',review:g.review,sources:g.references,contentHash:digest(g)})),references:researchReferences,translationRecords:translations,sourceInspection:'Referenced official documentation consulted. Existing catalogue records not re-reviewed.',scientificApproval:false,institutionalApproval:false};
+ await writeFile(join(dist,'data/research-object-ledger.json'),JSON.stringify(guideLedger,null,2)+'\n');
+}

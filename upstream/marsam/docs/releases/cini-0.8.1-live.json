@@ -1,0 +1,32 @@
+{
+  "version": "0.8.1",
+  "status": "live-verified",
+  "date": "2026-10-02",
+  "sourceCommit": "0bf0a06f122ffc808273d918ef77ebe9ef79ba5d",
+  "hostCommit": "a0cb5bc1bd1a0bdc9fc1d77ea324b15ecf8848c8",
+  "siteTree": "0471e3096f86fd8d6bab1d5567369ae535c78afd",
+  "sourceVerificationRun": 37052908156,
+  "liveVerificationRun": 37054039081,
+  "artifactId": 11248380522,
+  "artifactSHA256": "766b8c07e431c0aef17e30c75db2dc96742492312e593959ec883a76cb2066c6",
+  "publicOrigin": "https://onourimpram.github.io",
+  "liveFileHashesMatched": 649,
+  "checks": {"cini": 1225, "core": 818, "scope": 899, "layout": 2627, "research": 2324},
+  "browsers": ["chromium", "firefox", "webkit"],
+  "locales": ["tr", "en", "de", "zh", "ru", "ar", "id", "ms"],
+  "ciniViewportWidths": [320, 390, 768, 1440, 1920],
+  "visualInspection": ["live-tr-1440.png", "live-tr-1920.png", "live-tr-390.png", "live-research.png"],
+  "academicContentChanged": false,
+  "newSVGTotalGzipBytes": 3105,
+  "fieldCoreWebVitalsMeasured": false,
+  "formalApproval": false,
+  "scientificApproval": false,
+  "humanLanguageReview": false,
+  "preservedRootEntries": {
+    ".github": "1f0e1abf32f2f8bf1415e5024227ec49ef203212",
+    ".nojekyll": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+    "README.md": "69d6028c849d8088bfb87fb94b99ea9ed37b68c5",
+    "elif-tasarim": "6199523b0b87b7abaa7b61c8dab67332a1858a86",
+    "index.html": "501229ef0c1d25dbc4554e27ca089b03e590c7e0"
+  }
+}

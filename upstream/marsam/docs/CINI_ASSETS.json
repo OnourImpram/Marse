@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-02",
+  "assets": [
+    {
+      "path": "public/assets/cini/iznik-corner-a.svg",
+      "sha256": "744a7253627ddddf155f091f21cee7cd947a50022c08d62dbb1802cc6e5fd140",
+      "origin": "original-vector-composition-created-for-MARSAM",
+      "thirdPartyArtworkCopied": false,
+      "humanArtReview": false
+    },
+    {
+      "path": "public/assets/cini/iznik-corner-b.svg",
+      "sha256": "33e27b2652b29e8b43dffff1011d379f44fda91c3d433dfe1206327b8bf32fde",
+      "origin": "original-vector-composition-created-for-MARSAM",
+      "thirdPartyArtworkCopied": false,
+      "humanArtReview": false
+    }
+  ],
+  "rightsNote": "No third-party artwork copied. No new blanket code or institutional trademark licence is assigned."
+}

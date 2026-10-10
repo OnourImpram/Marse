@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "version": "0.10.1",
+  "status": "LIVE_TECHNICAL_ACCEPTANCE_PASSED",
+  "sourceCommit": "f0572eb27dcd9324e07746ea89e192cbda47af23",
+  "sourceTree": "bb1c05e647a05647fdb6941c5eaada918a145427",
+  "hostCommit": "12ed97027a1b7e46498497089bd95693370f0b39",
+  "hostTree": "20fac04d9ad567bed6d981bb4495cc6f9a88934f",
+  "marsamSubtree": "60e003ff2aeac71e0d81ad573d06f0358f94be47",
+  "baselineSource": "9472f073ad69d02d9b6c73c6687ce8b2264b14fe",
+  "baselineHost": "17f646b3ef890c4ea9d2b28735f238c507b6ff71",
+  "publicURL": "https://onourimpram.github.io/MARSAM/tr/",
+  "asset": {
+    "path": "assets/heritage/portal-continuous-v1.svg",
+    "sha256": "2321afc7d91b5a66e435a4a252ac143b194c2168628fc13dee8ddd00ade7c0d7",
+    "bytes": 105344,
+    "originalWebPBytesUnchanged": true,
+    "independentCSSOverlays": false
+  },
+  "rootCause": "The former lower-left rectangular mirror crossed the bottom rail. Independently resampled mobile base and overlays were an additional rendering inconsistency. Resolution matching alone did not repair the geometric splice.",
+  "fix": "A single self-contained SVG embeds the original WebP once and reuses its right-side first-arch contour, with curved bounds and a diagonal foot ending before the bottom rail. No regenerated image or text.",
+  "runs": {
+    "candidate": {"id": 37226010682, "conclusion": "success"},
+    "sourceMain": {"id": 37226722972, "conclusion": "success"},
+    "hostStaging": {"id": 37226744748, "conclusion": "success"},
+    "pagesDeployment": {"id": 37226834651, "conclusion": "success"},
+    "publicAcceptance": {"id": 37226348343, "conclusion": "success"}
+  },
+  "candidate": {
+    "sourceTests": 112,
+    "buildTests": 11,
+    "deploymentRoots": ["/", "/MARSAM/"],
+    "notebookTests": 5,
+    "existingBrowserChecks": 10577,
+    "portalChecks": 745,
+    "browserTotal": 11322,
+    "regressionBeforeFix": {"tests": 2, "failedAsExpected": 2}
+  },
+  "publicAcceptance": {
+    "files": 883,
+    "html": 730,
+    "fileFailures": [],
+    "fileInspectionAt": "2026-10-04T19:04:32.987198+00:00",
+    "portalChecks": 745,
+    "coreChecks": 818,
+    "success": true,
+    "realHTTP": true,
+    "errors": [],
+    "widths": [320, 390, 650, 651, 900, 1440],
+    "engines": ["chromium", "firefox", "webkit"],
+    "pixelDensities": [1, 3],
+    "locales": ["tr", "en", "de", "zh", "ru", "ar", "id", "ms"],
+    "highDensityLocales": ["tr", "ar"],
+    "mobilePixelsMatchCandidate": true,
+    "protectedSampleMaximumPixelDifference": 0,
+    "correctedFootMaximumPixelDifferenceFromReflectedOriginal": 0
+  },
+  "preserved": {"sources": 44, "structuredEvidenceRecords": 19, "localeRows": 152, "evidenceContentChanged": false, "founderNarrativeChanged": false, "unrelatedHostEntriesChanged": false},
+  "artifacts": {
+    "candidate": {"id": 11311339639, "sha256": "d7653dc8c6890e57a3156ceadf8476183fc56ea564d49eb15b71911a1316b583"},
+    "public": {"id": 11312078881, "sha256": "ef06197ea946e8fba059e53ac06a2bfa2da685b3e81da28ed2b9011a6abffc9e"}
+  },
+  "review": {"formalInstitutionalApproval": false, "scientificApproval": false, "humanLanguageApproval": false, "newLiteratureReviewPerformed": false},
+  "note": "Bound to the released source payload, not subsequent documentation-only commits. Protected pixel samples are checked against the original artwork rather than the defective 0.10.0 screenshot. This is not a universal visual or accessibility certification."
+}

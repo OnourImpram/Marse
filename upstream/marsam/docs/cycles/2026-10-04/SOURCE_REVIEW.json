@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-04",
+  "method": "Targeted primary-source curation and sequential AI-assisted editorial review. Not a systematic database search, full critical appraisal, independent reviewer panel or human approval.",
+  "records": [
+    {
+      "id": "within-person-attendance",
+      "title": "Does Religious-Service Attendance Increase Mental Health? A Random-Intercept Cross-Lagged Panel Analysis Across 18 Years",
+      "doi": "10.1177/09567976251325449",
+      "primaryLocations": [
+        "https://pubmed.ncbi.nlm.nih.gov/40112215/",
+        "https://journals.sagepub.com/doi/10.1177/09567976251325449"
+      ],
+      "inspected": "Publisher abstract, open-practices statement and PubMed bibliographic record inspected. Full model specification and all sensitivity analyses were not independently appraised or reproduced.",
+      "sourceStatus": "PARTIALLY_VERIFIED",
+      "scientificApproval": false,
+      "nativeLanguageReview": false,
+      "rights": "link-only",
+      "fullTextRehosted": false,
+      "reviewedDrafts": [
+        "tr",
+        "en",
+        "de",
+        "zh",
+        "ru",
+        "ar",
+        "id",
+        "ms"
+      ],
+      "selectionReason": "Within-person analyses of religious attendance and mental health directly test a central MARSAM question and challenge an automatic protective interpretation. Retain the majority-null finding and its observational limits."
+    },
+    {
+      "id": "bidirectional-alspac",
+      "title": "Exploring bidirectional causality between religion and mental health: A longitudinal study using data from the parent generation of a UK birth cohort",
+      "doi": "10.1371/journal.pone.0319796",
+      "primaryLocations": [
+        "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319796",
+        "https://pubmed.ncbi.nlm.nih.gov/40100890/"
+      ],
+      "inspected": "Publisher HTML abstract, design description, main results, limitations and bibliographic metadata inspected. Supplementary models, preregistration deviations and all numerical estimates were not independently audited.",
+      "sourceStatus": "PARTIALLY_VERIFIED",
+      "scientificApproval": false,
+      "nativeLanguageReview": false,
+      "rights": "link-only",
+      "fullTextRehosted": false,
+      "reviewedDrafts": [
+        "tr",
+        "en",
+        "de",
+        "zh",
+        "ru",
+        "ar",
+        "id",
+        "ms"
+      ],
+      "selectionReason": "Preregistered longitudinal religious belief, attendance, depression and anxiety analyses address reverse direction and uncertain effects. The UK parent cohort cannot stand for all populations."
+    },
+    {
+      "id": "brazil-medical-students",
+      "title": "Religiosity, Mental Health and Quality of Life of Brazilian Medical Students: A 2-Year Follow-Up Study",
+      "doi": "10.1007/s10943-025-02461-w",
+      "primaryLocations": [
+        "https://pubmed.ncbi.nlm.nih.gov/41046488/",
+        "https://doi.org/10.1007/s10943-025-02461-w"
+      ],
+      "inspected": "PubMed metadata and publisher-supplied abstract inspected. Full methods, attrition, model specification and correction history were not comprehensively appraised.",
+      "sourceStatus": "PARTIALLY_VERIFIED",
+      "scientificApproval": false,
+      "nativeLanguageReview": false,
+      "rights": "link-only",
+      "fullTextRehosted": false,
+      "reviewedDrafts": [
+        "tr",
+        "en",
+        "de",
+        "zh",
+        "ru",
+        "ar",
+        "id",
+        "ms"
+      ],
+      "selectionReason": "A Brazilian longitudinal study links organisational religiosity and mental-health outcomes and reports DUREL use. This adds a non-US/European population, not a geographic quality quota or a measure-validation claim."
+    },
+    {
+      "id": "turkish-bereavement",
+      "title": "The mediating role of spiritual well-being, meaning in life, and religiosity in the relationship between loneliness and mental well-being among Turkish older adults experiencing spousal loss",
+      "doi": "10.1080/13607863.2025.2606354",
+      "primaryLocations": [
+        "https://www.tandfonline.com/doi/full/10.1080/13607863.2025.2606354",
+        "https://pubmed.ncbi.nlm.nih.gov/41447499/"
+      ],
+      "inspected": "Publisher abstract, PubMed metadata and Bursa Uludag institutional publication record inspected. The inspected abstract does not specify temporal ordering, so the catalogue does not assert a cross-sectional or longitudinal design.",
+      "sourceStatus": "PARTIALLY_VERIFIED",
+      "scientificApproval": false,
+      "nativeLanguageReview": false,
+      "rights": "link-only",
+      "fullTextRehosted": false,
+      "reviewedDrafts": [
+        "tr",
+        "en",
+        "de",
+        "zh",
+        "ru",
+        "ar",
+        "id",
+        "ms"
+      ],
+      "selectionReason": "Direct Turkish evidence on spiritual wellbeing, meaning, loneliness and mental wellbeing after spousal loss. The authors and reported affiliations extend beyond the founder and Marmara. Temporal design is not inferred from the abstract."
+    },
+    {
+      "id": "psychosis-spirituality",
+      "title": "The Role of Spirituality and Religiosity in the Maintenance and Recovery of Psychosis: A Systematic Review",
+      "doi": "10.1111/eip.70061",
+      "primaryLocations": [
+        "https://pubmed.ncbi.nlm.nih.gov/40605616/",
+        "https://onlinelibrary.wiley.com/doi/10.1111/eip.70061"
+      ],
+      "inspected": "Publisher-supplied abstract, bibliographic record and indexed methods excerpts inspected. The full study-level quality table and proposed clinical models were not independently evaluated. Association language is retained rather than adopting causal wording from the abstract.",
+      "sourceStatus": "PARTIALLY_VERIFIED",
+      "scientificApproval": false,
+      "nativeLanguageReview": false,
+      "rights": "link-only",
+      "fullTextRehosted": false,
+      "reviewedDrafts": [
+        "tr",
+        "en",
+        "de",
+        "zh",
+        "ru",
+        "ar",
+        "id",
+        "ms"
+      ],
+      "selectionReason": "A systematic review directly examines religious/spiritual experience in psychosis and differentiates coping patterns. Associations and proposed clinical models must not be represented as validated interventions."
+    },
+    {
+      "id": "clergy-abuse-harm",
+      "title": "The impact of clergy sexual abuse on spirituality and health: A systematic scoping review of the literature",
+      "doi": "10.1371/journal.pone.0317821",
+      "primaryLocations": [
+        "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317821"
+      ],
+      "inspected": "Publisher HTML abstract, scope, methods, results and limitations inspected. Quality appraisal was not undertaken by the review. No figures, tables or survivor narratives are republished.",
+      "sourceStatus": "PARTIALLY_VERIFIED",
+      "scientificApproval": false,
+      "nativeLanguageReview": false,
+      "rights": "link-only",
+      "fullTextRehosted": false,
+      "reviewedDrafts": [
+        "tr",
+        "en",
+        "de",
+        "zh",
+        "ru",
+        "ar",
+        "id",
+        "ms"
+      ],
+      "selectionReason": "Spiritual harm and health following clergy sexual abuse directly address adverse religious experiences. Its scoping design, Catholic focus and absent quality appraisal prevent diagnostic or treatment-efficacy claims."
+    }
+  ]
+}

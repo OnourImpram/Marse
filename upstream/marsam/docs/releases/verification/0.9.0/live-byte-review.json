@@ -1,0 +1,27 @@
+{
+  "success": true,
+  "sourceCommit": "05963f0512cab78e599945448d4365a6a705b835",
+  "version": "0.9.0",
+  "filesVerified": 784,
+  "archivedRoutes404": [
+    "https://onourimpram.github.io/MARSAM/tr/resource/discovering-spirituality/",
+    "https://onourimpram.github.io/MARSAM/tr/resource/spiritual-practices/",
+    "https://onourimpram.github.io/MARSAM/en/resource/discovering-spirituality/",
+    "https://onourimpram.github.io/MARSAM/en/resource/spiritual-practices/",
+    "https://onourimpram.github.io/MARSAM/de/resource/discovering-spirituality/",
+    "https://onourimpram.github.io/MARSAM/de/resource/spiritual-practices/",
+    "https://onourimpram.github.io/MARSAM/zh/resource/discovering-spirituality/",
+    "https://onourimpram.github.io/MARSAM/zh/resource/spiritual-practices/",
+    "https://onourimpram.github.io/MARSAM/ru/resource/discovering-spirituality/",
+    "https://onourimpram.github.io/MARSAM/ru/resource/spiritual-practices/",
+    "https://onourimpram.github.io/MARSAM/ar/resource/discovering-spirituality/",
+    "https://onourimpram.github.io/MARSAM/ar/resource/spiritual-practices/",
+    "https://onourimpram.github.io/MARSAM/id/resource/discovering-spirituality/",
+    "https://onourimpram.github.io/MARSAM/id/resource/spiritual-practices/",
+    "https://onourimpram.github.io/MARSAM/ms/resource/discovering-spirituality/",
+    "https://onourimpram.github.io/MARSAM/ms/resource/spiritual-practices/"
+  ],
+  "scientificApproval": false,
+  "humanLanguageApproval": false,
+  "formalInstitutionalApproval": false
+}

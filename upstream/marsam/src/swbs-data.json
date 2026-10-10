@@ -1,0 +1,343 @@
+{
+  "schemaVersion": 1,
+  "records": [
+    {
+      "id": "swbs-eksi-kardas",
+      "sourceId": "s-swbs-eksi-kardas",
+      "title": "Spiritual Well-Being: Scale Development and Validation",
+      "language": "en",
+      "year": 2017,
+      "url": "https://doi.org/10.12738/spc.2017.1.0022",
+      "citation": "Halil Ekşi, Selami Kardaş (2017). Spiritual Well-Being: Scale Development and Validation. Spiritual Psychology and Counseling, 2(1), 73-88. https://doi.org/10.12738/spc.2017.1.0022",
+      "brief": {
+        "design": "scale-development",
+        "population": "865 participants in Türkiye, age range 16–54 in Methods although described as adults",
+        "inspection": "targeted-fulltext",
+        "inspectionURL": "https://dergipark.org.tr/tr/download/article-file/317808",
+        "inspectionDetail": "Targeted full-text inspection of abstract, Methods and Tables 4 and 6, especially printed pages 76–84. Table 6 visually inspected. This is not a comprehensive psychometric appraisal or correction/retraction search.",
+        "limitationCodes": [
+          "same-sample-efa-cfa",
+          "abstract-table-srmr-discrepancy-unresolved",
+          "adult-label-includes-age16",
+          "measurement-invariance-not-verified",
+          "no-diagnostic-cutoffs"
+        ],
+        "instrument": {
+          "name": "Spiritual Well-Being Scale",
+          "authors": [
+            "Halil Ekşi",
+            "Selami Kardaş"
+          ],
+          "items": 29,
+          "responseCategories": 5,
+          "dimensions": [
+            "transcendence",
+            "harmony with nature",
+            "anomie"
+          ],
+          "validationSample": {
+            "n": 865,
+            "ageRange": "16–54",
+            "sameDataEFAandCFA": true
+          },
+          "totalAlphaReported": ".886",
+          "scoreEquivalenceEstablished": false,
+          "itemReusePermissionVerified": false
+        },
+        "reportedDiscrepancies": {
+          "srmr": {
+            "abstract": ".50",
+            "table6": ".050",
+            "tablePage": 84,
+            "resolved": false
+          }
+        },
+        "primaryDocuments": [
+          {
+            "url": "https://dergipark.org.tr/en/pub/spiritualpc/article/323508",
+            "role": "metadata-and-abstract",
+            "labelKey": "docArticle"
+          },
+          {
+            "url": "https://dergipark.org.tr/tr/download/article-file/317808",
+            "role": "targeted-fulltext",
+            "pages": "76–84, Table 6 p84",
+            "labelKey": "docFullText"
+          }
+        ],
+        "doi": "10.12738/spc.2017.1.0022",
+        "checked": "2026-10-04",
+        "findingDirection": "measurement"
+      },
+      "editions": {
+        "tr": {
+          "title": "Manevi İyi Oluş Ölçeği (SWBS). SWBS, Ekşi ve Kardaş. Türkiye’de geliştirilen 29 maddelik araç",
+          "population": "Türkiye’de 865 katılımcı. Makalede örneklem yetişkin olarak tanımlansa da yöntem bölümünde yaş aralığı 16–54 olarak verilmektedir.",
+          "finding": "2017 tarihli çalışmada 29 maddelik ve beşli yanıt seçenekli ölçeğin aşkınlık, doğayla uyum ve anomi boyutlarından oluştuğu bildirilmiştir. Toplam iç tutarlılık katsayısı .886 olarak bildirilmiştir. Bu ölçek, Paloutzian ve Ellison’ın 20 maddelik SWBS’sinin Türkçe çevirisi değildir.",
+          "limit": "Özette SRMR .50, Tablo 6’da .050 yazmaktadır, sayfa 84. MARSAM bu kaynak içi uyuşmazlığı çözülmüş kabul etmez. Açımlayıcı ve doğrulayıcı analizler aynı veri setindedir. Bu kayıt bağımsız doğrulamayı, gruplar arası ölçme değişmezliğini veya klinik kesme puanını doğrulamaz.",
+          "briefHash": "50b3f9f55f0d96ee532a8b0bfd650186f06c0564d7164a9f0c5d99c4538531d3",
+          "humanReviewed": false,
+          "scientificApproval": false
+        },
+        "en": {
+          "title": "Spiritual Well-Being Scale (SWBS). SWBS, Ekşi and Kardaş. A 29-item instrument developed in Türkiye",
+          "population": "865 participants in Türkiye. Although called an adult sample, the methods give an age range of 16–54.",
+          "finding": "The 2017 development study reports 29 items, five response categories and three dimensions, transcendence, harmony with nature and anomie. Overall internal consistency is reported as .886. This instrument is not a Turkish translation of the 20-item Paloutzian and Ellison SWBS.",
+          "limit": "The abstract reports SRMR .50, while Table 6 gives .050 on page 84. MARSAM records this unresolved source discrepancy rather than silently correcting it. Exploratory and confirmatory analyses use the same data. Independent validation, cross-group measurement invariance and clinical cut-offs are not established by this record.",
+          "briefHash": "50b3f9f55f0d96ee532a8b0bfd650186f06c0564d7164a9f0c5d99c4538531d3",
+          "humanReviewed": false,
+          "scientificApproval": false
+        },
+        "de": {
+          "title": "Skala des spirituellen Wohlbefindens (SWBS). SWBS von Ekşi und Kardaş. In der Türkei entwickeltes Instrument mit 29 Items",
+          "population": "865 Teilnehmende in der Türkei. Die Studie spricht von Erwachsenen, nennt im Methodenteil jedoch ein Alter von 16–54 Jahren.",
+          "finding": "Die Entwicklungsstudie von 2017 beschreibt 29 Items mit fünf Antwortstufen und drei Dimensionen, Transzendenz, Harmonie mit der Natur und Anomie. Für die interne Konsistenz der Gesamtskala wird .886 berichtet. Das Instrument ist keine türkische Übersetzung der 20-Item-SWBS von Paloutzian und Ellison.",
+          "limit": "Im Abstract steht SRMR .50, in Tabelle 6 auf Seite 84 dagegen .050. Dieser Widerspruch bleibt ausdrücklich ungeklärt. Explorative und konfirmatorische Analysen beruhen auf demselben Datensatz. Unabhängige Validierung, Messinvarianz zwischen Gruppen und klinische Grenzwerte sind durch diesen Eintrag nicht belegt.",
+          "briefHash": "50b3f9f55f0d96ee532a8b0bfd650186f06c0564d7164a9f0c5d99c4538531d3",
+          "humanReviewed": false,
+          "scientificApproval": false
+        },
+        "zh": {
+          "title": "灵性福祉量表 (SWBS). Ekşi与Kardaş的SWBS。在土耳其开发的29条目工具",
+          "population": "研究纳入土耳其865名参与者。作者称其为成人样本，但方法部分报告年龄范围为16–54岁。",
+          "finding": "2017年的开发研究报告29个条目、五级作答和三个维度，即超越、与自然和谐及失范。总量表内部一致性系数报告为.886。该工具并非Paloutzian与Ellison的20条目SWBS的土耳其语译本。",
+          "limit": "摘要将SRMR列为.50，第84页表6却列为.050。MARSAM保留这项尚未解决的原文差异，不擅自改正数值。探索性与验证性分析使用同一数据集。本记录未确立独立验证、跨群体测量不变性或临床界值。",
+          "briefHash": "50b3f9f55f0d96ee532a8b0bfd650186f06c0564d7164a9f0c5d99c4538531d3",
+          "humanReviewed": false,
+          "scientificApproval": false
+        },
+        "ru": {
+          "title": "Шкала духовного благополучия (SWBS). SWBS Экши и Кардаша. Инструмент из 29 пунктов, разработанный в Турции",
+          "population": "865 участников в Турции. Авторы называют выборку взрослой, однако в разделе методов указан возраст 16–54 года.",
+          "finding": "В исследовании 2017 года описаны 29 пунктов с пятью вариантами ответа и три измерения, трансценденция, гармония с природой и аномия. Для внутренней согласованности общей шкалы сообщается .886. Это не турецкий перевод SWBS Палуциана и Эллисона из 20 пунктов.",
+          "limit": "В аннотации указано SRMR .50, а в таблице 6 на странице 84 стоит .050. Расхождение в источнике сохраняется как неразрешённое. Эксплораторный и конфирматорный анализы выполнены на одном наборе данных. Запись не подтверждает независимую валидацию, межгрупповую инвариантность или клинические пороги.",
+          "briefHash": "50b3f9f55f0d96ee532a8b0bfd650186f06c0564d7164a9f0c5d99c4538531d3",
+          "humanReviewed": false,
+          "scientificApproval": false
+        },
+        "ar": {
+          "title": "مقياس الرفاه الروحي (SWBS). مقياس SWBS لإكشي وكارداش. أداة من 29 فقرة طُورت في تركيا",
+          "population": "شارك 865 شخصاً في تركيا. تصف المقالة العينة بأنها للبالغين، لكن قسم المنهج يذكر مدى عمرياً من 16–54 سنة.",
+          "finding": "تورد دراسة التطوير المنشورة عام 2017 أداة من 29 فقرة بخمس فئات للاستجابة وثلاثة أبعاد، التسامي والانسجام مع الطبيعة والأنوميا. وتذكر .886 لاتساق الدرجة الكلية داخلياً. هذه الأداة ليست ترجمة تركية لمقياس بالوتزيان وإليسون ذي 20 فقرة.",
+          "limit": "يرد SRMR بقيمة .50 في الملخص، مقابل .050 في الجدول 6 بالصفحة 84. يسجل MARSAM هذا التعارض بوصفه غير محسوم ولا يصحح المصدر بصمت. أُجري التحليل الاستكشافي والتوكيدي على البيانات نفسها. لا تثبت هذه البطاقة تحققاً مستقلاً أو ثبات القياس بين المجموعات أو حدوداً فاصلة سريرية.",
+          "briefHash": "50b3f9f55f0d96ee532a8b0bfd650186f06c0564d7164a9f0c5d99c4538531d3",
+          "humanReviewed": false,
+          "scientificApproval": false
+        },
+        "id": {
+          "title": "Skala Kesejahteraan Spiritual (SWBS). SWBS Ekşi dan Kardaş. Instrumen 29 butir yang dikembangkan di Türkiye",
+          "population": "865 peserta di Türkiye. Artikel menyebut sampel dewasa, tetapi bagian metode mencantumkan rentang usia 16–54 tahun.",
+          "finding": "Studi pengembangan tahun 2017 melaporkan 29 butir dengan lima kategori respons dan tiga dimensi, transendensi, keselarasan dengan alam dan anomi. Koefisien konsistensi internal keseluruhan dilaporkan sebesar .886. Instrumen ini bukan terjemahan bahasa Turki dari SWBS Paloutzian dan Ellison yang berisi 20 butir.",
+          "limit": "Abstrak mencantumkan SRMR .50, sedangkan Tabel 6 pada halaman 84 mencantumkan .050. Perbedaan dalam sumber ini belum terselesaikan dan tidak dikoreksi diam-diam. Analisis eksploratori dan konfirmatori memakai data yang sama. Rekaman ini tidak membuktikan validasi independen, invariansi antarkelompok atau ambang klinis.",
+          "briefHash": "50b3f9f55f0d96ee532a8b0bfd650186f06c0564d7164a9f0c5d99c4538531d3",
+          "humanReviewed": false,
+          "scientificApproval": false
+        },
+        "ms": {
+          "title": "Skala Kesejahteraan Kerohanian (SWBS). SWBS Ekşi dan Kardaş. Instrumen 29 item yang dibangunkan di Türkiye",
+          "population": "865 peserta di Türkiye. Artikel menyifatkan sampel sebagai dewasa, namun bahagian kaedah menyatakan julat umur 16–54 tahun.",
+          "finding": "Kajian pembangunan tahun 2017 melaporkan 29 item dengan lima kategori respons dan tiga dimensi, transendensi, keharmonian dengan alam dan anomi. Pekali ketekalan dalaman keseluruhan dilaporkan sebagai .886. Instrumen ini bukan terjemahan bahasa Turki bagi SWBS Paloutzian dan Ellison yang mempunyai 20 item.",
+          "limit": "Abstrak menyatakan SRMR .50, manakala Jadual 6 pada halaman 84 menyatakan .050. Percanggahan sumber ini belum diselesaikan dan tidak dibetulkan secara senyap. Analisis penerokaan dan pengesahan menggunakan data yang sama. Rekod ini tidak membuktikan pengesahan bebas, invarians antara kumpulan atau ambang klinikal.",
+          "briefHash": "50b3f9f55f0d96ee532a8b0bfd650186f06c0564d7164a9f0c5d99c4538531d3",
+          "humanReviewed": false,
+          "scientificApproval": false
+        }
+      },
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Halil Ekşi",
+          "Selami Kardaş"
+        ],
+        "editors": [],
+        "date": "2017",
+        "journal": "Spiritual Psychology and Counseling",
+        "volume": "2",
+        "issue": "1",
+        "pages": "73-88",
+        "doi": "10.12738/spc.2017.1.0022",
+        "note": {
+          "tr": "Özette SRMR .50, Tablo 6’da .050 yazmaktadır, sayfa 84. MARSAM bu kaynak içi uyuşmazlığı çözülmüş kabul etmez. Açımlayıcı ve doğrulayıcı analizler aynı veri setindedir. Bu kayıt bağımsız doğrulamayı, gruplar arası ölçme değişmezliğini veya klinik kesme puanını doğrulamaz.",
+          "en": "The abstract reports SRMR .50, while Table 6 gives .050 on page 84. MARSAM records this unresolved source discrepancy rather than silently correcting it. Exploratory and confirmatory analyses use the same data. Independent validation, cross-group measurement invariance and clinical cut-offs are not established by this record.",
+          "de": "Im Abstract steht SRMR .50, in Tabelle 6 auf Seite 84 dagegen .050. Dieser Widerspruch bleibt ausdrücklich ungeklärt. Explorative und konfirmatorische Analysen beruhen auf demselben Datensatz. Unabhängige Validierung, Messinvarianz zwischen Gruppen und klinische Grenzwerte sind durch diesen Eintrag nicht belegt.",
+          "zh": "摘要将SRMR列为.50，第84页表6却列为.050。MARSAM保留这项尚未解决的原文差异，不擅自改正数值。探索性与验证性分析使用同一数据集。本记录未确立独立验证、跨群体测量不变性或临床界值。",
+          "ru": "В аннотации указано SRMR .50, а в таблице 6 на странице 84 стоит .050. Расхождение в источнике сохраняется как неразрешённое. Эксплораторный и конфирматорный анализы выполнены на одном наборе данных. Запись не подтверждает независимую валидацию, межгрупповую инвариантность или клинические пороги.",
+          "ar": "يرد SRMR بقيمة .50 في الملخص، مقابل .050 في الجدول 6 بالصفحة 84. يسجل MARSAM هذا التعارض بوصفه غير محسوم ولا يصحح المصدر بصمت. أُجري التحليل الاستكشافي والتوكيدي على البيانات نفسها. لا تثبت هذه البطاقة تحققاً مستقلاً أو ثبات القياس بين المجموعات أو حدوداً فاصلة سريرية.",
+          "id": "Abstrak mencantumkan SRMR .50, sedangkan Tabel 6 pada halaman 84 mencantumkan .050. Perbedaan dalam sumber ini belum terselesaikan dan tidak dikoreksi diam-diam. Analisis eksploratori dan konfirmatori memakai data yang sama. Rekaman ini tidak membuktikan validasi independen, invariansi antarkelompok atau ambang klinis.",
+          "ms": "Abstrak menyatakan SRMR .50, manakala Jadual 6 pada halaman 84 menyatakan .050. Percanggahan sumber ini belum diselesaikan dan tidak dibetulkan secara senyap. Analisis penerokaan dan pengesahan menggunakan data yang sama. Rekod ini tidak membuktikan pengesahan bebas, invarians antara kumpulan atau ambang klinikal."
+        }
+      }
+    },
+    {
+      "id": "swbs-paloutzian-ellison",
+      "sourceId": "s-swbs-paloutzian-ellison",
+      "title": "Spiritual Well-Being: Conceptualization and Measurement",
+      "language": "en",
+      "year": 1983,
+      "url": "https://doi.org/10.1177/009164718301100406",
+      "citation": "Craig W. Ellison (1983). Spiritual Well-Being: Conceptualization and Measurement. Journal of Psychology and Theology, 11(4), 330-338. https://doi.org/10.1177/009164718301100406",
+      "brief": {
+        "design": "measurement-overview",
+        "population": "Original English measure, 1982. Article abstract plus author-hosted manual and Turkish form, not one validation sample.",
+        "inspection": "official-author-manual-form-and-article-abstract",
+        "inspectionURL": "https://www.westmont.edu/psychology/raymond-paloutzian-spiritual-wellbeing-scale",
+        "inspectionDetail": "Sage article identity and abstract, author-hosted SWBS Manual version 2.02, 2022 Turkish form and its copyright/use statement. Full 1983 article methods and all adaptation evidence not appraised.",
+        "limitationCodes": [
+          "turkish-form-not-validation-study",
+          "measurement-invariance-not-verified",
+          "different-instrument-same-name",
+          "no-score-equating",
+          "reuse-conditions-not-open-license"
+        ],
+        "instrument": {
+          "name": "Spiritual Well-Being Scale",
+          "authors": [
+            "Raymond F. Paloutzian",
+            "Craig W. Ellison"
+          ],
+          "originalYear": 1982,
+          "originalLanguage": "en",
+          "items": 20,
+          "responseCategories": 6,
+          "dimensions": [
+            "religious wellbeing",
+            "existential wellbeing"
+          ],
+          "itemsPerDimension": 10,
+          "turkishFormYear": 2022,
+          "turkishPsychometricValidationVerified": false,
+          "scoreEquivalenceEstablished": false,
+          "rights": {
+            "noCostUseAuthorStated": true,
+            "retainCopyrightByline": true,
+            "properCitationRequired": true,
+            "openLicenseClaimed": false,
+            "itemsHostedByMARSAM": false
+          }
+        },
+        "primaryDocuments": [
+          {
+            "url": "https://journals.sagepub.com/doi/10.1177/009164718301100406",
+            "role": "article-metadata-and-abstract",
+            "labelKey": "docArticle"
+          },
+          {
+            "url": "https://www.westmont.edu/psychology/raymond-paloutzian-spiritual-wellbeing-scale",
+            "role": "author-information-and-language-availability",
+            "labelKey": "docAuthor"
+          },
+          {
+            "url": "https://www.westmont.edu/sites/default/files/users/user401/SWBS%20Manual%202.0_0.pdf",
+            "role": "author-manual-v2.02",
+            "labelKey": "docManual"
+          },
+          {
+            "url": "https://www.westmont.edu/sites/default/files/users/user401/Turkish%20SWBS%202022.pdf",
+            "role": "turkish-form-and-use-conditions",
+            "labelKey": "docTurkishForm"
+          }
+        ],
+        "doi": "10.1177/009164718301100406",
+        "checked": "2026-10-04",
+        "findingDirection": "measurement"
+      },
+      "editions": {
+        "tr": {
+          "title": "Manevi İyi Oluş Ölçeği (SWBS). SWBS, Paloutzian ve Ellison. 20 maddelik araç ve Türkçe form",
+          "population": "Ölçeğin 1982 tarihli özgün biçimi İngilizcedir. Bu kayıt tek bir geçerlik örneklemine değil, 1983 tarihli makalenin özetine, yazarın kılavuzuna ve yazarın yayımladığı Türkçe forma birlikte dayanmaktadır.",
+          "finding": "20 maddeden ve altılı yanıt seçeneğinden oluşur; dini ve varoluşsal iyi oluşu ölçer. İki alt ölçeğin her biri on maddeden oluşur. Dini iyi oluş boyutu, kişinin Tanrı ile ilişkisini ele alır. Ekşi ve Kardaş’ın 29 maddelik ölçeğiyle aynı ölçek değildir.",
+          "limit": "Yazarın sayfasında 2022 tarihli Türkçe form vardır. Formun bulunması Türkçe psikometrik geçerlik veya ölçme değişmezliği kanıtı değildir, bu kayıtta böyle bir doğrulama yapılmamıştır. Ücretsiz kullanım, atıf ve telif satırını koruma koşuluna bağlıdır. MARSAM maddeleri veya puanlama formunu yeniden yayımlamaz. İki SWBS’nin puanları eşdeğer varsayılamaz.",
+          "briefHash": "eba8530a3a7e31e801191c765181b820d66d94603557a9995ded27d1fdf8c1fb",
+          "humanReviewed": false,
+          "scientificApproval": false
+        },
+        "en": {
+          "title": "Spiritual Well-Being Scale (SWBS). SWBS, Paloutzian and Ellison. The 20-item instrument and Turkish form",
+          "population": "The original 1982 instrument is in English. This record combines the 1983 article abstract, the author’s manual and the Turkish form, rather than representing one validation sample.",
+          "finding": "Twenty items use six response categories to assess religious and existential wellbeing. Each subscale has ten items. The religious domain includes a relationship with God. This is a different instrument from the 29-item Ekşi and Kardaş scale.",
+          "limit": "The author hosts a Turkish form dated 2022. Availability of a translation does not establish Turkish psychometric validity or measurement invariance, neither of which is verified here. No-cost use requires proper citation and retention of the copyright byline. MARSAM does not republish items or the scoring form. The two SWBS scores must not be assumed equivalent.",
+          "briefHash": "eba8530a3a7e31e801191c765181b820d66d94603557a9995ded27d1fdf8c1fb",
+          "humanReviewed": false,
+          "scientificApproval": false
+        },
+        "de": {
+          "title": "Skala des spirituellen Wohlbefindens (SWBS). SWBS von Paloutzian und Ellison. Instrument mit 20 Items und türkischer Fassung",
+          "population": "Das ursprüngliche Instrument von 1982 ist englischsprachig. Dieser Eintrag verbindet das Abstract des Artikels von 1983, das Autorenmanual und die türkische Fassung, nicht eine einzelne Validierungsstichprobe.",
+          "finding": "20 Items mit sechs Antwortstufen erfassen religiöses und existenzielles Wohlbefinden. Beide Subskalen umfassen je zehn Items. Der religiöse Bereich schließt die Beziehung zu Gott ein. Dies ist ein anderes Instrument als die 29-Item-Skala von Ekşi und Kardaş.",
+          "limit": "Der Autor stellt eine türkische Fassung von 2022 bereit. Eine verfügbare Übersetzung belegt weder psychometrische Validität auf Türkisch noch Messinvarianz. Beides wurde hier nicht bestätigt. Kostenfreie Nutzung setzt korrekte Zitation und Erhalt des Urheberrechtsvermerks voraus. MARSAM veröffentlicht keine Items oder Auswertungsformulare. Die Werte beider SWBS sind nicht als gleichwertig anzusehen.",
+          "briefHash": "eba8530a3a7e31e801191c765181b820d66d94603557a9995ded27d1fdf8c1fb",
+          "humanReviewed": false,
+          "scientificApproval": false
+        },
+        "zh": {
+          "title": "灵性福祉量表 (SWBS). Paloutzian与Ellison的SWBS。20条目工具及土耳其语表单",
+          "population": "1982年的原始工具为英语。本记录结合1983年论文摘要、作者手册与土耳其语表单，并不代表单一验证样本。",
+          "finding": "20个条目采用六级作答，分别测量宗教与存在性福祉，每个分量表含十个条目。宗教维度涉及与上帝的关系。这与Ekşi和Kardaş的29条目工具不是同一量表。",
+          "limit": "作者网站提供标注2022年的土耳其语表单。译本可获取不等于土耳其语心理测量效度或测量不变性已获得验证，本记录未确认此类证据。免费使用仍须正确引用并保留版权说明。MARSAM不转载条目或计分表，也不将两种SWBS的分数视为等值。",
+          "briefHash": "eba8530a3a7e31e801191c765181b820d66d94603557a9995ded27d1fdf8c1fb",
+          "humanReviewed": false,
+          "scientificApproval": false
+        },
+        "ru": {
+          "title": "Шкала духовного благополучия (SWBS). SWBS Палуциана и Эллисона. Инструмент из 20 пунктов и турецкая форма",
+          "population": "Исходный инструмент 1982 года англоязычный. Запись объединяет аннотацию статьи 1983 года, авторское руководство и турецкую форму, а не описывает одну валидационную выборку.",
+          "finding": "20 пунктов с шестью вариантами ответа оценивают религиозное и экзистенциальное благополучие. Каждая субшкала включает десять пунктов. Религиозное измерение затрагивает отношения с Богом. Это иной инструмент, чем шкала Экши и Кардаша из 29 пунктов.",
+          "limit": "На сайте автора размещена турецкая форма 2022 года. Наличие перевода не доказывает психометрическую валидность на турецком языке или инвариантность измерения, эти свойства здесь не подтверждены. Бесплатное использование требует корректного цитирования и сохранения строки об авторских правах. MARSAM не перепечатывает пункты и бланк подсчёта. Эквивалентность баллов двух SWBS не предполагается.",
+          "briefHash": "eba8530a3a7e31e801191c765181b820d66d94603557a9995ded27d1fdf8c1fb",
+          "humanReviewed": false,
+          "scientificApproval": false
+        },
+        "ar": {
+          "title": "مقياس الرفاه الروحي (SWBS). مقياس SWBS لبالوتزيان وإليسون. أداة من 20 فقرة وصيغتها التركية",
+          "population": "الأداة الأصلية الصادرة عام 1982 باللغة الإنجليزية. تجمع هذه البطاقة ملخص مقالة 1983 ودليل المؤلف والصيغة التركية، ولا تمثل عينة تحقق واحدة.",
+          "finding": "تستخدم الأداة 20 فقرة وست فئات للاستجابة لتناول الرفاه الديني والوجودي، بواقع عشر فقرات لكل مقياس فرعي. يتضمن البعد الديني العلاقة بالله. وهي أداة مختلفة عن مقياس إكشي وكارداش ذي 29 فقرة.",
+          "limit": "يتيح موقع المؤلف صيغة تركية مؤرخة في 2022. إتاحة الترجمة لا تثبت صلاحيتها السيكومترية بالتركية أو ثبات القياس، ولم يُتحقق منهما هنا. يشترط الاستخدام المجاني التوثيق الصحيح والإبقاء على بيان حقوق النشر. لا يعيد MARSAM نشر الفقرات أو نموذج التصحيح. ولا تُفترض مكافأة درجات أداتي SWBS.",
+          "briefHash": "eba8530a3a7e31e801191c765181b820d66d94603557a9995ded27d1fdf8c1fb",
+          "humanReviewed": false,
+          "scientificApproval": false
+        },
+        "id": {
+          "title": "Skala Kesejahteraan Spiritual (SWBS). SWBS Paloutzian dan Ellison. Instrumen 20 butir dan formulir bahasa Turki",
+          "population": "Instrumen asli tahun 1982 berbahasa Inggris. Rekaman ini menggabungkan abstrak artikel tahun 1983, manual penulis dan formulir bahasa Turki, bukan satu sampel validasi.",
+          "finding": "20 butir dengan enam kategori respons menilai kesejahteraan religius dan eksistensial. Tiap subskala terdiri dari sepuluh butir. Dimensi religius mencakup hubungan dengan Tuhan. Instrumen ini berbeda dari skala Ekşi dan Kardaş yang berisi 29 butir.",
+          "limit": "Situs penulis menyediakan formulir bahasa Turki bertanggal 2022. Tersedianya terjemahan bukan bukti validitas psikometrik bahasa Turki atau invariansi pengukuran, keduanya belum diverifikasi di sini. Penggunaan tanpa biaya mensyaratkan sitasi yang benar dan pencantuman hak cipta. MARSAM tidak menerbitkan ulang butir atau formulir penskoran. Skor kedua SWBS tidak boleh dianggap setara.",
+          "briefHash": "eba8530a3a7e31e801191c765181b820d66d94603557a9995ded27d1fdf8c1fb",
+          "humanReviewed": false,
+          "scientificApproval": false
+        },
+        "ms": {
+          "title": "Skala Kesejahteraan Kerohanian (SWBS). SWBS Paloutzian dan Ellison. Instrumen 20 item dan borang bahasa Turki",
+          "population": "Instrumen asal tahun 1982 berbahasa Inggeris. Rekod ini menggabungkan abstrak artikel tahun 1983, manual pengarang dan borang bahasa Turki, bukan satu sampel pengesahan.",
+          "finding": "20 item dengan enam kategori respons menilai kesejahteraan keagamaan dan eksistensial. Setiap subskala mengandungi sepuluh item. Dimensi keagamaan merangkumi hubungan dengan Tuhan. Instrumen ini berbeza daripada skala Ekşi dan Kardaş yang mempunyai 29 item.",
+          "limit": "Laman pengarang menyediakan borang bahasa Turki bertarikh 2022. Ketersediaan terjemahan bukan bukti kesahan psikometrik bahasa Turki atau invarians pengukuran, kedua-duanya belum disahkan di sini. Penggunaan tanpa bayaran mensyaratkan sitasi yang betul dan pengekalan pernyataan hak cipta. MARSAM tidak menerbitkan semula item atau borang pemarkahan. Skor kedua-dua SWBS tidak boleh dianggap setara.",
+          "briefHash": "eba8530a3a7e31e801191c765181b820d66d94603557a9995ded27d1fdf8c1fb",
+          "humanReviewed": false,
+          "scientificApproval": false
+        }
+      },
+      "bibliography": {
+        "type": "article",
+        "authors": [
+          "Craig W. Ellison"
+        ],
+        "editors": [],
+        "date": "1983",
+        "journal": "Journal of Psychology and Theology",
+        "volume": "11",
+        "issue": "4",
+        "pages": "330-338",
+        "doi": "10.1177/009164718301100406",
+        "note": {
+          "tr": "Yazarın sayfasında 2022 tarihli Türkçe form vardır. Formun bulunması Türkçe psikometrik geçerlik veya ölçme değişmezliği kanıtı değildir, bu kayıtta böyle bir doğrulama yapılmamıştır. Ücretsiz kullanım, atıf ve telif satırını koruma koşuluna bağlıdır. MARSAM maddeleri veya puanlama formunu yeniden yayımlamaz. İki SWBS’nin puanları eşdeğer varsayılamaz.",
+          "en": "The author hosts a Turkish form dated 2022. Availability of a translation does not establish Turkish psychometric validity or measurement invariance, neither of which is verified here. No-cost use requires proper citation and retention of the copyright byline. MARSAM does not republish items or the scoring form. The two SWBS scores must not be assumed equivalent.",
+          "de": "Der Autor stellt eine türkische Fassung von 2022 bereit. Eine verfügbare Übersetzung belegt weder psychometrische Validität auf Türkisch noch Messinvarianz. Beides wurde hier nicht bestätigt. Kostenfreie Nutzung setzt korrekte Zitation und Erhalt des Urheberrechtsvermerks voraus. MARSAM veröffentlicht keine Items oder Auswertungsformulare. Die Werte beider SWBS sind nicht als gleichwertig anzusehen.",
+          "zh": "作者网站提供标注2022年的土耳其语表单。译本可获取不等于土耳其语心理测量效度或测量不变性已获得验证，本记录未确认此类证据。免费使用仍须正确引用并保留版权说明。MARSAM不转载条目或计分表，也不将两种SWBS的分数视为等值。",
+          "ru": "На сайте автора размещена турецкая форма 2022 года. Наличие перевода не доказывает психометрическую валидность на турецком языке или инвариантность измерения, эти свойства здесь не подтверждены. Бесплатное использование требует корректного цитирования и сохранения строки об авторских правах. MARSAM не перепечатывает пункты и бланк подсчёта. Эквивалентность баллов двух SWBS не предполагается.",
+          "ar": "يتيح موقع المؤلف صيغة تركية مؤرخة في 2022. إتاحة الترجمة لا تثبت صلاحيتها السيكومترية بالتركية أو ثبات القياس، ولم يُتحقق منهما هنا. يشترط الاستخدام المجاني التوثيق الصحيح والإبقاء على بيان حقوق النشر. لا يعيد MARSAM نشر الفقرات أو نموذج التصحيح. ولا تُفترض مكافأة درجات أداتي SWBS.",
+          "id": "Situs penulis menyediakan formulir bahasa Turki bertanggal 2022. Tersedianya terjemahan bukan bukti validitas psikometrik bahasa Turki atau invariansi pengukuran, keduanya belum diverifikasi di sini. Penggunaan tanpa biaya mensyaratkan sitasi yang benar dan pencantuman hak cipta. MARSAM tidak menerbitkan ulang butir atau formulir penskoran. Skor kedua SWBS tidak boleh dianggap setara.",
+          "ms": "Laman pengarang menyediakan borang bahasa Turki bertarikh 2022. Ketersediaan terjemahan bukan bukti kesahan psikometrik bahasa Turki atau invarians pengukuran, kedua-duanya belum disahkan di sini. Penggunaan tanpa bayaran mensyaratkan sitasi yang betul dan pengekalan pernyataan hak cipta. MARSAM tidak menerbitkan semula item atau borang pemarkahan. Skor kedua-dua SWBS tidak boleh dianggap setara."
+        }
+      }
+    }
+  ]
+}

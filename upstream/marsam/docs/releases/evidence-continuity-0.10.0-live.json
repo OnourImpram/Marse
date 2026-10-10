@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "version": "0.10.0",
+  "status": "LIVE_TECHNICAL_ACCEPTANCE_PASSED",
+  "mode": "institutional-review",
+  "publicURL": "https://onourimpram.github.io/MARSAM/tr/",
+  "sourceCommit": "79e1204c9f6fe117afac5e6e9d5e4f90ce17cc68",
+  "sourceTree": "caa75419ccd87373ce577f244860d10638c14dc3",
+  "hostCommit": "17f646b3ef890c4ea9d2b28735f238c507b6ff71",
+  "hostTree": "6957c9841fa633b84a6712e80ef8b6f31af6ddf9",
+  "marsamSubtree": "140fc86b0352801926d19e5cdfe346230faff5bd",
+  "publicAcceptanceCompletedAt": "2026-10-04T16:32:05.644061+00:00",
+  "baselineSource": "58bf9f82c18c95f76f9a11bc84423acf94546679",
+  "baselineHost": "837442c956c1cb244e021ac96316773cb6cc415d",
+  "catalogue": {"before": 38, "after": 44, "added": 6, "newlyRemoved": 0, "structuredEvidenceRecords": 19, "localeParityRows": 152, "evidenceThemes": 8},
+  "runs": {
+    "baseline": 37211251927,
+    "candidate": 37215979835,
+    "sourceMain": 37216409064,
+    "hostStaging": 37216449856,
+    "pagesDeployment": 37216558850,
+    "publicAcceptance": {"id": 37216622752, "attempt": 2, "conclusion": "success"},
+    "downloadDiagnostic": 37216980451
+  },
+  "candidateBrowserChecks": {"core": 818, "scope": 899, "layout": 2723, "research": 2420, "cini": 1393, "scholarship": 829, "evidenceCycle": 1495, "total": 10577},
+  "publicAcceptance": {
+    "origin": "https://onourimpram.github.io",
+    "filesChecked": 882,
+    "htmlFilesChecked": 730,
+    "hashOrByteFailures": [],
+    "canonicalReleaseMatches": true,
+    "coreBrowserChecks": 818,
+    "evidenceCycleBrowserChecks": 1495,
+    "browserExceptions": [],
+    "engines": {"chromium": "149.0.7827.55", "firefox": "151.0", "webkit": "26.5"},
+    "locales": ["tr", "en", "de", "zh", "ru", "ar", "id", "ms"],
+    "realHTTP": true,
+    "mockedIO": false,
+    "unrelatedHostRootEntriesUnchanged": true,
+    "portalPixelsIdenticalToCandidateInAllThreeEngines": true
+  },
+  "artifacts": {
+    "candidate": {"id": 11308252244, "sha256": "16f9c307b48171fc6c21edd9a0f92870320cc806a8a7d314ea8ea87079848095"},
+    "publicAcceptance": {"id": 11309017046, "sha256": "96eb82c0c4e837da810fb263706e4e705a5350b546a46e39b46aa4b06a9bce8c"},
+    "firstPublicAttempt": {"id": 11308428480, "sha256": "99458f874b69b5609d4f2a11a94dbe5412d3e57091940aec25492dfd0dedacf7"},
+    "downloadDiagnostic": {"id": 11308332885, "sha256": "e0303dee06b1ce6cc914c19a423303df6b29996d4c5ad63ef110ed5d72fdd009"}
+  },
+  "publicFileHashes": {
+    "site.css": "a220162b5e1b50ef28aebd42f745b24b56d21fbcdde072b48afe6ebe923a6c64",
+    "assets/heritage/approved-portal-960.webp": "00a058dc8f737d73d9bfbd49ef9e541fe54defb2f8d0015efa3ad77cfaa6c66b",
+    "assets/heritage/approved-portal-480.webp": "9c5ddeceaea1b1e76a127cd38281ce07205f55bebac19c9aaaab7ec3f8268f9d",
+    "data/locale-parity.json": "aa01b6f9385d14afbc278a58f2d3772087c543f9fd8f40470bd173b79ec36dbd"
+  },
+  "preservedFailures": [
+    {"run": 37214918700, "stage": "commit", "detail": "Source and browser suites passed. Commit formatting gate rejected whitespace in preserved raw RED logs."},
+    {"run": 37215275038, "stage": "push", "detail": "All suites passed. Actions token refused workflow changes. Content and authorized connector workflow writes were separated without expanding the token's permissions."},
+    {"run": 37216622752, "attempt": 1, "stage": "public-download", "detail": "All 882 public files matched and 818 core checks passed. One Chromium citation download exceeded the 15-second event timeout. The exact unchanged full acceptance succeeded on attempt 2. A separate 60-click diagnostic passed rapid, reversed and paced conditions in three engines. The initial timeout's precise cause is not established, and it is not presented as a proven browser rate-limit defect."}
+  ],
+  "review": {"independence": "SEQUENTIAL_ROLE_REVIEW", "formalInstitutionalApproval": false, "scientificApproval": false, "humanLanguageReview": false, "semanticParityCertified": false, "independentAccessibilityCertification": false, "fieldCoreWebVitalsMeasured": false},
+  "note": "This immutable receipt binds the released payload, not subsequent documentation-only source commits. Automated checks do not constitute human scientific or language approval. Original failed-run receipts remain identifiable."
+}

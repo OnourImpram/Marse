@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "MARSAM Review Event",
+  "type": "object",
+  "required": [
+    "eventId",
+    "artifactId",
+    "eventType",
+    "reason",
+    "reviewerRole",
+    "humanApproval",
+    "timestamp",
+    "releaseId"
+  ],
+  "properties": {
+    "eventId": {
+      "type": "string"
+    },
+    "artifactId": {
+      "type": "string"
+    },
+    "eventType": {
+      "type": "string"
+    },
+    "changedFields": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "reason": {
+      "type": "string"
+    },
+    "reviewerRole": {
+      "type": "string"
+    },
+    "humanApproval": {
+      "type": "boolean"
+    },
+    "timestamp": {
+      "type": "string"
+    },
+    "releaseId": {
+      "type": "string"
+    },
+    "commitSha": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "additionalProperties": false
+}

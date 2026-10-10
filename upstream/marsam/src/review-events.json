@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "appendOnly": true,
+  "events": [
+    {
+      "eventId": "review-2026-10-05-roadmap-wave1",
+      "artifactId": "collection:research-roadmap-wave1",
+      "eventType": "source-verification",
+      "changedFields": [
+        "bibliography",
+        "inspection",
+        "scope"
+      ],
+      "reason": "First research-roadmap source tranche added after source-level identity and scope review.",
+      "reviewerRole": "AI-assisted editorial assessment",
+      "humanApproval": false,
+      "timestamp": "2026-10-05T00:00:00Z",
+      "releaseId": "marsam-scholarly-infrastructure-0.11.0"
+    },
+    {
+      "eventId": "review-2026-10-05-roadmap-wave2",
+      "artifactId": "collection:research-roadmap-wave2",
+      "eventType": "source-verification",
+      "changedFields": [
+        "bibliography",
+        "inspection",
+        "scope",
+        "correctionState"
+      ],
+      "reason": "Second high-information tranche added to fill worldview, minority-context, grief and spiritual-distress gaps.",
+      "reviewerRole": "AI-assisted editorial assessment",
+      "humanApproval": false,
+      "timestamp": "2026-10-05T00:00:00Z",
+      "releaseId": "marsam-scholarly-infrastructure-0.11.0"
+    },
+    {
+      "eventId": "review-2026-10-05-release",
+      "artifactId": "release:0.11.0",
+      "eventType": "release-hardening",
+      "changedFields": [
+        "releaseIdentity",
+        "tests",
+        "staticApi"
+      ],
+      "reason": "Research infrastructure candidate reconciled with release identity and required CI gates.",
+      "reviewerRole": "technical release maintenance",
+      "humanApproval": false,
+      "timestamp": "2026-10-05T00:00:00Z",
+      "releaseId": "marsam-scholarly-infrastructure-0.11.0"
+    }
+  ]
+}

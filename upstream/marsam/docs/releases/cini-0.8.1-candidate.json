@@ -1,0 +1,15 @@
+{
+  "version": "0.8.1",
+  "state": "candidate-verified-not-yet-deployed",
+  "browsers": [
+    "chromium",
+    "firefox",
+    "webkit"
+  ],
+  "checks": 1273,
+  "baselineCompared": true,
+  "originalArtwork": true,
+  "academicContentChanged": false,
+  "humanReview": false,
+  "formalApproval": false
+}

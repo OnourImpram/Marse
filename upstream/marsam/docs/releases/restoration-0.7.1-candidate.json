@@ -1,0 +1,38 @@
+{
+  "version": "0.7.1",
+  "status": "candidate-verified-not-yet-deployed",
+  "restoresVisualBaseline": "0.6.0",
+  "retainsFunctionalBaseline": "0.7.0",
+  "academicContentChanged": false,
+  "formalInstitutionalApproval": false,
+  "humanLanguageReview": false,
+  "suites": {
+    "core": {
+      "browsers": {
+        "chromium": "149.0.7827.55",
+        "firefox": "151.0",
+        "webkit": "26.5"
+      },
+      "passed": 818,
+      "total": 818
+    },
+    "scope": {
+      "browsers": {
+        "chromium": "149.0.7827.55",
+        "firefox": "151.0",
+        "webkit": "26.5"
+      },
+      "passed": 899,
+      "total": 899
+    },
+    "layout": {
+      "browsers": {
+        "chromium": "149.0.7827.55",
+        "firefox": "151.0",
+        "webkit": "26.5"
+      },
+      "passed": 2243,
+      "total": 2243
+    }
+  }
+}

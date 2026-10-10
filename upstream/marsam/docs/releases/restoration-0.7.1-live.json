@@ -1,0 +1,49 @@
+{
+  "version": "0.7.1",
+  "sourceCommit": "999e640f3f33a490087d5d774ceae3c94c217b84",
+  "hostCommit": "ebd5f09f74dbc65ba662de718506b71763612e4e",
+  "liveWorkflowRun": 36974564060,
+  "status": "live-verified",
+  "bytes": {
+    "passed": true,
+    "files": 601,
+    "sourceCommit": "999e640f3f33a490087d5d774ceae3c94c217b84",
+    "unchangedPersonalHomepage": true,
+    "eightLocaleMastheadsRestored": true,
+    "unwantedHomepagePanelsAbsent": true
+  },
+  "suites": {
+    "core": {
+      "browsers": {
+        "chromium": "149.0.7827.55",
+        "firefox": "151.0",
+        "webkit": "26.5"
+      },
+      "passed": 818,
+      "total": 818,
+      "success": true
+    },
+    "scope": {
+      "browsers": {
+        "chromium": "149.0.7827.55",
+        "firefox": "151.0",
+        "webkit": "26.5"
+      },
+      "passed": 899,
+      "total": 899,
+      "success": true
+    },
+    "layout": {
+      "browsers": {
+        "chromium": "149.0.7827.55",
+        "firefox": "151.0",
+        "webkit": "26.5"
+      },
+      "passed": 2243,
+      "total": 2243,
+      "success": true
+    }
+  },
+  "formalApproval": false,
+  "humanLanguageReview": false
+}

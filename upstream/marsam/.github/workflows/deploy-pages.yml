@@ -1,0 +1,32 @@
+name: Prepare source-bound Pages artifact
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      BASE_PATH: /MARSAM/
+      PAGES_PREVIEW: 'true'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Build only the owner-authorized institutional review artifact
+        run: |
+          npm run check
+          node scripts/budget.mjs
+          node scripts/release-manifest.mjs
+      - uses: actions/upload-artifact@v4
+        with:
+          name: marsam-pages-review-artifact
+          path: dist/
+          include-hidden-files: true
+          retention-days: 14
+# Artifact preparation only. Publication is scoped to MARSAM/ in the
+# separate existing host, following docs/design/DEPLOYMENT.md.

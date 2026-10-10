@@ -1,0 +1,218 @@
+{
+  "release": "marsam-scholarly-evidence-0.9.0",
+  "version": "0.9.0",
+  "status": "published-review-preview-verified",
+  "verifiedAt": "2026-10-03T19:08:02.684102+00:00",
+  "liveURL": "https://onourimpram.github.io/MARSAM/tr/",
+  "releaseManifestURL": "https://onourimpram.github.io/MARSAM/release.json",
+  "publishedSourceCommit": "05963f0512cab78e599945448d4365a6a705b835",
+  "sourceMergeCommit": "78e21464efa5fcdcc30bbd480c6a8341a3796ab8",
+  "sourcePullRequest": "https://github.com/OnourImpram/MARSAM/pull/5",
+  "hostPublicationCommit": "aaeb7ca009a6763f34239a5b87d7dbaa6107f12f",
+  "publicRoutes": 649,
+  "sourceRecords": 36,
+  "newSources": 11,
+  "archivedSources": 2,
+  "themes": 6,
+  "instrumentProfiles": 4,
+  "newLocaleEditions": 88,
+  "locales": [
+    "tr",
+    "en",
+    "de",
+    "zh",
+    "ru",
+    "ar",
+    "id",
+    "ms"
+  ],
+  "sourceVerification": {
+    "runId": 37145524289,
+    "url": "https://github.com/OnourImpram/MARSAM/actions/runs/37145524289",
+    "conclusion": "success",
+    "sourceTests": 93,
+    "generatedTests": 11,
+    "roots": [
+      "/",
+      "/MARSAM/"
+    ],
+    "actualJupyterAndArtifactTests": 5,
+    "scholarshipUnitTests": 13,
+    "allSixBrowserSuitesPassed": true
+  },
+  "pagesDeployment": {
+    "runId": 37146061890,
+    "url": "https://github.com/OnourImpram/onourimpram.github.io/actions/runs/37146061890",
+    "conclusion": "success"
+  },
+  "liveVerification": {
+    "originalRunId": 37145692432,
+    "originalRunConclusion": "failure",
+    "originalRunURL": "https://github.com/OnourImpram/onourimpram.github.io/actions/runs/37145692432",
+    "byteComparisonPassed": true,
+    "filesCompared": 784,
+    "archivedRoutes404": 16,
+    "allFinalSuitesPassed": true,
+    "totalPassed": 8554,
+    "browsers": {
+      "chromium": "149.0.7827.55",
+      "firefox": "151.0",
+      "webkit": "26.5"
+    },
+    "suites": [
+      {
+        "suite": "reading-room-core",
+        "success": true,
+        "passed": 818,
+        "receipt": "verification/0.9.0/reading-room-core.json",
+        "sha256": "d97651a1713f85c0a9bd0648bce7e978083cc1694703a6b9fff407f04eac8623",
+        "runId": 37146510935
+      },
+      {
+        "suite": "reading-room-scope",
+        "success": true,
+        "passed": 899,
+        "receipt": "verification/0.9.0/reading-room-scope.json",
+        "sha256": "a1c9a04344ee9251d8007110e16fa29b80eb1206fa7d9ad5125f5d0ae0fb3450",
+        "runId": 37145692432
+      },
+      {
+        "suite": "reading-room-layout",
+        "success": true,
+        "passed": 2723,
+        "receipt": "verification/0.9.0/reading-room-layout.json",
+        "sha256": "d790240f6a687c1f59463382e02e44152ba7b8314fff9c244f7a821c305aa93e",
+        "runId": 37145692432
+      },
+      {
+        "suite": "research-browser",
+        "success": true,
+        "passed": 2324,
+        "receipt": "verification/0.9.0/research-browser.json",
+        "sha256": "068070f23dbf66406ebab62b2e85a3e89d8647590a82588c1c84f0319c389ac7",
+        "runId": 37145692432
+      },
+      {
+        "suite": "cini-browser",
+        "success": true,
+        "passed": 1393,
+        "receipt": "verification/0.9.0/cini-browser.json",
+        "sha256": "6e8cf09fbf375f77c899c22215c5663751b6fb6a3b6773fe941724ad5eaac451",
+        "runId": 37145692432
+      },
+      {
+        "suite": "scholarship-browser",
+        "success": true,
+        "passed": 397,
+        "receipt": "verification/0.9.0/scholarship-browser.json",
+        "sha256": "aa8fe03622e2c3b32d443382e2c29854260fc5f2b7eb7e9c217c4076b0f6a96f",
+        "runId": 37145692432
+      }
+    ],
+    "coreRecheckRunId": 37146510935,
+    "coreRecheckURL": "https://github.com/OnourImpram/onourimpram.github.io/actions/runs/37146510935",
+    "coreRecheckConclusion": "success",
+    "coreRecheckHTTPResponses": 280,
+    "coreRecheckAllHTTP200": true,
+    "initialFailure": {
+      "assertion": "HTTP ru/contribute/",
+      "initialPassed": 710,
+      "initialTotal": 711,
+      "observedCause": "Original failure screenshot displays GitHub service error page. Original HTTP status code was not logged. Same unchanged full suite passed on recheck.",
+      "failureReceipt": "verification/0.9.0/reading-room-core-initial-failure.json",
+      "screenshot": "verification/0.9.0/github-service-error-initial.png",
+      "productCodeChanged": false,
+      "testAssertionsRelaxed": false
+    },
+    "compactArtifactId": 11282875816,
+    "compactArtifactSha256": "144a756fb8eaca93bc7591ef17b1e76e7943616ce128381cc9084f377d0b62a8",
+    "excludedInheritedReceipt": "live-browser.json was present in the inherited artifact but not produced by this run and is not counted as current verification."
+  },
+  "hostPreservation": {
+    "baseline": "d16696ccc9ca2ce2154634a50d3c1a36851cdf4d",
+    "publication": "aaeb7ca009a6763f34239a5b87d7dbaa6107f12f",
+    "changedFiles": 712,
+    "allChangedPathsWithinMARSAM": true,
+    "unchangedRootEntries": {
+      ".github": "1f0e1abf32f2f8bf1415e5024227ec49ef203212",
+      ".nojekyll": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "README.md": "69d6028c849d8088bfb87fb94b99ea9ed37b68c5",
+      "elif-tasarim": "1758a732fc68ecdc8f535701b150fc9a9eed4159",
+      "index.html": "501229ef0c1d25dbc4554e27ca089b03e590c7e0"
+    },
+    "marsamTree": "990fc73fc3e7cd50ee7ad26eb1de965f14620465",
+    "sourceFiles": [
+      ".github/workflows/verify-preview.yml",
+      "DELIVERY_STATUS.md",
+      "README.md",
+      "docs/releases/DELIVERY_0_8_3_HISTORICAL.md",
+      "docs/releases/SCHOLARLY_RELEASE_0_9_0_TR.md",
+      "docs/releases/scholarly-evidence-0.9.0-candidate.json",
+      "docs/research/EXECUTION_LOG.md",
+      "docs/research/FINAL_REVIEW.md",
+      "docs/research/LIVE_BASELINE.json",
+      "docs/research/SCHOLARLY_WORKFLOW.md",
+      "docs/research/SCOPE_AUDIT.json",
+      "docs/research/SOURCE_TRANSPORT.json",
+      "docs/research/TERMINOLOGY.json",
+      "docs/superpowers/plans/2026-10-03-scholarly-evidence.md",
+      "docs/superpowers/specs/2026-10-03-scholarly-evidence.md",
+      "package.json",
+      "public/site.css",
+      "scripts/build.mjs",
+      "scripts/discover-literature.mjs",
+      "src/campus.mjs",
+      "src/catalogue.mjs",
+      "src/chrome.mjs",
+      "src/content.mjs",
+      "src/editorial.mjs",
+      "src/provenance.mjs",
+      "src/publications-data.mjs",
+      "src/publications-view.mjs",
+      "src/release.mjs",
+      "src/scholarly-copy.json",
+      "src/scholarly-themes.json",
+      "src/scholarly-view.mjs",
+      "src/scholarship-data.json",
+      "src/scholarship.mjs",
+      "src/site.mjs",
+      "tests/scholarship.test.mjs",
+      "tests/scholarship_e2e.py",
+      "verification/README.md"
+    ],
+    "screenshots": [
+      {
+        "path": "docs/releases/screenshots/marsam-0-9-0-live-arabic.jpg",
+        "bytes": 74798,
+        "sha256": "5e3a96a699f59c835c09f0228762557cadfcc9f0cefc4043c57162aac60ad1cf"
+      },
+      {
+        "path": "docs/releases/screenshots/marsam-0-9-0-live-home.jpg",
+        "bytes": 113573,
+        "sha256": "46ae93f88c0fbeef621277d1ae0445b5b03293feb405c4a4d719a09813ba1291"
+      },
+      {
+        "path": "docs/releases/screenshots/marsam-0-9-0-live-evidence.jpg",
+        "bytes": 102411,
+        "sha256": "58702bf59266caa14b89b7f752f2e0df2c618d20d42d5ebbace0dc2b56fe3cbc"
+      }
+    ]
+  },
+  "budgets": {
+    "CSSGzip": 13652,
+    "JSGzip": 9660,
+    "fieldPerformanceMeasured": false
+  },
+  "ownerAuthorizedReviewPreview": true,
+  "scientificApproval": false,
+  "humanLanguageApproval": false,
+  "formalInstitutionalApproval": false,
+  "limitations": [
+    "Automated technical checks, not human scientific or native-language review.",
+    "Some summaries rely on abstracts or official instrument descriptions.",
+    "No comprehensive correction/retraction surveillance or reuse-rights clearance.",
+    "The older-adults source count discrepancy is disclosed, not resolved.",
+    "Shared-brief freshness covers 88 record editions, not all prose or legacy locale files.",
+    "No screen-reader user study, independent accessibility certification or field performance measurements."
+  ]
+}

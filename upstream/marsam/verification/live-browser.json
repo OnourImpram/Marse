@@ -1,0 +1,2580 @@
+{
+  "mode": "LIVE_HTTP_BROWSER",
+  "count": 642,
+  "checks": [
+    {
+      "name": "HTTP tr/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout tr/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction tr/",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/library/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout tr/library/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction tr/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/dossier/understanding-spiritual-experience/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout tr/dossier/understanding-spiritual-experience/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction tr/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/resource/spiritual-competence/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout tr/resource/spiritual-competence/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction tr/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/editorial/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout tr/editorial/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction tr/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/contribute/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout tr/contribute/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction tr/contribute/",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout tr/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction tr/",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/library/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout tr/library/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction tr/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/dossier/understanding-spiritual-experience/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout tr/dossier/understanding-spiritual-experience/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction tr/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/resource/spiritual-competence/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout tr/resource/spiritual-competence/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction tr/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/editorial/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout tr/editorial/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction tr/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/contribute/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout tr/contribute/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction tr/contribute/",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout tr/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction tr/",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/library/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout tr/library/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction tr/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/dossier/understanding-spiritual-experience/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout tr/dossier/understanding-spiritual-experience/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction tr/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/resource/spiritual-competence/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout tr/resource/spiritual-competence/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction tr/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/editorial/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout tr/editorial/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction tr/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/contribute/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout tr/contribute/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction tr/contribute/",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout tr/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction tr/",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/library/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout tr/library/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction tr/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/dossier/understanding-spiritual-experience/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout tr/dossier/understanding-spiritual-experience/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction tr/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/resource/spiritual-competence/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout tr/resource/spiritual-competence/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction tr/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/editorial/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout tr/editorial/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction tr/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP tr/contribute/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout tr/contribute/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction tr/contribute/",
+      "passed": true
+    },
+    {
+      "name": "dialog focus tr",
+      "passed": true
+    },
+    {
+      "name": "dialog closes tr",
+      "passed": true
+    },
+    {
+      "name": "native saved state tr",
+      "passed": true
+    },
+    {
+      "name": "native storage persists tr",
+      "passed": true
+    },
+    {
+      "name": "real same-page locale switch tr",
+      "passed": true
+    },
+    {
+      "name": "cross-language reading list tr",
+      "passed": true
+    },
+    {
+      "name": "native local-only JSON download tr",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout en/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction en/",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/library/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout en/library/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction en/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/dossier/understanding-spiritual-experience/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout en/dossier/understanding-spiritual-experience/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction en/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/resource/spiritual-competence/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout en/resource/spiritual-competence/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction en/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/editorial/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout en/editorial/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction en/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/contribute/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout en/contribute/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction en/contribute/",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout en/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction en/",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/library/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout en/library/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction en/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/dossier/understanding-spiritual-experience/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout en/dossier/understanding-spiritual-experience/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction en/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/resource/spiritual-competence/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout en/resource/spiritual-competence/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction en/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/editorial/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout en/editorial/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction en/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/contribute/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout en/contribute/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction en/contribute/",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout en/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction en/",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/library/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout en/library/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction en/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/dossier/understanding-spiritual-experience/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout en/dossier/understanding-spiritual-experience/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction en/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/resource/spiritual-competence/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout en/resource/spiritual-competence/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction en/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/editorial/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout en/editorial/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction en/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/contribute/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout en/contribute/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction en/contribute/",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout en/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction en/",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/library/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout en/library/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction en/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/dossier/understanding-spiritual-experience/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout en/dossier/understanding-spiritual-experience/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction en/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/resource/spiritual-competence/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout en/resource/spiritual-competence/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction en/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/editorial/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout en/editorial/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction en/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP en/contribute/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout en/contribute/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction en/contribute/",
+      "passed": true
+    },
+    {
+      "name": "dialog focus en",
+      "passed": true
+    },
+    {
+      "name": "dialog closes en",
+      "passed": true
+    },
+    {
+      "name": "native saved state en",
+      "passed": true
+    },
+    {
+      "name": "native storage persists en",
+      "passed": true
+    },
+    {
+      "name": "real same-page locale switch en",
+      "passed": true
+    },
+    {
+      "name": "cross-language reading list en",
+      "passed": true
+    },
+    {
+      "name": "native local-only JSON download en",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout de/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction de/",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/library/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout de/library/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction de/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/dossier/understanding-spiritual-experience/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout de/dossier/understanding-spiritual-experience/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction de/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/resource/spiritual-competence/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout de/resource/spiritual-competence/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction de/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/editorial/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout de/editorial/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction de/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/contribute/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout de/contribute/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction de/contribute/",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout de/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction de/",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/library/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout de/library/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction de/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/dossier/understanding-spiritual-experience/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout de/dossier/understanding-spiritual-experience/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction de/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/resource/spiritual-competence/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout de/resource/spiritual-competence/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction de/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/editorial/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout de/editorial/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction de/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/contribute/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout de/contribute/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction de/contribute/",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout de/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction de/",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/library/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout de/library/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction de/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/dossier/understanding-spiritual-experience/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout de/dossier/understanding-spiritual-experience/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction de/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/resource/spiritual-competence/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout de/resource/spiritual-competence/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction de/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/editorial/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout de/editorial/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction de/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/contribute/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout de/contribute/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction de/contribute/",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout de/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction de/",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/library/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout de/library/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction de/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/dossier/understanding-spiritual-experience/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout de/dossier/understanding-spiritual-experience/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction de/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/resource/spiritual-competence/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout de/resource/spiritual-competence/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction de/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/editorial/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout de/editorial/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction de/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP de/contribute/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout de/contribute/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction de/contribute/",
+      "passed": true
+    },
+    {
+      "name": "dialog focus de",
+      "passed": true
+    },
+    {
+      "name": "dialog closes de",
+      "passed": true
+    },
+    {
+      "name": "native saved state de",
+      "passed": true
+    },
+    {
+      "name": "native storage persists de",
+      "passed": true
+    },
+    {
+      "name": "real same-page locale switch de",
+      "passed": true
+    },
+    {
+      "name": "cross-language reading list de",
+      "passed": true
+    },
+    {
+      "name": "native local-only JSON download de",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout zh/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction zh/",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/library/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout zh/library/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction zh/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/dossier/understanding-spiritual-experience/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout zh/dossier/understanding-spiritual-experience/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction zh/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/resource/spiritual-competence/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout zh/resource/spiritual-competence/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction zh/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/editorial/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout zh/editorial/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction zh/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/contribute/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout zh/contribute/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction zh/contribute/",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout zh/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction zh/",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/library/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout zh/library/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction zh/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/dossier/understanding-spiritual-experience/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout zh/dossier/understanding-spiritual-experience/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction zh/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/resource/spiritual-competence/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout zh/resource/spiritual-competence/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction zh/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/editorial/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout zh/editorial/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction zh/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/contribute/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout zh/contribute/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction zh/contribute/",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout zh/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction zh/",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/library/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout zh/library/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction zh/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/dossier/understanding-spiritual-experience/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout zh/dossier/understanding-spiritual-experience/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction zh/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/resource/spiritual-competence/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout zh/resource/spiritual-competence/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction zh/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/editorial/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout zh/editorial/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction zh/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/contribute/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout zh/contribute/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction zh/contribute/",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout zh/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction zh/",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/library/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout zh/library/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction zh/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/dossier/understanding-spiritual-experience/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout zh/dossier/understanding-spiritual-experience/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction zh/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/resource/spiritual-competence/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout zh/resource/spiritual-competence/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction zh/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/editorial/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout zh/editorial/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction zh/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP zh/contribute/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout zh/contribute/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction zh/contribute/",
+      "passed": true
+    },
+    {
+      "name": "dialog focus zh",
+      "passed": true
+    },
+    {
+      "name": "dialog closes zh",
+      "passed": true
+    },
+    {
+      "name": "native saved state zh",
+      "passed": true
+    },
+    {
+      "name": "native storage persists zh",
+      "passed": true
+    },
+    {
+      "name": "real same-page locale switch zh",
+      "passed": true
+    },
+    {
+      "name": "cross-language reading list zh",
+      "passed": true
+    },
+    {
+      "name": "native local-only JSON download zh",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout ru/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction ru/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/library/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout ru/library/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction ru/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/dossier/understanding-spiritual-experience/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout ru/dossier/understanding-spiritual-experience/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction ru/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/resource/spiritual-competence/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout ru/resource/spiritual-competence/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction ru/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/editorial/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout ru/editorial/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction ru/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/contribute/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout ru/contribute/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction ru/contribute/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout ru/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction ru/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/library/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout ru/library/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction ru/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/dossier/understanding-spiritual-experience/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout ru/dossier/understanding-spiritual-experience/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction ru/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/resource/spiritual-competence/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout ru/resource/spiritual-competence/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction ru/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/editorial/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout ru/editorial/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction ru/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/contribute/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout ru/contribute/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction ru/contribute/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout ru/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction ru/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/library/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout ru/library/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction ru/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/dossier/understanding-spiritual-experience/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout ru/dossier/understanding-spiritual-experience/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction ru/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/resource/spiritual-competence/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout ru/resource/spiritual-competence/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction ru/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/editorial/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout ru/editorial/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction ru/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/contribute/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout ru/contribute/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction ru/contribute/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout ru/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction ru/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/library/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout ru/library/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction ru/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/dossier/understanding-spiritual-experience/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout ru/dossier/understanding-spiritual-experience/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction ru/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/resource/spiritual-competence/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout ru/resource/spiritual-competence/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction ru/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/editorial/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout ru/editorial/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction ru/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ru/contribute/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout ru/contribute/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction ru/contribute/",
+      "passed": true
+    },
+    {
+      "name": "dialog focus ru",
+      "passed": true
+    },
+    {
+      "name": "dialog closes ru",
+      "passed": true
+    },
+    {
+      "name": "native saved state ru",
+      "passed": true
+    },
+    {
+      "name": "native storage persists ru",
+      "passed": true
+    },
+    {
+      "name": "real same-page locale switch ru",
+      "passed": true
+    },
+    {
+      "name": "cross-language reading list ru",
+      "passed": true
+    },
+    {
+      "name": "native local-only JSON download ru",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout ar/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction ar/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/library/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout ar/library/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction ar/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/dossier/understanding-spiritual-experience/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout ar/dossier/understanding-spiritual-experience/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction ar/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/resource/spiritual-competence/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout ar/resource/spiritual-competence/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction ar/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/editorial/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout ar/editorial/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction ar/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/contribute/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout ar/contribute/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction ar/contribute/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout ar/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction ar/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/library/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout ar/library/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction ar/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/dossier/understanding-spiritual-experience/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout ar/dossier/understanding-spiritual-experience/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction ar/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/resource/spiritual-competence/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout ar/resource/spiritual-competence/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction ar/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/editorial/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout ar/editorial/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction ar/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/contribute/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout ar/contribute/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction ar/contribute/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout ar/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction ar/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/library/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout ar/library/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction ar/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/dossier/understanding-spiritual-experience/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout ar/dossier/understanding-spiritual-experience/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction ar/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/resource/spiritual-competence/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout ar/resource/spiritual-competence/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction ar/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/editorial/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout ar/editorial/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction ar/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/contribute/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout ar/contribute/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction ar/contribute/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout ar/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction ar/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/library/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout ar/library/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction ar/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/dossier/understanding-spiritual-experience/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout ar/dossier/understanding-spiritual-experience/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction ar/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/resource/spiritual-competence/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout ar/resource/spiritual-competence/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction ar/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/editorial/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout ar/editorial/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction ar/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ar/contribute/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout ar/contribute/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction ar/contribute/",
+      "passed": true
+    },
+    {
+      "name": "dialog focus ar",
+      "passed": true
+    },
+    {
+      "name": "dialog closes ar",
+      "passed": true
+    },
+    {
+      "name": "native saved state ar",
+      "passed": true
+    },
+    {
+      "name": "native storage persists ar",
+      "passed": true
+    },
+    {
+      "name": "real same-page locale switch ar",
+      "passed": true
+    },
+    {
+      "name": "cross-language reading list ar",
+      "passed": true
+    },
+    {
+      "name": "native local-only JSON download ar",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout id/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction id/",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/library/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout id/library/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction id/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/dossier/understanding-spiritual-experience/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout id/dossier/understanding-spiritual-experience/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction id/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/resource/spiritual-competence/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout id/resource/spiritual-competence/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction id/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/editorial/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout id/editorial/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction id/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/contribute/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout id/contribute/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction id/contribute/",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout id/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction id/",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/library/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout id/library/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction id/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/dossier/understanding-spiritual-experience/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout id/dossier/understanding-spiritual-experience/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction id/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/resource/spiritual-competence/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout id/resource/spiritual-competence/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction id/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/editorial/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout id/editorial/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction id/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/contribute/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout id/contribute/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction id/contribute/",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout id/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction id/",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/library/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout id/library/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction id/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/dossier/understanding-spiritual-experience/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout id/dossier/understanding-spiritual-experience/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction id/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/resource/spiritual-competence/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout id/resource/spiritual-competence/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction id/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/editorial/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout id/editorial/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction id/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/contribute/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout id/contribute/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction id/contribute/",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout id/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction id/",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/library/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout id/library/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction id/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/dossier/understanding-spiritual-experience/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout id/dossier/understanding-spiritual-experience/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction id/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/resource/spiritual-competence/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout id/resource/spiritual-competence/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction id/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/editorial/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout id/editorial/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction id/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP id/contribute/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout id/contribute/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction id/contribute/",
+      "passed": true
+    },
+    {
+      "name": "dialog focus id",
+      "passed": true
+    },
+    {
+      "name": "dialog closes id",
+      "passed": true
+    },
+    {
+      "name": "native saved state id",
+      "passed": true
+    },
+    {
+      "name": "native storage persists id",
+      "passed": true
+    },
+    {
+      "name": "real same-page locale switch id",
+      "passed": true
+    },
+    {
+      "name": "cross-language reading list id",
+      "passed": true
+    },
+    {
+      "name": "native local-only JSON download id",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout ms/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction ms/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/library/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout ms/library/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction ms/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/dossier/understanding-spiritual-experience/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout ms/dossier/understanding-spiritual-experience/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction ms/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/resource/spiritual-competence/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout ms/resource/spiritual-competence/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction ms/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/editorial/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout ms/editorial/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction ms/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/contribute/ 320",
+      "passed": true
+    },
+    {
+      "name": "layout ms/contribute/ 320",
+      "passed": true
+    },
+    {
+      "name": "direction ms/contribute/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout ms/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction ms/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/library/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout ms/library/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction ms/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/dossier/understanding-spiritual-experience/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout ms/dossier/understanding-spiritual-experience/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction ms/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/resource/spiritual-competence/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout ms/resource/spiritual-competence/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction ms/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/editorial/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout ms/editorial/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction ms/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/contribute/ 390",
+      "passed": true
+    },
+    {
+      "name": "layout ms/contribute/ 390",
+      "passed": true
+    },
+    {
+      "name": "direction ms/contribute/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout ms/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction ms/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/library/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout ms/library/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction ms/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/dossier/understanding-spiritual-experience/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout ms/dossier/understanding-spiritual-experience/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction ms/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/resource/spiritual-competence/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout ms/resource/spiritual-competence/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction ms/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/editorial/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout ms/editorial/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction ms/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/contribute/ 768",
+      "passed": true
+    },
+    {
+      "name": "layout ms/contribute/ 768",
+      "passed": true
+    },
+    {
+      "name": "direction ms/contribute/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout ms/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction ms/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/library/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout ms/library/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction ms/library/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/dossier/understanding-spiritual-experience/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout ms/dossier/understanding-spiritual-experience/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction ms/dossier/understanding-spiritual-experience/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/resource/spiritual-competence/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout ms/resource/spiritual-competence/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction ms/resource/spiritual-competence/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/editorial/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout ms/editorial/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction ms/editorial/",
+      "passed": true
+    },
+    {
+      "name": "HTTP ms/contribute/ 1440",
+      "passed": true
+    },
+    {
+      "name": "layout ms/contribute/ 1440",
+      "passed": true
+    },
+    {
+      "name": "direction ms/contribute/",
+      "passed": true
+    },
+    {
+      "name": "dialog focus ms",
+      "passed": true
+    },
+    {
+      "name": "dialog closes ms",
+      "passed": true
+    },
+    {
+      "name": "native saved state ms",
+      "passed": true
+    },
+    {
+      "name": "native storage persists ms",
+      "passed": true
+    },
+    {
+      "name": "real same-page locale switch ms",
+      "passed": true
+    },
+    {
+      "name": "cross-language reading list ms",
+      "passed": true
+    },
+    {
+      "name": "native local-only JSON download ms",
+      "passed": true
+    },
+    {
+      "name": "live search ar",
+      "passed": true
+    },
+    {
+      "name": "literal hostile query ar",
+      "passed": true
+    },
+    {
+      "name": "live search id",
+      "passed": true
+    },
+    {
+      "name": "literal hostile query id",
+      "passed": true
+    },
+    {
+      "name": "live search ms",
+      "passed": true
+    },
+    {
+      "name": "literal hostile query ms",
+      "passed": true
+    },
+    {
+      "name": "Arabic without JavaScript",
+      "passed": true
+    },
+    {
+      "name": "citation direction isolation",
+      "passed": true
+    },
+    {
+      "name": "no uncaught JS errors",
+      "passed": true
+    },
+    {
+      "name": "no POST requests",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "mockedIO": false,
+  "scientificApproval": false,
+  "limits": [
+    "Chromium only. No screen-reader or native-language expert assessment."
+  ]
+}

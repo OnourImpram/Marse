@@ -1,0 +1,57 @@
+{
+  "version": "0.8.3",
+  "status": "candidate-verified-not-yet-public",
+  "sourceBaseline": "70b039b28570775e20ab54195e773e2f43deb1d5",
+  "exactApprovedDesktopSha256": "00a058dc8f737d73d9bfbd49ef9e541fe54defb2f8d0015efa3ad77cfaa6c66b",
+  "academicContentChanged": false,
+  "paletteChanged": false,
+  "institutionalApproval": false,
+  "humanLanguageApproval": false,
+  "suites": {
+    "reading-room-core": {
+      "browsers": {
+        "chromium": "149.0.7827.55",
+        "firefox": "151.0",
+        "webkit": "26.5"
+      },
+      "checks": 818,
+      "success": true
+    },
+    "reading-room-scope": {
+      "browsers": {
+        "chromium": "149.0.7827.55",
+        "firefox": "151.0",
+        "webkit": "26.5"
+      },
+      "checks": 899,
+      "success": true
+    },
+    "reading-room-layout": {
+      "browsers": {
+        "chromium": "149.0.7827.55",
+        "firefox": "151.0",
+        "webkit": "26.5"
+      },
+      "checks": 2723,
+      "success": true
+    },
+    "research-browser": {
+      "browsers": [
+        "chromium",
+        "firefox",
+        "webkit"
+      ],
+      "checks": 2324,
+      "success": true
+    },
+    "cini-browser": {
+      "browsers": [
+        "chromium",
+        "firefox",
+        "webkit"
+      ],
+      "checks": 1393,
+      "success": true
+    }
+  }
+}

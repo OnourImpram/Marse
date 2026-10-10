@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "version": "0.10.2",
+  "status": "LIVE_PRODUCT_CHECKS_PASSED",
+  "sourceCommit": "15885a42b21d082401c63406f1e433e064f15768",
+  "sourceTree": "51b77b2ffbf5b18f1e97a6d1e7f835d04a2bcf46",
+  "hostCommit": "bf401c9299651d0ebac5f6430549f4f37873e054",
+  "hostTree": "c6a1f410c1c22f77a6c72d87b9be0014aa539cdd",
+  "marsamSubtree": "71d7c15ac42ae12c0475e7cc5560282506bc97e5",
+  "baselineSource": "05f0009e1138d448518c24bdf0ea51688a0baa74",
+  "baselineHost": "12ed97027a1b7e46498497089bd95693370f0b39",
+  "publicURL": "https://onourimpram.github.io/MARSAM/tr/",
+  "publicFilesCheckedAt": "2026-10-04T19:50:16.180671+00:00",
+  "runs": {
+    "initialCandidate": {"id": 37228594596, "conclusion": "failure", "reason": "New Firefox fixture could not launch with a HOME directory owned by another user. Existing source, build, notebook and eight browser suites passed."},
+    "recoveredCandidate": {"id": 37229227727, "conclusion": "success", "change": "Only the new browser fixture HOME was corrected. Identical website transformation reused."},
+    "sourceMain": {"id": 37229576625, "conclusion": "success"},
+    "pagesDeployment": {"id": 37229747478, "conclusion": "success"},
+    "publicAcceptance": {"id": 37229640255, "conclusion": "failure", "productChecksPassed": true, "reason": "All live file checks and all three browser suites passed. The subsequent log-printing command tail -3 rejected multiple file arguments. Raw failed-job status is retained rather than relabelled as a successful workflow."}
+  },
+  "checks": {
+    "sourceTests": 117,
+    "generatedSiteTests": 11,
+    "deploymentRoots": ["/", "/MARSAM/"],
+    "publicFiles": 883,
+    "publicHTMLFiles": 730,
+    "fileHashOrSizeFailures": [],
+    "removedNoticeMarkupAbsentFromAllHTML": true,
+    "retiredUILabelsAbsentFromAllHTML": true,
+    "liveNoticeBrowserChecks": 577,
+    "livePortalBrowserChecks": 745,
+    "liveCoreBrowserChecks": 818,
+    "liveBrowserErrors": [],
+    "browsers": ["chromium", "firefox", "webkit"],
+    "locales": ["tr", "en", "de", "zh", "ru", "ar", "id", "ms"],
+    "footerWidths": [390, 1440],
+    "mockedIO": false,
+    "liveFooterScreenshotsVisuallyInspected": true
+  },
+  "preserved": {"sourceCount": 44, "localeCount": 8, "continuousPortalUnchanged": true, "scholarlyDataUnchanged": true, "citationsAndStudyLimitations": true, "scaleRightsAndVisualAttribution": true, "unrelatedHostEntriesUnchanged": true},
+  "artifacts": {
+    "candidate": {"id": 11313506759, "sha256": "ea95bb11ea21501cb96a3b5578224cabad09e921fd08bc22517dc882a3bdc77c"},
+    "publicAcceptance": {"id": 11313308701, "sha256": "cd7bcd2f992e745bcb84a264545e1c1da9ba22ccd893e0cef086caf5317e5138"}
+  }
+}

@@ -1,0 +1,18 @@
+MARSAM heritage visual assets
+
+The two ebru-marbling WebP files are colour-adjusted and resized derivatives of
+Battal Ebru by Akcire.14, 2020.
+Source: https://commons.wikimedia.org/wiki/File:Battal_Ebru.jpg
+Licence: Creative Commons Attribution-ShareAlike 4.0 International
+https://creativecommons.org/licenses/by-sa/4.0/
+Changes: grayscale conversion, blue/teal/ivory colour mapping, resize and WebP encoding.
+These derivatives remain available under CC BY-SA 4.0. This licence does not apply
+to the entire website, university logo, or book covers.
+
+geometry.svg, rosette.svg and floral.svg are newly drawn schematic ornaments.
+They are contemporary design interpretations, not reproductions of identified monuments.
+
+Book cover thumbnails identify the specific books in the bibliographic catalogue.
+Their copyright remains with the publishers and rights holders. No open licence,
+permission to republish the books, or general image-reuse licence is claimed.
+Publisher/source links and the corresponding ISBN are included on each record page.

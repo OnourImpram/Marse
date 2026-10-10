@@ -1,0 +1,632 @@
+{
+  "nav.explore": {
+    "tr": "Konuları keşfedin",
+    "en": "Explore topics",
+    "de": "Themen entdecken",
+    "zh": "探索主题",
+    "ru": "Темы",
+    "ar": "استكشف الموضوعات",
+    "id": "Jelajahi topik",
+    "ms": "Terokai topik"
+  },
+  "nav.library": {
+    "tr": "Kütüphane",
+    "en": "Library",
+    "de": "Bibliothek",
+    "zh": "资源库",
+    "ru": "Библиотека",
+    "ar": "المكتبة",
+    "id": "Perpustakaan",
+    "ms": "Perpustakaan"
+  },
+  "nav.learn": {
+    "tr": "Öğrenme",
+    "en": "Learn",
+    "de": "Lernen",
+    "zh": "学习",
+    "ru": "Обучение",
+    "ar": "التعلّم",
+    "id": "Belajar",
+    "ms": "Pembelajaran"
+  },
+  "nav.research": {
+    "tr": "Araştırma",
+    "en": "Research",
+    "de": "Forschung",
+    "zh": "研究",
+    "ru": "Исследования",
+    "ar": "البحث",
+    "id": "Penelitian",
+    "ms": "Penyelidikan"
+  },
+  "nav.about": {
+    "tr": "Hakkında",
+    "en": "About",
+    "de": "Über MARSAM",
+    "zh": "关于平台",
+    "ru": "О платформе",
+    "ar": "حول المنصة",
+    "id": "Tentang",
+    "ms": "Tentang"
+  },
+  "site.proposed": {
+    "tr": "Maneviyat ve ruh sağlığı araştırmaları",
+    "en": "Research on spirituality and mental health",
+    "de": "Forschung zu Spiritualität und psychischer Gesundheit",
+    "zh": "灵性与心理健康研究",
+    "ru": "Исследования духовности и психического здоровья",
+    "ar": "أبحاث الروحانية والصحة النفسية",
+    "id": "Penelitian spiritualitas dan kesehatan mental",
+    "ms": "Penyelidikan kerohanian dan kesihatan mental"
+  },
+  "site.context": {
+    "tr": "Marmara Üniversitesi Atatürk Eğitim Fakültesi, Eğitim Bilimleri Bölümü, Rehberlik ve Psikolojik Danışmanlık Anabilim Dalı bünyesindeki MARSAM’ın web sitesidir.",
+    "en": "Website of MARSAM, within the Division of Guidance and Psychological Counseling, Department of Educational Sciences, Atatürk Faculty of Education, Marmara University.",
+    "de": "Website von MARSAM im Fachbereich für Bildungsberatung und psychologische Beratung der Abteilung für Erziehungswissenschaften an der Atatürk-Fakultät für Pädagogik der Marmara-Universität.",
+    "zh": "本网站属于MARSAM，该中心隶属于马尔马拉大学阿塔图尔克教育学院教育科学系指导与心理咨询学科。",
+    "ru": "Сайт MARSAM — центра при отделении профориентации и психологического консультирования кафедры педагогических наук педагогического факультета имени Ататюрка Университета Мармара.",
+    "ar": "موقع مركز MARSAM التابع لشعبة التوجيه والإرشاد النفسي في قسم العلوم التربوية بكلية أتاتورك للتربية في جامعة مرمرة.",
+    "id": "Situs MARSAM, yang berada di bawah Divisi Bimbingan dan Konseling Psikologis, Departemen Ilmu Pendidikan, Fakultas Pendidikan Atatürk, Universitas Marmara.",
+    "ms": "Laman MARSAM, yang bernaung di bawah Bahagian Bimbingan dan Kaunseling Psikologi, Jabatan Sains Pendidikan, Fakulti Pendidikan Atatürk, Universiti Marmara."
+  },
+  "site.kicker": {
+    "tr": "Maneviyat, ruh sağlığı ve akademik bilgi",
+    "en": "Spirituality, mental health and scholarship",
+    "de": "Spiritualität, psychische Gesundheit und Wissenschaft",
+    "zh": "灵性、心理健康与学术知识",
+    "ru": "Духовность, психическое здоровье и наука",
+    "ar": "الروحانية والصحة النفسية والمعرفة الأكاديمية",
+    "id": "Spiritualitas, kesehatan mental, dan ilmu pengetahuan",
+    "ms": "Kerohanian, kesihatan mental dan ilmu pengetahuan"
+  },
+  "search.prompt": {
+    "tr": "Başlık, yazar, DOI veya ISBN ile ara",
+    "en": "Search by title, author, DOI or ISBN",
+    "de": "Nach Titel, Autor, DOI oder ISBN suchen",
+    "zh": "按题名、作者、DOI 或 ISBN 搜索",
+    "ru": "Поиск по названию, автору, DOI или ISBN",
+    "ar": "ابحث بالعنوان أو المؤلف أو DOI أو ISBN",
+    "id": "Cari judul, penulis, DOI, atau ISBN",
+    "ms": "Cari tajuk, pengarang, DOI atau ISBN"
+  },
+  "search.tip": {
+    "tr": "Özgün eser adları ve katalog açıklamaları birlikte aranır.",
+    "en": "Search includes original titles and catalogue descriptions.",
+    "de": "Die Suche berücksichtigt Originaltitel und Katalogbeschreibungen.",
+    "zh": "搜索涵盖原文题名和目录简介。",
+    "ru": "Поиск включает оригинальные названия и описания каталога.",
+    "ar": "يشمل البحث العناوين الأصلية والأوصاف الفهرسية.",
+    "id": "Pencarian mencakup judul asli dan deskripsi katalog.",
+    "ms": "Carian merangkumi tajuk asal dan penerangan katalog."
+  },
+  "paths.title": {
+    "tr": "Okumaya nereden başlamalı",
+    "en": "Choose a starting point",
+    "de": "Einen Einstieg finden",
+    "zh": "选择阅读起点",
+    "ru": "С чего начать",
+    "ar": "اختر نقطة البداية",
+    "id": "Pilih titik awal",
+    "ms": "Pilih titik permulaan"
+  },
+  "catalogue.list": {
+    "tr": "Liste görünümü",
+    "en": "List view",
+    "de": "Listenansicht",
+    "zh": "列表视图",
+    "ru": "Список",
+    "ar": "عرض القائمة",
+    "id": "Tampilan daftar",
+    "ms": "Paparan senarai"
+  },
+  "catalogue.covers": {
+    "tr": "Kapak görünümü",
+    "en": "Cover view",
+    "de": "Coveransicht",
+    "zh": "封面视图",
+    "ru": "Обложки",
+    "ar": "عرض الأغلفة",
+    "id": "Tampilan sampul",
+    "ms": "Paparan kulit buku"
+  },
+  "catalogue.views": {
+    "tr": "Katalog görünümü",
+    "en": "Catalogue view",
+    "de": "Katalogansicht",
+    "zh": "目录视图",
+    "ru": "Вид каталога",
+    "ar": "عرض الفهرس",
+    "id": "Tampilan katalog",
+    "ms": "Paparan katalog"
+  },
+  "catalogue.original": {
+    "tr": "Özgün eser adı",
+    "en": "Original title",
+    "de": "Originaltitel",
+    "zh": "原文题名",
+    "ru": "Оригинальное название",
+    "ar": "العنوان الأصلي",
+    "id": "Judul asli",
+    "ms": "Tajuk asal"
+  },
+  "catalogue.searchAll": {
+    "tr": "Tüm kaynaklarda ara",
+    "en": "Search all resources",
+    "de": "Alle Quellen durchsuchen",
+    "zh": "搜索全部资源",
+    "ru": "Поиск по всем ресурсам",
+    "ar": "ابحث في جميع المصادر",
+    "id": "Cari semua sumber",
+    "ms": "Cari semua sumber"
+  },
+  "catalogue.scope": {
+    "tr": "Bu katalog seçilmiş kaynaklardan oluşur, alanın tamamını kapsayan bir tarama değildir.",
+    "en": "This catalogue is a selection of resources, not a comprehensive survey of the field.",
+    "de": "Dieser Katalog ist eine Quellenauswahl, keine vollständige Erhebung des Forschungsfeldes.",
+    "zh": "本目录收录经选择的资源，并非对整个领域的全面检索。",
+    "ru": "Каталог представляет подборку ресурсов, а не полный обзор области.",
+    "ar": "هذا الفهرس مجموعة مختارة من المصادر وليس مسحاً شاملاً للمجال.",
+    "id": "Katalog ini merupakan pilihan sumber, bukan tinjauan menyeluruh bidang ini.",
+    "ms": "Katalog ini ialah pilihan sumber, bukan tinjauan menyeluruh bidang ini."
+  },
+  "review.title": {
+    "tr": "Kaynak ve inceleme durumu",
+    "en": "Source and review status",
+    "de": "Quelle und Prüfstatus",
+    "zh": "来源与审读状态",
+    "ru": "Источник и статус проверки",
+    "ar": "المصدر وحالة المراجعة",
+    "id": "Sumber dan status penelaahan",
+    "ms": "Sumber dan status semakan"
+  },
+  "review.identity": {
+    "tr": "Künye kimliği",
+    "en": "Record identity",
+    "de": "Identität des Eintrags",
+    "zh": "书目身份",
+    "ru": "Идентификация записи",
+    "ar": "هوية السجل",
+    "id": "Identitas rekaman",
+    "ms": "Identiti rekod"
+  },
+  "review.inspection": {
+    "tr": "İncelenen içerik",
+    "en": "Material inspected",
+    "de": "Geprüftes Material",
+    "zh": "已查阅材料",
+    "ru": "Проверенные материалы",
+    "ar": "المادة التي تمت مراجعتها",
+    "id": "Materi yang diperiksa",
+    "ms": "Bahan yang diperiksa"
+  },
+  "review.scientific": {
+    "tr": "Bilimsel değerlendirme",
+    "en": "Scholarly review",
+    "de": "Wissenschaftliche Prüfung",
+    "zh": "学术审读",
+    "ru": "Научная проверка",
+    "ar": "المراجعة العلمية",
+    "id": "Telaah ilmiah",
+    "ms": "Semakan ilmiah"
+  },
+  "review.currency": {
+    "tr": "Kaynağın güncelliği",
+    "en": "Source currency",
+    "de": "Aktualität der Quelle",
+    "zh": "来源时效性",
+    "ru": "Актуальность источника",
+    "ar": "حداثة المصدر",
+    "id": "Kemutakhiran sumber",
+    "ms": "Kemutakhiran sumber"
+  },
+  "review.translation": {
+    "tr": "Dil incelemesi",
+    "en": "Language review",
+    "de": "Sprachprüfung",
+    "zh": "语言审校",
+    "ru": "Языковая проверка",
+    "ar": "المراجعة اللغوية",
+    "id": "Penelaahan bahasa",
+    "ms": "Semakan bahasa"
+  },
+  "review.rights": {
+    "tr": "Kullanım hakları",
+    "en": "Reuse rights",
+    "de": "Nutzungsrechte",
+    "zh": "使用权限",
+    "ru": "Права использования",
+    "ar": "حقوق الاستخدام",
+    "id": "Hak penggunaan",
+    "ms": "Hak penggunaan"
+  },
+  "review.identityValue": {
+    "tr": "Bağlantı verilen yayınla eşleştirilmiştir.",
+    "en": "Matched to the linked record.",
+    "de": "Mit dem verlinkten Eintrag abgeglichen.",
+    "zh": "已与链接记录核对。",
+    "ru": "Сопоставлено с записью по ссылке.",
+    "ar": "تمت المطابقة مع السجل المرتبط.",
+    "id": "Dicocokkan dengan rekaman tertaut.",
+    "ms": "Dipadankan dengan rekod terpaut."
+  },
+  "review.identityLimited": {
+    "tr": "Künye kısmen kontrol edilmiştir.",
+    "en": "Partial bibliographic check.",
+    "de": "Teilweise bibliografische Prüfung.",
+    "zh": "部分书目信息核查。",
+    "ru": "Частичная библиографическая проверка.",
+    "ar": "تحقق ببليوغرافي جزئي.",
+    "id": "Pemeriksaan bibliografi sebagian.",
+    "ms": "Semakan bibliografi separa."
+  },
+  "review.pending": {
+    "tr": "İnsan editör onayı bekliyor.",
+    "en": "Human editorial approval pending.",
+    "de": "Menschliche redaktionelle Freigabe ausstehend.",
+    "zh": "尚待人工编辑批准。",
+    "ru": "Ожидается одобрение редактора.",
+    "ar": "بانتظار موافقة محرر بشري.",
+    "id": "Menunggu persetujuan editor manusia.",
+    "ms": "Menunggu kelulusan editor manusia."
+  },
+  "review.languageDraft": {
+    "tr": "Çeviriler yapay zekâ desteğiyle hazırlanmıştır.",
+    "en": "Translations were prepared with AI assistance.",
+    "de": "Die Übersetzungen wurden mit KI-Unterstützung erstellt.",
+    "zh": "译文在人工智能辅助下完成。",
+    "ru": "Переводы подготовлены с помощью ИИ.",
+    "ar": "أُعدّت الترجمات بمساعدة الذكاء الاصطناعي.",
+    "id": "Terjemahan disiapkan dengan bantuan AI.",
+    "ms": "Terjemahan disediakan dengan bantuan AI."
+  },
+  "review.currencyValue": {
+    "tr": "Kapsamlı düzeltme ve geri çekilme kontrolü tamamlanmadı.",
+    "en": "Comprehensive correction and retraction checks are not complete.",
+    "de": "Umfassende Prüfungen auf Korrekturen und Rücknahmen sind nicht abgeschlossen.",
+    "zh": "全面的更正与撤稿核查尚未完成。",
+    "ru": "Полная проверка исправлений и отзывов публикаций не завершена.",
+    "ar": "لم تكتمل مراجعة التصحيحات وسحب المنشورات بصورة شاملة.",
+    "id": "Pemeriksaan menyeluruh atas koreksi dan pencabutan belum selesai.",
+    "ms": "Semakan menyeluruh pembetulan dan penarikan balik belum selesai."
+  },
+  "review.rightsValue": {
+    "tr": "Yalnızca özgün kaynağa bağlantı verilir. İçeriğin yeniden kullanımına izin verilmez.",
+    "en": "Links to the original source. No reuse permission is granted.",
+    "de": "Link zur Originalquelle. Keine Erlaubnis zur Weiterverwendung.",
+    "zh": "链接至原始来源。不授予再次使用的许可。",
+    "ru": "Ссылка на первоисточник. Разрешение на повторное использование не предоставляется.",
+    "ar": "رابط إلى المصدر الأصلي. لا يُمنح إذن بإعادة الاستخدام.",
+    "id": "Tautan ke sumber asli. Tidak memberikan izin penggunaan ulang.",
+    "ms": "Pautan ke sumber asal. Tidak memberikan kebenaran penggunaan semula."
+  },
+  "review.checked": {
+    "tr": "Son kayıt incelemesi",
+    "en": "Record last inspected",
+    "de": "Eintrag zuletzt geprüft",
+    "zh": "记录最近核查日期",
+    "ru": "Дата последней проверки записи",
+    "ar": "آخر مراجعة للسجل",
+    "id": "Rekaman terakhir diperiksa",
+    "ms": "Rekod kali terakhir diperiksa"
+  },
+  "review.translationNotice": {
+    "tr": "Çeviriler yapay zekâ desteğiyle hazırlanmıştır. Kaynakların özgün başlıkları değiştirilmemiştir.",
+    "en": "Translations were prepared with AI assistance. Original source titles are preserved.",
+    "de": "Die Übersetzungen wurden mit Unterstützung künstlicher Intelligenz erstellt. Originaltitel bleiben erhalten.",
+    "zh": "译文借助人工智能辅助完成。原始来源题名予以保留。",
+    "ru": "Переводы подготовлены с помощью искусственного интеллекта. Оригинальные названия сохранены.",
+    "ar": "أُعدّت الترجمات بمساعدة الذكاء الاصطناعي. حُفظت عناوين المصادر الأصلية.",
+    "id": "Terjemahan disusun dengan bantuan kecerdasan buatan. Judul sumber asli dipertahankan.",
+    "ms": "Terjemahan disediakan dengan bantuan kecerdasan buatan. Tajuk sumber asal dikekalkan."
+  },
+  "saved.storage": {
+    "tr": "Okuma listeniz yalnızca bu tarayıcıda saklanır ve herhangi bir hesapla eşitlenmez. Ortak kullanılan bir cihazdaysanız listenizi temizlemeniz önerilir. Tarayıcının depolama alanı, aynı alan adındaki diğer uygulamalarla ortak kullanılmaktadır.",
+    "en": "Your reading list is saved in this browser, not synced to an account. Clear it on shared devices. Browser storage is shared with other applications on this origin.",
+    "de": "Ihre Leseliste bleibt in diesem Browser und wird nicht mit einem Konto synchronisiert. Löschen Sie sie auf gemeinsam genutzten Geräten. Der Browserspeicher wird mit anderen Anwendungen derselben Origin geteilt.",
+    "zh": "阅读清单保存在此浏览器中，不与账户同步。使用共享设备后请清除清单。同源的其他应用共享浏览器存储空间。",
+    "ru": "Список чтения хранится в этом браузере без синхронизации с аккаунтом. Очищайте его на общих устройствах. Хранилище доступно другим приложениям того же источника.",
+    "ar": "تُحفظ قائمة القراءة في هذا المتصفح ولا تتزامن مع حساب. امسحها على الأجهزة المشتركة. مساحة التخزين مشتركة مع التطبيقات على الأصل نفسه.",
+    "id": "Daftar bacaan disimpan di peramban ini, tidak disinkronkan ke akun. Hapus daftar pada perangkat bersama. Penyimpanan peramban berbagi origin dengan aplikasi lain.",
+    "ms": "Senarai bacaan disimpan dalam pelayar ini, bukan disegerakkan dengan akaun. Padamkannya pada peranti kongsi. Storan pelayar dikongsi dengan aplikasi lain pada origin yang sama."
+  },
+  "governance.title": {
+    "tr": "Yayın ilkeleri ve erişim",
+    "en": "Editorial practice and access",
+    "de": "Redaktion und Zugang",
+    "zh": "编辑规范与访问",
+    "ru": "Редакционная работа и доступ",
+    "ar": "الممارسة التحريرية والوصول",
+    "id": "Praktik editorial dan akses",
+    "ms": "Amalan editorial dan akses"
+  },
+  "governance.lead": {
+    "tr": "Katalogdaki kayıtlar, bilimsel yorum, çeviri ve yayın izni ayrı ayrı değerlendirilir.",
+    "en": "Catalogue records, scholarly interpretation, translation and publication permission are assessed separately.",
+    "de": "Katalogdaten, wissenschaftliche Interpretation, Übersetzung und Veröffentlichungserlaubnis werden getrennt beurteilt.",
+    "zh": "目录记录、学术解释、翻译与发布许可分别评估。",
+    "ru": "Каталожные записи, научные интерпретации, перевод и разрешение на публикацию оцениваются отдельно.",
+    "ar": "تُقيّم السجلات الفهرسية والتفسير العلمي والترجمة وإذن النشر بصورة منفصلة.",
+    "id": "Catatan katalog, interpretasi ilmiah, terjemahan, dan izin publikasi dinilai secara terpisah.",
+    "ms": "Rekod katalog, tafsiran ilmiah, terjemahan dan kebenaran penerbitan dinilai secara berasingan."
+  },
+  "governance.status": {
+    "tr": "Kurumsal durum",
+    "en": "Institutional status",
+    "de": "Institutioneller Status",
+    "zh": "机构状态",
+    "ru": "Институциональный статус",
+    "ar": "الوضع المؤسسي",
+    "id": "Status kelembagaan",
+    "ms": "Status institusi"
+  },
+  "governance.corrections": {
+    "tr": "Düzeltme ve katkı",
+    "en": "Corrections and contributions",
+    "de": "Korrekturen und Beiträge",
+    "zh": "更正与贡献",
+    "ru": "Исправления и предложения",
+    "ar": "التصحيحات والمساهمات",
+    "id": "Koreksi dan kontribusi",
+    "ms": "Pembetulan dan sumbangan"
+  },
+  "governance.correctionText": {
+    "tr": "Kaynağın adresini ve düzeltilmesini istediğiniz bölümü belirterek bir öneri dosyası hazırlayabilirsiniz. Dosya yalnızca kendi cihazınıza indirilir; bir editöre gönderilmez. Değişen metnin bilimsel ve dilsel açıdan yeniden incelenmesi gerekir.",
+    "en": "Prepare a suggestion identifying the source URL and the passage to correct. The file downloads to your device only and is not sent to an editor. Changed text requires renewed scholarly and language review.",
+    "de": "Erstellen Sie einen Vorschlag mit Quellenadresse und zu korrigierender Passage. Die Datei wird nur auf Ihr Gerät heruntergeladen, nicht an eine Redaktion gesendet. Geänderter Text erfordert erneute wissenschaftliche und sprachliche Prüfung.",
+    "zh": "可注明来源链接及需更正的段落来准备建议文件。文件仅下载到您的设备，不会发送给编辑。修改后的文本需要重新进行学术和语言审校。",
+    "ru": "Подготовьте предложение с адресом источника и исправляемым фрагментом. Файл только скачивается на устройство и не отправляется редактору. Изменённый текст требует повторной научной и языковой проверки.",
+    "ar": "يمكنك إعداد اقتراح يحدد رابط المصدر والمقطع المطلوب تصحيحه. يُنزّل الملف إلى جهازك فقط ولا يُرسل إلى محرر. يتطلب النص المعدّل مراجعة علمية ولغوية جديدة.",
+    "id": "Siapkan saran dengan URL sumber dan bagian yang perlu dikoreksi. Berkas hanya diunduh ke perangkat, bukan dikirim ke editor. Teks yang berubah memerlukan penelaahan ilmiah dan bahasa kembali.",
+    "ms": "Sediakan cadangan dengan URL sumber dan bahagian yang perlu dibetulkan. Fail hanya dimuat turun ke peranti, bukan dihantar kepada editor. Teks yang berubah memerlukan semakan ilmiah dan bahasa semula."
+  },
+  "governance.accessibility": {
+    "tr": "Erişilebilirlik",
+    "en": "Accessibility",
+    "de": "Barrierefreiheit",
+    "zh": "无障碍访问",
+    "ru": "Доступность",
+    "ar": "إمكانية الوصول",
+    "id": "Aksesibilitas",
+    "ms": "Kebolehcapaian"
+  },
+  "governance.accessText": {
+    "tr": "Klavyeyle kullanım, büyütülebilir metin, sağdan sola yazım düzeni ve azaltılmış hareket desteklenmektedir. Bağımsız bir erişilebilirlik değerlendirmesi henüz yapılmamıştır. WCAG 2.2 AA düzeyi bir uygunluk belgesi değil, ulaşılmaya çalışılan bir hedeftir.",
+    "en": "Keyboard use, resizable text, right-to-left layout and reduced motion are supported. Independent accessibility evaluation is not complete. WCAG 2.2 AA is a development target, not a conformance certification.",
+    "de": "Tastaturbedienung, vergrößerbarer Text, Rechts-nach-links-Layout und reduzierte Bewegung werden unterstützt. Eine unabhängige Barrierefreiheitsprüfung ist nicht abgeschlossen. WCAG 2.2 AA ist ein Entwicklungsziel, keine Konformitätsbescheinigung.",
+    "zh": "支持键盘操作、文本缩放、从右向左布局和减少动态效果。独立无障碍评估尚未完成。WCAG 2.2 AA 是开发目标，而非合规认证。",
+    "ru": "Поддерживаются клавиатурное управление, увеличение текста, направление справа налево и уменьшение анимации. Независимая оценка доступности не завершена. WCAG 2.2 AA является целью разработки, а не сертификатом соответствия.",
+    "ar": "تُدعم لوحة المفاتيح وتكبير النص والاتجاه من اليمين إلى اليسار وتقليل الحركة. لم يكتمل تقييم مستقل لإمكانية الوصول. معيار WCAG 2.2 AA هدف تطوير وليس شهادة مطابقة.",
+    "id": "Penggunaan papan ketik, pembesaran teks, tata letak kanan ke kiri, dan pengurangan gerak didukung. Evaluasi aksesibilitas independen belum selesai. WCAG 2.2 AA adalah target pengembangan, bukan sertifikasi kepatuhan.",
+    "ms": "Penggunaan papan kekunci, pembesaran teks, susun atur kanan ke kiri dan pengurangan gerakan disokong. Penilaian kebolehcapaian bebas belum selesai. WCAG 2.2 AA ialah sasaran pembangunan, bukan pensijilan pematuhan."
+  },
+  "governance.privacy": {
+    "tr": "Gizlilik ve yerel işlemler",
+    "en": "Privacy and local actions",
+    "de": "Datenschutz und lokale Vorgänge",
+    "zh": "隐私与本地操作",
+    "ru": "Конфиденциальность и локальные действия",
+    "ar": "الخصوصية والإجراءات المحلية",
+    "id": "Privasi dan tindakan lokal",
+    "ms": "Privasi dan tindakan setempat"
+  },
+  "governance.privacyText": {
+    "tr": "Sitede kullanıcı hesabı, ziyaretçi izleme aracı ya da katılımcılardan veri toplayan bir form bulunmamaktadır. Barındırma hizmetinin tuttuğu erişim kayıtları ise ayrı bir konudur. Site herkese açıktır; özel bir çalışma alanı değildir.",
+    "en": "There are no accounts, analytics trackers or participant data collection forms. Hosting access logs are a separate consideration. The website is public and is not a private workspace.",
+    "de": "Es gibt keine Konten, Analyse-Tracker oder Formulare zur Erhebung von Teilnehmerdaten. Zugriffsprotokolle des Hostingdienstes sind gesondert zu betrachten. Die Website ist öffentlich und kein privater Arbeitsbereich.",
+    "zh": "平台不设账户、分析跟踪器或参与者数据收集表单。托管服务的访问日志须另行考虑。本网站为公开网站，并非私密工作空间。",
+    "ru": "Здесь нет аккаунтов, аналитических трекеров или форм сбора данных участников. Журналы доступа хостинга рассматриваются отдельно. Сайт является общедоступным и не служит приватным рабочим пространством.",
+    "ar": "لا توجد حسابات أو متتبعات تحليلية أو نماذج لجمع بيانات المشاركين. سجلات الوصول لدى الاستضافة مسألة منفصلة. الموقع متاح للعموم وليس مساحة عمل خاصة.",
+    "id": "Tidak ada akun, pelacak analitik, atau formulir pengumpulan data partisipan. Log akses penyedia hosting merupakan pertimbangan tersendiri. Situs ini bersifat publik dan bukan ruang kerja privat.",
+    "ms": "Tiada akaun, penjejak analitik atau borang pengumpulan data peserta. Log akses penyedia pengehosan ialah pertimbangan berasingan. Laman ini terbuka kepada umum dan bukan ruang kerja peribadi."
+  },
+  "research.title": {
+    "tr": "Araştırma ve kaynak haritası",
+    "en": "Research and collection map",
+    "de": "Forschung und Quellenübersicht",
+    "zh": "研究与资源概览",
+    "ru": "Исследования и обзор коллекции",
+    "ar": "البحث وخريطة المصادر",
+    "id": "Penelitian dan peta koleksi",
+    "ms": "Penyelidikan dan peta koleksi"
+  },
+  "research.lead": {
+    "tr": "Seçkinin kapsamını, yöntem kaynaklarını ve araştırma ilkelerini bu sayfada inceleyebilirsiniz.",
+    "en": "Inspect the scope of the collection and explore research methods and principles.",
+    "de": "Prüfen Sie den Umfang der Auswahl und entdecken Sie Forschungsmethoden und Grundsätze.",
+    "zh": "了解本资源集的范围，探索研究方法与原则。",
+    "ru": "Изучите границы коллекции, исследовательские методы и принципы.",
+    "ar": "اطّلع على نطاق المجموعة واستكشف مناهج البحث ومبادئه.",
+    "id": "Tinjau cakupan koleksi serta jelajahi metode dan prinsip penelitian.",
+    "ms": "Semak skop koleksi serta terokai kaedah dan prinsip penyelidikan."
+  },
+  "research.composition": {
+    "tr": "Katalogda neler var",
+    "en": "What the catalogue contains",
+    "de": "Inhalt des Katalogs",
+    "zh": "目录内容",
+    "ru": "Содержание каталога",
+    "ar": "محتويات الفهرس",
+    "id": "Isi katalog",
+    "ms": "Kandungan katalog"
+  },
+  "research.scope": {
+    "tr": "Sayılar yalnızca bu katalogdaki kaynak kayıtlarını göstermektedir; aynı yayının çevirileri ayrı yayın olarak sayılmaz. Bu sayılardan alanın büyüklüğü, kanıtın gücü ya da klinik etkililik hakkında sonuç çıkarılamaz.",
+    "en": "Counts describe unique source records in this catalogue only. Translations are not counted as new publications. They do not establish the size of the field, strength of evidence or clinical effectiveness.",
+    "de": "Die Zahlen beschreiben nur eindeutige Quellen dieses Katalogs. Übersetzungen zählen nicht als neue Publikationen. Daraus folgen keine Aussagen über Feldgröße, Evidenzstärke oder klinische Wirksamkeit.",
+    "zh": "数量仅描述本目录中的唯一来源记录。译文不计为新增出版物。不能据此推断整个领域的规模、证据强度或临床效果。",
+    "ru": "Числа отражают только уникальные источники этого каталога. Переводы не считаются новыми публикациями. Они не характеризуют размер области, силу доказательств или клиническую эффективность.",
+    "ar": "تصف الأعداد سجلات المصادر الفريدة في هذا الفهرس فقط. لا تُحتسب الترجمات منشورات جديدة. ولا تدل على حجم المجال أو قوة الأدلة أو الفعالية السريرية.",
+    "id": "Jumlah hanya menunjukkan rekaman sumber unik dalam katalog ini. Terjemahan tidak dihitung sebagai publikasi baru. Jumlah ini tidak menetapkan ukuran bidang, kekuatan bukti, atau efektivitas klinis.",
+    "ms": "Bilangan hanya menunjukkan rekod sumber unik dalam katalog ini. Terjemahan tidak dikira sebagai penerbitan baharu. Bilangan ini tidak menentukan saiz bidang, kekuatan bukti atau keberkesanan klinikal."
+  },
+  "research.count": {
+    "tr": "Kayıt sayısı",
+    "en": "Record count",
+    "de": "Anzahl der Einträge",
+    "zh": "记录数",
+    "ru": "Число записей",
+    "ar": "عدد السجلات",
+    "id": "Jumlah rekaman",
+    "ms": "Bilangan rekod"
+  },
+  "research.projectsNote": {
+    "tr": "Etik onayı alınmış bir proje ya da katılımcı çağrısı yayımlandığında burada duyurulacaktır. Şu anda katılımcılardan yanıt toplanmamaktadır.",
+    "en": "Approved projects or recruitment notices will be identified separately when available. Participant responses are not currently collected.",
+    "de": "Genehmigte Projekte oder Teilnahmeaufrufe werden gesondert ausgewiesen, sobald sie vorliegen. Derzeit werden keine Teilnehmerantworten erhoben.",
+    "zh": "经批准的项目或招募通知将在可用时单独标明。目前不收集参与者答复。",
+    "ru": "Одобренные проекты и объявления о наборе будут обозначены отдельно по мере появления. Ответы участников сейчас не собираются.",
+    "ar": "ستُعرض المشاريع المعتمدة أو إعلانات المشاركة بصورة منفصلة عند توفرها. لا تُجمع حالياً إجابات المشاركين.",
+    "id": "Proyek yang disetujui atau pengumuman rekrutmen akan ditandai secara terpisah saat tersedia. Tanggapan partisipan saat ini tidak dikumpulkan.",
+    "ms": "Projek yang diluluskan atau notis pengambilan akan dikenal pasti secara berasingan apabila tersedia. Respons peserta tidak dikumpulkan pada masa ini."
+  },
+  "about.public": {
+    "tr": "Platformu tanıyın",
+    "en": "Understand the platform",
+    "de": "Die Plattform kennenlernen",
+    "zh": "了解平台",
+    "ru": "Знакомство с платформой",
+    "ar": "تعرّف على المنصة",
+    "id": "Kenali platform",
+    "ms": "Kenali platform"
+  },
+  "about.editor": {
+    "tr": "Kaynak önerin ya da düzeltme hazırlayın",
+    "en": "Prepare a source suggestion or correction",
+    "de": "Quellenvorschlag oder Korrektur vorbereiten",
+    "zh": "准备来源建议或更正",
+    "ru": "Подготовить предложение или исправление",
+    "ar": "أعدّ اقتراح مصدر أو تصحيحاً",
+    "id": "Siapkan saran sumber atau koreksi",
+    "ms": "Sediakan cadangan sumber atau pembetulan"
+  },
+  "collection.selected": {
+    "tr": "Seçilmiş kaynaklar",
+    "en": "Selected resources",
+    "de": "Ausgewählte Quellen",
+    "zh": "精选资源",
+    "ru": "Избранные ресурсы",
+    "ar": "مصادر مختارة",
+    "id": "Sumber pilihan",
+    "ms": "Sumber terpilih"
+  },
+  "collection.full": {
+    "tr": "Seçkinin kapsamı",
+    "en": "Collection scope",
+    "de": "Umfang der Auswahl",
+    "zh": "资源集范围",
+    "ru": "Границы коллекции",
+    "ar": "نطاق المجموعة",
+    "id": "Cakupan koleksi",
+    "ms": "Skop koleksi"
+  },
+  "collection.sourceVersion": {
+    "tr": "Kaynak sürümü",
+    "en": "Source version",
+    "de": "Quellenversion",
+    "zh": "来源版本",
+    "ru": "Версия источника",
+    "ar": "نسخة المصدر",
+    "id": "Versi sumber",
+    "ms": "Versi sumber"
+  },
+  "nojs.filter": {
+    "tr": "Kayıtlar aşağıda okunabilir. Arama, filtreler ve görünüm seçimi JavaScript gerektirir.",
+    "en": "Records remain readable below. Search, filters and view switching require JavaScript.",
+    "de": "Die Einträge bleiben unten lesbar. Suche, Filter und Ansichtswechsel benötigen JavaScript.",
+    "zh": "下方记录仍可阅读。搜索、筛选和视图切换需要 JavaScript。",
+    "ru": "Записи доступны для чтения ниже. Поиск, фильтры и переключение вида требуют JavaScript.",
+    "ar": "يمكن قراءة السجلات أدناه. يتطلب البحث والتصفية وتبديل العرض JavaScript.",
+    "id": "Rekaman tetap dapat dibaca di bawah. Pencarian, filter, dan pergantian tampilan memerlukan JavaScript.",
+    "ms": "Rekod masih boleh dibaca di bawah. Carian, penapis dan pertukaran paparan memerlukan JavaScript."
+  },
+  "catalogue.roleHint": {
+    "tr": "Yazar, editör veya bölüm katkısı. Kurumsal üyelik anlamına gelmez.",
+    "en": "Author, editor or chapter contribution. This does not establish institutional membership.",
+    "de": "Autorenschaft, Herausgabe oder Kapitelbeitrag. Daraus folgt keine institutionelle Mitgliedschaft.",
+    "zh": "作者、编者或章节贡献身份，不表示机构成员资格。",
+    "ru": "Авторство, редакторская работа или вклад в главу не означают членство в организации.",
+    "ar": "تأليف أو تحرير أو مساهمة في فصل. لا يدل ذلك على عضوية مؤسسية.",
+    "id": "Penulis, editor, atau kontributor bab. Ini tidak menetapkan keanggotaan institusi.",
+    "ms": "Pengarang, editor atau penyumbang bab. Ini tidak menentukan keanggotaan institusi."
+  },
+  "footer.future": {
+    "tr": "Geliştirilen bölümler",
+    "en": "Sections in development",
+    "de": "Bereiche in Entwicklung",
+    "zh": "正在拓展的栏目",
+    "ru": "Разделы в разработке",
+    "ar": "الأقسام قيد التطوير",
+    "id": "Bagian yang sedang dikembangkan",
+    "ms": "Bahagian yang sedang dibangunkan"
+  },
+  "form.errors": {
+    "tr": "Lütfen bu alanları kontrol edin",
+    "en": "Please check these fields",
+    "de": "Bitte prüfen Sie diese Felder",
+    "zh": "请检查以下字段",
+    "ru": "Проверьте эти поля",
+    "ar": "يرجى التحقق من هذه الحقول",
+    "id": "Periksa kolom berikut",
+    "ms": "Sila semak medan berikut"
+  },
+  "form.required": {
+    "tr": "Bu alan zorunludur.",
+    "en": "This field is required.",
+    "de": "Dieses Feld ist erforderlich.",
+    "zh": "此字段为必填项。",
+    "ru": "Это поле обязательно.",
+    "ar": "هذا الحقل مطلوب.",
+    "id": "Kolom ini wajib diisi.",
+    "ms": "Medan ini wajib diisi."
+  },
+  "form.invalid": {
+    "tr": "Girdi biçimini kontrol edin.",
+    "en": "Check the format of this value.",
+    "de": "Prüfen Sie das Format dieser Angabe.",
+    "zh": "请检查输入格式。",
+    "ru": "Проверьте формат значения.",
+    "ar": "تحقق من صيغة القيمة.",
+    "id": "Periksa format nilai ini.",
+    "ms": "Semak format nilai ini."
+  },
+  "institution.university": {
+    "tr": "Marmara Üniversitesi",
+    "en": "Marmara University",
+    "de": "Marmara Universität",
+    "zh": "马尔马拉大学",
+    "ru": "Университет Мармара",
+    "ar": "جامعة مرمرة",
+    "id": "Universitas Marmara",
+    "ms": "Universiti Marmara"
+  },
+  "institution.faculty": {
+    "tr": "Atatürk Eğitim Fakültesi",
+    "en": "Atatürk Faculty of Education",
+    "de": "Pädagogische Fakultät Atatürk",
+    "zh": "阿塔图尔克教育学院",
+    "ru": "Педагогический факультет имени Ататюрка",
+    "ar": "كلية أتاتورك للتربية",
+    "id": "Fakultas Pendidikan Atatürk",
+    "ms": "Fakulti Pendidikan Atatürk"
+  },
+  "institution.department": {
+    "tr": "Eğitim Bilimleri Bölümü",
+    "en": "Department of Educational Sciences",
+    "de": "Abteilung für Erziehungswissenschaften",
+    "zh": "教育科学系",
+    "ru": "Кафедра педагогических наук",
+    "ar": "قسم العلوم التربوية",
+    "id": "Departemen Ilmu Pendidikan",
+    "ms": "Jabatan Sains Pendidikan"
+  },
+  "institution.division": {
+    "tr": "Rehberlik ve Psikolojik Danışmanlık Anabilim Dalı",
+    "en": "Division of Guidance and Psychological Counselling",
+    "de": "Fachbereich für Bildungsberatung und psychologische Beratung",
+    "zh": "指导与心理咨询学科",
+    "ru": "Отделение психологического консультирования и сопровождения",
+    "ar": "شعبة التوجيه والإرشاد النفسي",
+    "id": "Divisi Bimbingan dan Konseling Psikologis",
+    "ms": "Bahagian Bimbingan dan Kaunseling Psikologi"
+  }
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "name": "harvard-home",
+    "url": "https://hfh.fas.harvard.edu/",
+    "status": 200,
+    "title": "Home | Human Flourishing Program at Harvard",
+    "h1": [
+      "Advancing the study and practice of human flourishing"
+    ],
+    "links": 86,
+    "scripts": 39,
+    "iframes": 0,
+    "mobile_overflow": false
+  },
+  {
+    "name": "harvard-publications",
+    "url": "https://hfh.fas.harvard.edu/publications",
+    "status": 200,
+    "title": "Publications | Human Flourishing Program at Harvard",
+    "h1": [
+      "Publications"
+    ],
+    "links": 83,
+    "scripts": 37,
+    "iframes": 0
+  },
+  {
+    "name": "duke-home",
+    "url": "https://spiritualityandhealth.duke.edu/",
+    "status": 200,
+    "title": "Center for Spirituality, Theology and Health",
+    "h1": [
+      "Welcome"
+    ],
+    "links": 137,
+    "scripts": 2,
+    "iframes": 1,
+    "mobile_overflow": false
+  },
+  {
+    "name": "duke-manuals",
+    "url": "https://spiritualityandhealth.duke.edu/index.php/religious-cbt-study/therapy-manuals/",
+    "status": 200,
+    "title": "Religiously-Integrated Cognitive Behavioral Therapy (RCBT) Manuals and Workbooks* – Center for Spirituality, Theology and Health",
+    "h1": [
+      "Religiously-Integrated Cognitive Behavioral Therapy (RCBT) Manuals and Workbooks*"
+    ],
+    "links": 158,
+    "scripts": 2,
+    "iframes": 0
+  },
+  {
+    "name": "smbi-home",
+    "url": "https://spiritualitymindbody.tc.columbia.edu/",
+    "status": 200,
+    "title": "Spirituality Mind Body Institute | Teachers College, Columbia University",
+    "h1": [
+      "Spirituality Mind Body Institute"
+    ],
+    "links": 58,
+    "scripts": 22,
+    "iframes": 4,
+    "mobile_overflow": false
+  },
+  {
+    "name": "smbi-work",
+    "url": "https://spiritualitymindbody.tc.columbia.edu/our-work/",
+    "status": 200,
+    "title": "Our Work | Spirituality Mind Body Institute | Teachers College, Columbia University",
+    "h1": [
+      "Our Work"
+    ],
+    "links": 45,
+    "scripts": 22,
+    "iframes": 1
+  },
+  {
+    "name": "iapr-home",
+    "url": "https://www.iaprweb.org/",
+    "status": 200,
+    "title": "International Association for the Psychology of Religion",
+    "h1": [],
+    "links": 54,
+    "scripts": 0,
+    "iframes": 0,
+    "mobile_overflow": false
+  },
+  {
+    "name": "iapr-journal",
+    "url": "https://www.iaprweb.org/journal/",
+    "status": 200,
+    "title": "Journal – International Association for the Psychology of Religion",
+    "h1": [],
+    "links": 33,
+    "scripts": 6,
+    "iframes": 0
+  }
+]

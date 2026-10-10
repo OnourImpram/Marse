@@ -1,0 +1,27 @@
+{
+  "ownerApproval": "2026-10-03",
+  "originalPngSha256": "89d1a10b8320a252434d5cba8c982874c44772904e0575ecbcb8eb77fd8ece90",
+  "origin": "AI-generated artwork supplied and explicitly approved by the project owner in this conversation",
+  "depicts": "Imagined architectural graphic, not a real Marmara University building or a historical artifact",
+  "text": "MARSAM",
+  "permissions": "Owner requested this artwork to be used on the MARSAM website. No institutional approval is inferred.",
+  "processing": "Original PNG resized to 960 square with Lanczos, WebP quality 72 method 6. Mobile derived at 480 square quality 82. No crop, recolor or regenerated text. The later 0.9.2 owner correction is a CSS-only narrow symmetry repair and does not modify these asset bytes.",
+  "assets": [
+    {
+      "path": "public/assets/heritage/approved-portal-960.webp",
+      "width": 960,
+      "height": 960,
+      "bytes": 78536,
+      "sha256": "00a058dc8f737d73d9bfbd49ef9e541fe54defb2f8d0015efa3ad77cfaa6c66b"
+    },
+    {
+      "path": "public/assets/heritage/approved-portal-480.webp",
+      "width": 480,
+      "height": 480,
+      "bytes": 35720,
+      "sha256": "9c5ddeceaea1b1e76a127cd38281ce07205f55bebac19c9aaaab7ec3f8268f9d"
+    }
+  ],
+  "repairApproval": "2026-10-04",
+  "repair": "The 0.9.2 visual layer closes only the owner-marked left vertical recess by mirroring the corresponding right-side ebru strip with a CSS clip-path. The WebP assets remain byte-identical."
+}

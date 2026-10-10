@@ -1,0 +1,57 @@
+{
+  "version": "0.9.1",
+  "status": "live-pages-deployed",
+  "date": "2026-10-04",
+  "url": "https://onourimpram.github.io/MARSAM/tr/",
+  "sourceCommit": "b0f1ddb59b97b480fb994226a196e2d40d184d9c",
+  "sourceCandidateVerificationRun": 37192115633,
+  "sourceMainVerificationRun": 37201521701,
+  "hostStageRun": 37201910825,
+  "hostCommit": "0e0a0e9f38451ccf18b8a421f1be900edc19ad31",
+  "hostTree": "7222a0180dcda023cd5b3251f63454927145f7d1",
+  "siteTree": "b584efaa8bc5f3e5be6a74fbc3258809ff533dc7",
+  "pagesDeploymentRun": 37202021619,
+  "pagesDeploymentConclusion": "success",
+  "releaseManifestVersion": "0.9.1",
+  "releaseManifestSourceCommit": "b0f1ddb59b97b480fb994226a196e2d40d184d9c",
+  "regressions": {
+    "beforeFailed": 5,
+    "afterPassed": 5
+  },
+  "browserChecks": {
+    "core": 818,
+    "scope": 899,
+    "layout": 2723,
+    "research": 2324,
+    "cini": 1393,
+    "scholarship": 829
+  },
+  "browsers": [
+    "chromium",
+    "firefox",
+    "webkit"
+  ],
+  "locales": [
+    "tr",
+    "en",
+    "de",
+    "zh",
+    "ru",
+    "ar",
+    "id",
+    "ms"
+  ],
+  "visualAssetsChanged": false,
+  "paletteChanged": false,
+  "academicScopeExpandedBeyondReviewedPatch": false,
+  "formalInstitutionalApproval": false,
+  "scientificHumanReview": false,
+  "nativeLanguageHumanReview": false,
+  "independentAccessibilityAudit": false,
+  "fieldCoreWebVitalsMeasured": false,
+  "notes": [
+    "The live host repository records MARSAM/release.json as version 0.9.1 with the exact source commit.",
+    "GitHub Pages build and deployment completed successfully.",
+    "No independent second-network-origin browser fetch is claimed in this release record."
+  ]
+}

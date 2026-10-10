@@ -1,0 +1,17 @@
+{
+  "name": "marsam-knowledge-platform",
+  "version": "0.12.0",
+  "private": true,
+  "type": "module",
+  "description": "Eight-language source-aware research and learning portal preview",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/serve.mjs",
+    "test": "node --test tests/core.test.mjs tests/locales.test.mjs tests/campus.test.mjs tests/editorial-scope.test.mjs tests/design.test.mjs tests/design-controls.test.mjs tests/heritage.test.mjs tests/reading-room.test.mjs tests/discovery-contracts.test.mjs tests/identity-restoration.test.mjs tests/bookplate.test.mjs tests/research-toolkit.test.mjs tests/cini.test.mjs tests/approved-portal.test.mjs tests/scholarship.test.mjs tests/final-review.test.mjs tests/evidence-continuity.test.mjs tests/evidence-cycle.test.mjs tests/portal-continuity.test.mjs tests/editorial-cleanup.test.mjs tests/roadmap-platform.test.mjs tests/release-consistency.test.mjs tests/roadmap-locales.test.mjs tests/api-contract.test.mjs tests/locale-finish.test.mjs",
+    "test:build": "node --test tests/build.test.mjs",
+    "check": "npm test && node scripts/validate-schemas.mjs && npm run build && npm run test:build"
+  }
+}

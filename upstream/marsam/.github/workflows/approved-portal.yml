@@ -1,0 +1,117 @@
+name: Verify approved MARSAM portal
+on:
+  push:
+    branches: [design/approved-portal-20261003]
+    paths: [.github/workflows/approved-portal.yml]
+permissions:
+  contents: write
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    container: mcr.microsoft.com/playwright/python:v1.61.0-noble
+    timeout-minutes: 15
+    env:
+      BROWSERS: chromium,firefox,webkit
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set container repository trust
+        run: git config --global --add safe.directory "$GITHUB_WORKSPACE"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Confirm new approval tests fail against the preceding implementation
+        shell: bash
+        run: |
+          mkdir -p verification
+          if node --test tests/approved-portal.test.mjs > verification/portal-red.log 2>&1; then
+            echo 'Unexpected passing test before implementation' >&2
+            exit 1
+          fi
+          grep -q 'fail 3' verification/portal-red.log
+      - name: Prepare matched image processing and browser tools
+        run: |
+          python -m pip install --timeout 25 -q pillow==12.3.0 playwright==1.61.0 nbclient==0.10.2 nbformat==5.10.4 ipykernel==6.30.1
+          python scripts/test-fonts.py
+      - name: Require exact artwork byte identity and apply the approved change
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import hashlib,base64
+          hashes=['360a8ab88149272dd0982d3eb569fd2a0c363e0017d0cc772a62048695a38b03','33bb18b8f7ac76d1dc39e98c86567edb6790bd53b17b94367ac6a09dac446d2a','02b9048b5cee74bfecc4b420abce38dbbc2a1c67c0ee296799a3d381902a962a','c7c61eeb188ea2f6b42e1fc2fc237eb500da39fd1db1d2276af38076e34234ee','39999e755f67de3765c60d7802e1cd7302afb049a801036c1b8546c6fa627fec','85fceaff4a43d1e622ce7f468bbda91861b06bdc3b43ad9761554acd27e49869','4383823a6a6f62b8c208031966c7e100de9aeb3a8359c4781c10b86f4ca7587c']
+          parts=[]
+          for i,h in enumerate(hashes,1):
+              text=Path(f'.github/approved-portal/part{i}.b64').read_text().strip()
+              if i==3 and 'MYxKK0Nx' in text:text=text.replace('MYxKK0Nx','MYxK0Nx')
+              assert hashlib.sha256(text.encode()).hexdigest()==h,('Transfer part checksum mismatch',i)
+              parts.append(text)
+          data=base64.b64decode(''.join(parts),validate=True)
+          assert len(data)==78536 and hashlib.sha256(data).hexdigest()=='00a058dc8f737d73d9bfbd49ef9e541fe54defb2f8d0015efa3ad77cfaa6c66b'
+          Path('public/assets/heritage/approved-portal-960.webp').write_bytes(data)
+          PY
+          python .github/approved-portal/apply.py
+          python .github/approved-portal/refine.py
+      - name: Protect content, identity, translations, palette and existing interactions
+        run: |
+          git diff --exit-code -- src/articles.mjs src/content.mjs src/publications-data.json src/publications-data.mjs src/locales src/i18n.mjs src/tokens.json src/chrome.mjs public/app.js public/search-core.js public/heritage.js public/campus.js public/assets/cini research
+      - name: Verify both deployment roots and budgets
+        shell: bash
+        run: |
+          set -euo pipefail
+          BASE_PATH=/ npm run check > verification/portal-root.log
+          BASE_PATH=/MARSAM/ PAGES_PREVIEW=true npm run check > verification/portal-pages.log
+          node scripts/budget.mjs | tee verification/portal-budgets.json
+          python tests/research_artifacts.py
+      - name: Exercise native browsers and responsive artwork
+        shell: bash
+        run: |
+          set -euo pipefail
+          python tests/browser_e2e.py > verification/portal-core.log 2>&1 & core=$!
+          python tests/scope_e2e.py > verification/portal-scope.log 2>&1 & scope=$!
+          python tests/heritage_e2e.py > verification/portal-layout.log 2>&1 & layout=$!
+          timeout 420 python -u tests/research_e2e.py > verification/portal-research.log 2>&1 & research=$!
+          python tests/cini_e2e.py > verification/portal-cini.log 2>&1 & cini=$!
+          status=0
+          wait "$core" || status=1
+          wait "$scope" || status=1
+          wait "$layout" || status=1
+          wait "$research" || status=1
+          wait "$cini" || status=1
+          exit "$status"
+      - name: Commit only the verified application candidate
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+          import json
+          names=['reading-room-core','reading-room-scope','reading-room-layout','research-browser','cini-browser']
+          receipts={}
+          for name in names:
+              d=json.loads(Path('verification/'+name+'.json').read_text());assert d['success'],name
+              receipts[name]={'browsers':d['browsers'],'checks':len(d.get('checks',[])),'success':True}
+          result={'version':'0.8.3','status':'candidate-verified-not-yet-public','sourceBaseline':'70b039b28570775e20ab54195e773e2f43deb1d5','exactApprovedDesktopSha256':'00a058dc8f737d73d9bfbd49ef9e541fe54defb2f8d0015efa3ad77cfaa6c66b','academicContentChanged':False,'paletteChanged':False,'institutionalApproval':False,'humanLanguageApproval':False,'suites':receipts}
+          Path('docs/releases/approved-portal-0.8.3-candidate.json').write_text(json.dumps(result,indent=2)+'\n')
+          PY
+          git config user.name 'Onour Impram'
+          git config user.email '215815131+OnourImpram@users.noreply.github.com'
+          git add AGENTS.md src public tests package.json docs/design docs/releases/approved-portal-0.8.3-candidate.json
+          git diff --cached --stat > verification/portal-change-stat.txt
+          git commit -m 'design: use exact owner-approved layered portal and recede cini without changing scholarly content'
+          git push origin HEAD:design/approved-portal-20261003
+          git rev-parse HEAD > verification/portal-source-sha.txt
+          git ls-tree HEAD > verification/portal-source-tree.txt
+          git archive HEAD AGENTS.md README.md DELIVERY_STATUS.md src public scripts tests docs package.json > verification/portal-source.tar
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: marsam-approved-portal-candidate
+          path: |
+            verification/portal-*
+            verification/reading-room-*.json
+            verification/research-*.json
+            verification/cini-browser.json
+            .browser-results/cini/
+            .browser-results/reading-room/
+            .browser-results/research/
+          include-hidden-files: true
+          retention-days: 14

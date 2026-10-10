@@ -1,0 +1,9 @@
+{
+  "repository": "notofonts/noto-cjk",
+  "commit": "f8d157532fbfaeda587e826d4cd5b21a49186f7c",
+  "blob": "cba8a4783cc38574ac7cda52cae7d9b4241c07a5",
+  "sha256": "2a2eae2628df83556c54018c41e20fa532c1b862c5256ae8b3f23feb918d12ca",
+  "match": "NotoSerifCJKsc-Regular.otf: \"Noto Serif CJK SC\" \"Regular\"",
+  "testHostOnly": true,
+  "distributed": false
+}

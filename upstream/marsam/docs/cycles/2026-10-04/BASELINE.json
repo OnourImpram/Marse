@@ -1,0 +1,38 @@
+{
+  "runId": 37211251927,
+  "baselineSource": "58bf9f82c18c95f76f9a11bc84423acf94546679",
+  "allExistingSuitesPassed": true,
+  "public": {
+    "checkedAt": "2026-10-04T15:04:20.116512+00:00",
+    "release": "0.9.4",
+    "sourceCommit": "58bf9f82c18c95f76f9a11bc84423acf94546679",
+    "htmlRoutes": 682,
+    "failures": [],
+    "responseHeaders": {
+      "Connection": "close",
+      "Content-Length": "127243",
+      "Server": "GitHub.com",
+      "Content-Type": "application/json; charset=utf-8",
+      "Last-Modified": "Sun, 04 Oct 2026 14:47:24 GMT",
+      "Access-Control-Allow-Origin": "*",
+      "Strict-Transport-Security": "max-age=31556952",
+      "ETag": "\"6ac266fc-1f10b\"",
+      "expires": "Sun, 04 Oct 2026 15:14:02 GMT",
+      "Cache-Control": "max-age=600",
+      "x-proxy-cache": "MISS",
+      "X-GitHub-Request-Id": "2D1A:16F1E2:A03B0:C434C:6AC26AE1",
+      "x-github-edge-region": "westus3",
+      "Accept-Ranges": "bytes",
+      "Age": "0",
+      "Date": "Sun, 04 Oct 2026 15:04:02 GMT",
+      "Via": "1.1 varnish",
+      "X-Served-By": "cache-sjc1000110-SJC",
+      "X-Cache": "MISS",
+      "X-Cache-Hits": "0",
+      "X-Timer": "S1791126242.129623,VS0,VE108",
+      "Vary": "Accept-Encoding",
+      "X-Fastly-Request-ID": "5ddb9d9debb93299fa3b6bdf2fa7c99b1acdfdaa"
+    }
+  },
+  "nativeBrowserRouteVisits": 48
+}
