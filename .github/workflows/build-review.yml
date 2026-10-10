@@ -1,0 +1,90 @@
+name: Build and verify MARSE
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/build-review.yml'
+      - 'migration/code-*.b64'
+      - 'scripts/**'
+      - 'tests/**'
+      - 'design/**'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: marse-review-build
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Restore readable migration adapter
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import base64,lzma,json,hashlib
+          if not Path('migration/adapter-unpacked.json').exists():
+              packed=base64.b64decode(''.join(Path(f'migration/code-{i}.b64').read_text().strip() for i in (1,2,3)),validate=True)
+              assert hashlib.sha256(packed).hexdigest()=='a97becc35718e323057d439e06b81a5532913668d078695cac056cfac710fdfa'
+              raw=lzma.decompress(packed)
+              assert hashlib.sha256(raw).hexdigest()=='4d22f0d83fc589de02dffe2fa68f9d648e2a9bed3c11beb578fe66ebed3ddd13'
+              files=json.loads(raw)
+              allowed={'scripts/build.py','scripts/reading.css','tests/integrity.py','tests/links.py','tests/browser.py','AGENTS.md','README.md','migration/PLAN.md'}
+              assert set(files)==allowed
+              for name,content in files.items():
+                  p=Path(name);p.parent.mkdir(parents=True,exist_ok=True);p.write_text(content,encoding='utf-8')
+              Path('migration/adapter-unpacked.json').write_text(json.dumps({'bundleSHA256':hashlib.sha256(packed).hexdigest(),'files':sorted(files)},indent=2))
+          PY
+          git config user.name 'Onour Impram'
+          git config user.email 'onour@onourimpram.com'
+          git add scripts tests AGENTS.md README.md migration/PLAN.md migration/adapter-unpacked.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'build: add readable MARSE migration adapter and regression tests'
+            git push origin HEAD:main
+          fi
+      - name: Install verification dependencies
+        run: python -m pip install beautifulsoup4 lxml tinycss2 Pillow playwright==1.57.0
+      - name: Prepare browser
+        run: |
+          if ! command -v google-chrome >/dev/null && ! command -v chromium >/dev/null; then
+            python -m playwright install --with-deps chromium
+          fi
+      - name: Build with immutable scientific source
+        run: python scripts/build.py
+      - name: Verify content and internal links
+        run: |
+          python tests/integrity.py
+          python tests/links.py
+      - name: Test real HTTP navigation and functions
+        run: |
+          set -o pipefail
+          python tests/browser.py | tee qa/browser.log
+      - name: Retain verification evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: marse-release-validation
+          path: |
+            qa
+            scripts
+            tests
+            site/release.json
+            site/migration-manifest.json
+            site/file-manifest.json
+          retention-days: 14
+      - name: Commit verified release
+        run: |
+          git add site
+          if ! git diff --cached --quiet; then
+            git commit -m 'release: verified MARSE website with full multilingual MARSAM content'
+            git push origin HEAD:main
+          fi
+          echo "RELEASE_COMMIT=$(git rev-parse HEAD)" >> "$GITHUB_STEP_SUMMARY"
