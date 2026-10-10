@@ -1,0 +1,66 @@
+name: Import approved MARSE design and MARSAM source
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/import-source.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: marse-initial-import
+  cancel-in-progress: false
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Import exact source and approved design
+        env:
+          SOURCE_SHA: d5e75021eed775f01005f7df293b845c9aae0514
+        run: |
+          set -euo pipefail
+          if [ -f migration/source-lock.json ]; then
+            echo 'Source has already been imported; keeping the locked snapshot.'
+          else
+            git clone --no-checkout https://github.com/OnourImpram/MARSAM.git /tmp/marsam-source
+            git -C /tmp/marsam-source cat-file -e "$SOURCE_SHA^{commit}"
+            mkdir -p upstream/marsam design migration
+            git -C /tmp/marsam-source archive "$SOURCE_SHA" | tar -x -C upstream/marsam
+            curl --fail --location --retry 3 'https://d2ol7oe51mr4n9.cloudfront.net/user_3FHXMzmYOMhrB69Nxyq64aqpoKU/ee7b0fcc-b97f-4e39-8f62-2c58307af294.html' -o design/approved-tr-iapos.html
+            echo 'e4717c0f224ca1cb20b0b336b5047d86ac62614709cc048a44462b7fbef02e83  design/approved-tr-iapos.html' | sha256sum --check
+            python3 - <<'PY'
+          import pathlib,hashlib,json
+          root=pathlib.Path('upstream/marsam')
+          files=[{'path':p.relative_to(root).as_posix(),'bytes':p.stat().st_size,'sha256':hashlib.sha256(p.read_bytes()).hexdigest()} for p in sorted(root.rglob('*')) if p.is_file()]
+          pathlib.Path('migration/source-lock.json').write_text(json.dumps({'repository':'OnourImpram/MARSAM','commit':'d5e75021eed775f01005f7df293b845c9aae0514','approvedDesignSHA256':'e4717c0f224ca1cb20b0b336b5047d86ac62614709cc048a44462b7fbef02e83','files':files},ensure_ascii=False,indent=2))
+          print('Imported tracked files:',len(files))
+          PY
+            git config user.name 'Onour Impram'
+            git config user.email 'onour@onourimpram.com'
+            git add upstream design migration
+            git commit -m 'content: preserve complete MARSAM snapshot and approved Turkish IAPOS template'
+            git push origin HEAD:main
+          fi
+      - name: Build source pages for migration audit
+        run: |
+          cd upstream/marsam
+          node scripts/build.mjs
+      - name: Package review input
+        uses: actions/upload-artifact@v4
+        with:
+          name: marse-migration-input
+          path: |
+            upstream/marsam
+            design
+            migration
+          include-hidden-files: true
+          retention-days: 7
+      - name: Check Pages setup
+        continue-on-error: true
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
