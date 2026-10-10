@@ -1,0 +1,13 @@
+{
+  "bundleSHA256": "a97becc35718e323057d439e06b81a5532913668d078695cac056cfac710fdfa",
+  "files": [
+    "AGENTS.md",
+    "README.md",
+    "migration/PLAN.md",
+    "scripts/build.py",
+    "scripts/reading.css",
+    "tests/browser.py",
+    "tests/integrity.py",
+    "tests/links.py"
+  ]
+}
